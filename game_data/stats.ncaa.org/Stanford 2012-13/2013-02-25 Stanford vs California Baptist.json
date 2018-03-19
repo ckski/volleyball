@@ -1,0 +1,1726 @@
+{
+  "source": "stats.ncaa.org",
+  "date": "2013-02-25",
+  "id": "stats.ncaa.org/game/1731512",
+  "sets": {
+    "1": {
+      "events": [
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Cabral, Levi",
+            "Anderson, Brett"
+          ],
+          "server": "Haly, Spencer"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Mochalski, Eric",
+            "Shaw, James"
+          ],
+          "server": "Anderson, Brett"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvin, Steven"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kneller, Jake",
+            "Shaw, James"
+          ],
+          "server": "Cabral, Levi"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Kneller, Jake"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Lugo-Rodriguez, Amir"
+          ],
+          "server": "Waber, Jon"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvin, Steven",
+            [
+              "Anderson, Brett",
+              "Lugo-Rodriguez, Amir"
+            ]
+          ],
+          "server": "McCalmont, Aaron"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Koepp, Guilherme",
+            "Anderson, Brett"
+          ],
+          "server": "McCalmont, Aaron"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Koepp, Guilherme",
+            "Anderson, Brett"
+          ],
+          "server": "McCalmont, Aaron"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "McCalmont, Aaron"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Koepp, Guilherme",
+            "Anderson, Brett"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "SERVICE_ACE",
+            "Cook, Brian"
+          ],
+          "server": "Koepp, Guilherme"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Koepp, Guilherme"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "McCalmont, Aaron",
+            "Anderson, Brett"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Cabral, Levi"
+          ],
+          "server": "Lugo-Rodriguez, Amir"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "ATTACK_ERROR",
+            "Cook, Brian"
+          ],
+          "server": "Haly, Spencer"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Mochalski, Eric",
+            "Shaw, James"
+          ],
+          "server": "Anderson, Brett"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Cabral, Levi",
+            "Anderson, Brett"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "ATTACK_ERROR",
+            "Kneller, Jake",
+            [
+              "McCalmont, Aaron",
+              "Waber, Jon"
+            ]
+          ],
+          "server": "Cabral, Levi"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "California Baptist",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvin, Steven"
+          ],
+          "server": "Cabral, Levi"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Cabral, Levi"
+          ],
+          "server": "Cabral, Levi"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Kneller, Jake"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "BHE",
+            "Anderson, Brett"
+          ],
+          "server": "Waber, Jon"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Koepp, Guilherme",
+            "Anderson, Brett"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "McCalmont, Aaron"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Lugo-Rodriguez, Amir",
+            "Anderson, Brett"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Haly, Spencer",
+            "Shaw, James"
+          ],
+          "server": "Koepp, Guilherme"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ACE",
+            "Cate, Michael"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "ATTACK_ERROR",
+            "Kneller, Jake"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "BAD_SET",
+            "Cabral, Levi"
+          ],
+          "server": "Lugo-Rodriguez, Amir"
+        },
+        [
+          "SUB",
+          "Stanford subs: Hayden, Madison."
+        ],
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Cabral, Levi",
+            "Anderson, Brett"
+          ],
+          "server": "Hayden, Madison"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Anderson, Brett"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kneller, Jake"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ],
+          "server": "Cook, Brian"
+        },
+        [
+          "TIMEOUT",
+          "Timeout California Baptist."
+        ],
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Koepp, Guilherme",
+            "Anderson, Brett"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Cabral, Levi"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Kneller, Jake"
+        },
+        [
+          "SUB",
+          "California Baptist subs: DeLyon, Rocky."
+        ],
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Koepp, Guilherme",
+            "Cabral, Levi"
+          ],
+          "server": "DeLyon, Rocky"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "DeLyon, Rocky"
+          ],
+          "server": "DeLyon, Rocky"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "McCalmont, Aaron",
+            "Anderson, Brett"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "ATTACK_ERROR",
+            "Cook, Brian"
+          ],
+          "server": "McCalmont, Aaron"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "McCalmont, Aaron"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Koepp, Guilherme",
+            "Anderson, Brett",
+            "Cook, Brian"
+          ],
+          "server": "Shaw, James"
+        }
+      ],
+      "starters": {
+        "California Baptist": [
+          "Koepp, Guilherme",
+          "Lugo-Rodriguez, Amir",
+          "Waber, Jon",
+          "Cabral, Levi",
+          "Anderson, Brett",
+          "McCalmont, Aaron",
+          "Cate, Michael"
+        ],
+        "Stanford": [
+          "Kneller, Jake",
+          "Shaw, James",
+          "Cook, Brian",
+          "Irvin, Steven",
+          "Mochalski, Eric",
+          "Haly, Spencer",
+          "Delgado, Grant"
+        ]
+      }
+    },
+    "2": {
+      "events": [
+        {
+          "point": "California Baptist",
+          "event": [
+            "SERVICE_ACE",
+            "Team"
+          ],
+          "server": "Cabral, Levi"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Cabral, Levi"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvin, Steven",
+            [
+              "McCalmont, Aaron",
+              "Waber, Jon",
+              "Koepp, Guilherme"
+            ]
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "McCalmont, Aaron, block error by Shaw, James"
+          ],
+          "server": "Waber, Jon"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "SERVICE_ACE",
+            "Irvin, Steven"
+          ],
+          "server": "Waber, Jon"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Mochalski, Eric",
+            "Shaw, James"
+          ],
+          "server": "Waber, Jon"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Koepp, Guilherme",
+            "Anderson, Brett"
+          ],
+          "server": "Kneller, Jake"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "McCalmont, Aaron"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "BAD_SET",
+            "Anderson, Brett"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        [
+          "YELLOW_CARD",
+          "California Baptist",
+          "Cabral, Levi",
+          true
+        ],
+        [
+          "SUB",
+          "Stanford subs: Mochalski, Eric."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Koepp, Guilherme"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "McCalmont, Aaron"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        [
+          "TIMEOUT",
+          "Timeout California Baptist."
+        ],
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Lugo-Rodriguez, Amir",
+            "Anderson, Brett"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvin, Steven",
+            [
+              "Cabral, Levi"
+            ]
+          ],
+          "server": "Koepp, Guilherme"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvin, Steven"
+          ],
+          "server": "Koepp, Guilherme"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Koepp, Guilherme"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Lugo-Rodriguez, Amir",
+            "Anderson, Brett"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "Lugo-Rodriguez, Amir"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ACE",
+            "Cate, Michael"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Waber, Jon"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ACE",
+            "Koepp, Guilherme"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ACE",
+            "Koepp, Guilherme"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Cabral, Levi",
+            "Anderson, Brett"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Falls, Denny",
+            "Shaw, James"
+          ],
+          "server": "Anderson, Brett"
+        },
+        [
+          "SUB",
+          "Stanford subs: Hayden, Madison."
+        ],
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Cabral, Levi",
+            "Anderson, Brett"
+          ],
+          "server": "Hayden, Madison"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Mochalski, Eric",
+            "Shaw, James"
+          ],
+          "server": "Cabral, Levi"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Koepp, Guilherme",
+            "Anderson, Brett"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Waber, Jon"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "McCalmont, Aaron",
+            "Anderson, Brett"
+          ],
+          "server": "Kneller, Jake"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "McCalmont, Aaron"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James",
+            "Mochalski, Eric"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "Koepp, Guilherme"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Lugo-Rodriguez, Amir"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "McCalmont, Aaron",
+            "Anderson, Brett"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Falls, Denny",
+            "Shaw, James"
+          ],
+          "server": "Anderson, Brett"
+        },
+        [
+          "SUB",
+          "Stanford subs: Vega, Gabriel."
+        ],
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Cabral, Levi",
+            "Anderson, Brett"
+          ],
+          "server": "Falls, Denny"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Irvin, Steven"
+          ],
+          "server": "Cabral, Levi"
+        },
+        [
+          "TIMEOUT",
+          "Timeout California Baptist."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "BAD_SET",
+            "Cabral, Levi"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "McCalmont, Aaron",
+            "Anderson, Brett"
+          ],
+          "server": "Cook, Brian"
+        },
+        [
+          "SUB",
+          "California Baptist subs: DeLyon, Rocky."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Koepp, Guilherme"
+          ],
+          "server": "DeLyon, Rocky"
+        }
+      ],
+      "starters": {
+        "California Baptist": [
+          "Lugo-Rodriguez, Amir",
+          "Anderson, Brett",
+          "McCalmont, Aaron",
+          "Cabral, Levi",
+          "Waber, Jon",
+          "Koepp, Guilherme",
+          "Cate, Michael"
+        ],
+        "Stanford": [
+          "Irvin, Steven",
+          "Kneller, Jake",
+          "Shaw, James",
+          "Falls, Denny",
+          "Cook, Brian",
+          "Mochalski, Eric",
+          "Delgado, Grant"
+        ]
+      }
+    },
+    "3": {
+      "events": [
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "McCalmont, Aaron"
+          ],
+          "server": "Falls, Denny"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ACE",
+            "Koepp, Guilherme"
+          ],
+          "server": "Falls, Denny"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Cabral, Levi",
+            "Anderson, Brett"
+          ],
+          "server": "Falls, Denny"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Mochalski, Eric",
+            "Shaw, James"
+          ],
+          "server": "Anderson, Brett"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Waber, Jon",
+            "Anderson, Brett"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Anderson, Brett"
+          ],
+          "server": "Cabral, Levi"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "McCalmont, Aaron",
+            "Anderson, Brett"
+          ],
+          "server": "Kneller, Jake"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Waber, Jon"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "ATTACK_ERROR",
+            "Cook, Brian"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "McCalmont, Aaron"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Koepp, Guilherme"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Lugo-Rodriguez, Amir",
+            "Anderson, Brett"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Koepp, Guilherme"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "McCalmont, Aaron"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Lugo-Rodriguez, Amir",
+            "Anderson, Brett"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Lugo-Rodriguez, Amir"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Cabral, Levi",
+            "Anderson, Brett"
+          ],
+          "server": "Falls, Denny"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Koepp, Guilherme"
+          ],
+          "server": "Anderson, Brett"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Cabral, Levi",
+            "Anderson, Brett"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kneller, Jake",
+            "Shaw, James"
+          ],
+          "server": "Cabral, Levi"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Kneller, Jake"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Waber, Jon"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvin, Steven"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvin, Steven",
+            [
+              "McCalmont, Aaron",
+              "Lugo-Rodriguez, Amir"
+            ]
+          ],
+          "server": "McCalmont, Aaron"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Koepp, Guilherme"
+          ],
+          "server": "McCalmont, Aaron"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "ATTACK_ERROR",
+            "Cook, Brian"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Delgado, Grant"
+          ],
+          "server": "Koepp, Guilherme"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Cabral, Levi",
+            "Anderson, Brett"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Falls, Denny",
+            "Shaw, James"
+          ],
+          "server": "Lugo-Rodriguez, Amir"
+        },
+        [
+          "SUB",
+          "Stanford subs: Hayden, Madison."
+        ],
+        {
+          "point": "California Baptist",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Hayden, Madison"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "SERVICE_ACE",
+            "Cook, Brian"
+          ],
+          "server": "Anderson, Brett"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Anderson, Brett"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Cabral, Levi"
+          ],
+          "server": "Cook, Brian"
+        },
+        [
+          "TIMEOUT",
+          "Timeout California Baptist."
+        ],
+        {
+          "point": "California Baptist",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "SERVICE_ACE",
+            "Team"
+          ],
+          "server": "Cabral, Levi"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "Cabral, Levi"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "McCalmont, Aaron",
+            "Anderson, Brett"
+          ],
+          "server": "Kneller, Jake"
+        },
+        [
+          "SUB",
+          "California Baptist subs: DeLyon, Rocky."
+        ],
+        {
+          "point": "California Baptist",
+          "event": [
+            "BAD_SET",
+            "Shaw, James"
+          ],
+          "server": "DeLyon, Rocky"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "DeLyon, Rocky"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Falls, Denny",
+            "Shaw, James"
+          ],
+          "server": "McCalmont, Aaron"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Koepp, Guilherme",
+            "Anderson, Brett"
+          ],
+          "server": "Shaw, James"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Koepp, Guilherme"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "Irvin, Steven"
+        },
+        [
+          "TIMEOUT",
+          "Timeout California Baptist."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ],
+          "server": "Irvin, Steven"
+        }
+      ],
+      "starters": {
+        "California Baptist": [
+          "Lugo-Rodriguez, Amir",
+          "Waber, Jon",
+          "Anderson, Brett",
+          "Koepp, Guilherme",
+          "Cabral, Levi",
+          "McCalmont, Aaron",
+          "Cate, Michael"
+        ],
+        "Stanford": [
+          "Falls, Denny",
+          "Kneller, Jake",
+          "Irvin, Steven",
+          "Shaw, James",
+          "Cook, Brian",
+          "Mochalski, Eric",
+          "Delgado, Grant"
+        ]
+      }
+    },
+    "4": {
+      "events": [
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Anderson, Brett"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "McCalmont, Aaron",
+            [
+              "Shaw, James",
+              "Mochalski, Eric"
+            ]
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Cabral, Levi",
+            "Anderson, Brett"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Mochalski, Eric",
+            "Shaw, James"
+          ],
+          "server": "Cabral, Levi"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Cabral, Levi",
+            "Anderson, Brett"
+          ],
+          "server": "Kneller, Jake"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James",
+            "McCalmont, Aaron"
+          ],
+          "server": "Waber, Jon"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Cabral, Levi",
+            "Anderson, Brett"
+          ],
+          "server": "McCalmont, Aaron"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvin, Steven"
+          ],
+          "server": "McCalmont, Aaron"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Koepp, Guilherme",
+            "Anderson, Brett"
+          ],
+          "server": "McCalmont, Aaron"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Koepp, Guilherme"
+          ],
+          "server": "McCalmont, Aaron"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "McCalmont, Aaron"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Koepp, Guilherme"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Cabral, Levi",
+            "Anderson, Brett"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Lugo-Rodriguez, Amir"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Cabral, Levi",
+            "Anderson, Brett"
+          ],
+          "server": "Falls, Denny"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Mochalski, Eric",
+            "Shaw, James"
+          ],
+          "server": "Anderson, Brett"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Cabral, Levi",
+            "Anderson, Brett"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Koepp, Guilherme",
+            "Anderson, Brett"
+          ],
+          "server": "Cabral, Levi"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Cabral, Levi"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "McCalmont, Aaron",
+            "Anderson, Brett"
+          ],
+          "server": "Kneller, Jake"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Mochalski, Eric",
+            "Shaw, James"
+          ],
+          "server": "Waber, Jon"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "McCalmont, Aaron"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Lugo-Rodriguez, Amir"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Falls, Denny",
+            "Shaw, James"
+          ],
+          "server": "Koepp, Guilherme"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Cabral, Levi",
+            "Anderson, Brett"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Falls, Denny",
+            "Shaw, James"
+          ],
+          "server": "Lugo-Rodriguez, Amir"
+        },
+        [
+          "SUB",
+          "Stanford subs: Hayden, Madison."
+        ],
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Cabral, Levi",
+            "Anderson, Brett"
+          ],
+          "server": "Hayden, Madison"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Anderson, Brett"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Cabral, Levi",
+            "Anderson, Brett"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Mochalski, Eric",
+            "Shaw, James"
+          ],
+          "server": "Cabral, Levi"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Waber, Jon"
+          ],
+          "server": "Kneller, Jake"
+        },
+        [
+          "TIMEOUT",
+          "Timeout California Baptist."
+        ],
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "McCalmont, Aaron",
+            "Anderson, Brett"
+          ],
+          "server": "Kneller, Jake"
+        },
+        [
+          "SUB",
+          "California Baptist subs: DeLyon, Rocky."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Lugo-Rodriguez, Amir"
+          ],
+          "server": "DeLyon, Rocky"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "McCalmont, Aaron",
+            [
+              "Irvin, Steven"
+            ]
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Koepp, Guilherme",
+            "Anderson, Brett"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Falls, Denny",
+            "Shaw, James"
+          ],
+          "server": "McCalmont, Aaron"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "KILL",
+            "Koepp, Guilherme",
+            "Anderson, Brett"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Koepp, Guilherme"
+        },
+        {
+          "point": "California Baptist",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Falls, Denny",
+            "Shaw, James"
+          ],
+          "server": "Lugo-Rodriguez, Amir"
+        }
+      ],
+      "starters": {
+        "California Baptist": [
+          "Lugo-Rodriguez, Amir",
+          "Koepp, Guilherme",
+          "Cabral, Levi",
+          "McCalmont, Aaron",
+          "Waber, Jon",
+          "Anderson, Brett",
+          "Cate, Michael"
+        ],
+        "Stanford": [
+          "Shaw, James",
+          "Cook, Brian",
+          "Mochalski, Eric",
+          "Falls, Denny",
+          "Irvin, Steven",
+          "Kneller, Jake",
+          "Delgado, Grant"
+        ]
+      }
+    }
+  },
+  "teams": [
+    [
+      "stats.ncaa.org/79751",
+      "Stanford"
+    ],
+    [
+      "stats.ncaa.org/79765",
+      "California Baptist"
+    ]
+  ]
+}

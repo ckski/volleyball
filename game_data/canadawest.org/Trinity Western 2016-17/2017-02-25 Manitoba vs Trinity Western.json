@@ -1,0 +1,1691 @@
+{
+  "teams": [
+    [
+      "canadawest.org:team/ijdtf6y9xus4vfqp",
+      "Manitoba"
+    ],
+    [
+      "canadawest.org:team/dtjw1qxi3rsm18q9",
+      "Trinity Western"
+    ]
+  ],
+  "source": "canadawest.org",
+  "id": "canadawest.org:game/20170225_0gcc",
+  "date": "2017-02-25",
+  "sets": {
+    "1": {
+      "starters": {
+        "MAN": [
+          "Luke Herr",
+          "Devren Dear",
+          "Evan Jackson",
+          "Adam DeJonckheere",
+          "Dustin Spiring",
+          "Ken Rooney",
+          "Kevin Falconer"
+        ],
+        "TWU": [
+          "Blake Scheerhoorn",
+          "Ryan Sclater",
+          "Scott Plocktis",
+          "Leigh Goossen",
+          "Adam Schriemer",
+          "Aaron Boettcher",
+          "Carter Bergen"
+        ]
+      },
+      "events": [
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Dustin Spiring",
+            "Luke Herr"
+          ],
+          "server": "Adam DeJonckheere"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Scott Plocktis"
+          ],
+          "server": "Adam DeJonckheere"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater"
+          ],
+          "server": "Leigh Goossen"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Leigh Goossen"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Dustin Spiring"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Evan Jackson",
+            "Devren Dear"
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater"
+          ],
+          "server": "Devren Dear"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "SERVICE_ACE",
+            "Carter Bergen"
+          ],
+          "server": "Devren Dear"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Devren Dear"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Ryan Sclater"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Ryan Sclater"
+          ],
+          "server": "Evan Jackson"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Aaron Boettcher"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Ken Rooney"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Adam Schriemer",
+            "Leigh Goossen"
+          ],
+          "server": "Scott Plocktis"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Evan Jackson",
+            "Luke Herr"
+          ],
+          "server": "Scott Plocktis"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "SERVICE_ACE",
+            "Ryan Sclater"
+          ],
+          "server": "Luke Herr"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Luke Herr"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Devren Dear"
+          ],
+          "server": "Blake Scheerhoorn"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Devren Dear",
+            "Kevin Falconer"
+          ],
+          "server": "Blake Scheerhoorn"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Adam Schriemer"
+          ],
+          "server": "Adam DeJonckheere"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Evan Jackson",
+            [
+              "Adam Schriemer",
+              "Aaron Boettcher"
+            ]
+          ],
+          "server": "Leigh Goossen"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Devren Dear",
+            "Luke Herr"
+          ],
+          "server": "Leigh Goossen"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Dustin Spiring"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Devren Dear",
+            "Luke Herr"
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater",
+            [
+              "Ken Rooney",
+              "Evan Jackson"
+            ]
+          ],
+          "server": "Devren Dear"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Adam Schriemer"
+          ],
+          "server": "Devren Dear"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Ken Rooney",
+            "Luke Herr"
+          ],
+          "server": "Ryan Sclater"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Ken Rooney"
+          ],
+          "server": "Evan Jackson"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ACE",
+            "Evan Jackson"
+          ],
+          "server": "Aaron Boettcher"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Devren Dear",
+            "Luke Herr"
+          ],
+          "server": "Aaron Boettcher"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Scott Plocktis",
+            "Adam Schriemer"
+          ],
+          "server": "Ken Rooney"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Manitoba."
+        ],
+        [
+          "SUB",
+          "TWU subs: Ben Lieuwen."
+        ],
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Adam DeJonckheere",
+            "Luke Herr"
+          ],
+          "server": "Ben Lieuwen"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Luke Herr"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Adam DeJonckheere",
+            "Luke Herr"
+          ],
+          "server": "Blake Scheerhoorn"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Adam DeJonckheere"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ACE",
+            "Kevin Falconer"
+          ],
+          "server": "Leigh Goossen"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Leigh Goossen"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Manitoba."
+        ],
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Adam Schriemer"
+          ],
+          "server": "Leigh Goossen"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Manitoba."
+        ],
+        [
+          "SUB",
+          "MAN subs: Caleb Hickok."
+        ],
+        {
+          "point": "MAN",
+          "event": [
+            "ATTACK_ERROR",
+            "Aaron Boettcher"
+          ],
+          "server": "Caleb Hickok"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Caleb Hickok"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Evan Jackson",
+            "Luke Herr"
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Evan Jackson",
+            [
+              "Aaron Boettcher",
+              "Ryan Sclater"
+            ]
+          ],
+          "server": "Devren Dear"
+        },
+        [
+          "SUB",
+          "TWU subs: Scott Plocktis."
+        ],
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Aaron Boettcher"
+          ],
+          "server": "Ryan Sclater"
+        },
+        [
+          "YELLOW_CARD",
+          "MAN",
+          9,
+          false
+        ],
+        {
+          "point": "MAN",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Ryan Sclater"
+        },
+        [
+          "SUB",
+          "MAN subs: Scott Vercaigne."
+        ],
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Evan Jackson"
+        }
+      ]
+    },
+    "2": {
+      "starters": {
+        "MAN": [
+          "Adam DeJonckheere",
+          "Luke Herr",
+          "Ken Rooney",
+          "Devren Dear",
+          "Dustin Spiring",
+          "Evan Jackson",
+          "Kevin Falconer"
+        ],
+        "TWU": [
+          "Ryan Sclater",
+          "Adam Schriemer",
+          "Scott Plocktis",
+          "Aaron Boettcher",
+          "Leigh Goossen",
+          "Blake Scheerhoorn",
+          "Carter Bergen"
+        ]
+      },
+      "events": [
+        {
+          "point": "MAN",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Blake Scheerhoorn"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Adam DeJonckheere",
+            "Luke Herr"
+          ],
+          "server": "Leigh Goossen"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Luke Herr"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Dustin Spiring",
+            [
+              "Ryan Sclater"
+            ]
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Devren Dear",
+            [
+              "Scott Plocktis",
+              "Aaron Boettcher"
+            ]
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Adam DeJonckheere",
+            "Luke Herr"
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "ATTACK_ERROR",
+            "Scott Plocktis",
+            [
+              "Dustin Spiring",
+              "Devren Dear"
+            ]
+          ],
+          "server": "Adam DeJonckheere"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Adam DeJonckheere"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Evan Jackson"
+          ],
+          "server": "Ryan Sclater"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Ryan Sclater"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Manitoba."
+        ],
+        {
+          "point": "MAN",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Ryan Sclater"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "ATTACK_ERROR",
+            "Aaron Boettcher"
+          ],
+          "server": "Dustin Spiring"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Adam Schriemer"
+          ],
+          "server": "Dustin Spiring"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Aaron Boettcher"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Devren Dear"
+          ],
+          "server": "Devren Dear"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "ATTACK_ERROR",
+            "Scott Plocktis",
+            [
+              "Dustin Spiring",
+              "Evan Jackson"
+            ]
+          ],
+          "server": "Devren Dear"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Devren Dear",
+            [
+              "Blake Scheerhoorn",
+              "Leigh Goossen"
+            ]
+          ],
+          "server": "Devren Dear"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Ken Rooney",
+            "Luke Herr"
+          ],
+          "server": "Scott Plocktis"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Evan Jackson"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater"
+          ],
+          "server": "Blake Scheerhoorn"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Ken Rooney"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ],
+          "server": "Leigh Goossen"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Leigh Goossen"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Luke Herr"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Dustin Spiring",
+            "Luke Herr"
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater"
+          ],
+          "server": "Adam DeJonckheere"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Evan Jackson",
+            "Luke Herr"
+          ],
+          "server": "Adam DeJonckheere"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Manitoba."
+        ],
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Dustin Spiring"
+          ],
+          "server": "Adam DeJonckheere"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Adam DeJonckheere"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "ATTACK_ERROR",
+            "Carter Bergen"
+          ],
+          "server": "Ryan Sclater"
+        },
+        [
+          "SUB",
+          "MAN subs: Caleb Hickok."
+        ],
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Evan Jackson"
+          ],
+          "server": "Caleb Hickok"
+        },
+        [
+          "SUB",
+          "MAN subs: Dustin Spiring."
+        ],
+        {
+          "point": "MAN",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Aaron Boettcher"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Scott Plocktis",
+            "Adam Schriemer"
+          ],
+          "server": "Devren Dear"
+        },
+        [
+          "SUB",
+          "TWU subs: Ben Lieuwen."
+        ],
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Ben Lieuwen"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "ATTACK_ERROR",
+            "Blake Scheerhoorn",
+            [
+              "Ken Rooney",
+              "Luke Herr"
+            ]
+          ],
+          "server": "Ben Lieuwen"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Evan Jackson"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Ken Rooney",
+            "Luke Herr"
+          ],
+          "server": "Blake Scheerhoorn"
+        },
+        [
+          "SUB",
+          "MAN subs: Scott Vercaigne."
+        ],
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Adam Schriemer",
+            "Carter Bergen"
+          ],
+          "server": "Ken Rooney"
+        },
+        [
+          "SUB",
+          "MAN subs: Luke Herr."
+        ],
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Adam DeJonckheere",
+            [
+              "Adam Schriemer",
+              "Aaron Boettcher"
+            ]
+          ],
+          "server": "Leigh Goossen"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Manitoba."
+        ],
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Dustin Spiring",
+            "Luke Herr"
+          ],
+          "server": "Leigh Goossen"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "SERVICE_ACE",
+            "Ben Lieuwen"
+          ],
+          "server": "Luke Herr"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        {
+          "point": "MAN",
+          "event": [
+            "SERVICE_ACE",
+            "Ryan Sclater"
+          ],
+          "server": "Luke Herr"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Luke Herr"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Devren Dear",
+            "Luke Herr"
+          ],
+          "server": "Adam Schriemer"
+        }
+      ]
+    },
+    "3": {
+      "starters": {
+        "MAN": [
+          "Devren Dear",
+          "Evan Jackson",
+          "Luke Herr",
+          "Dustin Spiring",
+          "Adam DeJonckheere",
+          "Ken Rooney",
+          "Kevin Falconer"
+        ],
+        "TWU": [
+          "Aaron Boettcher",
+          "Adam Schriemer",
+          "Leigh Goossen",
+          "Scott Plocktis",
+          "Ryan Sclater",
+          "Blake Scheerhoorn",
+          "Carter Bergen"
+        ]
+      },
+      "events": [
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Devren Dear"
+          ],
+          "server": "Evan Jackson"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "BAD_SET",
+            "Luke Herr"
+          ],
+          "server": "Leigh Goossen"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Evan Jackson",
+            "Luke Herr"
+          ],
+          "server": "Leigh Goossen"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Adam DeJonckheere",
+            [
+              "Aaron Boettcher",
+              "Adam Schriemer"
+            ]
+          ],
+          "server": "Ken Rooney"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Adam DeJonckheere",
+            "Luke Herr"
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Scott Plocktis",
+            "Adam Schriemer"
+          ],
+          "server": "Luke Herr"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "SERVICE_ACE",
+            ""
+          ],
+          "server": "Ryan Sclater"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Evan Jackson",
+            "Luke Herr"
+          ],
+          "server": "Ryan Sclater"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "ATTACK_ERROR",
+            "Scott Plocktis",
+            [
+              "Evan Jackson",
+              "Dustin Spiring"
+            ]
+          ],
+          "server": "Adam DeJonckheere"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Devren Dear"
+          ],
+          "server": "Adam DeJonckheere"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "ATTACK_ERROR",
+            "Scott Plocktis",
+            [
+              "Evan Jackson",
+              "Dustin Spiring"
+            ]
+          ],
+          "server": "Adam DeJonckheere"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Evan Jackson"
+          ],
+          "server": "Adam DeJonckheere"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Adam Schriemer"
+          ],
+          "server": "Adam DeJonckheere"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Devren Dear",
+            "Luke Herr"
+          ],
+          "server": "Aaron Boettcher"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Leigh Goossen",
+            "Adam Schriemer"
+          ],
+          "server": "Dustin Spiring"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ACE",
+            "Team"
+          ],
+          "server": "Scott Plocktis"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Ken Rooney"
+          ],
+          "server": "Scott Plocktis"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Evan Jackson",
+            [
+              "Adam Schriemer",
+              "Leigh Goossen"
+            ]
+          ],
+          "server": "Scott Plocktis"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Manitoba."
+        ],
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Ken Rooney",
+            [
+              "Leigh Goossen"
+            ]
+          ],
+          "server": "Scott Plocktis"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Carter Bergen"
+          ],
+          "server": "Scott Plocktis"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Leigh Goossen",
+            "Adam Schriemer"
+          ],
+          "server": "Scott Plocktis"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Manitoba."
+        ],
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Devren Dear",
+            "Luke Herr"
+          ],
+          "server": "Scott Plocktis"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Devren Dear"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ACE",
+            "Kevin Falconer"
+          ],
+          "server": "Blake Scheerhoorn"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Blake Scheerhoorn"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Manitoba."
+        ],
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Ken Rooney",
+            "Luke Herr"
+          ],
+          "server": "Blake Scheerhoorn"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "ATTACK_ERROR",
+            "Blake Scheerhoorn"
+          ],
+          "server": "Evan Jackson"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "BAD_SET",
+            "Leigh Goossen"
+          ],
+          "server": "Evan Jackson"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Adam Schriemer"
+          ],
+          "server": "Evan Jackson"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Adam DeJonckheere",
+            "Luke Herr"
+          ],
+          "server": "Leigh Goossen"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Scott Plocktis",
+            "Adam Schriemer"
+          ],
+          "server": "Ken Rooney"
+        },
+        [
+          "SUB",
+          "MAN subs: Alex Strachan."
+        ],
+        {
+          "point": "MAN",
+          "event": [
+            "SERVICE_ACE",
+            ""
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "SERVICE_ACE",
+            ""
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Luke Herr"
+          ],
+          "server": "Adam Schriemer"
+        },
+        [
+          "SUB",
+          "MAN subs: Caleb Konrad; Scott Vercaigne."
+        ],
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Dustin Spiring",
+            "Scott Vercaigne"
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Scott Vercaigne"
+          ],
+          "server": "Caleb Konrad"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Dustin Spiring",
+            [
+              "Aaron Boettcher"
+            ]
+          ],
+          "server": "Ryan Sclater"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn"
+          ],
+          "server": "Ryan Sclater"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ACE",
+            "Adam DeJonckheere"
+          ],
+          "server": "Ryan Sclater"
+        }
+      ]
+    },
+    "4": {
+      "starters": {
+        "MAN": [
+          "Scott Vercaigne",
+          "Evan Jackson",
+          "Adam DeJonckheere",
+          "Luke Herr",
+          "Ken Rooney",
+          "Dustin Spiring",
+          "Alex Strachan"
+        ],
+        "TWU": [
+          "Blake Scheerhoorn",
+          "Scott Plocktis",
+          "Leigh Goossen",
+          "Adam Schriemer",
+          "Ryan Sclater",
+          "Aaron Boettcher",
+          "Carter Bergen"
+        ]
+      },
+      "events": [
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Adam DeJonckheere",
+            "Luke Herr"
+          ],
+          "server": "Blake Scheerhoorn"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "BAD_SET",
+            "Adam Schriemer"
+          ],
+          "server": "Ken Rooney"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Adam Schriemer",
+            "Carter Bergen"
+          ],
+          "server": "Ken Rooney"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ACE",
+            "Team"
+          ],
+          "server": "Leigh Goossen"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ],
+          "server": "Leigh Goossen"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Leigh Goossen"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Luke Herr"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Adam DeJonckheere"
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Aaron Boettcher"
+          ],
+          "server": "Adam Schriemer"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Manitoba."
+        ],
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Scott Plocktis",
+            "Ryan Sclater"
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Scott Vercaigne",
+            [
+              "Scott Plocktis",
+              "Aaron Boettcher"
+            ]
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Evan Jackson"
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Blake Scheerhoorn"
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ACE",
+            "Team"
+          ],
+          "server": "Adam Schriemer"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Manitoba."
+        ],
+        {
+          "point": "MAN",
+          "event": [
+            "ATTACK_ERROR",
+            "Scott Plocktis"
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Adam Schriemer"
+          ],
+          "server": "Adam DeJonckheere"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Evan Jackson",
+            [
+              "Scott Plocktis",
+              "Aaron Boettcher"
+            ]
+          ],
+          "server": "Ryan Sclater"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Scott Vercaigne"
+          ],
+          "server": "Ryan Sclater"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Scott Plocktis"
+          ],
+          "server": "Ryan Sclater"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Adam DeJonckheere",
+            "Luke Herr"
+          ],
+          "server": "Ryan Sclater"
+        },
+        [
+          "SUB",
+          "MAN subs: Caleb Hickok."
+        ],
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Scott Plocktis",
+            "Adam Schriemer"
+          ],
+          "server": "Caleb Hickok"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Manitoba."
+        ],
+        {
+          "point": "MAN",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Aaron Boettcher"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Scott Vercaigne"
+        },
+        [
+          "SUB",
+          "MAN subs: Caleb Konrad."
+        ],
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Ken Rooney"
+          ],
+          "server": "Scott Plocktis"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Ken Rooney"
+          ],
+          "server": "Scott Plocktis"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "ATTACK_ERROR",
+            "Scott Plocktis"
+          ],
+          "server": "Evan Jackson"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater",
+            [
+              "Ken Rooney",
+              "Caleb Konrad"
+            ]
+          ],
+          "server": "Evan Jackson"
+        },
+        [
+          "SUB",
+          "MAN subs: Kevin Falconer."
+        ],
+        {
+          "point": "MAN",
+          "event": [
+            "ATTACK_ERROR",
+            "Leigh Goossen"
+          ],
+          "server": "Kevin Falconer"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Kevin Falconer"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Blake Scheerhoorn"
+        },
+        [
+          "SUB",
+          "MAN subs: Dustin Spiring."
+        ],
+        [
+          "SUB",
+          "TWU subs: Mark Antoniuk."
+        ],
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Leigh Goossen",
+            "Adam Schriemer"
+          ],
+          "server": "Ken Rooney"
+        },
+        [
+          "SUB",
+          "TWU subs: Riley Vander Meulen."
+        ],
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Kevin Falconer"
+          ],
+          "server": "Leigh Goossen"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Scott Vercaigne"
+          ],
+          "server": "Leigh Goossen"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Scott Vercaigne"
+          ],
+          "server": "Leigh Goossen"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "BAD_SET",
+            "Adam Schriemer"
+          ],
+          "server": "Leigh Goossen"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Caleb Konrad"
+        },
+        {
+          "point": "MAN",
+          "event": [
+            "KILL",
+            "Scott Vercaigne",
+            "Caleb Konrad"
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Scott Plocktis",
+            "Adam Schriemer"
+          ],
+          "server": "Adam DeJonckheere"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2020 @@
+{
+  "source": "stats.ncaa.org",
+  "date": "2016-04-02",
+  "id": "stats.ncaa.org/game/4090568",
+  "sets": {
+    "1": {
+      "events": [
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Hayden, Madison",
+            "Shaw, James"
+          ],
+          "server": "TJ DeFalco"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Amir Lugo-Rodriguez",
+            "Josh Tuaniga"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Amir Lugo-Rodriguez"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Kyle Ensing",
+            "Josh Tuaniga"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Rakestraw, Kevin",
+            "Shaw, James"
+          ],
+          "server": "Kyle Ensing"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Kyle Ensing",
+            "Josh Tuaniga"
+          ],
+          "server": "Hayden, Madison"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "ATTACK_ERROR",
+            "Vega, Gabriel",
+            [
+              "Taylor Gregory",
+              "TJ DeFalco"
+            ]
+          ],
+          "server": "Bjarne Huus"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Taylor Gregory",
+            "Josh Tuaniga"
+          ],
+          "server": "Bjarne Huus"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Bjarne Huus"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Taylor Gregory",
+            "Josh Tuaniga"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kaminski, Conrad",
+            "Shaw, James",
+            "Amir Lugo-Rodriguez"
+          ],
+          "server": "Taylor Gregory"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Vega, Gabriel"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "SERVICE_ACE",
+            "Ewert, Jordan"
+          ],
+          "server": "Josh Tuaniga"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kaminski, Conrad",
+            "Shaw, James"
+          ],
+          "server": "Josh Tuaniga"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Kyle Ensing",
+            "Josh Tuaniga"
+          ],
+          "server": "Ewert, Jordan"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Hayden, Madison",
+            "Shaw, James"
+          ],
+          "server": "TJ DeFalco"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Hayden, Madison"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "TJ DeFalco",
+            "Josh Tuaniga"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Vega, Gabriel",
+            "Shaw, James"
+          ],
+          "server": "Amir Lugo-Rodriguez"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ACE",
+            "Andrew Sato"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Kyle Ensing"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ACE",
+            "Bjarne Huus"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "TJ DeFalco",
+            "Josh Tuaniga"
+          ],
+          "server": "Kyle Ensing"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Kyle Ensing"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Bjarne Huus"
+          ],
+          "server": "Hayden, Madison"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Bjarne Huus",
+            "Josh Tuaniga"
+          ],
+          "server": "Hayden, Madison"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "TJ DeFalco",
+            "Josh Tuaniga"
+          ],
+          "server": "Bjarne Huus"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "TJ DeFalco"
+        },
+        [
+          "SUB",
+          "Stanford subs: Dagostino, Kyle; Rakestraw, Kevin."
+        ],
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Taylor Gregory",
+            "Josh Tuaniga"
+          ],
+          "server": "Dagostino, Kyle"
+        },
+        [
+          "SUB",
+          "Stanford subs: Rakestraw, Kevin; Dagostino, Kyle."
+        ],
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "ATTACK_ERROR",
+            "Vega, Gabriel",
+            [
+              "Amir Lugo-Rodriguez",
+              "TJ DeFalco"
+            ]
+          ],
+          "server": "Taylor Gregory"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kaminski, Conrad",
+            "Shaw, James"
+          ],
+          "server": "Taylor Gregory"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "TJ DeFalco",
+            "Josh Tuaniga"
+          ],
+          "server": "Vega, Gabriel"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kaminski, Conrad",
+            "Shaw, James"
+          ],
+          "server": "Josh Tuaniga"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Ewert, Jordan"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Vega, Gabriel",
+            "Shaw, James"
+          ],
+          "server": "TJ DeFalco"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Kyle Ensing"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Bjarne Huus",
+            [
+              "Rakestraw, Kevin",
+              "Shaw, James"
+            ]
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Long Beach State."
+        ],
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Amir Lugo-Rodriguez",
+            "Josh Tuaniga"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        [
+          "SUB",
+          "Long Beach St. subs: John La Rusch; Amir Lugo-Rodriguez."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James",
+            "Enriques, Evan"
+          ],
+          "server": "John La Rusch"
+        },
+        [
+          "SUB",
+          "Long Beach St. subs: Amir Lugo-Rodriguez; John La Rusch."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Bjarne Huus",
+            [
+              "Rakestraw, Kevin",
+              "Vega, Gabriel"
+            ]
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Shaw, James"
+        },
+        [
+          "SUB",
+          "Long Beach St. subs: Dan Glamack; Bjarne Huus."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Vega, Gabriel",
+            "Shaw, James"
+          ],
+          "server": "Kyle Ensing"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Hayden, Madison"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "ATTACK_ERROR",
+            "Hayden, Madison",
+            [
+              "Taylor Gregory"
+            ]
+          ],
+          "server": "Dan Glamack"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Dan Glamack"
+        },
+        [
+          "SUB",
+          "Stanford subs: Stephanus, Alex; Ewert, Jordan."
+        ],
+        [
+          "SUB",
+          "Long Beach St. subs: Bjarne Huus; Dan Glamack."
+        ],
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "TJ DeFalco",
+            "Josh Tuaniga"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        [
+          "SUB",
+          "Stanford subs: Ewert, Jordan; Stephanus, Alex."
+        ],
+        [
+          "SUB",
+          "Long Beach St. subs: Eric Ensing; Taylor Gregory."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Ewert, Jordan",
+            "Shaw, James"
+          ],
+          "server": "Eric Ensing"
+        }
+      ],
+      "starters": {
+        "Stanford": [
+          "Kaminski, Conrad",
+          "Vega, Gabriel",
+          "Shaw, James",
+          "Ewert, Jordan",
+          "Rakestraw, Kevin",
+          "Hayden, Madison",
+          "Enriques, Evan"
+        ],
+        "Long Beach St.": [
+          "Bjarne Huus",
+          "Kyle Ensing",
+          "Josh Tuaniga",
+          "TJ DeFalco",
+          "Taylor Gregory",
+          "Amir Lugo-Rodriguez",
+          "Andrew Sato"
+        ]
+      }
+    },
+    "2": {
+      "events": [
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Taylor Gregory",
+            "Josh Tuaniga"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James",
+            "Ewert, Jordan"
+          ],
+          "server": "Eric Ensing"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Josh Tuaniga",
+            "Andrew Sato"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "ATTACK_ERROR",
+            "Vega, Gabriel"
+          ],
+          "server": "Taylor Gregory"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "ATTACK_ERROR",
+            "Vega, Gabriel",
+            [
+              "Amir Lugo-Rodriguez",
+              "Josh Tuaniga"
+            ]
+          ],
+          "server": "Taylor Gregory"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "ATTACK_ERROR",
+            "Hayden, Madison"
+          ],
+          "server": "Taylor Gregory"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Rakestraw, Kevin",
+            "Shaw, James"
+          ],
+          "server": "Taylor Gregory"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "ATTACK_ERROR",
+            "Rakestraw, Kevin",
+            [
+              "TJ DeFalco",
+              "Amir Lugo-Rodriguez"
+            ]
+          ],
+          "server": "Hayden, Madison"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Ewert, Jordan",
+            "Shaw, James"
+          ],
+          "server": "Josh Tuaniga"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Amir Lugo-Rodriguez",
+            "Josh Tuaniga"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "TJ DeFalco",
+            [
+              "Kaminski, Conrad"
+            ]
+          ],
+          "server": "TJ DeFalco"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kaminski, Conrad"
+          ],
+          "server": "Vega, Gabriel"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Kyle Ensing",
+            "Josh Tuaniga"
+          ],
+          "server": "Vega, Gabriel"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "ATTACK_ERROR",
+            "Kaminski, Conrad",
+            [
+              "Taylor Gregory",
+              "Eric Ensing"
+            ]
+          ],
+          "server": "Amir Lugo-Rodriguez"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Ewert, Jordan",
+            "Shaw, James"
+          ],
+          "server": "Amir Lugo-Rodriguez"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Kyle Ensing",
+            "Josh Tuaniga"
+          ],
+          "server": "Ewert, Jordan"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Kyle Ensing"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Vega, Gabriel",
+            "Shaw, James"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James",
+            "Hayden, Madison"
+          ],
+          "server": "Eric Ensing"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Kyle Ensing",
+            "Josh Tuaniga"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Hayden, Madison",
+            "Shaw, James"
+          ],
+          "server": "Taylor Gregory"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ACE",
+            "Eric Ensing"
+          ],
+          "server": "Hayden, Madison"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "TJ DeFalco",
+            "Josh Tuaniga"
+          ],
+          "server": "Hayden, Madison"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Ewert, Jordan",
+            "Shaw, James"
+          ],
+          "server": "Josh Tuaniga"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "TJ DeFalco",
+            [
+              "Kaminski, Conrad",
+              "Ewert, Jordan"
+            ]
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Amir Lugo-Rodriguez",
+            "Josh Tuaniga"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Hayden, Madison",
+            "Shaw, James"
+          ],
+          "server": "TJ DeFalco"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Kyle Ensing"
+          ],
+          "server": "Vega, Gabriel"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Kyle Ensing",
+            "Josh Tuaniga"
+          ],
+          "server": "Vega, Gabriel"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Eric Ensing",
+            "TJ DeFalco"
+          ],
+          "server": "Amir Lugo-Rodriguez"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Vega, Gabriel",
+            "Shaw, James"
+          ],
+          "server": "Amir Lugo-Rodriguez"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Eric Ensing",
+            "Josh Tuaniga"
+          ],
+          "server": "Ewert, Jordan"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Vega, Gabriel",
+            "Shaw, James"
+          ],
+          "server": "Kyle Ensing"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "TJ DeFalco",
+            "Josh Tuaniga"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        [
+          "SUB",
+          "Long Beach St. subs: Davis Cannon; Josh Tuaniga."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Hayden, Madison",
+            "Shaw, James"
+          ],
+          "server": "Eric Ensing"
+        },
+        [
+          "SUB",
+          "Long Beach St. subs: Josh Tuaniga; Davis Cannon."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ACE",
+            "Andrew Sato"
+          ],
+          "server": "Shaw, James"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Long Beach State."
+        ],
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Josh Tuaniga",
+            "TJ DeFalco"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "ATTACK_ERROR",
+            "Hayden, Madison",
+            [
+              "TJ DeFalco",
+              "Amir Lugo-Rodriguez"
+            ]
+          ],
+          "server": "Taylor Gregory"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Taylor Gregory"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "TJ DeFalco",
+            [
+              "Rakestraw, Kevin",
+              "Vega, Gabriel"
+            ]
+          ],
+          "server": "Hayden, Madison"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Long Beach State."
+        ],
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Amir Lugo-Rodriguez",
+            "Josh Tuaniga"
+          ],
+          "server": "Hayden, Madison"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "TJ DeFalco",
+            "Josh Tuaniga"
+          ],
+          "server": "Josh Tuaniga"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "TJ DeFalco",
+            "Andrew Sato"
+          ],
+          "server": "Josh Tuaniga"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Kyle Ensing",
+            [
+              "Vega, Gabriel",
+              "Rakestraw, Kevin"
+            ]
+          ],
+          "server": "Josh Tuaniga"
+        },
+        [
+          "SUB",
+          "Stanford subs: Dagostino, Kyle; Rakestraw, Kevin."
+        ],
+        [
+          "SUB",
+          "Stanford subs: Stephanus, Alex; Ewert, Jordan."
+        ],
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Dagostino, Kyle"
+        },
+        [
+          "SUB",
+          "Stanford subs: Rakestraw, Kevin; Dagostino, Kyle; Ewert, Jordan; Stephanus, Alex."
+        ],
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "TJ DeFalco",
+            "Josh Tuaniga"
+          ],
+          "server": "TJ DeFalco"
+        }
+      ],
+      "starters": {
+        "Long Beach St.": [
+          "Josh Tuaniga",
+          "Taylor Gregory",
+          "TJ DeFalco",
+          "Amir Lugo-Rodriguez",
+          "Kyle Ensing",
+          "Eric Ensing",
+          "Andrew Sato"
+        ],
+        "Stanford": [
+          "Hayden, Madison",
+          "Ewert, Jordan",
+          "Shaw, James",
+          "Rakestraw, Kevin",
+          "Kaminski, Conrad",
+          "Vega, Gabriel",
+          "Enriques, Evan"
+        ]
+      }
+    },
+    "3": {
+      "events": [
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Eric Ensing"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "TJ DeFalco",
+            "Josh Tuaniga"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James",
+            "Hayden, Madison"
+          ],
+          "server": "Taylor Gregory"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Kyle Ensing"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "TJ DeFalco",
+            "Josh Tuaniga",
+            "Vega, Gabriel"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Rakestraw, Kevin",
+            "Shaw, James"
+          ],
+          "server": "Josh Tuaniga"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Amir Lugo-Rodriguez",
+            "Josh Tuaniga"
+          ],
+          "server": "Hayden, Madison"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "ATTACK_ERROR",
+            "Ewert, Jordan",
+            [
+              "Kyle Ensing",
+              "Amir Lugo-Rodriguez"
+            ]
+          ],
+          "server": "TJ DeFalco"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Ewert, Jordan",
+            "Shaw, James"
+          ],
+          "server": "TJ DeFalco"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Eric Ensing",
+            "Josh Tuaniga"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Amir Lugo-Rodriguez"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Taylor Gregory",
+            "Josh Tuaniga"
+          ],
+          "server": "Vega, Gabriel"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "TJ DeFalco",
+            "Kyle Ensing"
+          ],
+          "server": "Kyle Ensing"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Josh Tuaniga"
+          ],
+          "server": "Kyle Ensing"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "ATTACK_ERROR",
+            "Vega, Gabriel"
+          ],
+          "server": "Kyle Ensing"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kaminski, Conrad",
+            "Shaw, James"
+          ],
+          "server": "Kyle Ensing"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Josh Tuaniga",
+            "TJ DeFalco"
+          ],
+          "server": "Ewert, Jordan"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kaminski, Conrad",
+            "Shaw, James"
+          ],
+          "server": "Eric Ensing"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Kyle Ensing",
+            "Josh Tuaniga",
+            "Hayden, Madison"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Hayden, Madison",
+            "Shaw, James"
+          ],
+          "server": "Taylor Gregory"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "TJ DeFalco",
+            "Josh Tuaniga"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "TJ DeFalco"
+          ],
+          "server": "Josh Tuaniga"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Vega, Gabriel",
+            "Shaw, James"
+          ],
+          "server": "Josh Tuaniga"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Kyle Ensing",
+            "Josh Tuaniga"
+          ],
+          "server": "Hayden, Madison"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "TJ DeFalco"
+        },
+        [
+          "SUB",
+          "Stanford subs: Jones, Clay; Vega, Gabriel."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ACE",
+            "Andrew Sato"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Eric Ensing",
+            [
+              "Kaminski, Conrad"
+            ]
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "ATTACK_ERROR",
+            "Kaminski, Conrad",
+            [
+              "Taylor Gregory",
+              "Eric Ensing",
+              "Josh Tuaniga"
+            ]
+          ],
+          "server": "Amir Lugo-Rodriguez"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Ewert, Jordan",
+            "Shaw, James"
+          ],
+          "server": "Amir Lugo-Rodriguez"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "TJ DeFalco"
+          ],
+          "server": "Jones, Clay"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Kyle Ensing",
+            "Josh Tuaniga"
+          ],
+          "server": "Jones, Clay"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kaminski, Conrad",
+            "Shaw, James"
+          ],
+          "server": "Kyle Ensing"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Eric Ensing",
+            "Josh Tuaniga"
+          ],
+          "server": "Ewert, Jordan"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Eric Ensing"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        [
+          "SUB",
+          "Long Beach St. subs: Davis Cannon; Josh Tuaniga; John La Rusch; Taylor Gregory."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "John La Rusch"
+        },
+        [
+          "SUB",
+          "Long Beach St. subs: Taylor Gregory; John La Rusch; Josh Tuaniga; Davis Cannon."
+        ],
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Rakestraw, Kevin",
+            "Shaw, James"
+          ],
+          "server": "Josh Tuaniga"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Hayden, Madison"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Ewert, Jordan",
+            "Shaw, James"
+          ],
+          "server": "TJ DeFalco"
+        },
+        [
+          "SUB",
+          "Stanford subs: Dagostino, Kyle; Rakestraw, Kevin."
+        ],
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "ATTACK_ERROR",
+            "Ewert, Jordan",
+            [
+              "Kyle Ensing",
+              "Amir Lugo-Rodriguez"
+            ]
+          ],
+          "server": "Dagostino, Kyle"
+        },
+        [
+          "SUB",
+          "Stanford subs: Rakestraw, Kevin; Dagostino, Kyle."
+        ],
+        [
+          "SUB",
+          "Long Beach St. subs: Edgar Palos; Amir Lugo-Rodriguez."
+        ],
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Eric Ensing",
+            "Josh Tuaniga"
+          ],
+          "server": "Edgar Palos"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kaminski, Conrad",
+            "Shaw, James"
+          ],
+          "server": "Edgar Palos"
+        },
+        [
+          "SUB",
+          "Stanford subs: Stephanus, Alex; Ewert, Jordan."
+        ],
+        [
+          "SUB",
+          "Long Beach St. subs: Amir Lugo-Rodriguez; Edgar Palos."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kaminski, Conrad",
+            "Shaw, James"
+          ],
+          "server": "Jones, Clay"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Long Beach State."
+        ],
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Kyle Ensing, block error by Kaminski, Conrad"
+          ],
+          "server": "Jones, Clay"
+        },
+        [
+          "SUB",
+          "Stanford subs: Ewert, Jordan; Stephanus, Alex."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Eric Ensing",
+            [
+              "Shaw, James",
+              "Kaminski, Conrad"
+            ]
+          ],
+          "server": "Kyle Ensing"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Hayden, Madison",
+            "Shaw, James"
+          ],
+          "server": "Ewert, Jordan"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Long Beach State."
+        ],
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Josh Tuaniga",
+            "TJ DeFalco"
+          ],
+          "server": "Ewert, Jordan"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Eric Ensing"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "TJ DeFalco",
+            [
+              "Rakestraw, Kevin",
+              "Shaw, James"
+            ]
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "TJ DeFalco",
+            "Josh Tuaniga"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "TJ DeFalco",
+            [
+              "Rakestraw, Kevin"
+            ]
+          ],
+          "server": "Taylor Gregory"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "TJ DeFalco",
+            "Eric Ensing"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Josh Tuaniga"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Amir Lugo-Rodriguez",
+            [
+              "Rakestraw, Kevin",
+              "Jones, Clay"
+            ]
+          ],
+          "server": "Hayden, Madison"
+        }
+      ],
+      "starters": {
+        "Long Beach St.": [
+          "Josh Tuaniga",
+          "TJ DeFalco",
+          "Amir Lugo-Rodriguez",
+          "Kyle Ensing",
+          "Eric Ensing",
+          "Taylor Gregory",
+          "Andrew Sato"
+        ],
+        "Stanford": [
+          "Shaw, James",
+          "Rakestraw, Kevin",
+          "Ewert, Jordan",
+          "Kaminski, Conrad",
+          "Vega, Gabriel",
+          "Hayden, Madison",
+          "Enriques, Evan"
+        ]
+      }
+    },
+    "4": {
+      "events": [
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "TJ DeFalco",
+            "Josh Tuaniga"
+          ],
+          "server": "Ewert, Jordan"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Hayden, Madison",
+            "Shaw, James"
+          ],
+          "server": "Taylor Gregory"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Kyle Ensing",
+            "Josh Tuaniga"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James",
+            "Ewert, Jordan"
+          ],
+          "server": "Josh Tuaniga"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "TJ DeFalco"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Ewert, Jordan",
+            "Shaw, James"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Kyle Ensing",
+            "Josh Tuaniga"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Jones, Clay",
+            "Shaw, James"
+          ],
+          "server": "TJ DeFalco"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Hayden, Madison"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Rakestraw, Kevin",
+            "Shaw, James"
+          ],
+          "server": "Amir Lugo-Rodriguez"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Eric Ensing",
+            "TJ DeFalco"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kaminski, Conrad",
+            "Shaw, James"
+          ],
+          "server": "Kyle Ensing"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "TJ DeFalco"
+          ],
+          "server": "Jones, Clay"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Eric Ensing",
+            "Josh Tuaniga"
+          ],
+          "server": "Jones, Clay"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James",
+            "Hayden, Madison"
+          ],
+          "server": "Eric Ensing"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Taylor Gregory",
+            "Josh Tuaniga"
+          ],
+          "server": "Ewert, Jordan"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Hayden, Madison",
+            "Shaw, James",
+            "Amir Lugo-Rodriguez"
+          ],
+          "server": "Taylor Gregory"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ACE",
+            "Eric Ensing"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        [
+          "SUB",
+          "Long Beach St. subs: Bryce Yould; Amir Lugo-Rodriguez."
+        ],
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Rakestraw, Kevin",
+            "Shaw, James"
+          ],
+          "server": "Josh Tuaniga"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "TJ DeFalco",
+            "Josh Tuaniga"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Kyle Ensing",
+            [
+              "Rakestraw, Kevin",
+              "Jones, Clay"
+            ]
+          ],
+          "server": "TJ DeFalco"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Kyle Ensing",
+            "Josh Tuaniga"
+          ],
+          "server": "Hayden, Madison"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Hayden, Madison",
+            "Shaw, James"
+          ],
+          "server": "Bryce Yould"
+        },
+        [
+          "SUB",
+          "Stanford subs: Dagostino, Kyle; Rakestraw, Kevin."
+        ],
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Taylor Gregory",
+            "Josh Tuaniga"
+          ],
+          "server": "Dagostino, Kyle"
+        },
+        [
+          "SUB",
+          "Stanford subs: Rakestraw, Kevin; Dagostino, Kyle."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kaminski, Conrad",
+            "Shaw, James"
+          ],
+          "server": "Kyle Ensing"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Jones, Clay"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Hayden, Madison",
+            "Shaw, James"
+          ],
+          "server": "Eric Ensing"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Taylor Gregory",
+            "Josh Tuaniga"
+          ],
+          "server": "Ewert, Jordan"
+        },
+        [
+          "SUB",
+          "Long Beach St. subs: Amir Lugo-Rodriguez; Bryce Yould."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Ewert, Jordan",
+            "Jones, Clay"
+          ],
+          "server": "Taylor Gregory"
+        },
+        [
+          "SUB",
+          "Long Beach St. subs: Bjarne Huus; Eric Ensing."
+        ],
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "TJ DeFalco",
+            "Josh Tuaniga"
+          ],
+          "server": "Josh Tuaniga"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Josh Tuaniga"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Kyle Ensing",
+            "Josh Tuaniga"
+          ],
+          "server": "Shaw, James"
+        },
+        [
+          "SUB",
+          "Long Beach St. subs: Eric Ensing; Bjarne Huus."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Hayden, Madison",
+            "Shaw, James"
+          ],
+          "server": "TJ DeFalco"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Kyle Ensing",
+            "Josh Tuaniga"
+          ],
+          "server": "Hayden, Madison"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "BAD_SET",
+            "Shaw, James"
+          ],
+          "server": "TJ DeFalco"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Hayden, Madison",
+            "Shaw, James"
+          ],
+          "server": "Amir Lugo-Rodriguez"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Ewert, Jordan",
+            "Hayden, Madison"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Kyle Ensing",
+            [
+              "Ewert, Jordan"
+            ]
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Long Beach State."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Hayden, Madison",
+            "Shaw, James"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "Long Beach St.",
+          "event": [
+            "KILL",
+            "Taylor Gregory",
+            "Josh Tuaniga"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Ewert, Jordan",
+            "Shaw, James"
+          ],
+          "server": "Kyle Ensing"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Eric Ensing",
+            [
+              "Shaw, James",
+              "Kaminski, Conrad"
+            ]
+          ],
+          "server": "Jones, Clay"
+        }
+      ],
+      "starters": {
+        "Stanford": [
+          "Ewert, Jordan",
+          "Rakestraw, Kevin",
+          "Jones, Clay",
+          "Shaw, James",
+          "Kaminski, Conrad",
+          "Hayden, Madison",
+          "Enriques, Evan"
+        ],
+        "Long Beach St.": [
+          "TJ DeFalco",
+          "Kyle Ensing",
+          "Amir Lugo-Rodriguez",
+          "Taylor Gregory",
+          "Josh Tuaniga",
+          "Eric Ensing",
+          "Andrew Sato"
+        ]
+      }
+    }
+  },
+  "teams": [
+    [
+      "stats.ncaa.org/24290",
+      "Long Beach St."
+    ],
+    [
+      "stats.ncaa.org/24312",
+      "Stanford"
+    ]
+  ]
+}

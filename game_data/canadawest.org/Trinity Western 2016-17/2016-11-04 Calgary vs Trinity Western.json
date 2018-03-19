@@ -1,0 +1,1988 @@
+{
+  "sets": {
+    "1": {
+      "events": [
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Keith West"
+          ],
+          "server": "Ben Lieuwen",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Ben Lieuwen",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Curtis Stockton",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ],
+          "server": "Leigh Goossen",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ],
+          "server": "Leigh Goossen",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Alex Cook"
+          ],
+          "server": "Leigh Goossen",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Alex Bader",
+            "Alex Cook"
+          ],
+          "server": "Alex Bader",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Curtis Stockton"
+          ],
+          "server": "Alex Bader",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Adam Schriemer",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Keith West"
+          ],
+          "server": "Sean Martin",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Scott Plocktis"
+          ],
+          "server": "Ryan Sclater",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ben Lieuwen",
+            "Carter Bergen"
+          ],
+          "server": "Alex Cook",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Brett Bolin",
+            "Alex Cook"
+          ],
+          "server": "Aaron Boettcher",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ben Lieuwen",
+            "Adam Schriemer"
+          ],
+          "server": "Keith West",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Keith West",
+            "Alex Cook"
+          ],
+          "server": "Scott Plocktis",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ben Lieuwen",
+            "Adam Schriemer"
+          ],
+          "server": "Brett Bolin",
+          "point": "TWU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Derek Meeuwisse"
+          ],
+          "server": "Ben Lieuwen",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Ben Lieuwen",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Curtis Stockton",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Alex Cook"
+          ],
+          "server": "Leigh Goossen",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater"
+          ],
+          "server": "Alex Bader",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ],
+          "server": "Alex Bader",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Sean Martin",
+            "Derek Meeuwisse"
+          ],
+          "server": "Adam Schriemer",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ben Lieuwen",
+            "Adam Schriemer"
+          ],
+          "server": "Sean Martin",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Ryan Sclater",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Alex Cook",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Ben Lieuwen",
+            [
+              "Brett Bolin",
+              "Curtis Stockton"
+            ]
+          ],
+          "server": "Aaron Boettcher",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Leigh Goossen"
+          ],
+          "server": "Keith West",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ben Lieuwen",
+            "Adam Schriemer"
+          ],
+          "server": "Keith West",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Alex Bader",
+            "Alex Cook"
+          ],
+          "server": "Scott Plocktis",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Brett Bolin",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater"
+          ],
+          "server": "Ben Lieuwen",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater",
+            [
+              "Alex Cook",
+              "Sean Martin"
+            ]
+          ],
+          "server": "Curtis Stockton",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Curtis Stockton",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Alex Cook",
+            "Keith West"
+          ],
+          "server": "Leigh Goossen",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Scott Plocktis",
+            "Adam Schriemer"
+          ],
+          "server": "Alex Bader",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Adam Schriemer",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ],
+          "server": "Sean Martin",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Keith West",
+            "Alex Cook"
+          ],
+          "server": "Ryan Sclater",
+          "point": "CGY"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Scott Plocktis",
+            "Adam Schriemer"
+          ],
+          "server": "Alex Cook",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Derek Meeuwisse"
+          ],
+          "server": "Aaron Boettcher",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Aaron Boettcher",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Alex Bader",
+            [
+              "Scott Plocktis",
+              "Leigh Goossen"
+            ]
+          ],
+          "server": "Keith West",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Alex Cook"
+          ],
+          "server": "Scott Plocktis",
+          "point": "CGY"
+        },
+        [
+          "SUB",
+          "TWU subs: Mark Antoniuk."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Brett Bolin",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Ben Lieuwen",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ],
+          "server": "Curtis Stockton",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Curtis Stockton",
+          "point": "TWU"
+        },
+        [
+          "SUB",
+          "TWU subs: Jordan Koslowsky."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Alex Bader",
+            "Alex Cook"
+          ],
+          "server": "Jordan Koslowsky",
+          "point": "CGY"
+        }
+      ],
+      "starters": {
+        "CGY": [
+          "Brett Bolin",
+          "Alex Cook",
+          "Curtis Stockton",
+          "Keith West",
+          "Alex Bader",
+          "Sean Martin",
+          "Derek Meeuwisse"
+        ],
+        "TWU": [
+          "Aaron Boettcher",
+          "Leigh Goossen",
+          "Adam Schriemer",
+          "Scott Plocktis",
+          "Ryan Sclater",
+          "Ben Lieuwen",
+          "Carter Bergen"
+        ]
+      }
+    },
+    "2": {
+      "events": [
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Curtis Stockton",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Alex Bader",
+            "Alex Cook"
+          ],
+          "server": "Leigh Goossen",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Alex Bader",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Curtis Stockton",
+            [
+              "Aaron Boettcher",
+              "Scott Plocktis"
+            ]
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Calgary."
+        ],
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Adam Schriemer",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Carter Bergen"
+          ],
+          "server": "Sean Martin",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Curtis Stockton"
+          ],
+          "server": "Sean Martin",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Curtis Stockton"
+          ],
+          "server": "Ryan Sclater",
+          "point": "TWU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        {
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ],
+          "server": "Ryan Sclater",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Ryan Sclater",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Scott Plocktis"
+          ],
+          "server": "Alex Cook",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Ben Lieuwen"
+          ],
+          "server": "Alex Cook",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ben Lieuwen",
+            "Adam Schriemer"
+          ],
+          "server": "Alex Cook",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Aaron Boettcher",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Keith West",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Alex Bader",
+            "Alex Cook"
+          ],
+          "server": "Scott Plocktis",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Curtis Stockton"
+          ],
+          "server": "Brett Bolin",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Alex Bader"
+          ],
+          "server": "Ben Lieuwen",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Ben Lieuwen",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Keith West"
+          ],
+          "server": "Ben Lieuwen",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Leigh Goossen",
+            "Adam Schriemer"
+          ],
+          "server": "Ben Lieuwen",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Ben Lieuwen",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Adam Schriemer",
+            "Leigh Goossen"
+          ],
+          "server": "Curtis Stockton",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Alex Cook"
+          ],
+          "server": "Leigh Goossen",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Ryan Sclater"
+          ],
+          "server": "Alex Bader",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Aaron Boettcher"
+          ],
+          "server": "Alex Bader",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Carter Bergen"
+          ],
+          "server": "Alex Bader",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Keith West",
+            [
+              "Aaron Boettcher",
+              "Scott Plocktis"
+            ]
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Calgary."
+        ],
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Scott Plocktis"
+          ],
+          "server": "Adam Schriemer",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Sean Martin",
+          "point": "TWU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Ryan Sclater",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Scott Plocktis",
+            "Adam Schriemer"
+          ],
+          "server": "Alex Cook",
+          "point": "TWU"
+        },
+        [
+          "SUB",
+          "TWU subs: Jordan Koslowsky."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Keith West",
+            "Alex Cook"
+          ],
+          "server": "Jordan Koslowsky",
+          "point": "CGY"
+        },
+        [
+          "SUB",
+          "TWU subs: Aaron Boettcher."
+        ],
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Ryan Sclater"
+          ],
+          "server": "Keith West",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Ben Lieuwen",
+            [
+              "Brett Bolin",
+              "Curtis Stockton"
+            ]
+          ],
+          "server": "Keith West",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Keith West",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Keith West",
+            "Alex Cook"
+          ],
+          "server": "Scott Plocktis",
+          "point": "CGY"
+        },
+        [
+          "SUB",
+          "TWU subs: Mark Antoniuk."
+        ],
+        [
+          "SUB",
+          "CGY subs: Parker Maris."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Alex Bader",
+            "Alex Cook"
+          ],
+          "server": "Parker Maris",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ben Lieuwen",
+            "Adam Schriemer"
+          ],
+          "server": "Parker Maris",
+          "point": "TWU"
+        },
+        [
+          "SUB",
+          "CGY subs: Brett Bolin."
+        ],
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Ben Lieuwen",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Leigh Goossen",
+            "Adam Schriemer"
+          ],
+          "server": "Curtis Stockton",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Keith West"
+          ],
+          "server": "Leigh Goossen",
+          "point": "TWU"
+        }
+      ],
+      "starters": {
+        "CGY": [
+          "Alex Cook",
+          "Brett Bolin",
+          "Sean Martin",
+          "Keith West",
+          "Alex Bader",
+          "Curtis Stockton",
+          "Derek Meeuwisse"
+        ],
+        "TWU": [
+          "Adam Schriemer",
+          "Ben Lieuwen",
+          "Aaron Boettcher",
+          "Scott Plocktis",
+          "Ryan Sclater",
+          "Leigh Goossen",
+          "Carter Bergen"
+        ]
+      }
+    },
+    "3": {
+      "events": [
+        {
+          "event": [
+            "KILL",
+            "Sean Martin",
+            "Alex Cook"
+          ],
+          "server": "Ben Lieuwen",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Curtis Stockton",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Alex Cook",
+            "Derek Meeuwisse"
+          ],
+          "server": "Leigh Goossen",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Scott Plocktis"
+          ],
+          "server": "Alex Bader",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Ben Lieuwen"
+          ],
+          "server": "Alex Bader",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Scott Plocktis"
+          ],
+          "server": "Alex Bader",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Ben Lieuwen"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Scott Plocktis",
+            "Adam Schriemer"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Keith West",
+            [
+              "Scott Plocktis",
+              "Aaron Boettcher"
+            ]
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Calgary."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Scott Plocktis",
+            "Adam Schriemer"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Alex Cook",
+            "Alex Bader"
+          ],
+          "server": "Adam Schriemer",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Sean Martin",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Curtis Stockton",
+            [
+              "Aaron Boettcher",
+              "Ben Lieuwen"
+            ]
+          ],
+          "server": "Ryan Sclater",
+          "point": "TWU"
+        },
+        [
+          "SUB",
+          "CGY subs: Cole Trifunov."
+        ],
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Alex Bader"
+          ],
+          "server": "Ryan Sclater",
+          "point": "TWU"
+        },
+        [
+          "SUB",
+          "CGY subs: Cole Trifunov."
+        ],
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Derek Meeuwisse"
+          ],
+          "server": "Ryan Sclater",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Keith West",
+            "Alex Cook"
+          ],
+          "server": "Ryan Sclater",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Scott Plocktis",
+            "Adam Schriemer"
+          ],
+          "server": "Alex Cook",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ],
+          "server": "Aaron Boettcher",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Brett Bolin",
+            "Alex Cook"
+          ],
+          "server": "Aaron Boettcher",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Scott Plocktis",
+            "Adam Schriemer"
+          ],
+          "server": "Keith West",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Brett Bolin",
+            "Alex Cook"
+          ],
+          "server": "Scott Plocktis",
+          "point": "CGY"
+        },
+        [
+          "SUB",
+          "TWU subs: Mark Antoniuk."
+        ],
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Cole Trifunov"
+          ],
+          "server": "Brett Bolin",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Alex Bader",
+            [
+              "Adam Schriemer",
+              "Leigh Goossen"
+            ]
+          ],
+          "server": "Ben Lieuwen",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Ben Lieuwen",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Cole Trifunov",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Alex Bader"
+          ],
+          "server": "Leigh Goossen",
+          "point": "TWU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Calgary."
+        ],
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Cole Trifunov"
+          ],
+          "server": "Leigh Goossen",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Keith West"
+          ],
+          "server": "Leigh Goossen",
+          "point": "TWU"
+        },
+        [
+          "SUB",
+          "CGY subs: Parker Siroishka."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Keith West"
+          ],
+          "server": "Leigh Goossen",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Parker Siroishka",
+          "point": "TWU"
+        },
+        [
+          "SUB",
+          "TWU subs: Scott Plocktis."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Keith West",
+            "Derek Meeuwisse"
+          ],
+          "server": "Adam Schriemer",
+          "point": "CGY"
+        },
+        [
+          "SUB",
+          "CGY subs: Parker Maris."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Parker Maris",
+          "point": "TWU"
+        },
+        [
+          "SUB",
+          "CGY subs: Liam Laidlaw."
+        ],
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Ryan Sclater",
+          "point": "CGY"
+        },
+        [
+          "SUB",
+          "CGY subs: Blain Cranston."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Scott Plocktis",
+            "Adam Schriemer"
+          ],
+          "server": "Blain Cranston",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Aaron Boettcher",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Keith West",
+          "point": "TWU"
+        }
+      ],
+      "starters": {
+        "CGY": [
+          "Curtis Stockton",
+          "Alex Bader",
+          "Keith West",
+          "Alex Cook",
+          "Sean Martin",
+          "Brett Bolin",
+          "Derek Meeuwisse"
+        ],
+        "TWU": [
+          "Ryan Sclater",
+          "Scott Plocktis",
+          "Adam Schriemer",
+          "Leigh Goossen",
+          "Ben Lieuwen",
+          "Aaron Boettcher",
+          "Carter Bergen"
+        ]
+      }
+    },
+    "4": {
+      "events": [
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Curtis Stockton",
+            [
+              "Aaron Boettcher",
+              "Ryan Sclater"
+            ]
+          ],
+          "server": "Alex Bader",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Aaron Boettcher",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Sean Martin",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Keith West",
+            [
+              "Pearson Eshenko",
+              "Eric Loeppky"
+            ]
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Pearson Eshenko",
+            "Adam Schriemer"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Adam Schriemer",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater"
+          ],
+          "server": "Alex Cook",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Curtis Stockton"
+          ],
+          "server": "Alex Cook",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Curtis Stockton"
+          ],
+          "server": "Ryan Sclater",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Keith West",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Alex Bader",
+            "Alex Cook"
+          ],
+          "server": "Pearson Eshenko",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Eric Loeppky",
+            [
+              "Alex Bader",
+              "Sean Martin"
+            ]
+          ],
+          "server": "Brett Bolin",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Brett Bolin"
+          ],
+          "server": "Brett Bolin",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Brett Bolin",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Adam Schriemer",
+            [
+              "Sean Martin"
+            ]
+          ],
+          "server": "Eric Loeppky",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ],
+          "server": "Curtis Stockton",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ],
+          "server": "Ben Lieuwen",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Alex Bader"
+          ],
+          "server": "Ben Lieuwen",
+          "point": "TWU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Calgary."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater"
+          ],
+          "server": "Ben Lieuwen",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Ben Lieuwen",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater"
+          ],
+          "server": "Alex Bader",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Alex Bader",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Aaron Boettcher",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Sean Martin",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ben Lieuwen",
+            "Adam Schriemer"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Adam Schriemer",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Alex Cook"
+          ],
+          "server": "Alex Cook",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Pearson Eshenko",
+            [
+              "Curtis Stockton"
+            ]
+          ],
+          "server": "Alex Cook",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Pearson Eshenko",
+            "Adam Schriemer"
+          ],
+          "server": "Alex Cook",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Ryan Sclater",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Alex Bader"
+          ],
+          "server": "Keith West",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Alex Cook"
+          ],
+          "server": "Keith West",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Keith West",
+          "point": "TWU"
+        },
+        [
+          "SUB",
+          "TWU subs: Jordan Koslowsky."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Brett Bolin",
+            "Alex Cook"
+          ],
+          "server": "Jordan Koslowsky",
+          "point": "CGY"
+        },
+        [
+          "SUB",
+          "TWU subs: Pearson Eshenko."
+        ],
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Brett Bolin",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Alex Cook"
+          ],
+          "server": "Eric Loeppky",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "BAD_SET",
+            "Adam Schriemer"
+          ],
+          "server": "Curtis Stockton",
+          "point": "CGY"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater",
+            [
+              "Alex Bader",
+              "Sean Martin"
+            ]
+          ],
+          "server": "Curtis Stockton",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Curtis Stockton",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Ben Lieuwen",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Alex Cook"
+          ],
+          "server": "Alex Bader",
+          "point": "CGY"
+        },
+        [
+          "SUB",
+          "TWU subs: Mark Antoniuk."
+        ],
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Brett Bolin",
+            [
+              "Aaron Boettcher",
+              "Adam Schriemer"
+            ]
+          ],
+          "server": "Alex Bader",
+          "point": "TWU"
+        },
+        [
+          "SUB",
+          "TWU subs: Scott Plocktis."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Alex Cook"
+          ],
+          "server": "Scott Plocktis",
+          "point": "CGY"
+        },
+        [
+          "SUB",
+          "TWU subs: Aaron Boettcher."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Brett Bolin",
+            "Alex Cook"
+          ],
+          "server": "Sean Martin",
+          "point": "CGY"
+        }
+      ],
+      "starters": {
+        "CGY": [
+          "Alex Cook",
+          "Curtis Stockton",
+          "Sean Martin",
+          "Keith West",
+          "Brett Bolin",
+          "Alex Bader",
+          "Derek Meeuwisse"
+        ],
+        "TWU": [
+          "Aaron Boettcher",
+          "Eric Loeppky",
+          "Pearson Eshenko",
+          "Adam Schriemer",
+          "Ben Lieuwen",
+          "Ryan Sclater",
+          "Carter Bergen"
+        ]
+      }
+    },
+    "5": {
+      "events": [
+        {
+          "event": [
+            "KILL",
+            "Keith West",
+            "Alex Cook"
+          ],
+          "server": "Alex Bader",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Carter Bergen"
+          ],
+          "server": "Alex Bader",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Aaron Boettcher",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Aaron Boettcher",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Sean Martin",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Calgary."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Pearson Eshenko",
+            "Adam Schriemer"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Curtis Stockton"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Keith West",
+            "Alex Cook"
+          ],
+          "server": "Adam Schriemer",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Alex Cook",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Ryan Sclater",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Keith West",
+          "point": "TWU"
+        },
+        [
+          "SUB",
+          "TWU subs: Jordan Koslowsky."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ],
+          "server": "Jordan Koslowsky",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Brett Bolin"
+          ],
+          "server": "Jordan Koslowsky",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Jordan Koslowsky",
+          "point": "CGY"
+        },
+        [
+          "SUB",
+          "CGY subs: Parker Maris."
+        ],
+        [
+          "SUB",
+          "TWU subs: Aaron Boettcher."
+        ],
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Ben Lieuwen"
+          ],
+          "server": "Parker Maris",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ],
+          "server": "Parker Maris",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Eric Loeppky",
+          "point": "CGY"
+        },
+        [
+          "SUB",
+          "TWU subs: Mark Antoniuk."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Keith West",
+            "Alex Cook"
+          ],
+          "server": "Curtis Stockton",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Curtis Stockton",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ],
+          "server": "Ben Lieuwen",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Alex Bader"
+          ],
+          "server": "Ben Lieuwen",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater",
+            [
+              "Sean Martin",
+              "Alex Cook"
+            ]
+          ],
+          "server": "Ben Lieuwen",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Aaron Boettcher"
+          ],
+          "server": "Alex Bader",
+          "point": "CGY"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Alex Bader",
+          "point": "TWU"
+        }
+      ],
+      "starters": {
+        "CGY": [
+          "Sean Martin",
+          "Alex Cook",
+          "Brett Bolin",
+          "Curtis Stockton",
+          "Keith West",
+          "Alex Bader",
+          "Derek Meeuwisse"
+        ],
+        "TWU": [
+          "Ben Lieuwen",
+          "Aaron Boettcher",
+          "Adam Schriemer",
+          "Ryan Sclater",
+          "Eric Loeppky",
+          "Pearson Eshenko",
+          "Carter Bergen"
+        ]
+      }
+    }
+  },
+  "source": "canadawest.org",
+  "teams": [
+    [
+      "canadawest.org:team/zgpxqu3xsum5vee5",
+      "Calgary"
+    ],
+    [
+      "canadawest.org:team/dtjw1qxi3rsm18q9",
+      "Trinity Western"
+    ]
+  ],
+  "date": "2016-11-04",
+  "id": "canadawest.org:game/20161104_xwo6"
+}

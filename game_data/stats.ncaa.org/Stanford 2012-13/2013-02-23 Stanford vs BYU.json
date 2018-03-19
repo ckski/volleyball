@@ -1,0 +1,2163 @@
+{
+  "source": "stats.ncaa.org",
+  "date": "2013-02-23",
+  "id": "stats.ncaa.org/game/1705953",
+  "sets": {
+    "1": {
+      "events": [
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Sander, Taylor",
+            "Boyce, Ryan"
+          ],
+          "server": "Haly, Spencer"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Sander, Taylor"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Mochalski, Eric",
+            "Shaw, James"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Patch, Ben"
+          ],
+          "server": "Hatch, Michael"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Kneller, Jake"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "Patch, Ben"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Young, Devin",
+            "Boyce, Ryan"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Sander, Taylor"
+          ],
+          "server": "Rivera, Josue"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Kneller, Jake",
+            [
+              "Young, Devin",
+              "Boyce, Ryan",
+              "Sander, Taylor"
+            ]
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "BAD_SET",
+            "Shaw, James"
+          ],
+          "server": "Young, Devin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Young, Devin"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Boyce, Ryan",
+            "Rivera, Josue"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Haly, Spencer",
+            "Shaw, James"
+          ],
+          "server": "Boyce, Ryan"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Rivera, Josue",
+            "Boyce, Ryan"
+          ],
+          "server": "Haly, Spencer"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Mochalski, Eric",
+            "Shaw, James"
+          ],
+          "server": "Sander, Taylor"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Sander, Taylor",
+            "Boyce, Ryan"
+          ],
+          "server": "Hatch, Michael"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Kneller, Jake"
+          ],
+          "server": "Hatch, Michael"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Hatch, Michael"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Kneller, Jake"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Patch, Ben"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James",
+            "Kneller, Jake"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Young, Devin",
+            "Boyce, Ryan"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Patch, Ben"
+          ],
+          "server": "Rivera, Josue"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Shaw, James"
+        },
+        [
+          "TIMEOUT",
+          "Timeout (Media)."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Cook, Brian",
+            [
+              "Hatch, Michael",
+              "Boyce, Ryan"
+            ]
+          ],
+          "server": "Young, Devin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "Young, Devin"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Sander, Taylor",
+            "Boyce, Ryan"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Boyce, Ryan"
+        },
+        [
+          "SUB",
+          "Stanford subs: Hayden, Madison; Haly, Spencer."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Patch, Ben",
+            "Boyce, Ryan"
+          ],
+          "server": "Hayden, Madison"
+        },
+        [
+          "SUB",
+          "Stanford subs: Haly, Spencer; Hayden, Madison."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Sander, Taylor"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Patch, Ben",
+            "Boyce, Ryan"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Mochalski, Eric",
+            "Shaw, James"
+          ],
+          "server": "Hatch, Michael"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Sander, Taylor",
+            "Boyce, Ryan"
+          ],
+          "server": "Kneller, Jake"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Cook, Brian"
+          ],
+          "server": "Patch, Ben"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Patch, Ben"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James",
+            "Young, Devin"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Cook, Brian"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        [
+          "SUB",
+          "BYU subs: Rindfleisch, Steve; Boyce, Ryan."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Rivera, Josue"
+        },
+        [
+          "SUB",
+          "BYU subs: Boyce, Ryan; Rindfleisch, Steve."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvin, Steven"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Young, Devin"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Sander, Taylor",
+            "Boyce, Ryan"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Sander, Taylor"
+          ],
+          "server": "Boyce, Ryan"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ACE",
+            "Sander, Taylor"
+          ],
+          "server": "Haly, Spencer"
+        }
+      ],
+      "starters": {
+        "Stanford": [
+          "Cook, Brian",
+          "Shaw, James",
+          "Mochalski, Eric",
+          "Haly, Spencer",
+          "Irvin, Steven",
+          "Kneller, Jake",
+          "Delgado, Grant"
+        ],
+        "BYU": [
+          "Hatch, Michael",
+          "Sander, Taylor",
+          "Young, Devin",
+          "Patch, Ben",
+          "Boyce, Ryan",
+          "Rivera, Josue",
+          "Reyes, Jaylen"
+        ]
+      }
+    },
+    "2": {
+      "events": [
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Mochalski, Eric",
+            "Shaw, James"
+          ],
+          "server": "Sander, Taylor"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Patch, Ben",
+            "Heap, Tyler"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Hatch, Michael"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Kneller, Jake"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Patch, Ben",
+            "Heap, Tyler"
+          ],
+          "server": "Patch, Ben"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Rivera, Josue",
+            "Heap, Tyler"
+          ],
+          "server": "Patch, Ben"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Sander, Taylor",
+            "Reyes, Jaylen"
+          ],
+          "server": "Patch, Ben"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "Patch, Ben"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Patch, Ben",
+            "Heap, Tyler"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Rivera, Josue"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kneller, Jake",
+            "Shaw, James"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Young, Devin"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Sander, Taylor",
+            "Heap, Tyler"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Heap, Tyler"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Sander, Taylor",
+            [
+              "Mochalski, Eric",
+              "Kneller, Jake"
+            ]
+          ],
+          "server": "Haly, Spencer"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kneller, Jake",
+            "Shaw, James"
+          ],
+          "server": "Haly, Spencer"
+        },
+        [
+          "TIMEOUT",
+          "Timeout BYU."
+        ],
+        [
+          "SUB",
+          "BYU subs: Boyce, Ryan; Heap, Tyler."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Patch, Ben",
+            "Boyce, Ryan"
+          ],
+          "server": "Haly, Spencer"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ACE",
+            "Irvin, Steven"
+          ],
+          "server": "Sander, Taylor"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Rivera, Josue"
+          ],
+          "server": "Sander, Taylor"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Mochalski, Eric"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Hatch, Michael"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Sander, Taylor",
+            "Boyce, Ryan"
+          ],
+          "server": "Kneller, Jake"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Patch, Ben"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Patch, Ben",
+            "Boyce, Ryan"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "Rivera, Josue"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Patch, Ben",
+            "Boyce, Ryan"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Patch, Ben"
+          ],
+          "server": "Young, Devin"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Patch, Ben",
+            "Boyce, Ryan"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Boyce, Ryan"
+        },
+        [
+          "SUB",
+          "Stanford subs: Hayden, Madison; Haly, Spencer."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Hatch, Michael",
+            "Boyce, Ryan"
+          ],
+          "server": "Hayden, Madison"
+        },
+        [
+          "SUB",
+          "Stanford subs: Haly, Spencer; Hayden, Madison."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "Sander, Taylor"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kneller, Jake"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kneller, Jake",
+            "Cook, Brian"
+          ],
+          "server": "Cook, Brian"
+        },
+        [
+          "TIMEOUT",
+          "Timeout BYU."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Sander, Taylor",
+            "Boyce, Ryan"
+          ],
+          "server": "Cook, Brian"
+        },
+        [
+          "YELLOW_CARD",
+          "BYU",
+          12,
+          true
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Kneller, Jake"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Patch, Ben"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Rivera, Josue",
+            "Boyce, Ryan"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        [
+          "ILLEGAL_SUB",
+          "BYU",
+          [24,3],
+          true
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Young, Devin"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Young, Devin"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Sander, Taylor",
+            "Boyce, Ryan"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Kneller, Jake"
+          ],
+          "server": "Boyce, Ryan"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Cook, Brian",
+            [
+              "Sander, Taylor",
+              "Hatch, Michael"
+            ]
+          ],
+          "server": "Boyce, Ryan"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Kneller, Jake",
+            [
+              "Patch, Ben",
+              "Hatch, Michael"
+            ]
+          ],
+          "server": "Boyce, Ryan"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Cook, Brian",
+            [
+              "Sander, Taylor",
+              "Hatch, Michael"
+            ]
+          ],
+          "server": "Boyce, Ryan"
+        }
+      ],
+      "starters": {
+        "Stanford": [
+          "Irvin, Steven",
+          "Mochalski, Eric",
+          "Haly, Spencer",
+          "Cook, Brian",
+          "Shaw, James",
+          "Kneller, Jake",
+          "Delgado, Grant"
+        ],
+        "BYU": [
+          "Heap, Tyler",
+          "Young, Devin",
+          "Hatch, Michael",
+          "Sander, Taylor",
+          "Rivera, Josue",
+          "Patch, Ben",
+          "Reyes, Jaylen"
+        ]
+      }
+    },
+    "3": {
+      "events": [
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Hatch, Michael"
+          ],
+          "server": "Haly, Spencer"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Patch, Ben"
+          ],
+          "server": "Haly, Spencer"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Rivera, Josue",
+            "Boyce, Ryan"
+          ],
+          "server": "Haly, Spencer"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kneller, Jake",
+            "Shaw, James"
+          ],
+          "server": "Sander, Taylor"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Patch, Ben",
+            "Boyce, Ryan"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James",
+            "Irvin, Steven"
+          ],
+          "server": "Hatch, Michael"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Rivera, Josue",
+            "Boyce, Ryan"
+          ],
+          "server": "Kneller, Jake"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Patch, Ben"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Patch, Ben",
+            "Boyce, Ryan"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "Rivera, Josue"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Sander, Taylor",
+            "Boyce, Ryan"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Young, Devin"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Cook, Brian",
+            [
+              "Hatch, Michael",
+              "Sander, Taylor"
+            ]
+          ],
+          "server": "Boyce, Ryan"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Boyce, Ryan"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Patch, Ben",
+            "Boyce, Ryan"
+          ],
+          "server": "Haly, Spencer"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "Sander, Taylor"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Rivera, Josue",
+            "Boyce, Ryan"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Hatch, Michael"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Sander, Taylor",
+            "Reyes, Jaylen"
+          ],
+          "server": "Kneller, Jake"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "Patch, Ben"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Patch, Ben",
+            "Boyce, Ryan"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvin, Steven",
+            [
+              "Boyce, Ryan"
+            ]
+          ],
+          "server": "Rivera, Josue"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Rivera, Josue"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Sander, Taylor"
+          ],
+          "server": "Shaw, James"
+        },
+        [
+          "TIMEOUT",
+          "Timeout BYU."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Rivera, Josue",
+            "Boyce, Ryan"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "Young, Devin"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvin, Steven",
+            [
+              "Hatch, Michael",
+              "Sander, Taylor",
+              "Boyce, Ryan"
+            ]
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Patch, Ben",
+            "Boyce, Ryan"
+          ],
+          "server": "Boyce, Ryan"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Haly, Spencer",
+            "Shaw, James"
+          ],
+          "server": "Boyce, Ryan"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Haly, Spencer"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Sander, Taylor",
+            "Boyce, Ryan",
+            "Mochalski, Eric"
+          ],
+          "server": "Haly, Spencer"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Kneller, Jake",
+            [
+              "Hatch, Michael",
+              "Patch, Ben"
+            ]
+          ],
+          "server": "Sander, Taylor"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Mochalski, Eric"
+          ],
+          "server": "Sander, Taylor"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Mochalski, Eric",
+            "Shaw, James"
+          ],
+          "server": "Sander, Taylor"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Rivera, Josue",
+            "Boyce, Ryan"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Mochalski, Eric",
+            "Shaw, James"
+          ],
+          "server": "Hatch, Michael"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Young, Devin"
+          ],
+          "server": "Kneller, Jake"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Delgado, Grant"
+          ],
+          "server": "Kneller, Jake"
+        },
+        [
+          "TIMEOUT",
+          "Timeout BYU."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Patch, Ben",
+            "Boyce, Ryan"
+          ],
+          "server": "Kneller, Jake"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "Patch, Ben"
+        },
+        [
+          "SUB",
+          "Stanford subs: Falls, Denny; Haly, Spencer."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Sander, Taylor",
+            "Boyce, Ryan"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        [
+          "SUB",
+          "BYU subs: Rindfleisch, Steve; Boyce, Ryan."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "Rivera, Josue"
+        },
+        [
+          "SUB",
+          "BYU subs: Boyce, Ryan; Rindfleisch, Steve."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Sander, Taylor",
+            [
+              "Cook, Brian",
+              "Falls, Denny"
+            ]
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ACE",
+            "Sander, Taylor"
+          ],
+          "server": "Shaw, James"
+        }
+      ],
+      "starters": {
+        "Stanford": [
+          "Cook, Brian",
+          "Irvin, Steven",
+          "Mochalski, Eric",
+          "Haly, Spencer",
+          "Kneller, Jake",
+          "Shaw, James",
+          "Delgado, Grant"
+        ],
+        "BYU": [
+          "Rivera, Josue",
+          "Boyce, Ryan",
+          "Patch, Ben",
+          "Hatch, Michael",
+          "Sander, Taylor",
+          "Young, Devin",
+          "Reyes, Jaylen"
+        ]
+      }
+    },
+    "4": {
+      "events": [
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Rivera, Josue"
+          ],
+          "server": "Patch, Ben"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "Patch, Ben"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Young, Devin",
+            "Boyce, Ryan"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kneller, Jake",
+            "Shaw, James"
+          ],
+          "server": "Rivera, Josue"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Patch, Ben",
+            "Boyce, Ryan"
+          ],
+          "server": "Kneller, Jake"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvin, Steven",
+            [
+              "Boyce, Ryan",
+              "Sander, Taylor",
+              "Hatch, Michael"
+            ]
+          ],
+          "server": "Young, Devin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Young, Devin"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Sander, Taylor"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Sander, Taylor",
+            "Boyce, Ryan"
+          ],
+          "server": "Boyce, Ryan"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Boyce, Ryan"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Sander, Taylor",
+            "Boyce, Ryan"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Sander, Taylor"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Falls, Denny",
+            "Shaw, James"
+          ],
+          "server": "Hatch, Michael"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Young, Devin",
+            [
+              "Mochalski, Eric"
+            ]
+          ],
+          "server": "Falls, Denny"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Patch, Ben",
+            "Boyce, Ryan"
+          ],
+          "server": "Falls, Denny"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "Patch, Ben"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ACE",
+            "Reyes, Jaylen"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Patch, Ben",
+            "Boyce, Ryan"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Rivera, Josue"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Sander, Taylor",
+            "Boyce, Ryan"
+          ],
+          "server": "Kneller, Jake"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Mochalski, Eric",
+            "Shaw, James"
+          ],
+          "server": "Young, Devin"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Rivera, Josue",
+            "Boyce, Ryan"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Cook, Brian",
+            [
+              "Hatch, Michael",
+              "Sander, Taylor"
+            ]
+          ],
+          "server": "Boyce, Ryan"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James",
+            "Irvin, Steven"
+          ],
+          "server": "Boyce, Ryan"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Patch, Ben",
+            "Boyce, Ryan"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ACE",
+            "Cook, Brian"
+          ],
+          "server": "Sander, Taylor"
+        },
+        [
+          "TIMEOUT",
+          "Timeout (Media)."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Falls, Denny"
+          ],
+          "server": "Sander, Taylor"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Cook, Brian"
+          ],
+          "server": "Hatch, Michael"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Hatch, Michael"
+        },
+        [
+          "SUB",
+          "Stanford subs: Hayden, Madison; Falls, Denny."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Sander, Taylor",
+            "Boyce, Ryan"
+          ],
+          "server": "Hayden, Madison"
+        },
+        [
+          "SUB",
+          "Stanford subs: Falls, Denny; Hayden, Madison."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Patch, Ben"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Rivera, Josue",
+            "Boyce, Ryan"
+          ],
+          "server": "Cook, Brian"
+        },
+        [
+          "SUB",
+          "BYU subs: Rindfleisch, Steve; Boyce, Ryan."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Rivera, Josue"
+        },
+        [
+          "SUB",
+          "BYU subs: Boyce, Ryan; Rindfleisch, Steve."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Young, Devin",
+            "Boyce, Ryan"
+          ],
+          "server": "Kneller, Jake"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Sander, Taylor"
+          ],
+          "server": "Young, Devin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Patch, Ben",
+            [
+              "Falls, Denny",
+              "Irvin, Steven"
+            ]
+          ],
+          "server": "Mochalski, Eric"
+        },
+        [
+          "TIMEOUT",
+          "Timeout BYU."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Sander, Taylor",
+            "Boyce, Ryan"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "Boyce, Ryan"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Patch, Ben",
+            [
+              "Cook, Brian",
+              "Falls, Denny"
+            ]
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Sander, Taylor",
+            "Boyce, Ryan",
+            "Irvin, Steven"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Patch, Ben"
+          ],
+          "server": "Sander, Taylor"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Sander, Taylor"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Patch, Ben"
+          ],
+          "server": "Hatch, Michael"
+        }
+      ],
+      "starters": {
+        "Stanford": [
+          "Cook, Brian",
+          "Kneller, Jake",
+          "Falls, Denny",
+          "Shaw, James",
+          "Irvin, Steven",
+          "Mochalski, Eric",
+          "Delgado, Grant"
+        ],
+        "BYU": [
+          "Young, Devin",
+          "Sander, Taylor",
+          "Patch, Ben",
+          "Hatch, Michael",
+          "Rivera, Josue",
+          "Boyce, Ryan",
+          "Reyes, Jaylen"
+        ]
+      }
+    },
+    "5": {
+      "events": [
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvin, Steven"
+          ],
+          "server": "Rivera, Josue"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Rivera, Josue"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Rivera, Josue",
+            "Boyce, Ryan"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Sander, Taylor",
+            "Boyce, Ryan"
+          ],
+          "server": "Young, Devin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Young, Devin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Patch, Ben",
+            "Boyce, Ryan"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Falls, Denny",
+            "Shaw, James"
+          ],
+          "server": "Boyce, Ryan"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ACE",
+            "Kneller, Jake"
+          ],
+          "server": "Sander, Taylor"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "Sander, Taylor"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Hatch, Michael",
+            "Boyce, Ryan"
+          ],
+          "server": "Falls, Denny"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Hatch, Michael"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Sander, Taylor",
+            "Boyce, Ryan"
+          ],
+          "server": "Cook, Brian"
+        },
+        [
+          "TIMEOUT",
+          "Timeout (Media)."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Mochalski, Eric",
+            "Shaw, James"
+          ],
+          "server": "Patch, Ben"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Sander, Taylor",
+            "Boyce, Ryan"
+          ],
+          "server": "Kneller, Jake"
+        },
+        [
+          "SUB",
+          "BYU subs: Rindfleisch, Steve; Boyce, Ryan."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Rivera, Josue"
+        },
+        [
+          "SUB",
+          "BYU subs: Boyce, Ryan; Rindfleisch, Steve."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        [
+          "TIMEOUT",
+          "Timeout BYU."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "BAD_SET",
+            "Boyce, Ryan"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Patch, Ben",
+            "Boyce, Ryan"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Patch, Ben",
+            "Sander, Taylor"
+          ],
+          "server": "Young, Devin"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Sander, Taylor",
+            "Boyce, Ryan"
+          ],
+          "server": "Young, Devin"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "Young, Devin"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Patch, Ben",
+            "Boyce, Ryan"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Sander, Taylor"
+          ],
+          "server": "Boyce, Ryan"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Cook, Brian"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Sander, Taylor"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Patch, Ben",
+            "Boyce, Ryan"
+          ],
+          "server": "Falls, Denny"
+        }
+      ],
+      "starters": {
+        "Stanford": [
+          "Shaw, James",
+          "Cook, Brian",
+          "Kneller, Jake",
+          "Mochalski, Eric",
+          "Falls, Denny",
+          "Irvin, Steven",
+          "Delgado, Grant"
+        ],
+        "BYU": [
+          "Sander, Taylor",
+          "Boyce, Ryan",
+          "Young, Devin",
+          "Patch, Ben",
+          "Hatch, Michael",
+          "Rivera, Josue",
+          "Reyes, Jaylen"
+        ]
+      }
+    }
+  },
+  "teams": [
+    [
+      "stats.ncaa.org/79751",
+      "Stanford"
+    ],
+    [
+      "stats.ncaa.org/79726",
+      "BYU"
+    ]
+  ]
+}

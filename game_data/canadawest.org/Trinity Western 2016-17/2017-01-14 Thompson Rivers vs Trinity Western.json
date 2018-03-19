@@ -1,0 +1,1663 @@
+{
+  "id": "canadawest.org:game/20170114_kj1t",
+  "sets": {
+    "1": {
+      "events": [
+        {
+          "server": "Blake Scheerhoorn",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Sam Taylor parks",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "server": "Charlie Bringloe",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Leigh Goossen",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Leigh Goossen",
+          "point": "TWU",
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ]
+        },
+        {
+          "server": "Leigh Goossen",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Sam Taylor parks",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "server": "Sam Taylor parks",
+          "point": "TRUMVB",
+          "event": [
+            "ATTACK_ERROR",
+            "Adam Schriemer",
+            [
+              "Kyle Behiels"
+            ]
+          ]
+        },
+        {
+          "server": "Sam Taylor parks",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Adam Schriemer",
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Kyle Behiels"
+          ]
+        },
+        {
+          "server": "Adam Schriemer",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "server": "Tim Edge",
+          "point": "TRUMVB",
+          "event": [
+            "ATTACK_ERROR",
+            "Aaron Boettcher"
+          ]
+        },
+        {
+          "server": "Tim Edge",
+          "point": "TRUMVB",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater",
+            [
+              "Kyle Behiels",
+              "Randy Grundmann"
+            ]
+          ]
+        },
+        {
+          "server": "Tim Edge",
+          "point": "TRUMVB",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater"
+          ]
+        },
+        {
+          "server": "Tim Edge",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Charlie Bringloe",
+            "Jakob Hamilton"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        {
+          "server": "Tim Edge",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Ryan Sclater",
+          "point": "TWU",
+          "event": [
+            "SERVICE_ACE",
+            "Cole Keddie"
+          ]
+        },
+        {
+          "server": "Ryan Sclater",
+          "point": "TRUMVB",
+          "event": [
+            "BAD_SET",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Randy Grundmann",
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Aaron Boettcher",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "server": "Kyle Behiels",
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Scott Plocktis",
+          "point": "TRUMVB",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Jakob Hamilton",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Blake Scheerhoorn",
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Edge",
+            [
+              "Leigh Goossen",
+              "Adam Schriemer"
+            ]
+          ]
+        },
+        {
+          "server": "Blake Scheerhoorn",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Charlie Bringloe",
+            "Jakob Hamilton"
+          ]
+        },
+        [
+          "SUB",
+          "TWU subs: Carter Bergen."
+        ],
+        {
+          "server": "Charlie Bringloe",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Leigh Goossen",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "server": "Sam Taylor parks",
+          "point": "TRUMVB",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater"
+          ]
+        },
+        {
+          "server": "Sam Taylor parks",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Adam Schriemer",
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Randy Grundmann",
+            [
+              "Scott Plocktis"
+            ]
+          ]
+        },
+        {
+          "server": "Adam Schriemer",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "server": "Tim Edge",
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        [
+          "SUB",
+          "TWU subs: Blake Scheerhoorn."
+        ],
+        {
+          "server": "Ryan Sclater",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Scott Plocktis",
+            "Adam Schriemer"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        [
+          "SUB",
+          "TRUMVB subs: Joshua Mullaney; Tyler Pomietlarz."
+        ],
+        {
+          "server": "Ryan Sclater",
+          "point": "TRUMVB",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Randy Grundmann",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Aaron Boettcher",
+          "point": "TRUMVB",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Kyle Behiels",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Scott Plocktis",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Scott Plocktis",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Adam Schriemer"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "server": "Scott Plocktis",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Scott Plocktis",
+          "point": "TWU",
+          "event": [
+            "SERVICE_ACE",
+            "Charlie Bringloe"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "server": "Scott Plocktis",
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Joshua Mullaney"
+          ]
+        },
+        {
+          "server": "Scott Plocktis",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Charlie Bringloe",
+            "Tyler Pomietlarz"
+          ]
+        },
+        [
+          "SUB",
+          "TRUMVB subs: Tim Edge; Jakob Hamilton."
+        ],
+        {
+          "server": "Jakob Hamilton",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Leigh Goossen",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Blake Scheerhoorn",
+          "point": "TWU",
+          "event": [
+            "SERVICE_ACE",
+            "Charlie Bringloe"
+          ]
+        },
+        {
+          "server": "Blake Scheerhoorn",
+          "point": "TRUMVB",
+          "event": [
+            "SERVICE_ACE",
+            ""
+          ]
+        }
+      ],
+      "starters": {
+        "TRUMVB": [
+          "Jakob Hamilton",
+          "Charlie Bringloe",
+          "Randy Grundmann",
+          "Sam Taylor parks",
+          "Tim Edge",
+          "Kyle Behiels",
+          "Cole Keddie"
+        ],
+        "TWU": [
+          "Blake Scheerhoorn",
+          "Ryan Sclater",
+          "Scott Plocktis",
+          "Adam Schriemer",
+          "Aaron Boettcher",
+          "Leigh Goossen",
+          "Mark Antoniuk"
+        ]
+      }
+    },
+    "2": {
+      "events": [
+        {
+          "server": "Jakob Hamilton",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Leigh Goossen",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Leigh Goossen",
+          "point": "TRUMVB",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Charlie Bringloe",
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Adam Schriemer",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "server": "Sam Taylor parks",
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Ryan Sclater",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Jakob Hamilton",
+            "Cole Keddie"
+          ]
+        },
+        {
+          "server": "Tim Edge",
+          "point": "TRUMVB",
+          "event": [
+            "SERVICE_ACE",
+            "Mark Antoniuk"
+          ]
+        },
+        {
+          "server": "Tim Edge",
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Aaron Boettcher",
+          "point": "TWU",
+          "event": [
+            "SERVICE_ACE",
+            "Charlie Bringloe"
+          ]
+        },
+        {
+          "server": "Aaron Boettcher",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Kyle Behiels",
+            "Tim Edge"
+          ]
+        },
+        {
+          "server": "Randy Grundmann",
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Scott Plocktis",
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Charlie Bringloe"
+          ]
+        },
+        {
+          "server": "Scott Plocktis",
+          "point": "TWU",
+          "event": [
+            "SERVICE_ACE",
+            "Tim Edge"
+          ]
+        },
+        {
+          "server": "Scott Plocktis",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Adam Schriemer"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "server": "Scott Plocktis",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Charlie Bringloe",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "server": "Kyle Behiels",
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Blake Scheerhoorn",
+          "point": "TRUMVB",
+          "event": [
+            "ATTACK_ERROR",
+            "Scott Plocktis"
+          ]
+        },
+        [
+          "SUB",
+          "TWU subs: Ben Lieuwen."
+        ],
+        {
+          "server": "Jakob Hamilton",
+          "point": "TRUMVB",
+          "event": [
+            "ATTACK_ERROR",
+            "Scott Plocktis"
+          ]
+        },
+        {
+          "server": "Jakob Hamilton",
+          "point": "TRUMVB",
+          "event": [
+            "BAD_SET",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Jakob Hamilton",
+          "point": "TRUMVB",
+          "event": [
+            "ATTACK_ERROR",
+            "Leigh Goossen"
+          ]
+        },
+        {
+          "server": "Jakob Hamilton",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Leigh Goossen",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Leigh Goossen",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Sam Taylor parks",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "server": "Charlie Bringloe",
+          "point": "TRUMVB",
+          "event": [
+            "ATTACK_ERROR",
+            "Ben Lieuwen"
+          ]
+        },
+        {
+          "server": "Charlie Bringloe",
+          "point": "TRUMVB",
+          "event": [
+            "SERVICE_ACE",
+            "Ryan Sclater"
+          ]
+        },
+        {
+          "server": "Charlie Bringloe",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Sam Taylor parks"
+          ]
+        },
+        {
+          "server": "Charlie Bringloe",
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Adam Schriemer",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Sam Taylor parks",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "server": "Sam Taylor parks",
+          "point": "TRUMVB",
+          "event": [
+            "ATTACK_ERROR",
+            "Aaron Boettcher",
+            [
+              "Kyle Behiels"
+            ]
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "server": "Sam Taylor parks",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        [
+          "SUB",
+          "TWU subs: Blake Scheerhoorn."
+        ],
+        {
+          "server": "Ryan Sclater",
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Randy Grundmann",
+            [
+              "Scott Plocktis",
+              "Aaron Boettcher"
+            ]
+          ]
+        },
+        {
+          "server": "Ryan Sclater",
+          "point": "TRUMVB",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        [
+          "SUB",
+          "TRUMVB subs: Joshua Mullaney; Tyler Pomietlarz."
+        ],
+        {
+          "server": "Tyler Pomietlarz",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Aaron Boettcher",
+          "point": "TRUMVB",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Randy Grundmann",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Scott Plocktis",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Scott Plocktis",
+          "point": "TRUMVB",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        [
+          "SUB",
+          "TWU subs: Carter Bergen."
+        ],
+        {
+          "server": "Kyle Behiels",
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Joshua Mullaney"
+          ]
+        },
+        {
+          "server": "Blake Scheerhoorn",
+          "point": "TRUMVB",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater"
+          ]
+        },
+        [
+          "SUB",
+          "TRUMVB subs: Tim Edge; Jakob Hamilton."
+        ],
+        {
+          "server": "Jakob Hamilton",
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Leigh Goossen",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Leigh Goossen",
+          "point": "TRUMVB",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Charlie Bringloe",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Sam Taylor parks"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        {
+          "server": "Charlie Bringloe",
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        [
+          "SUB",
+          "TWU subs: Scott Plocktis."
+        ],
+        {
+          "server": "Adam Schriemer",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Sam Taylor parks",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "server": "Sam Taylor parks",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "server": "Ryan Sclater",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Jakob Hamilton"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        {
+          "server": "Tim Edge",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Jakob Hamilton"
+          ]
+        }
+      ],
+      "starters": {
+        "TRUMVB": [
+          "Sam Taylor parks",
+          "Jakob Hamilton",
+          "Randy Grundmann",
+          "Tim Edge",
+          "Kyle Behiels",
+          "Charlie Bringloe",
+          "Cole Keddie"
+        ],
+        "TWU": [
+          "Aaron Boettcher",
+          "Blake Scheerhoorn",
+          "Scott Plocktis",
+          "Leigh Goossen",
+          "Adam Schriemer",
+          "Ryan Sclater",
+          "Mark Antoniuk"
+        ]
+      }
+    },
+    "3": {
+      "events": [
+        {
+          "server": "Blake Scheerhoorn",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Blake Scheerhoorn",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Sam Taylor parks",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "server": "Charlie Bringloe",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "server": "Charlie Bringloe",
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Leigh Goossen",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "server": "Sam Taylor parks",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Adam Schriemer",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "server": "Tim Edge",
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Ryan Sclater",
+          "point": "TWU",
+          "event": [
+            "SERVICE_ACE",
+            "Charlie Bringloe"
+          ]
+        },
+        {
+          "server": "Ryan Sclater",
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Edge",
+            [
+              "Aaron Boettcher",
+              "Blake Scheerhoorn"
+            ]
+          ]
+        },
+        {
+          "server": "Ryan Sclater",
+          "point": "TWU",
+          "event": [
+            "SERVICE_ACE",
+            "Charlie Bringloe"
+          ]
+        },
+        {
+          "server": "Ryan Sclater",
+          "point": "TRUMVB",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Randy Grundmann",
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Charlie Bringloe"
+          ]
+        },
+        {
+          "server": "Aaron Boettcher",
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Charlie Bringloe"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "server": "Aaron Boettcher",
+          "point": "TRUMVB",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Kyle Behiels",
+          "point": "TRUMVB",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater"
+          ]
+        },
+        {
+          "server": "Kyle Behiels",
+          "point": "TRUMVB",
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ]
+        },
+        {
+          "server": "Kyle Behiels",
+          "point": "TRUMVB",
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ]
+        },
+        {
+          "server": "Kyle Behiels",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Scott Plocktis",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Sam Taylor parks",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "server": "Jakob Hamilton",
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Charlie Bringloe",
+            [
+              "Adam Schriemer",
+              "Leigh Goossen"
+            ]
+          ]
+        },
+        {
+          "server": "Blake Scheerhoorn",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Blake Scheerhoorn",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "server": "Charlie Bringloe",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Sam Taylor parks",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "server": "Charlie Bringloe",
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Leigh Goossen",
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Edge",
+            [
+              "Ryan Sclater",
+              "Aaron Boettcher"
+            ]
+          ]
+        },
+        {
+          "server": "Leigh Goossen",
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Randy Grundmann"
+          ]
+        },
+        {
+          "server": "Leigh Goossen",
+          "point": "TWU",
+          "event": [
+            "SERVICE_ACE",
+            "Charlie Bringloe"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "server": "Leigh Goossen",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Leigh Goossen",
+          "point": "TWU",
+          "event": [
+            "SERVICE_ACE",
+            "Charlie Bringloe"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "server": "Leigh Goossen",
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Randy Grundmann",
+            [
+              "Adam Schriemer"
+            ]
+          ]
+        },
+        {
+          "server": "Leigh Goossen",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Randy Grundmann"
+          ]
+        },
+        {
+          "server": "Sam Taylor parks",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Scott Plocktis",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Adam Schriemer",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Kyle Behiels",
+            "Jakob Hamilton"
+          ]
+        },
+        [
+          "SUB",
+          "TRUMVB subs: Joshua Mullaney; Tyler Pomietlarz."
+        ],
+        {
+          "server": "Tyler Pomietlarz",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Ryan Sclater",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Cole Keddie"
+          ]
+        },
+        {
+          "server": "Randy Grundmann",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Scott Plocktis",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Aaron Boettcher",
+          "point": "TWU",
+          "event": [
+            "SERVICE_ACE",
+            "Cole Keddie"
+          ]
+        },
+        {
+          "server": "Aaron Boettcher",
+          "point": "TRUMVB",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Kyle Behiels",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Scott Plocktis",
+            "Adam Schriemer"
+          ]
+        },
+        [
+          "SUB",
+          "TWU subs: Ben Lieuwen."
+        ],
+        {
+          "server": "Ben Lieuwen",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Adam Schriemer"
+          ]
+        }
+      ],
+      "starters": {
+        "TRUMVB": [
+          "Randy Grundmann",
+          "Sam Taylor parks",
+          "Kyle Behiels",
+          "Tim Edge",
+          "Jakob Hamilton",
+          "Charlie Bringloe",
+          "Cole Keddie"
+        ],
+        "TWU": [
+          "Ryan Sclater",
+          "Adam Schriemer",
+          "Aaron Boettcher",
+          "Scott Plocktis",
+          "Leigh Goossen",
+          "Blake Scheerhoorn",
+          "Mark Antoniuk"
+        ]
+      }
+    },
+    "4": {
+      "events": [
+        {
+          "server": "Jakob Hamilton",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater"
+          ]
+        },
+        {
+          "server": "Leigh Goossen",
+          "point": "TRUMVB",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Charlie Bringloe",
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Adam Schriemer",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "server": "Sam Taylor parks",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Ryan Sclater",
+          "point": "TRUMVB",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Tim Edge",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Aaron Boettcher",
+          "point": "TRUMVB",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Randy Grundmann",
+          "point": "TWU",
+          "event": [
+            "BAD_SET",
+            "Charlie Bringloe"
+          ]
+        },
+        {
+          "server": "Scott Plocktis",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Scott Plocktis"
+          ]
+        },
+        {
+          "server": "Scott Plocktis",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Ryan Sclater"
+          ]
+        },
+        {
+          "server": "Scott Plocktis",
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Charlie Bringloe",
+            [
+              "Leigh Goossen"
+            ]
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "server": "Scott Plocktis",
+          "point": "TWU",
+          "event": [
+            "SERVICE_ACE",
+            "Randy Grundmann"
+          ]
+        },
+        {
+          "server": "Scott Plocktis",
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Kyle Behiels"
+          ]
+        },
+        [
+          "SUB",
+          "TRUMVB subs: Daniel Eikland rod."
+        ],
+        {
+          "server": "Scott Plocktis",
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Randy Grundmann"
+          ]
+        },
+        {
+          "server": "Scott Plocktis",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Daniel Eikland rod",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "server": "Kyle Behiels",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Blake Scheerhoorn",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "server": "Jakob Hamilton",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Leigh Goossen",
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Edge",
+            [
+              "Aaron Boettcher",
+              "Adam Schriemer"
+            ]
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "server": "Leigh Goossen",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Leigh Goossen",
+          "point": "TRUMVB",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Daniel Eikland rod",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "server": "Adam Schriemer",
+          "point": "TRUMVB",
+          "event": [
+            "ATTACK_ERROR",
+            "Blake Scheerhoorn",
+            [
+              "Sam Taylor parks"
+            ]
+          ]
+        },
+        {
+          "server": "Sam Taylor parks",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Ryan Sclater",
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Randy Grundmann"
+          ]
+        },
+        {
+          "server": "Ryan Sclater",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Kyle Behiels",
+            "Jakob Hamilton"
+          ]
+        },
+        [
+          "YELLOW_CARD",
+          "TRUMVB",
+          "Kyle Behiels",
+          false
+        ],
+        {
+          "server": "Tim Edge",
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Aaron Boettcher",
+          "point": "TRUMVB",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Randy Grundmann",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Scott Plocktis",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Scott Plocktis",
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Kyle Behiels"
+          ]
+        },
+        {
+          "server": "Scott Plocktis",
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Daniel Eikland rod"
+          ]
+        },
+        {
+          "server": "Scott Plocktis",
+          "point": "TRUMVB",
+          "event": [
+            "KILL",
+            "Daniel Eikland rod",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "server": "Kyle Behiels",
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "server": "Blake Scheerhoorn",
+          "point": "TRUMVB",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Jakob Hamilton",
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Leigh Goossen",
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Sam Taylor parks"
+          ]
+        }
+      ],
+      "starters": {
+        "TRUMVB": [
+          "Charlie Bringloe",
+          "Sam Taylor parks",
+          "Tim Edge",
+          "Kyle Behiels",
+          "Randy Grundmann",
+          "Jakob Hamilton",
+          "Cole Keddie"
+        ],
+        "TWU": [
+          "Ryan Sclater",
+          "Adam Schriemer",
+          "Scott Plocktis",
+          "Aaron Boettcher",
+          "Leigh Goossen",
+          "Blake Scheerhoorn",
+          "Mark Antoniuk"
+        ]
+      }
+    }
+  },
+  "source": "canadawest.org",
+  "teams": [
+    [
+      "canadawest.org:team/w41s4fuy1ldg73vw",
+      "Thompson Rivers"
+    ],
+    [
+      "canadawest.org:team/dtjw1qxi3rsm18q9",
+      "Trinity Western"
+    ]
+  ],
+  "date": "2017-01-14"
+}

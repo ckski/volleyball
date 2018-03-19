@@ -1,0 +1,1333 @@
+{
+  "source": "stats.ncaa.org",
+  "date": "2017-04-15",
+  "id": "stats.ncaa.org/game/4353146",
+  "sets": {
+    "1": {
+      "events": [
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "McCall, Colin"
+          ],
+          "server": "Leo Durkin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "McCall, Colin",
+            "Bischoff, Paul"
+          ],
+          "server": "Leo Durkin"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "BHE",
+            "Rakestraw, Kevin"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Vega, Gabriel",
+            "Bischoff, Paul"
+          ],
+          "server": "Jake Langlois"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Vega, Gabriel"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Tim Dobbert",
+            "Joseph Grosh"
+          ],
+          "server": "Joseph Grosh"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Price Jarman"
+          ],
+          "server": "Joseph Grosh"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Tim Dobbert",
+            "Leo Durkin"
+          ],
+          "server": "McCall, Colin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Tim Dobbert"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Thoenen, Jacob"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ACE",
+            "McCall, Colin"
+          ],
+          "server": "Brenden Sander"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "McCall, Colin",
+            "Bischoff, Paul"
+          ],
+          "server": "Brenden Sander"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Brenden Sander",
+            "Leo Durkin"
+          ],
+          "server": "Bischoff, Paul"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Vega, Gabriel",
+            "Bischoff, Paul"
+          ],
+          "server": "Price Jarman"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Vega, Gabriel",
+            [
+              "Jake Langlois",
+              "Joseph Grosh"
+            ]
+          ],
+          "server": "Jones, Clay"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Rakestraw, Kevin",
+            [
+              "Joseph Grosh",
+              "Jake Langlois"
+            ]
+          ],
+          "server": "Leo Durkin"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Brenden Sander",
+            "Leo Durkin"
+          ],
+          "server": "Leo Durkin"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "BHE",
+            "Leo Durkin"
+          ],
+          "server": "Leo Durkin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "McCall, Colin",
+            "Bischoff, Paul"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Tim Dobbert",
+            "Leo Durkin"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Thoenen, Jacob",
+            "Bischoff, Paul"
+          ],
+          "server": "Jake Langlois"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Vega, Gabriel"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Vega, Gabriel",
+            "Bischoff, Paul"
+          ],
+          "server": "Joseph Grosh"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Jones, Clay"
+          ],
+          "server": "McCall, Colin"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ACE",
+            "Vega, Gabriel"
+          ],
+          "server": "Tim Dobbert"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Thoenen, Jacob",
+            "Bischoff, Paul"
+          ],
+          "server": "Tim Dobbert"
+        },
+        [
+          "SUB",
+          "Stanford subs: Dervay, Russell; Thoenen, Jacob."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Dervay, Russell"
+        },
+        [
+          "SUB",
+          "Stanford subs: Thoenen, Jacob; Dervay, Russell."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Brenden Sander"
+          ],
+          "server": "Brenden Sander"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Bischoff, Paul"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Rakestraw, Kevin",
+            "Bischoff, Paul"
+          ],
+          "server": "Price Jarman"
+        },
+        [
+          "SUB",
+          "Stanford subs: Dagostino, Kyle; Jones, Clay."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Dagostino, Kyle"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Jake Langlois",
+            [
+              "Rakestraw, Kevin",
+              "Vega, Gabriel"
+            ]
+          ],
+          "server": "Leo Durkin"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Tim Dobbert",
+            "Leo Durkin"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "McCall, Colin",
+            [
+              "Tim Dobbert",
+              "Joseph Grosh"
+            ]
+          ],
+          "server": "Jake Langlois"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "McCall, Colin",
+            "Bischoff, Paul",
+            "Tim Dobbert"
+          ],
+          "server": "Jake Langlois"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Tim Dobbert",
+            "Leo Durkin"
+          ],
+          "server": "Vega, Gabriel"
+        },
+        [
+          "SUB",
+          "BYU subs: Wil Stanley; Joseph Grosh."
+        ],
+        [
+          "SUB",
+          "Stanford subs: Jones, Clay; Dagostino, Kyle."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Wil Stanley"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "McCall, Colin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Vega, Gabriel",
+            "Bischoff, Paul"
+          ],
+          "server": "Tim Dobbert"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Price Jarman",
+            "Leo Durkin"
+          ],
+          "server": "Thoenen, Jacob"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Dobbert"
+          ],
+          "server": "Brenden Sander"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Jake Langlois",
+            "Leo Durkin"
+          ],
+          "server": "Bischoff, Paul"
+        },
+        [
+          "SUB",
+          "BYU subs: Joseph Grosh; Wil Stanley."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Jones, Clay",
+            "Enriques, Evan"
+          ],
+          "server": "Price Jarman"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Joseph Grosh",
+            "Leo Durkin"
+          ],
+          "server": "Jones, Clay"
+        }
+      ],
+      "starters": {
+        "Stanford": [
+          "McCall, Colin",
+          "Bischoff, Paul",
+          "Vega, Gabriel",
+          "Thoenen, Jacob",
+          "Jones, Clay",
+          "Rakestraw, Kevin",
+          "Enriques, Evan"
+        ],
+        "BYU": [
+          "Leo Durkin",
+          "Price Jarman",
+          "Joseph Grosh",
+          "Jake Langlois",
+          "Brenden Sander",
+          "Tim Dobbert",
+          "Erik Sikes"
+        ]
+      }
+    },
+    "2": {
+      "events": [
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Brenden Sander",
+            "Leo Durkin",
+            "Jones, Clay"
+          ],
+          "server": "McCall, Colin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Vega, Gabriel",
+            "Bischoff, Paul"
+          ],
+          "server": "Leo Durkin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Vega, Gabriel",
+            "Bischoff, Paul"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Jake Langlois",
+            "Leo Durkin"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Jones, Clay",
+            "Bischoff, Paul"
+          ],
+          "server": "Jake Langlois"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Bischoff, Paul"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Thoenen, Jacob",
+            "Bischoff, Paul"
+          ],
+          "server": "Joseph Grosh"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Jones, Clay"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Brenden Sander"
+          ],
+          "server": "Tim Dobbert"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Thoenen, Jacob"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ACE",
+            "Jones, Clay"
+          ],
+          "server": "Brenden Sander"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Brenden Sander"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Tim Dobbert",
+            "Leo Durkin"
+          ],
+          "server": "Vega, Gabriel"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "BAD_SET",
+            "Price Jarman"
+          ],
+          "server": "Price Jarman"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Dobbert"
+          ],
+          "server": "McCall, Colin"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Jake Langlois",
+            "Leo Durkin"
+          ],
+          "server": "McCall, Colin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Jones, Clay",
+            "Enriques, Evan"
+          ],
+          "server": "Leo Durkin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Jones, Clay",
+            "Bischoff, Paul",
+            "Jake Langlois"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Dobbert"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        [
+          "TIMEOUT",
+          "Timeout BYU."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Tim Dobbert"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Jones, Clay"
+          ],
+          "server": "Jake Langlois"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ACE",
+            "McCall, Colin"
+          ],
+          "server": "Jake Langlois"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ACE",
+            "McCall, Colin"
+          ],
+          "server": "Jake Langlois"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Jones, Clay",
+            [
+              "Tim Dobbert",
+              "Joseph Grosh"
+            ]
+          ],
+          "server": "Jake Langlois"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Vega, Gabriel",
+            "Bischoff, Paul"
+          ],
+          "server": "Jake Langlois"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Bischoff, Paul"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "McCall, Colin"
+          ],
+          "server": "Joseph Grosh"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Joseph Grosh"
+        },
+        [
+          "SUB",
+          "Stanford subs: Dagostino, Kyle; Jones, Clay."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "McCall, Colin",
+            "Enriques, Evan"
+          ],
+          "server": "Dagostino, Kyle"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ACE",
+            "Erik Sikes"
+          ],
+          "server": "Dagostino, Kyle"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Dagostino, Kyle"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Price Jarman",
+            "Leo Durkin"
+          ],
+          "server": "Tim Dobbert"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Brenden Sander",
+            "Leo Durkin"
+          ],
+          "server": "Tim Dobbert"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ACE",
+            "Dagostino, Kyle"
+          ],
+          "server": "Tim Dobbert"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Tim Dobbert"
+        },
+        [
+          "SUB",
+          "Stanford subs: Ewert, Jordan; Thoenen, Jacob."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Ewert, Jordan"
+        },
+        [
+          "SUB",
+          "Stanford subs: Thoenen, Jacob; Ewert, Jordan."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ACE",
+            "McCall, Colin"
+          ],
+          "server": "Brenden Sander"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Vega, Gabriel",
+            [
+              "Price Jarman",
+              "Leo Durkin",
+              "Jake Langlois"
+            ]
+          ],
+          "server": "Brenden Sander"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Brenden Sander"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Price Jarman"
+          ],
+          "server": "Vega, Gabriel"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Rakestraw, Kevin"
+          ],
+          "server": "Vega, Gabriel"
+        },
+        [
+          "SUB",
+          "BYU subs: Wil Stanley; Price Jarman."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Wil Stanley"
+        },
+        [
+          "SUB",
+          "Stanford subs: Jones, Clay; Dagostino, Kyle."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Rakestraw, Kevin",
+            "Bischoff, Paul"
+          ],
+          "server": "McCall, Colin"
+        },
+        [
+          "TIMEOUT",
+          "Timeout BYU."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Tim Dobbert",
+            "Leo Durkin"
+          ],
+          "server": "McCall, Colin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Rakestraw, Kevin",
+            "Bischoff, Paul"
+          ],
+          "server": "Leo Durkin"
+        },
+        [
+          "YELLOW_CARD",
+          "BYU",
+          16,
+          false
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Rakestraw, Kevin"
+        }
+      ],
+      "starters": {
+        "Stanford": [
+          "Rakestraw, Kevin",
+          "Vega, Gabriel",
+          "Bischoff, Paul",
+          "Jones, Clay",
+          "Thoenen, Jacob",
+          "McCall, Colin",
+          "Enriques, Evan"
+        ],
+        "BYU": [
+          "Jake Langlois",
+          "Joseph Grosh",
+          "Price Jarman",
+          "Leo Durkin",
+          "Brenden Sander",
+          "Tim Dobbert",
+          "Erik Sikes"
+        ]
+      }
+    },
+    "3": {
+      "events": [
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Price Jarman",
+            "Leo Durkin"
+          ],
+          "server": "Brenden Sander"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Price Jarman"
+          ],
+          "server": "Brenden Sander"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Jones, Clay"
+          ],
+          "server": "Brenden Sander"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Brenden Sander"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Tim Dobbert",
+            "Leo Durkin"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Vega, Gabriel",
+            "Bischoff, Paul"
+          ],
+          "server": "Price Jarman"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Jake Langlois",
+            "Leo Durkin"
+          ],
+          "server": "Bischoff, Paul"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Jones, Clay"
+          ],
+          "server": "Leo Durkin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Leo Durkin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "McCall, Colin",
+            "Enriques, Evan"
+          ],
+          "server": "Jones, Clay"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Brenden Sander",
+            "Leo Durkin"
+          ],
+          "server": "Jones, Clay"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "McCall, Colin"
+          ],
+          "server": "Jake Langlois"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Jake Langlois"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Thoenen, Jacob"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Joseph Grosh"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Vega, Gabriel"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Rakestraw, Kevin",
+            "Bischoff, Paul"
+          ],
+          "server": "Tim Dobbert"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Brenden Sander",
+            "Leo Durkin"
+          ],
+          "server": "McCall, Colin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Bischoff, Paul",
+            "Enriques, Evan"
+          ],
+          "server": "Brenden Sander"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Vega, Gabriel"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Tim Dobbert",
+            "Leo Durkin"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "McCall, Colin"
+          ],
+          "server": "Price Jarman"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Vega, Gabriel",
+            "Bischoff, Paul"
+          ],
+          "server": "Price Jarman"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Bischoff, Paul"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Dobbert",
+            [
+              "Thoenen, Jacob",
+              "Vega, Gabriel"
+            ]
+          ],
+          "server": "Leo Durkin"
+        },
+        [
+          "SUB",
+          "Stanford subs: Dagostino, Kyle; Jones, Clay."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "McCall, Colin",
+            "Bischoff, Paul"
+          ],
+          "server": "Dagostino, Kyle"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Joseph Grosh"
+          ],
+          "server": "Dagostino, Kyle"
+        },
+        [
+          "TIMEOUT",
+          "Timeout (Media)."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Brenden Sander",
+            "Leo Durkin"
+          ],
+          "server": "Jake Langlois"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Vega, Gabriel",
+            "Bischoff, Paul"
+          ],
+          "server": "Jake Langlois"
+        },
+        [
+          "SUB",
+          "Stanford subs: Ewert, Jordan; Thoenen, Jacob."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "BHE",
+            "Leo Durkin"
+          ],
+          "server": "Ewert, Jordan"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Tim Dobbert",
+            "Leo Durkin"
+          ],
+          "server": "Ewert, Jordan"
+        },
+        [
+          "SUB",
+          "Stanford subs: Thoenen, Jacob; Ewert, Jordan."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "BHE",
+            "Joseph Grosh"
+          ],
+          "server": "Joseph Grosh"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Tim Dobbert",
+            "Leo Durkin"
+          ],
+          "server": "Vega, Gabriel"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "McCall, Colin",
+            [
+              "Price Jarman",
+              "Leo Durkin"
+            ]
+          ],
+          "server": "Tim Dobbert"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Tim Dobbert"
+        },
+        [
+          "SUB",
+          "Stanford subs: Jones, Clay; Dagostino, Kyle."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Jake Langlois",
+            "Leo Durkin"
+          ],
+          "server": "McCall, Colin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Brenden Sander"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "BHE",
+            "Thoenen, Jacob"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        [
+          "SUB",
+          "BYU subs: Kiril Meretev; Price Jarman."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Vega, Gabriel",
+            "Bischoff, Paul",
+            "Joseph Grosh"
+          ],
+          "server": "Kiril Meretev"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Joseph Grosh",
+            "Leo Durkin"
+          ],
+          "server": "Bischoff, Paul"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "Tim Dobbert",
+            "Erik Sikes"
+          ],
+          "server": "Leo Durkin"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Vega, Gabriel",
+            [
+              "Tim Dobbert",
+              "Joseph Grosh"
+            ]
+          ],
+          "server": "Leo Durkin"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Vega, Gabriel",
+            [
+              "Tim Dobbert",
+              "Joseph Grosh"
+            ]
+          ],
+          "server": "Leo Durkin"
+        }
+      ],
+      "starters": {
+        "Stanford": [
+          "Rakestraw, Kevin",
+          "Bischoff, Paul",
+          "Vega, Gabriel",
+          "Jones, Clay",
+          "Thoenen, Jacob",
+          "McCall, Colin",
+          "Enriques, Evan"
+        ],
+        "BYU": [
+          "Leo Durkin",
+          "Price Jarman",
+          "Joseph Grosh",
+          "Tim Dobbert",
+          "Brenden Sander",
+          "Jake Langlois",
+          "Erik Sikes"
+        ]
+      }
+    }
+  },
+  "teams": [
+    [
+      "stats.ncaa.org/43636",
+      "Stanford"
+    ],
+    [
+      "stats.ncaa.org/43613",
+      "BYU"
+    ]
+  ]
+}

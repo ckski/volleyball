@@ -1,0 +1,1898 @@
+{
+  "teams": [
+    [
+      "canadawest.org:team/ismg6mi3ytuao2qw",
+      "Brandon"
+    ],
+    [
+      "canadawest.org:team/dtjw1qxi3rsm18q9",
+      "Trinity Western"
+    ]
+  ],
+  "source": "canadawest.org",
+  "id": "canadawest.org:game/20170203_chcs",
+  "date": "2017-02-03",
+  "sets": {
+    "1": {
+      "starters": {
+        "BRNM": [
+          "Reece Dixon",
+          "Seth Friesen",
+          "James Weir",
+          "Elliott Viles",
+          "Matt Powell",
+          "Mason Metcalf",
+          "Jeremy Davies"
+        ],
+        "TWU": [
+          "Pearson Eshenko",
+          "Blake Scheerhoorn",
+          "Eric Loeppky",
+          "Ryan Sclater",
+          "Adam Schriemer",
+          "Aaron Boettcher",
+          "Carter Bergen"
+        ]
+      },
+      "events": [
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Matt Powell"
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Seth Friesen"
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Reece Dixon"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "ATTACK_ERROR",
+            "Eric Loeppky"
+          ],
+          "server": "Eric Loeppky"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Seth Friesen",
+            "Reece Dixon"
+          ],
+          "server": "Elliott Viles"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "ATTACK_ERROR",
+            "Blake Scheerhoorn"
+          ],
+          "server": "Elliott Viles"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Mason Metcalf"
+          ],
+          "server": "Elliott Viles"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Aaron Boettcher"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Adam Schriemer",
+            "Blake Scheerhoorn"
+          ],
+          "server": "Mason Metcalf"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ],
+          "server": "Ryan Sclater"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Adam Schriemer",
+            "Eric Loeppky"
+          ],
+          "server": "Ryan Sclater"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Ryan Sclater"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Pearson Eshenko",
+            "Adam Schriemer"
+          ],
+          "server": "Matt Powell"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "ATTACK_ERROR",
+            "Eric Loeppky"
+          ],
+          "server": "Blake Scheerhoorn"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Seth Friesen"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Reece Dixon",
+            "Seth Friesen"
+          ],
+          "server": "Pearson Eshenko"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Carter Bergen"
+          ],
+          "server": "James Weir"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Reece Dixon"
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Reece Dixon"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Elliott Viles"
+          ],
+          "server": "Eric Loeppky"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Brandon."
+        ],
+        {
+          "point": "BRNM",
+          "event": [
+            "ATTACK_ERROR",
+            "Aaron Boettcher",
+            [
+              "Mason Metcalf"
+            ]
+          ],
+          "server": "Eric Loeppky"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ],
+          "server": "Elliott Viles"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "ATTACK_ERROR",
+            "Blake Scheerhoorn",
+            [
+              "Matt Powell"
+            ]
+          ],
+          "server": "Aaron Boettcher"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Mason Metcalf"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "James Weir",
+            [
+              "Pearson Eshenko"
+            ]
+          ],
+          "server": "Ryan Sclater"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Brandon."
+        ],
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ACE",
+            "Jeremy Davies"
+          ],
+          "server": "Ryan Sclater"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Brandon."
+        ],
+        {
+          "point": "BRNM",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Ryan Sclater"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater"
+          ],
+          "server": "Matt Powell"
+        },
+        [
+          "SUB",
+          "BRNM subs: Jacob Reid."
+        ],
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Matt Powell"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Seth Friesen"
+          ],
+          "server": "Blake Scheerhoorn"
+        },
+        [
+          "SUB",
+          "BRNM subs: Daven Pascal."
+        ],
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Matt Powell"
+          ],
+          "server": "Blake Scheerhoorn"
+        },
+        [
+          "SUB",
+          "BRNM subs: Brady Nault."
+        ],
+        {
+          "point": "BRNM",
+          "event": [
+            "ATTACK_ERROR",
+            "Eric Loeppky",
+            [
+              "Jacob Reid",
+              "Daven Pascal"
+            ]
+          ],
+          "server": "Brady Nault"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Matt Powell",
+            "Jacob Reid"
+          ],
+          "server": "Brady Nault"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Elliott Viles"
+          ],
+          "server": "Brady Nault"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Elliott Viles",
+            [
+              "Eric Loeppky",
+              "Aaron Boettcher",
+              "Adam Schriemer"
+            ]
+          ],
+          "server": "Pearson Eshenko"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ],
+          "server": "Pearson Eshenko"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Matt Powell",
+            "Jacob Reid"
+          ],
+          "server": "Pearson Eshenko"
+        },
+        [
+          "SUB",
+          "BRNM subs: James Weir."
+        ],
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ],
+          "server": "James Weir"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Adam Schriemer"
+          ],
+          "server": "Adam Schriemer"
+        },
+        [
+          "SUB",
+          "BRNM subs: Reece Dixon."
+        ],
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Blake Scheerhoorn"
+          ],
+          "server": "Adam Schriemer"
+        }
+      ]
+    },
+    "2": {
+      "starters": {
+        "BRNM": [
+          "James Weir",
+          "Seth Friesen",
+          "Matt Powell",
+          "Mason Metcalf",
+          "Elliott Viles",
+          "Reece Dixon",
+          "Jeremy Davies"
+        ],
+        "TWU": [
+          "Pearson Eshenko",
+          "Eric Loeppky",
+          "Blake Scheerhoorn",
+          "Aaron Boettcher",
+          "Adam Schriemer",
+          "Ryan Sclater",
+          "Carter Bergen"
+        ]
+      },
+      "events": [
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Reece Dixon"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Reece Dixon"
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ],
+          "server": "Elliott Viles"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "SERVICE_ACE",
+            ""
+          ],
+          "server": "Eric Loeppky"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Eric Loeppky"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Seth Friesen",
+            "Reece Dixon"
+          ],
+          "server": "Mason Metcalf"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Mason Metcalf"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Seth Friesen"
+          ],
+          "server": "Aaron Boettcher"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Aaron Boettcher"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Matt Powell"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Adam Schriemer"
+          ],
+          "server": "Ryan Sclater"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "ATTACK_ERROR",
+            "Blake Scheerhoorn"
+          ],
+          "server": "Ryan Sclater"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ],
+          "server": "Seth Friesen"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ],
+          "server": "Blake Scheerhoorn"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Brandon."
+        ],
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Reece Dixon"
+          ],
+          "server": "Blake Scheerhoorn"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "James Weir"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "ATTACK_ERROR",
+            "Eric Loeppky",
+            [
+              "Mason Metcalf",
+              "Elliott Viles"
+            ]
+          ],
+          "server": "Pearson Eshenko"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "ATTACK_ERROR",
+            "Blake Scheerhoorn"
+          ],
+          "server": "Reece Dixon"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Adam Schriemer"
+          ],
+          "server": "Reece Dixon"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Mason Metcalf"
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Matt Powell"
+          ],
+          "server": "Adam Schriemer"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Brandon."
+        ],
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Matt Powell",
+            "Reece Dixon"
+          ],
+          "server": "Adam Schriemer"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Elliott Viles"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Eric Loeppky"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Mason Metcalf"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Reece Dixon"
+          ],
+          "server": "Aaron Boettcher"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Matt Powell"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Brandon."
+        ],
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "James Weir",
+            "Reece Dixon"
+          ],
+          "server": "Ryan Sclater"
+        },
+        [
+          "SUB",
+          "BRNM subs: Jacob Reid."
+        ],
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Pearson Eshenko",
+            "Adam Schriemer"
+          ],
+          "server": "Seth Friesen"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Blake Scheerhoorn"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Pearson Eshenko"
+          ],
+          "server": "Blake Scheerhoorn"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Jacob Reid"
+          ],
+          "server": "Blake Scheerhoorn"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "ATTACK_ERROR",
+            "Blake Scheerhoorn"
+          ],
+          "server": "James Weir"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "ATTACK_ERROR",
+            "Blake Scheerhoorn"
+          ],
+          "server": "James Weir"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "BAD_SET",
+            "Jacob Reid"
+          ],
+          "server": "James Weir"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Jacob Reid"
+          ],
+          "server": "Pearson Eshenko"
+        },
+        [
+          "SUB",
+          "BRNM subs: Reece Dixon."
+        ],
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Reece Dixon"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ],
+          "server": "Adam Schriemer"
+        },
+        [
+          "SUB",
+          "BRNM subs: Daven Pascal."
+        ],
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Reece Dixon"
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Seth Friesen"
+          ],
+          "server": "Elliott Viles"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Carter Bergen"
+          ],
+          "server": "Elliott Viles"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ],
+          "server": "Eric Loeppky"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Eric Loeppky"
+        },
+        [
+          "SUB",
+          "BRNM subs: Mason Metcalf."
+        ],
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ],
+          "server": "Mason Metcalf"
+        }
+      ]
+    },
+    "3": {
+      "starters": {
+        "BRNM": [
+          "Seth Friesen",
+          "James Weir",
+          "Reece Dixon",
+          "Mason Metcalf",
+          "Matt Powell",
+          "Elliott Viles",
+          "Jeremy Davies"
+        ],
+        "TWU": [
+          "Adam Schriemer",
+          "Eric Loeppky",
+          "Ryan Sclater",
+          "Pearson Eshenko",
+          "Blake Scheerhoorn",
+          "Aaron Boettcher",
+          "Carter Bergen"
+        ]
+      },
+      "events": [
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Reece Dixon"
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Reece Dixon"
+          ],
+          "server": "Reece Dixon"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "SERVICE_ACE",
+            "Carter Bergen"
+          ],
+          "server": "Reece Dixon"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ],
+          "server": "Reece Dixon"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Eric Loeppky"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Adam Schriemer"
+          ],
+          "server": "Elliott Viles"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Pearson Eshenko"
+          ],
+          "server": "Aaron Boettcher"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Matt Powell"
+          ],
+          "server": "Aaron Boettcher"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Seth Friesen",
+            "Reece Dixon"
+          ],
+          "server": "Aaron Boettcher"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "James Weir"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Seth Friesen",
+            [
+              "Adam Schriemer"
+            ]
+          ],
+          "server": "Ryan Sclater"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Reece Dixon"
+          ],
+          "server": "Ryan Sclater"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Matt Powell"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Matt Powell"
+          ],
+          "server": "Blake Scheerhoorn"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Brandon."
+        ],
+        {
+          "point": "TWU",
+          "event": [
+            "BAD_SET",
+            "Jeremy Davies"
+          ],
+          "server": "Blake Scheerhoorn"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Pearson Eshenko",
+            "Adam Schriemer"
+          ],
+          "server": "Blake Scheerhoorn"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Brandon."
+        ],
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Matt Powell",
+            "Reece Dixon"
+          ],
+          "server": "Blake Scheerhoorn"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Matt Powell",
+            "Elliott Viles"
+          ],
+          "server": "Seth Friesen"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Seth Friesen"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Pearson Eshenko"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Reece Dixon",
+            "Seth Friesen"
+          ],
+          "server": "Pearson Eshenko"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ],
+          "server": "Mason Metcalf"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Reece Dixon"
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Carter Bergen"
+          ],
+          "server": "Reece Dixon"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Matt Powell",
+            [
+              "Aaron Boettcher",
+              "Ryan Sclater"
+            ]
+          ],
+          "server": "Eric Loeppky"
+        },
+        [
+          "SUB",
+          "BRNM subs: Brady Nault."
+        ],
+        {
+          "point": "BRNM",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Eric Loeppky"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "ATTACK_ERROR",
+            "Blake Scheerhoorn"
+          ],
+          "server": "Elliott Viles"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Adam Schriemer"
+          ],
+          "server": "Elliott Viles"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Brandon."
+        ],
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Seth Friesen",
+            "Reece Dixon"
+          ],
+          "server": "Aaron Boettcher"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "James Weir"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Mason Metcalf"
+          ],
+          "server": "Ryan Sclater"
+        },
+        [
+          "SUB",
+          "BRNM subs: Jacob Reid."
+        ],
+        {
+          "point": "BRNM",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Ryan Sclater"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater",
+            [
+              "Jacob Reid",
+              "Seth Friesen",
+              "Mason Metcalf"
+            ]
+          ],
+          "server": "Brady Nault"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        {
+          "point": "BRNM",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater",
+            [
+              "Mason Metcalf",
+              "Seth Friesen"
+            ]
+          ],
+          "server": "Brady Nault"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "SERVICE_ACE",
+            "Ryan Sclater"
+          ],
+          "server": "Brady Nault"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ],
+          "server": "Brady Nault"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Mason Metcalf",
+            "Jacob Reid"
+          ],
+          "server": "Blake Scheerhoorn"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "ATTACK_ERROR",
+            "Eric Loeppky"
+          ],
+          "server": "Seth Friesen"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Adam Schriemer",
+            "Blake Scheerhoorn"
+          ],
+          "server": "Seth Friesen"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ],
+          "server": "Pearson Eshenko"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Jacob Reid",
+            "Brady Nault"
+          ],
+          "server": "Pearson Eshenko"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "ATTACK_ERROR",
+            "Eric Loeppky",
+            [
+              "Jacob Reid"
+            ]
+          ],
+          "server": "Mason Metcalf"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "ATTACK_ERROR",
+            "Eric Loeppky",
+            [
+              "Jacob Reid",
+              "James Weir"
+            ]
+          ],
+          "server": "Mason Metcalf"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Mason Metcalf"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "James Weir",
+            "Reece Dixon"
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Jacob Reid"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Adam Schriemer"
+          ],
+          "server": "Eric Loeppky"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Jacob Reid"
+          ],
+          "server": "Eric Loeppky"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Elliott Viles"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Aaron Boettcher"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Seth Friesen",
+            "Jacob Reid"
+          ],
+          "server": "James Weir"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Adam Schriemer"
+          ],
+          "server": "James Weir"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "BAD_SET",
+            "Jacob Reid"
+          ],
+          "server": "Ryan Sclater"
+        },
+        [
+          "SUB",
+          "BRNM subs: Daven Pascal."
+        ],
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Seth Friesen",
+            "Jacob Reid"
+          ],
+          "server": "Ryan Sclater"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Seth Friesen",
+            "Jacob Reid"
+          ],
+          "server": "Brady Nault"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Brady Nault"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Blake Scheerhoorn"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater",
+            [
+              "Elliott Viles"
+            ]
+          ],
+          "server": "Seth Friesen"
+        }
+      ]
+    },
+    "4": {
+      "starters": {
+        "BRNM": [
+          "Mason Metcalf",
+          "Brady Nault",
+          "Elliott Viles",
+          "Seth Friesen",
+          "James Weir",
+          "Reece Dixon",
+          "Jeremy Davies"
+        ],
+        "TWU": [
+          "Adam Schriemer",
+          "Aaron Boettcher",
+          "Ryan Sclater",
+          "Pearson Eshenko",
+          "Blake Scheerhoorn",
+          "Eric Loeppky",
+          "Carter Bergen"
+        ]
+      },
+      "events": [
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Adam Schriemer",
+            "Blake Scheerhoorn"
+          ],
+          "server": "Reece Dixon"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Blake Scheerhoorn"
+          ],
+          "server": "Adam Schriemer"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Brandon."
+        ],
+        {
+          "point": "BRNM",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater"
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ],
+          "server": "Elliott Viles"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ACE",
+            "Elliott Viles"
+          ],
+          "server": "Eric Loeppky"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Brandon."
+        ],
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Seth Friesen",
+            "Reece Dixon"
+          ],
+          "server": "Eric Loeppky"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "James Weir"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Mason Metcalf",
+            "Reece Dixon"
+          ],
+          "server": "Aaron Boettcher"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Pearson Eshenko",
+            "Adam Schriemer"
+          ],
+          "server": "Brady Nault"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater",
+            [
+              "Seth Friesen"
+            ]
+          ],
+          "server": "Ryan Sclater"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Reece Dixon"
+          ],
+          "server": "Seth Friesen"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Elliott Viles",
+            [
+              "Adam Schriemer",
+              "Pearson Eshenko",
+              "Eric Loeppky"
+            ]
+          ],
+          "server": "Blake Scheerhoorn"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ],
+          "server": "Blake Scheerhoorn"
+        },
+        [
+          "SUB",
+          "BRNM subs: Jacob Reid."
+        ],
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Seth Friesen"
+          ],
+          "server": "Blake Scheerhoorn"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Blake Scheerhoorn"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater"
+          ],
+          "server": "Mason Metcalf"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "ATTACK_ERROR",
+            "Eric Loeppky"
+          ],
+          "server": "Mason Metcalf"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Mason Metcalf"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Seth Friesen",
+            "Jacob Reid"
+          ],
+          "server": "Pearson Eshenko"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Jacob Reid"
+          ],
+          "server": "Jacob Reid"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Seth Friesen",
+            "Elliott Viles"
+          ],
+          "server": "Jacob Reid"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Jacob Reid"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Elliott Viles"
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Jacob Reid"
+          ],
+          "server": "Adam Schriemer"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Elliott Viles"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Brandon."
+        ],
+        [
+          "SUB",
+          "TWU subs: Jacob Kern."
+        ],
+        {
+          "point": "BRNM",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Eric Loeppky"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "ATTACK_ERROR",
+            "Jacob Kern"
+          ],
+          "server": "James Weir"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Seth Friesen"
+          ],
+          "server": "James Weir"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "James Weir"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "SERVICE_ACE",
+            "Jeremy Davies"
+          ],
+          "server": "Aaron Boettcher"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Seth Friesen",
+            [
+              "Ryan Sclater",
+              "Pearson Eshenko"
+            ]
+          ],
+          "server": "Aaron Boettcher"
+        },
+        [
+          "SUB",
+          "BRNM subs: Daven Pascal."
+        ],
+        {
+          "point": "BRNM",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Aaron Boettcher"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Brady Nault"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "ATTACK_ERROR",
+            "Seth Friesen"
+          ],
+          "server": "Ryan Sclater"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Ryan Sclater"
+        },
+        [
+          "SUB",
+          "BRNM subs: Mason Metcalf."
+        ],
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Mason Metcalf"
+          ],
+          "server": "Ryan Sclater"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "ATTACK_ERROR",
+            "Jacob Kern"
+          ],
+          "server": "Seth Friesen"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater",
+            [
+              "Elliott Viles",
+              "Mason Metcalf"
+            ]
+          ],
+          "server": "Seth Friesen"
+        },
+        {
+          "point": "BRNM",
+          "event": [
+            "ATTACK_ERROR",
+            "Pearson Eshenko"
+          ],
+          "server": "Seth Friesen"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Jacob Kern",
+            "Adam Schriemer"
+          ],
+          "server": "Seth Friesen"
+        },
+        [
+          "YELLOW_CARD",
+          "TWU",
+          "TEAM",
+          false
+        ],
+        {
+          "point": "BRNM",
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Jacob Reid"
+          ],
+          "server": "Jacob Kern"
+        },
+        {
+          "point": "TWU",
+          "event": [
+            "BAD_SET",
+            "Jacob Reid"
+          ],
+          "server": "Mason Metcalf"
+        },
+        [
+          "SUB",
+          "TWU subs: Ben Lieuwen."
+        ],
+        {
+          "point": "TWU",
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ],
+          "server": "Ben Lieuwen"
+        }
+      ]
+    }
+  }
+}

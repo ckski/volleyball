@@ -1,0 +1,1427 @@
+{
+  "source": "stats.ncaa.org",
+  "date": "2014-04-26",
+  "id": "stats.ncaa.org/game/3345478",
+  "sets": {
+    "1": {
+      "events": [
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Mochalski, Eric",
+            "Shaw, James"
+          ],
+          "server": "SANDER, Taylor"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ACE",
+            "Irvin, Steven"
+          ],
+          "server": "HATCH, Michael"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Mochalski, Eric",
+            "Shaw, James"
+          ],
+          "server": "HATCH, Michael"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Mochalski, Eric"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Cook, Brian",
+            [
+              "RIVERA, Josue",
+              "YOUNG, Devin"
+            ]
+          ],
+          "server": "DOBBERT, Tim"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "SANDER, Taylor"
+          ],
+          "server": "DOBBERT, Tim"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "SUTTON, Robbie",
+            "SANDER, Taylor"
+          ],
+          "server": "Haly, Spencer"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "DOBBERT, Tim",
+            "SANDER, Taylor"
+          ],
+          "server": "RIVERA, Josue"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ACE",
+            "Cook, Brian"
+          ],
+          "server": "RIVERA, Josue"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "SANDER, Taylor",
+            "SUTTON, Robbie"
+          ],
+          "server": "RIVERA, Josue"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "RIVERA, Josue"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "YOUNG, Devin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James",
+            "Irvin, Steven"
+          ],
+          "server": "SUTTON, Robbie"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ACE",
+            "Irvin, Steven"
+          ],
+          "server": "SANDER, Taylor"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "SANDER, Taylor"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "BHE",
+            "HATCH, Michael"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "HATCH, Michael"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "SANDER, Taylor",
+            "SUTTON, Robbie"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvin, Steven"
+          ],
+          "server": "DOBBERT, Tim"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "SANDER, Taylor",
+            "SUTTON, Robbie"
+          ],
+          "server": "DOBBERT, Tim"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "DOBBERT, Tim"
+        },
+        [
+          "SUB",
+          "Stanford subs: Hayden, Madison; Haly, Spencer."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "YOUNG, Devin",
+            "SUTTON, Robbie"
+          ],
+          "server": "Hayden, Madison"
+        },
+        [
+          "SUB",
+          "Stanford subs: Haly, Spencer; Hayden, Madison."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kaminski, Conrad",
+            "Shaw, James"
+          ],
+          "server": "RIVERA, Josue"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "DOBBERT, Tim",
+            "SUTTON, Robbie"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "YOUNG, Devin"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kaminski, Conrad",
+            "Shaw, James"
+          ],
+          "server": "SUTTON, Robbie"
+        },
+        [
+          "SUB",
+          "Stanford subs: Sakaida, Scott; Kaminski, Conrad."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "SUTTON, Robbie"
+          ],
+          "server": "Sakaida, Scott"
+        },
+        [
+          "TIMEOUT",
+          "Timeout BYU."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "SANDER, Taylor",
+            "REYES, Jaylen"
+          ],
+          "server": "Sakaida, Scott"
+        },
+        [
+          "SUB",
+          "Stanford subs: Kaminski, Conrad; Sakaida, Scott."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Mochalski, Eric",
+            "Shaw, James"
+          ],
+          "server": "SANDER, Taylor"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Cook, Brian"
+          ],
+          "server": "HATCH, Michael"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "RIVERA, Josue",
+            [
+              "Mochalski, Eric",
+              "Haly, Spencer"
+            ]
+          ],
+          "server": "Cook, Brian"
+        },
+        [
+          "TIMEOUT",
+          "Timeout BYU."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "YOUNG, Devin",
+            "SUTTON, Robbie"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvin, Steven",
+            [
+              "SUTTON, Robbie",
+              "YOUNG, Devin"
+            ]
+          ],
+          "server": "DOBBERT, Tim"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "YOUNG, Devin"
+          ],
+          "server": "DOBBERT, Tim"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "DOBBERT, Tim"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "RIVERA, Josue"
+          ],
+          "server": "Haly, Spencer"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "SANDER, Taylor"
+          ],
+          "server": "Haly, Spencer"
+        },
+        [
+          "SUB",
+          "BYU subs: GROSH, Joe; YOUNG, Devin."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Haly, Spencer"
+        }
+      ],
+      "starters": {
+        "Stanford": [
+          "Shaw, James",
+          "Kaminski, Conrad",
+          "Irvin, Steven",
+          "Mochalski, Eric",
+          "Haly, Spencer",
+          "Cook, Brian",
+          "Delgado, Grant"
+        ],
+        "BYU": [
+          "RIVERA, Josue",
+          "DOBBERT, Tim",
+          "SUTTON, Robbie",
+          "YOUNG, Devin",
+          "HATCH, Michael",
+          "SANDER, Taylor",
+          "REYES, Jaylen"
+        ]
+      }
+    },
+    "2": {
+      "events": [
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ACE",
+            "REYES, Jaylen"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        [
+          "TIMEOUT",
+          "Timeout BYU."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvin, Steven"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvin, Steven",
+            [
+              "RIVERA, Josue",
+              "HATCH, Michael"
+            ]
+          ],
+          "server": "SANDER, Taylor"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ACE",
+            "Cook, Brian"
+          ],
+          "server": "SANDER, Taylor"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James",
+            "Cook, Brian"
+          ],
+          "server": "SANDER, Taylor"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "RIVERA, Josue"
+          ],
+          "server": "HATCH, Michael"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "RIVERA, Josue",
+            "SUTTON, Robbie"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Haly, Spencer",
+            "Shaw, James"
+          ],
+          "server": "DOBBERT, Tim"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "YOUNG, Devin",
+            "SUTTON, Robbie"
+          ],
+          "server": "Haly, Spencer"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "DOBBERT, Tim",
+            "SUTTON, Robbie"
+          ],
+          "server": "RIVERA, Josue"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "SANDER, Taylor",
+            "SUTTON, Robbie"
+          ],
+          "server": "RIVERA, Josue"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "RIVERA, Josue"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kaminski, Conrad"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kaminski, Conrad",
+            "Shaw, James"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "SANDER, Taylor",
+            "SUTTON, Robbie"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Kaminski, Conrad",
+            [
+              "SUTTON, Robbie"
+            ]
+          ],
+          "server": "YOUNG, Devin"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "SANDER, Taylor",
+            "SUTTON, Robbie"
+          ],
+          "server": "YOUNG, Devin"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ACE",
+            "Cook, Brian"
+          ],
+          "server": "YOUNG, Devin"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "DOBBERT, Tim",
+            "SANDER, Taylor"
+          ],
+          "server": "YOUNG, Devin"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Cook, Brian",
+            [
+              "SANDER, Taylor",
+              "HATCH, Michael"
+            ]
+          ],
+          "server": "YOUNG, Devin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Mochalski, Eric",
+            "Shaw, James"
+          ],
+          "server": "YOUNG, Devin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "DOBBERT, Tim",
+            [
+              "Kaminski, Conrad",
+              "Cook, Brian"
+            ]
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "HATCH, Michael",
+            "SUTTON, Robbie"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kaminski, Conrad",
+            "Shaw, James"
+          ],
+          "server": "SUTTON, Robbie"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "SANDER, Taylor"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Delgado, Grant"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "HATCH, Michael"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "RIVERA, Josue"
+          ],
+          "server": "Cook, Brian"
+        },
+        [
+          "TIMEOUT",
+          "Timeout BYU."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "DOBBERT, Tim",
+            "SUTTON, Robbie"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Cook, Brian"
+          ],
+          "server": "DOBBERT, Tim"
+        },
+        [
+          "SUB",
+          "Stanford subs: Hayden, Madison; Haly, Spencer."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "SANDER, Taylor",
+            "SUTTON, Robbie"
+          ],
+          "server": "Hayden, Madison"
+        },
+        [
+          "SUB",
+          "Stanford subs: Haly, Spencer; Hayden, Madison."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvin, Steven"
+          ],
+          "server": "RIVERA, Josue"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kaminski, Conrad",
+            "Shaw, James"
+          ],
+          "server": "RIVERA, Josue"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "SANDER, Taylor",
+            "SUTTON, Robbie"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "SANDER, Taylor",
+            "SUTTON, Robbie"
+          ],
+          "server": "YOUNG, Devin"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "YOUNG, Devin"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "HATCH, Michael",
+            "SUTTON, Robbie"
+          ],
+          "server": "Irvin, Steven"
+        },
+        [
+          "SUB",
+          "Stanford subs: Ctvrtlik, Joe; Shaw, James."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "SANDER, Taylor",
+            "SUTTON, Robbie"
+          ],
+          "server": "SUTTON, Robbie"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvin, Steven"
+          ],
+          "server": "SUTTON, Robbie"
+        }
+      ],
+      "starters": {
+        "Stanford": [
+          "Cook, Brian",
+          "Irvin, Steven",
+          "Mochalski, Eric",
+          "Haly, Spencer",
+          "Kaminski, Conrad",
+          "Shaw, James",
+          "Delgado, Grant"
+        ],
+        "BYU": [
+          "DOBBERT, Tim",
+          "HATCH, Michael",
+          "YOUNG, Devin",
+          "SANDER, Taylor",
+          "SUTTON, Robbie",
+          "RIVERA, Josue",
+          "REYES, Jaylen"
+        ]
+      }
+    },
+    "3": {
+      "events": [
+        [
+          "YELLOW_CARD",
+          "STANFORD",
+          "TEAM",
+          false
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Delgado, Grant"
+          ],
+          "server": "SANDER, Taylor"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvin, Steven"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "HATCH, Michael"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "DOBBERT, Tim"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "YOUNG, Devin",
+            "SUTTON, Robbie"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Haly, Spencer",
+            "Shaw, James"
+          ],
+          "server": "RIVERA, Josue"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "BHE",
+            "RIVERA, Josue"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "YOUNG, Devin",
+            [
+              "Cook, Brian",
+              "Haly, Spencer"
+            ]
+          ],
+          "server": "Shaw, James"
+        },
+        [
+          "TIMEOUT",
+          "Timeout BYU."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "SANDER, Taylor",
+            "SUTTON, Robbie"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Haly, Spencer",
+            "Shaw, James"
+          ],
+          "server": "YOUNG, Devin"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "HATCH, Michael",
+            "SUTTON, Robbie"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Shaw, James"
+          ],
+          "server": "SUTTON, Robbie"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Mochalski, Eric"
+          ],
+          "server": "Haly, Spencer"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvin, Steven",
+            [
+              "HATCH, Michael",
+              "DOBBERT, Tim"
+            ]
+          ],
+          "server": "SANDER, Taylor"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "RIVERA, Josue",
+            "SUTTON, Robbie"
+          ],
+          "server": "SANDER, Taylor"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Irvin, Steven",
+            "Cook, Brian"
+          ],
+          "server": "SANDER, Taylor"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "RIVERA, Josue",
+            "SUTTON, Robbie"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Mochalski, Eric",
+            "Shaw, James"
+          ],
+          "server": "HATCH, Michael"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ACE",
+            "Delgado, Grant"
+          ],
+          "server": "DOBBERT, Tim"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "DOBBERT, Tim"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Mochalski, Eric",
+            "Shaw, James"
+          ],
+          "server": "RIVERA, Josue"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "YOUNG, Devin",
+            "SUTTON, Robbie"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "SANDER, Taylor",
+            "RIVERA, Josue"
+          ],
+          "server": "YOUNG, Devin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "YOUNG, Devin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "SANDER, Taylor",
+            [
+              "Mochalski, Eric",
+              "Haly, Spencer"
+            ]
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Cook, Brian"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Mochalski, Eric",
+            "Shaw, James"
+          ],
+          "server": "SUTTON, Robbie"
+        },
+        [
+          "SUB",
+          "Stanford subs: Hayden, Madison; Haly, Spencer; Tublin, Daniel; Irvin, Steven."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Hayden, Madison"
+        },
+        [
+          "SUB",
+          "Stanford subs: Irvin, Steven; Tublin, Daniel; Haly, Spencer; Hayden, Madison."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "SANDER, Taylor",
+            "SUTTON, Robbie"
+          ],
+          "server": "SANDER, Taylor"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "SANDER, Taylor"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "DOBBERT, Tim",
+            "SUTTON, Robbie"
+          ],
+          "server": "Mochalski, Eric"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvin, Steven"
+          ],
+          "server": "HATCH, Michael"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "SANDER, Taylor",
+            "SUTTON, Robbie"
+          ],
+          "server": "HATCH, Michael"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvin, Steven",
+            [
+              "DOBBERT, Tim",
+              "YOUNG, Devin"
+            ]
+          ],
+          "server": "HATCH, Michael"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Mochalski, Eric",
+            "Shaw, James"
+          ],
+          "server": "HATCH, Michael"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Irvin, Steven"
+        },
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Mochalski, Eric",
+            [
+              "RIVERA, Josue",
+              "YOUNG, Devin"
+            ]
+          ],
+          "server": "DOBBERT, Tim"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "DOBBERT, Tim"
+        },
+        [
+          "SUB",
+          "Stanford subs: Sakaida, Scott; Kaminski, Conrad."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "KILL",
+            "RIVERA, Josue",
+            "SUTTON, Robbie"
+          ],
+          "server": "Sakaida, Scott"
+        },
+        [
+          "SUB",
+          "Stanford subs: Kaminski, Conrad; Sakaida, Scott."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Cook, Brian",
+            "Shaw, James"
+          ],
+          "server": "RIVERA, Josue"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Mochalski, Eric",
+            "Haly, Spencer"
+          ],
+          "server": "Shaw, James"
+        },
+        [
+          "TIMEOUT",
+          "Timeout BYU."
+        ],
+        {
+          "point": "BYU",
+          "event": [
+            "ATTACK_ERROR",
+            "Cook, Brian"
+          ],
+          "server": "Shaw, James"
+        }
+      ],
+      "starters": {
+        "Stanford": [
+          "Shaw, James",
+          "Kaminski, Conrad",
+          "Haly, Spencer",
+          "Mochalski, Eric",
+          "Irvin, Steven",
+          "Cook, Brian",
+          "Delgado, Grant"
+        ],
+        "BYU": [
+          "SANDER, Taylor",
+          "DOBBERT, Tim",
+          "HATCH, Michael",
+          "YOUNG, Devin",
+          "RIVERA, Josue",
+          "SUTTON, Robbie",
+          "REYES, Jaylen"
+        ]
+      }
+    }
+  },
+  "teams": [
+    [
+      "stats.ncaa.org/79997",
+      "Stanford"
+    ],
+    [
+      "stats.ncaa.org/79972",
+      "BYU"
+    ]
+  ]
+}

@@ -1,0 +1,1341 @@
+{
+  "source": "stats.ncaa.org",
+  "date": "2015-04-17",
+  "id": "stats.ncaa.org/game/3852803",
+  "sets": {
+    "1": {
+      "events": [
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Tublin, Daniel",
+            "Dagostino, Kyle"
+          ],
+          "server": "Mitch Stahl"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Trent Kersten",
+            "Eric Matheis"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Vega, Gabriel",
+            "Dagostino, Kyle"
+          ],
+          "server": "Christian Hessenauer"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "ATTACK_ERROR",
+            "Tublin, Daniel"
+          ],
+          "server": "Vega, Gabriel"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "ATTACK_ERROR",
+            "Vega, Gabriel",
+            [
+              "Trent Kersten",
+              "J.T. Hatch"
+            ]
+          ],
+          "server": "Jake Arnitz"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "J.T. Hatch",
+            "Jackson Bantle"
+          ],
+          "server": "Jake Arnitz"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Hayden, Madison",
+            "Dagostino, Kyle"
+          ],
+          "server": "Jake Arnitz"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Jake Arnitz",
+            "Eric Matheis"
+          ],
+          "server": "Hayden, Madison"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Hayden, Madison",
+            "Dagostino, Kyle"
+          ],
+          "server": "Trent Kersten"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Tublin, Daniel",
+            "Hayden, Madison"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Christian Hessenauer",
+            "Eric Matheis"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "J.T. Hatch",
+            "Mitch Stahl"
+          ],
+          "server": "Eric Matheis"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "J.T. Hatch"
+          ],
+          "server": "Eric Matheis"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Dagostino, Kyle"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "J.T. Hatch"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Tublin, Daniel"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Jake Arnitz",
+            "Eric Matheis"
+          ],
+          "server": "Mitch Stahl"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Mitch Stahl"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Trent Kersten",
+            "Eric Matheis"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Christian Hessenauer"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Jake Arnitz",
+            "Eric Matheis"
+          ],
+          "server": "Vega, Gabriel"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "SERVICE_ACE",
+            "Tublin, Daniel"
+          ],
+          "server": "Jake Arnitz"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Hayden, Madison",
+            "Dagostino, Kyle"
+          ],
+          "server": "Jake Arnitz"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Jake Arnitz",
+            "Eric Matheis"
+          ],
+          "server": "Hayden, Madison"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kaminski, Conrad",
+            "Dagostino, Kyle"
+          ],
+          "server": "Trent Kersten"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "J.T. Hatch",
+            "Eric Matheis"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        [
+          "TIMEOUT",
+          "Timeout (Media)."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Vega, Gabriel",
+            "Dagostino, Kyle"
+          ],
+          "server": "Eric Matheis"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Christian Hessenauer"
+          ],
+          "server": "Dagostino, Kyle"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Dagostino, Kyle"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "J.T. Hatch",
+            "Eric Matheis"
+          ],
+          "server": "J.T. Hatch"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Tublin, Daniel",
+            "Dagostino, Kyle"
+          ],
+          "server": "J.T. Hatch"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Christian Hessenauer",
+            [
+              "Hayden, Madison",
+              "Rakestraw, Kevin"
+            ]
+          ],
+          "server": "Tublin, Daniel"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "J.T. Hatch",
+            "Eric Matheis"
+          ],
+          "server": "Tublin, Daniel"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Christian Hessenauer",
+            "Eric Matheis"
+          ],
+          "server": "Mitch Stahl"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Christian Hessenauer",
+            "Jake Arnitz",
+            "Hayden, Madison"
+          ],
+          "server": "Mitch Stahl"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Rakestraw, Kevin"
+          ],
+          "server": "Mitch Stahl"
+        },
+        [
+          "SUB",
+          "Stanford subs: Delgado, Grant; Rakestraw, Kevin."
+        ],
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Trent Kersten",
+            "Eric Matheis"
+          ],
+          "server": "Delgado, Grant"
+        },
+        [
+          "SUB",
+          "Stanford subs: Rakestraw, Kevin; Delgado, Grant."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kaminski, Conrad",
+            "Dagostino, Kyle"
+          ],
+          "server": "Christian Hessenauer"
+        },
+        [
+          "SUB",
+          "Stanford subs: Kemper, Sean; Dagostino, Kyle."
+        ],
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Jake Arnitz",
+            "Eric Matheis"
+          ],
+          "server": "Vega, Gabriel"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Vega, Gabriel",
+            "Dagostino, Kyle"
+          ],
+          "server": "Jake Arnitz"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "ATTACK_ERROR",
+            "Hayden, Madison"
+          ],
+          "server": "Hayden, Madison"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "J.T. Hatch",
+            "Eric Matheis"
+          ],
+          "server": "Trent Kersten"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Christian Hessenauer",
+            "Eric Matheis"
+          ],
+          "server": "Trent Kersten"
+        }
+      ],
+      "starters": {
+        "UCLA": [
+          "Mitch Stahl",
+          "Eric Matheis",
+          "J.T. Hatch",
+          "Trent Kersten",
+          "Jake Arnitz",
+          "Christian Hessenauer",
+          "Jackson Bantle"
+        ],
+        "Stanford": [
+          "Kaminski, Conrad",
+          "Dagostino, Kyle",
+          "Vega, Gabriel",
+          "Rakestraw, Kevin",
+          "Hayden, Madison",
+          "Tublin, Daniel",
+          "Enriques, Evan"
+        ]
+      }
+    },
+    "2": {
+      "events": [
+        {
+          "point": "UCLA",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Tublin, Daniel"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "ATTACK_ERROR",
+            "Hayden, Madison",
+            [
+              "Mitch Stahl",
+              "Christian Hessenauer"
+            ]
+          ],
+          "server": "J.T. Hatch"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Jake Arnitz"
+          ],
+          "server": "J.T. Hatch"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "J.T. Hatch",
+            "Eric Matheis"
+          ],
+          "server": "Haly, Spencer"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "ATTACK_ERROR",
+            "Tublin, Daniel"
+          ],
+          "server": "Mitch Stahl"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Hayden, Madison",
+            "Dagostino, Kyle"
+          ],
+          "server": "Mitch Stahl"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Vega, Gabriel"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Jake Arnitz"
+          ],
+          "server": "Christian Hessenauer"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Jake Arnitz",
+            "Eric Matheis"
+          ],
+          "server": "Hayden, Madison"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Vega, Gabriel",
+            "Dagostino, Kyle"
+          ],
+          "server": "Jake Arnitz"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Trent Kersten",
+            "Eric Matheis"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Tublin, Daniel",
+            "Dagostino, Kyle"
+          ],
+          "server": "Trent Kersten"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "ATTACK_ERROR",
+            "Tublin, Daniel",
+            [
+              "Mitch Stahl",
+              "Eric Matheis"
+            ]
+          ],
+          "server": "Dagostino, Kyle"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Hayden, Madison",
+            "Dagostino, Kyle"
+          ],
+          "server": "Eric Matheis"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Tublin, Daniel"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "J.T. Hatch",
+            "Eric Matheis"
+          ],
+          "server": "J.T. Hatch"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "J.T. Hatch"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Jake Arnitz",
+            "Eric Matheis"
+          ],
+          "server": "Haly, Spencer"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Mitch Stahl"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Jake Arnitz",
+            "Eric Matheis"
+          ],
+          "server": "Vega, Gabriel"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kaminski, Conrad",
+            "Dagostino, Kyle"
+          ],
+          "server": "Christian Hessenauer"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Trent Kersten",
+            "Eric Matheis"
+          ],
+          "server": "Hayden, Madison"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Hayden, Madison",
+            "Dagostino, Kyle"
+          ],
+          "server": "Jake Arnitz"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Tublin, Daniel",
+            "Dagostino, Kyle"
+          ],
+          "server": "Trent Kersten"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "J.T. Hatch",
+            "Eric Matheis"
+          ],
+          "server": "Dagostino, Kyle"
+        },
+        [
+          "TIMEOUT",
+          "Timeout (Media)."
+        ],
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "J.T. Hatch",
+            "Eric Matheis"
+          ],
+          "server": "Eric Matheis"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Eric Matheis"
+        },
+        [
+          "SUB",
+          "Stanford subs: Delgado, Grant; Tublin, Daniel."
+        ],
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Mitch Stahl",
+            "Eric Matheis"
+          ],
+          "server": "Delgado, Grant"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "ATTACK_ERROR",
+            "Hayden, Madison",
+            [
+              "Mitch Stahl",
+              "Christian Hessenauer"
+            ]
+          ],
+          "server": "J.T. Hatch"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "ATTACK_ERROR",
+            "Vega, Gabriel"
+          ],
+          "server": "J.T. Hatch"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "UCLA",
+          "event": [
+            "ATTACK_ERROR",
+            "Haly, Spencer"
+          ],
+          "server": "J.T. Hatch"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "J.T. Hatch"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "J.T. Hatch"
+          ],
+          "server": "Haly, Spencer"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Jake Arnitz"
+          ],
+          "server": "Haly, Spencer"
+        },
+        [
+          "TIMEOUT",
+          "Timeout UCLA."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Delgado, Grant"
+          ],
+          "server": "Haly, Spencer"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Jake Arnitz",
+            "Eric Matheis"
+          ],
+          "server": "Haly, Spencer"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Mitch Stahl"
+        },
+        [
+          "SUB",
+          "Stanford subs: Kemper, Sean; Dagostino, Kyle."
+        ],
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Christian Hessenauer",
+            "Eric Matheis"
+          ],
+          "server": "Vega, Gabriel"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Hayden, Madison",
+            "Kemper, Sean"
+          ],
+          "server": "Christian Hessenauer"
+        },
+        [
+          "SUB",
+          "Stanford subs: Tublin, Daniel; Delgado, Grant."
+        ],
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Jake Arnitz",
+            "Eric Matheis"
+          ],
+          "server": "Hayden, Madison"
+        },
+        [
+          "SUB",
+          "Stanford subs: Dagostino, Kyle; Kemper, Sean."
+        ],
+        {
+          "point": "UCLA",
+          "event": [
+            "ATTACK_ERROR",
+            "Vega, Gabriel",
+            [
+              "J.T. Hatch",
+              "Trent Kersten",
+              "Eric Matheis"
+            ]
+          ],
+          "server": "Jake Arnitz"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kaminski, Conrad",
+            "Dagostino, Kyle"
+          ],
+          "server": "Jake Arnitz"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Trent Kersten",
+            "Eric Matheis"
+          ],
+          "server": "Kaminski, Conrad"
+        }
+      ],
+      "starters": {
+        "UCLA": [
+          "Jake Arnitz",
+          "Trent Kersten",
+          "Christian Hessenauer",
+          "Eric Matheis",
+          "J.T. Hatch",
+          "Mitch Stahl",
+          "Jackson Bantle"
+        ],
+        "Stanford": [
+          "Hayden, Madison",
+          "Kaminski, Conrad",
+          "Dagostino, Kyle",
+          "Vega, Gabriel",
+          "Tublin, Daniel",
+          "Haly, Spencer",
+          "Enriques, Evan"
+        ]
+      }
+    },
+    "3": {
+      "events": [
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Mitch Stahl",
+            "Eric Matheis"
+          ],
+          "server": "Trent Kersten"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Hayden, Madison",
+            "Dagostino, Kyle"
+          ],
+          "server": "Trent Kersten"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Jake Arnitz",
+            "Eric Matheis"
+          ],
+          "server": "Haly, Spencer"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Tublin, Daniel",
+            "Dagostino, Kyle"
+          ],
+          "server": "Eric Matheis"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "J.T. Hatch",
+            "Eric Matheis",
+            "Kaminski, Conrad"
+          ],
+          "server": "Vega, Gabriel"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "ATTACK_ERROR",
+            "Tublin, Daniel"
+          ],
+          "server": "J.T. Hatch"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Jake Arnitz",
+            "Eric Matheis"
+          ],
+          "server": "J.T. Hatch"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kaminski, Conrad",
+            "Dagostino, Kyle"
+          ],
+          "server": "J.T. Hatch"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Christian Hessenauer"
+          ],
+          "server": "Hayden, Madison"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Mitch Stahl",
+            "Eric Matheis"
+          ],
+          "server": "Hayden, Madison"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "ATTACK_ERROR",
+            "Tublin, Daniel",
+            [
+              "Christian Hessenauer",
+              "Trent Kersten"
+            ]
+          ],
+          "server": "Mitch Stahl"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Mitch Stahl"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "J.T. Hatch",
+            "Eric Matheis"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "J.T. Hatch",
+            "Eric Matheis"
+          ],
+          "server": "Christian Hessenauer"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Vega, Gabriel",
+            "Dagostino, Kyle"
+          ],
+          "server": "Christian Hessenauer"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Trent Kersten",
+            "Eric Matheis"
+          ],
+          "server": "Dagostino, Kyle"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Hayden, Madison",
+            "Dagostino, Kyle"
+          ],
+          "server": "Jake Arnitz"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Vega, Gabriel",
+            "Enriques, Evan"
+          ],
+          "server": "Tublin, Daniel"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Tublin, Daniel"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "J.T. Hatch",
+            "Eric Matheis",
+            "Vega, Gabriel"
+          ],
+          "server": "Trent Kersten"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Hayden, Madison",
+            "Dagostino, Kyle"
+          ],
+          "server": "Trent Kersten"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "J.T. Hatch",
+            [
+              "Kaminski, Conrad",
+              "Vega, Gabriel",
+              "Hayden, Madison"
+            ]
+          ],
+          "server": "Haly, Spencer"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "J.T. Hatch",
+            "Eric Matheis"
+          ],
+          "server": "Haly, Spencer"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "ATTACK_ERROR",
+            "Vega, Gabriel",
+            [
+              "J.T. Hatch",
+              "Mitch Stahl"
+            ]
+          ],
+          "server": "Eric Matheis"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Hayden, Madison",
+            "Enriques, Evan"
+          ],
+          "server": "Eric Matheis"
+        },
+        [
+          "SUB",
+          "Stanford subs: Kemper, Sean; Dagostino, Kyle."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Vega, Gabriel",
+            "Kemper, Sean"
+          ],
+          "server": "Vega, Gabriel"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "J.T. Hatch",
+            [
+              "Hayden, Madison",
+              "Kaminski, Conrad"
+            ]
+          ],
+          "server": "Vega, Gabriel"
+        },
+        [
+          "TIMEOUT",
+          "Timeout UCLA."
+        ],
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Christian Hessenauer",
+            "Eric Matheis"
+          ],
+          "server": "Vega, Gabriel"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Christian Hessenauer",
+            "Eric Matheis"
+          ],
+          "server": "J.T. Hatch"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "J.T. Hatch"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Hayden, Madison"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Tublin, Daniel",
+            "Kemper, Sean"
+          ],
+          "server": "Mitch Stahl"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Christian Hessenauer"
+        },
+        [
+          "SUB",
+          "Stanford subs: Dagostino, Kyle; Kemper, Sean."
+        ],
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Trent Kersten",
+            "Eric Matheis"
+          ],
+          "server": "Dagostino, Kyle"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "ATTACK_ERROR",
+            "Vega, Gabriel",
+            [
+              "Trent Kersten",
+              "Eric Matheis"
+            ]
+          ],
+          "server": "Jake Arnitz"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Hayden, Madison",
+            "Dagostino, Kyle"
+          ],
+          "server": "Jake Arnitz"
+        },
+        [
+          "SUB",
+          "Stanford subs: Delgado, Grant; Tublin, Daniel."
+        ],
+        {
+          "point": "UCLA",
+          "event": [
+            "ATTACK_ERROR",
+            "Hayden, Madison"
+          ],
+          "server": "Delgado, Grant"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "ATTACK_ERROR",
+            "Hayden, Madison",
+            [
+              "Eric Matheis"
+            ]
+          ],
+          "server": "Trent Kersten"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Mitch Stahl",
+            "Eric Matheis"
+          ],
+          "server": "Trent Kersten"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Hayden, Madison",
+            "Dagostino, Kyle"
+          ],
+          "server": "Trent Kersten"
+        },
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "J.T. Hatch",
+            "Eric Matheis"
+          ],
+          "server": "Haly, Spencer"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Hayden, Madison",
+            "Enriques, Evan"
+          ],
+          "server": "Eric Matheis"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Mitch Stahl"
+          ],
+          "server": "Vega, Gabriel"
+        },
+        [
+          "SUB",
+          "UCLA subs: Michael Fisher; Christian Hessenauer."
+        ],
+        {
+          "point": "UCLA",
+          "event": [
+            "KILL",
+            "Mitch Stahl",
+            "Eric Matheis"
+          ],
+          "server": "Vega, Gabriel"
+        }
+      ],
+      "starters": {
+        "UCLA": [
+          "Trent Kersten",
+          "Christian Hessenauer",
+          "Jake Arnitz",
+          "J.T. Hatch",
+          "Mitch Stahl",
+          "Eric Matheis",
+          "Jackson Bantle"
+        ],
+        "Stanford": [
+          "Kaminski, Conrad",
+          "Haly, Spencer",
+          "Tublin, Daniel",
+          "Vega, Gabriel",
+          "Dagostino, Kyle",
+          "Hayden, Madison",
+          "Enriques, Evan"
+        ]
+      }
+    }
+  },
+  "teams": [
+    [
+      "stats.ncaa.org/105814",
+      "UCLA"
+    ],
+    [
+      "stats.ncaa.org/105832",
+      "Stanford"
+    ]
+  ]
+}

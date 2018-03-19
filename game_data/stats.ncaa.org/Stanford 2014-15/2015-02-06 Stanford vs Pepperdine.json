@@ -1,0 +1,1746 @@
+{
+  "source": "stats.ncaa.org",
+  "date": "2015-02-06",
+  "id": "stats.ncaa.org/game/3752584",
+  "sets": {
+    "1": {
+      "events": [
+        {
+          "point": "Pepperdine",
+          "event": [
+            "ATTACK_ERROR",
+            "Jones, Clay"
+          ],
+          "server": "Dagostino, Kyle"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Mitchell Penning"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Scott Rhein",
+            [
+              "Rakestraw, Kevin",
+              "Tublin, Daniel"
+            ]
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Josh Taylor"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Parker Kalmbach",
+            "Matt West"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Tublin, Daniel",
+            "Dagostino, Kyle"
+          ],
+          "server": "Matt West"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Parker Kalmbach"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Parker Kalmbach",
+            "Matt West"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kaminski, Conrad",
+            "Dagostino, Kyle"
+          ],
+          "server": "Josh Taylor"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Nikola Antonijevic",
+            "Matt West"
+          ],
+          "server": "Jones, Clay"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Tublin, Daniel",
+            "Dagostino, Kyle"
+          ],
+          "server": "Nikola Antonijevic"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Scott Rhein",
+            "Matt West"
+          ],
+          "server": "Tublin, Daniel"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Jones, Clay",
+            "Dagostino, Kyle"
+          ],
+          "server": "Parker Kalmbach"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Scott Rhein"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James",
+            "Dagostino, Kyle",
+            "Matt West"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Pepperdine."
+        ],
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Mitchell Penning"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James",
+            "Dagostino, Kyle"
+          ],
+          "server": "Scott Rhein"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Jones, Clay",
+            "Dagostino, Kyle",
+            "Josh Taylor"
+          ],
+          "server": "Dagostino, Kyle"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Mitchell Penning",
+            "Matt West"
+          ],
+          "server": "Dagostino, Kyle"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Jones, Clay",
+            "Dagostino, Kyle"
+          ],
+          "server": "Mitchell Penning"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ACE",
+            "Scott Rhein"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "SERVICE_ACE",
+            "Enriques, Evan"
+          ],
+          "server": "Matt West"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Matt West"
+        },
+        [
+          "SUB",
+          "Stanford subs: McCall, Colin; Rakestraw, Kevin."
+        ],
+        {
+          "point": "Pepperdine",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "McCall, Colin"
+        },
+        [
+          "SUB",
+          "Stanford subs: Rakestraw, Kevin; McCall, Colin."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Josh Taylor"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Parker Kalmbach",
+            [
+              "Tublin, Daniel",
+              "Kaminski, Conrad"
+            ]
+          ],
+          "server": "Jones, Clay"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Pepperdine."
+        ],
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Josh Taylor",
+            "Matt West"
+          ],
+          "server": "Jones, Clay"
+        },
+        [
+          "SUB",
+          "Pepperdine subs: Nikola Antonijevic; Max States."
+        ],
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Parker Kalmbach",
+            "Matt West"
+          ],
+          "server": "Max States"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kaminski, Conrad",
+            "Dagostino, Kyle"
+          ],
+          "server": "Max States"
+        },
+        [
+          "SUB",
+          "Pepperdine subs: Nikola Antonijevic; Max States."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James",
+            "Dagostino, Kyle",
+            "Mitchell Penning"
+          ],
+          "server": "Tublin, Daniel"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Scott Rhein",
+            "Matt West"
+          ],
+          "server": "Tublin, Daniel"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kaminski, Conrad",
+            "Dagostino, Kyle"
+          ],
+          "server": "Parker Kalmbach"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "ATTACK_ERROR",
+            "Tublin, Daniel"
+          ],
+          "server": "Scott Rhein"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "SERVICE_ACE",
+            "Tublin, Daniel"
+          ],
+          "server": "Scott Rhein"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Scott Rhein"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Dagostino, Kyle"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Parker Kalmbach",
+            "Scott Rhein"
+          ],
+          "server": "Mitchell Penning"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Josh Taylor",
+            "Matt West"
+          ],
+          "server": "Mitchell Penning"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James",
+            "Dagostino, Kyle"
+          ],
+          "server": "Mitchell Penning"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Tublin, Daniel",
+            "Enriques, Evan"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Josh Taylor",
+            "Matt West"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Jones, Clay"
+          ],
+          "server": "Matt West"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Nikola Antonijevic",
+            "Matt West"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kaminski, Conrad",
+            "Dagostino, Kyle"
+          ],
+          "server": "Josh Taylor"
+        }
+      ],
+      "starters": {
+        "Pepperdine": [
+          "Matt West",
+          "Mitchell Penning",
+          "Nikola Antonijevic",
+          "Scott Rhein",
+          "Parker Kalmbach",
+          "Josh Taylor",
+          "Brennan Anderson"
+        ],
+        "Stanford": [
+          "Dagostino, Kyle",
+          "Kaminski, Conrad",
+          "Shaw, James",
+          "Tublin, Daniel",
+          "Rakestraw, Kevin",
+          "Jones, Clay",
+          "Enriques, Evan"
+        ]
+      }
+    },
+    "2": {
+      "events": [
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kaminski, Conrad",
+            "Dagostino, Kyle"
+          ],
+          "server": "Scott Rhein"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Jones, Clay"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "ATTACK_ERROR",
+            "Tublin, Daniel"
+          ],
+          "server": "Mitchell Penning"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Tublin, Daniel",
+            "Dagostino, Kyle"
+          ],
+          "server": "Mitchell Penning"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James",
+            "Dagostino, Kyle"
+          ],
+          "server": "Tublin, Daniel"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Parker Kalmbach",
+            "Matt West"
+          ],
+          "server": "Tublin, Daniel"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Josh Taylor"
+          ],
+          "server": "Matt West"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "ATTACK_ERROR",
+            "Shaw, James",
+            [
+              "Parker Kalmbach",
+              "Nikola Antonijevic"
+            ]
+          ],
+          "server": "Matt West"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James",
+            "Dagostino, Kyle"
+          ],
+          "server": "Matt West"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Parker Kalmbach",
+            "Matt West"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James",
+            "Dagostino, Kyle"
+          ],
+          "server": "Josh Taylor"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Parker Kalmbach",
+            "Matt West"
+          ],
+          "server": "Dagostino, Kyle"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James",
+            "Dagostino, Kyle"
+          ],
+          "server": "Nikola Antonijevic"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Mitchell Penning",
+            "Matt West"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Parker Kalmbach"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ACE",
+            "Josh Taylor"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Parker Kalmbach",
+            "Matt West"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "SERVICE_ACE",
+            "Shaw, James"
+          ],
+          "server": "Scott Rhein"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "ATTACK_ERROR",
+            "Kaminski, Conrad",
+            [
+              "Matt West",
+              "Mitchell Penning"
+            ]
+          ],
+          "server": "Scott Rhein"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Josh Taylor",
+            "Matt West"
+          ],
+          "server": "Scott Rhein"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Jones, Clay",
+            "Dagostino, Kyle"
+          ],
+          "server": "Scott Rhein"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Parker Kalmbach",
+            "Matt West"
+          ],
+          "server": "Jones, Clay"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Mitchell Penning"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Parker Kalmbach",
+            [
+              "Shaw, James",
+              "Kaminski, Conrad"
+            ]
+          ],
+          "server": "Tublin, Daniel"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Tublin, Daniel"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "ATTACK_ERROR",
+            "Shaw, James"
+          ],
+          "server": "Matt West"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James",
+            "Dagostino, Kyle"
+          ],
+          "server": "Matt West"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James",
+            "Dagostino, Kyle"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Pepperdine."
+        ],
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Parker Kalmbach",
+            "Matt West"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "SERVICE_ACE",
+            "Enriques, Evan"
+          ],
+          "server": "Josh Taylor"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Josh Taylor"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Scott Rhein",
+            "Matt West"
+          ],
+          "server": "Dagostino, Kyle"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James",
+            "Dagostino, Kyle"
+          ],
+          "server": "Nikola Antonijevic"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Mitchell Penning"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Tublin, Daniel",
+            "Rakestraw, Kevin"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Rakestraw, Kevin"
+          ],
+          "server": "Shaw, James"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Pepperdine."
+        ],
+        {
+          "point": "Pepperdine",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Shaw, James"
+        },
+        [
+          "SUB",
+          "Pepperdine subs: Max States; Parker Kalmbach."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Jones, Clay",
+            "Dagostino, Kyle"
+          ],
+          "server": "Max States"
+        },
+        [
+          "SUB",
+          "Pepperdine subs: Parker Kalmbach; Max States."
+        ],
+        [
+          "SUB",
+          "Stanford subs: McCall, Colin; Rakestraw, Kevin."
+        ],
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Mitchell Penning",
+            "Matt West"
+          ],
+          "server": "McCall, Colin"
+        },
+        [
+          "SUB",
+          "Stanford subs: Rakestraw, Kevin; McCall, Colin."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James",
+            "Dagostino, Kyle"
+          ],
+          "server": "Scott Rhein"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Josh Taylor",
+            "Matt West"
+          ],
+          "server": "Jones, Clay"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Tublin, Daniel",
+            "Dagostino, Kyle"
+          ],
+          "server": "Mitchell Penning"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Tublin, Daniel"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "ATTACK_ERROR",
+            "Shaw, James"
+          ],
+          "server": "Matt West"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Josh Taylor",
+            "Matt West"
+          ],
+          "server": "Matt West"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kaminski, Conrad",
+            "Dagostino, Kyle"
+          ],
+          "server": "Matt West"
+        },
+        [
+          "SUB",
+          "Stanford subs: Delgado, Grant; Kaminski, Conrad; Vega, Gabriel; Dagostino, Kyle."
+        ],
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Nikola Antonijevic",
+            "Matt West"
+          ],
+          "server": "Delgado, Grant"
+        }
+      ],
+      "starters": {
+        "Pepperdine": [
+          "Matt West",
+          "Mitchell Penning",
+          "Nikola Antonijevic",
+          "Scott Rhein",
+          "Parker Kalmbach",
+          "Josh Taylor",
+          "Brennan Anderson"
+        ],
+        "Stanford": [
+          "Dagostino, Kyle",
+          "Kaminski, Conrad",
+          "Shaw, James",
+          "Tublin, Daniel",
+          "Rakestraw, Kevin",
+          "Jones, Clay",
+          "Enriques, Evan"
+        ]
+      }
+    },
+    "3": {
+      "events": [
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Rakestraw, Kevin"
+          ],
+          "server": "Dagostino, Kyle"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Josh Taylor",
+            "Matt West"
+          ],
+          "server": "Dagostino, Kyle"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Mitchell Penning"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Parker Kalmbach",
+            "Matt West"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "ATTACK_ERROR",
+            "Jones, Clay",
+            [
+              "Josh Taylor",
+              "Nikola Antonijevic"
+            ]
+          ],
+          "server": "Matt West"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Josh Taylor"
+          ],
+          "server": "Matt West"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Matt West"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Nikola Antonijevic",
+            "Matt West"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "ATTACK_ERROR",
+            "Shaw, James"
+          ],
+          "server": "Josh Taylor"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Matt West",
+            [
+              "Kaminski, Conrad",
+              "Tublin, Daniel"
+            ]
+          ],
+          "server": "Josh Taylor"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Jones, Clay"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Tublin, Daniel",
+            "Dagostino, Kyle"
+          ],
+          "server": "Nikola Antonijevic"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ACE",
+            "Brennan Anderson"
+          ],
+          "server": "Tublin, Daniel"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Josh Taylor",
+            "Matt West"
+          ],
+          "server": "Tublin, Daniel"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Mitchell Penning"
+          ],
+          "server": "Parker Kalmbach"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Kaminski, Conrad"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "ATTACK_ERROR",
+            "Rakestraw, Kevin"
+          ],
+          "server": "Scott Rhein"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "SERVICE_ACE",
+            "Tublin, Daniel"
+          ],
+          "server": "Scott Rhein"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Parker Kalmbach",
+            "Matt West"
+          ],
+          "server": "Scott Rhein"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Josh Taylor",
+            "Matt West"
+          ],
+          "server": "Scott Rhein"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Tublin, Daniel",
+            "Dagostino, Kyle"
+          ],
+          "server": "Scott Rhein"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Mitchell Penning",
+            "Matt West"
+          ],
+          "server": "Dagostino, Kyle"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Rakestraw, Kevin",
+            "Dagostino, Kyle"
+          ],
+          "server": "Mitchell Penning"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Matt West",
+            "Scott Rhein"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Matt West"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Nikola Antonijevic",
+            "Matt West",
+            "Tublin, Daniel"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Jones, Clay",
+            "Dagostino, Kyle"
+          ],
+          "server": "Josh Taylor"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Nikola Antonijevic",
+            "Matt West"
+          ],
+          "server": "Jones, Clay"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Parker Kalmbach",
+            "Nikola Antonijevic"
+          ],
+          "server": "Nikola Antonijevic"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Scott Rhein",
+            "Matt West"
+          ],
+          "server": "Nikola Antonijevic"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "SERVICE_ACE",
+            "Kaminski, Conrad"
+          ],
+          "server": "Nikola Antonijevic"
+        },
+        [
+          "SUB",
+          "Stanford subs: Vega, Gabriel; Jones, Clay."
+        ],
+        {
+          "point": "Pepperdine",
+          "event": [
+            "ATTACK_ERROR",
+            "Kaminski, Conrad"
+          ],
+          "server": "Nikola Antonijevic"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Tublin, Daniel",
+            "Shaw, James"
+          ],
+          "server": "Nikola Antonijevic"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Tublin, Daniel"
+        },
+        [
+          "SUB",
+          "Pepperdine subs: Max States; Parker Kalmbach."
+        ],
+        {
+          "point": "Pepperdine",
+          "event": [
+            "ATTACK_ERROR",
+            "Shaw, James"
+          ],
+          "server": "Max States"
+        },
+        [
+          "SUB",
+          "Pepperdine subs: James Gehrels; Scott Rhein."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Max States"
+        },
+        [
+          "SUB",
+          "Pepperdine subs: Parker Kalmbach; Max States."
+        ],
+        [
+          "SUB",
+          "Stanford subs: Delgado, Grant; Vega, Gabriel."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James",
+            "Dagostino, Kyle"
+          ],
+          "server": "Delgado, Grant"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "James Gehrels",
+            "Matt West"
+          ],
+          "server": "Delgado, Grant"
+        },
+        [
+          "SUB",
+          "Stanford subs: Kaminski, Conrad; Delgado, Grant."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James",
+            "Dagostino, Kyle"
+          ],
+          "server": "James Gehrels"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Parker Kalmbach",
+            "Matt West"
+          ],
+          "server": "Dagostino, Kyle"
+        }
+      ],
+      "starters": {
+        "Pepperdine": [
+          "Matt West",
+          "Mitchell Penning",
+          "Nikola Antonijevic",
+          "Scott Rhein",
+          "Parker Kalmbach",
+          "Josh Taylor",
+          "Brennan Anderson"
+        ],
+        "Stanford": [
+          "Dagostino, Kyle",
+          "Kaminski, Conrad",
+          "Shaw, James",
+          "Tublin, Daniel",
+          "Rakestraw, Kevin",
+          "Jones, Clay",
+          "Enriques, Evan"
+        ]
+      }
+    },
+    "4": {
+      "events": [
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Josh Taylor",
+            "Matt West"
+          ],
+          "server": "Scott Rhein"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Josh Taylor"
+          ],
+          "server": "Scott Rhein"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "ATTACK_ERROR",
+            "Tublin, Daniel"
+          ],
+          "server": "Scott Rhein"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James",
+            "Dagostino, Kyle"
+          ],
+          "server": "Scott Rhein"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Parker Kalmbach",
+            "Matt West"
+          ],
+          "server": "Dagostino, Kyle"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "ATTACK_ERROR",
+            "Rakestraw, Kevin",
+            [
+              "Nikola Antonijevic"
+            ]
+          ],
+          "server": "Mitchell Penning"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Mitchell Penning"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Parker Kalmbach",
+            "Matt West"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "ATTACK_ERROR",
+            "Tublin, Daniel"
+          ],
+          "server": "Matt West"
+        },
+        [
+          "SUB",
+          "Stanford subs: Hayden, Madison; Tublin, Daniel."
+        ],
+        {
+          "point": "Pepperdine",
+          "event": [
+            "ATTACK_ERROR",
+            "Hayden, Madison",
+            [
+              "Parker Kalmbach",
+              "Nikola Antonijevic"
+            ]
+          ],
+          "server": "Matt West"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Matt West"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Parker Kalmbach",
+            "Matt West"
+          ],
+          "server": "Rakestraw, Kevin"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Nikola Antonijevic"
+          ],
+          "server": "Josh Taylor"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "ATTACK_ERROR",
+            "Hayden, Madison",
+            [
+              "Parker Kalmbach",
+              "Nikola Antonijevic"
+            ]
+          ],
+          "server": "Josh Taylor"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "ATTACK_ERROR",
+            "Kaminski, Conrad"
+          ],
+          "server": "Josh Taylor"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Stanford."
+        ],
+        {
+          "point": "Pepperdine",
+          "event": [
+            "ATTACK_ERROR",
+            "Hayden, Madison"
+          ],
+          "server": "Josh Taylor"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "BHE",
+            "Dagostino, Kyle"
+          ],
+          "server": "Josh Taylor"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Jones, Clay",
+            "Dagostino, Kyle"
+          ],
+          "server": "Josh Taylor"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Hayden, Madison",
+            "Dagostino, Kyle"
+          ],
+          "server": "Jones, Clay"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Scott Rhein",
+            "Matt West"
+          ],
+          "server": "Jones, Clay"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kaminski, Conrad",
+            "Dagostino, Kyle"
+          ],
+          "server": "Nikola Antonijevic"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Josh Taylor",
+            "Matt West"
+          ],
+          "server": "Hayden, Madison"
+        },
+        [
+          "SUB",
+          "Pepperdine subs: Max States; Parker Kalmbach."
+        ],
+        {
+          "point": "Pepperdine",
+          "event": [
+            "ATTACK_ERROR",
+            "Jones, Clay"
+          ],
+          "server": "Max States"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Mitchell Penning"
+          ],
+          "server": "Max States"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Max States"
+        },
+        [
+          "SUB",
+          "Stanford subs: Delgado, Grant; Kaminski, Conrad."
+        ],
+        [
+          "SUB",
+          "Pepperdine subs: Parker Kalmbach; Max States."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James",
+            "Hayden, Madison",
+            "Matt West"
+          ],
+          "server": "Delgado, Grant"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Mitchell Penning",
+            "Matt West"
+          ],
+          "server": "Delgado, Grant"
+        },
+        [
+          "SUB",
+          "Stanford subs: Kaminski, Conrad; Delgado, Grant."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James",
+            "Dagostino, Kyle"
+          ],
+          "server": "Scott Rhein"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Mitchell Penning",
+            "Matt West"
+          ],
+          "server": "Dagostino, Kyle"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "ATTACK_ERROR",
+            "Josh Taylor",
+            [
+              "Rakestraw, Kevin",
+              "Shaw, James"
+            ]
+          ],
+          "server": "Mitchell Penning"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Josh Taylor",
+            "Matt West"
+          ],
+          "server": "Shaw, James"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Hayden, Madison",
+            "Dagostino, Kyle"
+          ],
+          "server": "Matt West"
+        },
+        [
+          "SUB",
+          "Stanford subs: McCall, Colin; Rakestraw, Kevin."
+        ],
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Josh Taylor",
+            "Matt West"
+          ],
+          "server": "McCall, Colin"
+        },
+        [
+          "SUB",
+          "Stanford subs: Rakestraw, Kevin; McCall, Colin."
+        ],
+        {
+          "point": "Pepperdine",
+          "event": [
+            "ATTACK_ERROR",
+            "Jones, Clay"
+          ],
+          "server": "Josh Taylor"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Kaminski, Conrad",
+            "Dagostino, Kyle"
+          ],
+          "server": "Josh Taylor"
+        },
+        {
+          "point": "Stanford",
+          "event": [
+            "SERVICE_ACE",
+            "Brennan Anderson"
+          ],
+          "server": "Jones, Clay"
+        },
+        {
+          "point": "Pepperdine",
+          "event": [
+            "KILL",
+            "Scott Rhein",
+            "Matt West"
+          ],
+          "server": "Jones, Clay"
+        },
+        [
+          "SUB",
+          "Pepperdine subs: J.J. Mosolf; Nikola Antonijevic."
+        ],
+        {
+          "point": "Stanford",
+          "event": [
+            "KILL",
+            "Shaw, James",
+            "Dagostino, Kyle"
+          ],
+          "server": "J.J. Mosolf"
+        },
+        [
+          "SUB",
+          "Pepperdine subs: Nikola Antonijevic; J.J. Mosolf."
+        ],
+        {
+          "point": "Pepperdine",
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Hayden, Madison"
+        }
+      ],
+      "starters": {
+        "Pepperdine": [
+          "Matt West",
+          "Mitchell Penning",
+          "Nikola Antonijevic",
+          "Scott Rhein",
+          "Parker Kalmbach",
+          "Josh Taylor",
+          "Brennan Anderson"
+        ],
+        "Stanford": [
+          "Dagostino, Kyle",
+          "Kaminski, Conrad",
+          "Shaw, James",
+          "Tublin, Daniel",
+          "Rakestraw, Kevin",
+          "Jones, Clay",
+          "Enriques, Evan"
+        ]
+      }
+    }
+  },
+  "teams": [
+    [
+      "stats.ncaa.org/105832",
+      "Stanford"
+    ],
+    [
+      "stats.ncaa.org/105825",
+      "Pepperdine"
+    ]
+  ]
+}
