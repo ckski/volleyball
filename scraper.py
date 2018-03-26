@@ -14,7 +14,7 @@
 # Data model:
 
 # game_data :: { 'id': string, 'source': string, 'date': ISO8601 string, 'sets': {1: set, 2: set, 3: set [, 4: set [, 5: set]]}}
-# set :: {'starters': {team_name: list(player_name), 'events': list(event)}
+# set :: {'starters': {team_name: list(player_name)}, 'events': list(event)}
 # event :: {'server': player_name, 'point': team_name, 'event': event_body} | {'point': team_name, 'event': list('OFFICIAL_AWARDED')}
 # event_body :: list('KILL', by player_name [, from player_name [, block error by]])
 #				| list('ATTACK_ERROR', by player_name [, list(blocker player name)])
@@ -105,6 +105,20 @@ def main():
 			os.makedirs(dir_path)
 
 		logger.info("Saving %s to %s" % (data['id'], full_path))
+
+		with open(full_path, 'w') as f:
+			f.write(json.dumps(data))
+
+	def save_box_score(data):
+		m = re.search(r"\/([^/]*)$", data['id'])
+		base_id = m.group(1)
+		dir_path = game_data_directory + data['source'] + '/boxscore/'
+		full_path = dir_path + base_id + '.json'
+
+		if not os.path.exists(dir_path):
+			os.makedirs(dir_path)
+
+		logger.info("Saving boxscore for %s to %s" % (data['id'], full_path))
 
 		with open(full_path, 'w') as f:
 			f.write(json.dumps(data))
@@ -604,9 +618,96 @@ def main():
 		
 
 
+	def fetch_box_score(url):
+		# title = "2016-01-08 Stanford vs Ball St"
+
+		logger.info("HTTP GET: " + url)
+
+		r = urlparse(url)
+		web_host = r.netloc   # e.g. http://stats.ncaa.org/game/play_by_play/3979157 => stats.ncaa.org
+		
+		if web_host == 'stats.ncaa.org':
+			raise Exception('unimplemented')
+			# game_id = web_host + '/game/' + os.path.basename(r.path)  # e.g. http://stats.ncaa.org/game/play_by_play/3979157 => stats.ncaa.org/game/3979157
+			# title = '%s_game_%s.html' % (web_host, os.path.basename(r.path))
+		elif web_host == 'canadawest.org':
+			m = re.search(r"^(.*?)\.xml$", os.path.basename(r.path))
+			base_id = m.group(1)
+			game_id = web_host + ':game/' + base_id
+			# e.g. http://canadawest.org/sports/mvball/2017-18/boxscores/20180112_aj4q.xml?view=plays => canadawest.org:game/20180112_aj4q
+			title = '%s_game_boxscore_%s.html' % (web_host, base_id)
+		else:
+			raise Exception('Unknown web host')
+
+		r = requests.get(url)
+		if r.status_code == 200:
+			html_file_path = scraper_cache_directory + title
+			logger.info("Successfully retrieved play by play, saving to: " + html_file_path)
+			with open(html_file_path, 'w') as f: f.write(r.text)
+
+			return parse_box_score(html_file_path, web_host, game_id)
+
+		else:
+			logger.error("Failed retrieving play by play resource")
+
+
+	def parse_box_score(file, web_host, game_id):
+		# soup = BeautifulSoup(contents, "html.parser")
+		logger.info("Parsing boxscore for %s" % (game_id))
+		with open(file) as f: soup = BeautifulSoup(f, "html.parser")
+
+		if web_host == 'canadawest.org':
+			tables = soup('table')
+			box_score_data = {'source': web_host, 'id': game_id}
+
+			def parse_player(node):
+				href = node.attrs['href']
+				r = urlparse(href)
+				base_id = parse_qs(r.query)['id'][0]
+				player_id = web_host + ":player/" + base_id
+
+				ta_stat = int(node.parent.parent('td')[5].string)
+				digs = int(node.parent.parent('td')[11].string)
+
+				return (player_id, str(node.string).strip(), {"TA": ta_stat, "DIGS": digs})	
+
+			team_1_name = str(soup('table')[4]('tr')[0].h4.string).strip()
+			team_1_players = list(map(parse_player, soup('table')[4].select('tr a')))
+
+			team_2_name = str(soup('table')[5]('tr')[0].h4.string).strip()
+			team_2_players = list(map(parse_player, soup('table')[5].select('tr a')))
+
+			box_score_data['teams'] = {}
+			box_score_data['teams'][team_1_name] = team_1_players
+			box_score_data['teams'][team_2_name] = team_2_players
+
+			def parse_per_set_ta(node, team_name):
+				if node.tr.h4.string != team_name: raise Exception("Team name does not match expected")
+				return list(map(lambda n: int(n('td')[3].string), node('tr')[2:]))
+
+			team_1_per_set_ta = parse_per_set_ta(soup('table')[2], team_1_name)
+			team_2_per_set_ta = parse_per_set_ta(soup('table')[3], team_2_name)
+
+			box_score_data['ta_per_set'] = {}
+			box_score_data['ta_per_set'][team_1_name] = team_1_per_set_ta
+			box_score_data['ta_per_set'][team_2_name] = team_2_per_set_ta
+
+
+			# logger.info(box_score_data)
+
+			return box_score_data
+
+		else:
+			raise Exception("Unknown web host")
+
 	# fetch_play_by_play(url)
 
 	init()
+
+
+
+	box_score = fetch_box_score('http://canadawest.org/sports/mvball/2016-17/boxscores/20161028_9sk3.xml')
+	save_box_score(box_score)
 
 	# file = scraper_cache_directory + "2016-01-08 Stanford vs Ball St" + ".html"
 	# test = 'scraper_cache/2016-01-08 Stanford vs Ball St.html'
@@ -635,13 +736,13 @@ def main():
 	# 		game_data = fetch_play_by_play('http://canadawest.org' + game_id + '?view=plays')
 	# 		save_game_data(game_data)
 
-	game_ids = ['/sports/mvball/2016-17/boxscores/20170121_pnkm.xml', '/sports/mvball/2016-17/boxscores/20170127_74or.xml', '/sports/mvball/2016-17/boxscores/20170128_oy4e.xml', '/sports/mvball/2016-17/boxscores/20170203_chcs.xml', '/sports/mvball/2016-17/boxscores/20170204_h4kp.xml', '/sports/mvball/2016-17/boxscores/20170217_73f1.xml', '/sports/mvball/2016-17/boxscores/20170218_psc7.xml', '/sports/mvball/2016-17/boxscores/20170224_ya31.xml', '/sports/mvball/2016-17/boxscores/20170225_0gcc.xml']
+	# game_ids = ['/sports/mvball/2016-17/boxscores/20170121_pnkm.xml', '/sports/mvball/2016-17/boxscores/20170127_74or.xml', '/sports/mvball/2016-17/boxscores/20170128_oy4e.xml', '/sports/mvball/2016-17/boxscores/20170203_chcs.xml', '/sports/mvball/2016-17/boxscores/20170204_h4kp.xml', '/sports/mvball/2016-17/boxscores/20170217_73f1.xml', '/sports/mvball/2016-17/boxscores/20170218_psc7.xml', '/sports/mvball/2016-17/boxscores/20170224_ya31.xml', '/sports/mvball/2016-17/boxscores/20170225_0gcc.xml']
 
-	# game_ids = ['/sports/mvball/2016-17/boxscores/20161029_u4om.xml']
-	for game_id in game_ids:
-		time.sleep(1)
-		game_data = fetch_play_by_play('http://canadawest.org' + game_id + '?view=plays')
-		save_game_data(game_data)
+	# # game_ids = ['/sports/mvball/2016-17/boxscores/20161029_u4om.xml']
+	# for game_id in game_ids:
+	# 	time.sleep(1)
+	# 	game_data = fetch_play_by_play('http://canadawest.org' + game_id + '?view=plays')
+	# 	save_game_data(game_data)
 
 	# game_data = parse_play_by_play('scraper_cache/canadawest.org_game_20161028_9sk3.html', 'canadawest.org', 'canadawest.org:game/20161028_9sk3')
 	# save_game_data(game_data)
