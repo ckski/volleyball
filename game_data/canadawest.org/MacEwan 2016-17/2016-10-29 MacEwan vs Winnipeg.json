@@ -1,0 +1,1649 @@
+{
+  "teams": [
+    [
+      "canadawest.org:team/afgkow4zpogyvpag",
+      "MacEwan"
+    ],
+    [
+      "canadawest.org:team/92rw9okcosb0aabi",
+      "Winnipeg"
+    ]
+  ],
+  "id": "canadawest.org:game/20161029_qavt",
+  "date": "2016-10-29",
+  "sets": {
+    "1": {
+      "starters": {
+        "WPGM": [
+          "Taylor Howe",
+          "Nicholas Jacobson",
+          "Brendan Thielmann",
+          "Ethan Duncan",
+          "Garrett Jones",
+          "Mikael Clegg",
+          "Logan Brennan"
+        ],
+        "MACEWAN": [
+          "Shane Kerrison",
+          "Joshua Peters",
+          "Kornel Kowalewski",
+          "Max Vriend",
+          "Christian Sides",
+          "Kai Hesthammer",
+          "Testawich,Kirk"
+        ]
+      },
+      "events": [
+        {
+          "point": "MACEWAN",
+          "server": "Mikael Clegg",
+          "event": [
+            "KILL",
+            "Shane Kerrison",
+            "Joshua Peters"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Kornel Kowalewski",
+          "event": [
+            "ATTACK_ERROR",
+            "Taylor Howe"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Kornel Kowalewski",
+          "event": [
+            "ATTACK_ERROR",
+            "Max Vriend",
+            [
+              "Nicholas Jacobson"
+            ]
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Brendan Thielmann",
+          "event": [
+            "ATTACK_ERROR",
+            "Shane Kerrison"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Brendan Thielmann",
+          "event": [
+            "KILL",
+            "Shane Kerrison",
+            "Joshua Peters",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Joshua Peters",
+          "event": [
+            "KILL",
+            "Taylor Howe",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Nicholas Jacobson",
+          "event": [
+            "KILL",
+            "Max Vriend"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Shane Kerrison",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Taylor Howe",
+          "event": [
+            "SERVICE_ACE",
+            "Shane Kerrison"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Taylor Howe",
+          "event": [
+            "KILL",
+            "Christian Sides",
+            "Joshua Peters",
+            "Garrett Jones"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Max Vriend",
+          "event": [
+            "ATTACK_ERROR",
+            "Garrett Jones"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Max Vriend",
+          "event": [
+            "KILL",
+            "Ethan Duncan",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Ethan Duncan",
+          "event": [
+            "ATTACK_ERROR",
+            "Kornel Kowalewski"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Ethan Duncan",
+          "event": [
+            "ATTACK_ERROR",
+            "Kornel Kowalewski"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Ethan Duncan",
+          "event": [
+            "KILL",
+            "Garrett Jones",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Ethan Duncan",
+          "event": [
+            "KILL",
+            "Christian Sides",
+            "Joshua Peters"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Christian Sides",
+          "event": [
+            "KILL",
+            "Brendan Thielmann",
+            "Mikael Clegg",
+            "Kornel Kowalewski"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Garrett Jones",
+          "event": [
+            "KILL",
+            "Kai Hesthammer",
+            "Testawich,Kirk"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Kai Hesthammer",
+          "event": [
+            "KILL",
+            "Brendan Thielmann",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Mikael Clegg",
+          "event": [
+            "KILL",
+            "Kornel Kowalewski",
+            "Joshua Peters"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Kornel Kowalewski",
+          "event": [
+            "KILL",
+            "Shane Kerrison",
+            "Max Vriend"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Kornel Kowalewski",
+          "event": [
+            "KILL",
+            "Brendan Thielmann",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Brendan Thielmann",
+          "event": [
+            "ATTACK_ERROR",
+            "Kai Hesthammer",
+            [
+              "Taylor Howe"
+            ]
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Brendan Thielmann",
+          "event": [
+            "ATTACK_ERROR",
+            "Ethan Duncan",
+            [
+              "Max Vriend",
+              "Joshua Peters"
+            ]
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Joshua Peters",
+          "event": [
+            "KILL",
+            "Taylor Howe",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Nicholas Jacobson",
+          "event": [
+            "KILL",
+            "Taylor Howe",
+            "Mikael Clegg",
+            "Christian Sides"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Nicholas Jacobson",
+          "event": [
+            "KILL",
+            "Christian Sides",
+            "Joshua Peters"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Shane Kerrison",
+          "event": [
+            "KILL",
+            "Garrett Jones",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Taylor Howe",
+          "event": [
+            "ATTACK_ERROR",
+            "Max Vriend",
+            [
+              "Garrett Jones"
+            ]
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Taylor Howe",
+          "event": [
+            "ATTACK_ERROR",
+            "Christian Sides",
+            [
+              "Ethan Duncan"
+            ]
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Taylor Howe",
+          "event": [
+            "KILL",
+            "Max Vriend",
+            "Joshua Peters"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Max Vriend",
+          "event": [
+            "KILL",
+            "Taylor Howe",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Ethan Duncan",
+          "event": [
+            "KILL",
+            "Kai Hesthammer",
+            "Joshua Peters",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Christian Sides",
+          "event": [
+            "KILL",
+            "Brendan Thielmann",
+            "Mikael Clegg",
+            "Joshua Peters"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Garrett Jones",
+          "event": [
+            "KILL",
+            "Kornel Kowalewski"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Kai Hesthammer",
+          "event": [
+            "KILL",
+            "Brendan Thielmann",
+            "Mikael Clegg",
+            "Lucas Kristan"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Mikael Clegg",
+          "event": [
+            "BHE",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Kornel Kowalewski",
+          "event": [
+            "KILL",
+            "Taylor Howe",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Brendan Thielmann",
+          "event": [
+            "KILL",
+            "Shane Kerrison",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Lucas Kristan",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Nicholas Jacobson",
+          "event": [
+            "KILL",
+            "Lucas Kristan",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Shane Kerrison",
+          "event": [
+            "KILL",
+            "Taylor Howe",
+            "Logan Brennan",
+            "Kai Hesthammer"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Taylor Howe",
+          "event": [
+            "BAD_SET",
+            "Matthew Mohler"
+          ]
+        }
+      ]
+    },
+    "2": {
+      "starters": {
+        "WPGM": [
+          "Taylor Howe",
+          "Nicholas Jacobson",
+          "Brendan Thielmann",
+          "Ethan Duncan",
+          "Garrett Jones",
+          "Mikael Clegg",
+          "Logan Brennan"
+        ],
+        "MACEWAN": [
+          "Matthew Mohler",
+          "Shane Kerrison",
+          "Max Vriend",
+          "Christian Sides",
+          "Kai Hesthammer",
+          "Kornel Kowalewski",
+          "Testawich,Kirk"
+        ]
+      },
+      "events": [
+        {
+          "point": "WPGM",
+          "server": "Matthew Mohler",
+          "event": [
+            "KILL",
+            "Taylor Howe",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Brendan Thielmann",
+          "event": [
+            "BHE",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Shane Kerrison",
+          "event": [
+            "KILL",
+            "Max Vriend",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Shane Kerrison",
+          "event": [
+            "ATTACK_ERROR",
+            "Ethan Duncan",
+            [
+              "Max Vriend"
+            ]
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Shane Kerrison",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Nicholas Jacobson",
+          "event": [
+            "KILL",
+            "Ethan Duncan",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Nicholas Jacobson",
+          "event": [
+            "KILL",
+            "Garrett Jones",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Nicholas Jacobson",
+          "event": [
+            "KILL",
+            "Kai Hesthammer",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Max Vriend",
+          "event": [
+            "ATTACK_ERROR",
+            "Garrett Jones",
+            [
+              "Kornel Kowalewski"
+            ]
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Max Vriend",
+          "event": [
+            "ATTACK_ERROR",
+            "Ethan Duncan"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Max Vriend",
+          "event": [
+            "KILL",
+            "Taylor Howe",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Taylor Howe",
+          "event": [
+            "KILL",
+            "Shane Kerrison",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Christian Sides",
+          "event": [
+            "ATTACK_ERROR",
+            "Kai Hesthammer",
+            [
+              "Mikael Clegg"
+            ]
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Ethan Duncan",
+          "event": [
+            "KILL",
+            "Brendan Thielmann",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Ethan Duncan",
+          "event": [
+            "KILL",
+            "Kornel Kowalewski",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Kai Hesthammer",
+          "event": [
+            "KILL",
+            "Max Vriend",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Kai Hesthammer",
+          "event": [
+            "KILL",
+            "Brendan Thielmann",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Garrett Jones",
+          "event": [
+            "KILL",
+            "Shane Kerrison",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Kornel Kowalewski",
+          "event": [
+            "KILL",
+            "Nicholas Jacobson",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Mikael Clegg",
+          "event": [
+            "KILL",
+            "Brendan Thielmann",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Mikael Clegg",
+          "event": [
+            "KILL",
+            "Brendan Thielmann, block error by Matthew Mohler"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Mikael Clegg",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Matthew Mohler",
+          "event": [
+            "BHE",
+            "Brendan Thielmann"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Matthew Mohler",
+          "event": [
+            "ATTACK_ERROR",
+            "Brendan Thielmann",
+            [
+              "Shane Kerrison"
+            ]
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Matthew Mohler",
+          "event": [
+            "KILL",
+            "Taylor Howe",
+            "Brendan Thielmann",
+            "Christian Sides"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Brendan Thielmann",
+          "event": [
+            "KILL",
+            "Shane Kerrison"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Shane Kerrison",
+          "event": [
+            "KILL",
+            "Christian Sides",
+            "Testawich,Kirk",
+            "Ethan Duncan"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Shane Kerrison",
+          "event": [
+            "BHE",
+            "Taylor Howe"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Shane Kerrison",
+          "event": [
+            "KILL",
+            "Brendan Thielmann",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Nicholas Jacobson",
+          "event": [
+            "BHE",
+            "Nicholas Jacobson"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Max Vriend",
+          "event": [
+            "BHE",
+            "Nolan Parrington"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Max Vriend",
+          "event": [
+            "KILL",
+            "Garrett Jones",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Martial Rondeau",
+          "event": [
+            "KILL",
+            "Christian Sides",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Christian Sides",
+          "event": [
+            "BHE",
+            "Martial Rondeau"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Christian Sides",
+          "event": [
+            "KILL",
+            "Garrett Jones",
+            "Martial Rondeau"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Nolan Parrington",
+          "event": [
+            "KILL",
+            "Kornel Kowalewski",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Kai Hesthammer",
+          "event": [
+            "KILL",
+            "Shane Kerrison",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Kai Hesthammer",
+          "event": [
+            "ATTACK_ERROR",
+            "Garrett Jones",
+            [
+              "Kornel Kowalewski"
+            ]
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Kai Hesthammer",
+          "event": [
+            "KILL",
+            "Shane Kerrison",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Kai Hesthammer",
+          "event": [
+            "KILL",
+            "Brendan Thielmann",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Garrett Jones",
+          "event": [
+            "KILL",
+            "Brendan Thielmann",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Garrett Jones",
+          "event": [
+            "KILL",
+            "Shane Kerrison",
+            "Matthew Mohler"
+          ]
+        }
+      ]
+    },
+    "3": {
+      "starters": {
+        "WPGM": [
+          "Taylor Howe",
+          "Nicholas Jacobson",
+          "Brendan Thielmann",
+          "Ethan Duncan",
+          "Garrett Jones",
+          "Mikael Clegg",
+          "Logan Brennan"
+        ],
+        "MACEWAN": [
+          "Matthew Mohler",
+          "Shane Kerrison",
+          "Max Vriend",
+          "Christian Sides",
+          "Kai Hesthammer",
+          "Kornel Kowalewski",
+          "Kirk Testawich"
+        ]
+      },
+      "events": [
+        {
+          "point": "MACEWAN",
+          "server": "Mikael Clegg",
+          "event": [
+            "KILL",
+            "Max Vriend",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Matthew Mohler",
+          "event": [
+            "KILL",
+            "Garrett Jones",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Brendan Thielmann",
+          "event": [
+            "ATTACK_ERROR",
+            "Ethan Duncan"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Shane Kerrison",
+          "event": [
+            "BHE",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Shane Kerrison",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Garrett Jones",
+          "event": [
+            "KILL",
+            "Kai Hesthammer",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Max Vriend",
+          "event": [
+            "KILL",
+            "Taylor Howe",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Taylor Howe",
+          "event": [
+            "KILL",
+            "Shane Kerrison",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Christian Sides",
+          "event": [
+            "ATTACK_ERROR",
+            "Ethan Duncan",
+            [
+              "Matthew Mohler"
+            ]
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Christian Sides",
+          "event": [
+            "KILL",
+            "Ethan Duncan"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Ethan Duncan",
+          "event": [
+            "BHE",
+            "Nicholas Jacobson"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Kai Hesthammer",
+          "event": [
+            "KILL",
+            "Brendan Thielmann",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Nicholas Jacobson",
+          "event": [
+            "KILL",
+            "Kai Hesthammer",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Kornel Kowalewski",
+          "event": [
+            "KILL",
+            "Brendan Thielmann",
+            "Mikael Clegg",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Mikael Clegg",
+          "event": [
+            "BHE",
+            "Ethan Duncan"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Christian Sides",
+          "event": [
+            "ATTACK_ERROR",
+            "Shane Kerrison",
+            [
+              "Ethan Duncan"
+            ]
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Matthew Mohler",
+          "event": [
+            "KILL",
+            "Brendan Thielmann",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Brendan Thielmann",
+          "event": [
+            "SERVICE_ACE",
+            "Shane Kerrison"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Brendan Thielmann",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Shane Kerrison",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Garrett Jones",
+          "event": [
+            "KILL",
+            "Christian Sides",
+            "Matthew Mohler",
+            "Taylor Howe"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Max Vriend",
+          "event": [
+            "KILL",
+            "Ethan Duncan",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Taylor Howe",
+          "event": [
+            "BHE",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Taylor Howe",
+          "event": [
+            "ATTACK_ERROR",
+            "Taylor Howe"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Christian Sides",
+          "event": [
+            "KILL",
+            "Ethan Duncan",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Ethan Duncan",
+          "event": [
+            "ATTACK_ERROR",
+            "Taylor Howe"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Kai Hesthammer",
+          "event": [
+            "BAD_SET",
+            "Kornel Kowalewski"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Nicholas Jacobson",
+          "event": [
+            "ATTACK_ERROR",
+            "Matthew Mohler",
+            [
+              "Brendan Thielmann"
+            ]
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Nicholas Jacobson",
+          "event": [
+            "KILL",
+            "Shane Kerrison",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Kornel Kowalewski",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Mikael Clegg",
+          "event": [
+            "KILL",
+            "Brendan Thielmann",
+            "Logan Brennan",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Mikael Clegg",
+          "event": [
+            "KILL",
+            "Shane Kerrison",
+            "Matthew Mohler",
+            "Taylor Howe"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Matthew Mohler",
+          "event": [
+            "KILL",
+            "Taylor Howe"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Brendan Thielmann",
+          "event": [
+            "KILL",
+            "Ethan Duncan",
+            "Mikael Clegg",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Brendan Thielmann",
+          "event": [
+            "KILL",
+            "Max Vriend",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Shane Kerrison",
+          "event": [
+            "KILL",
+            "Ethan Duncan",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Garrett Jones",
+          "event": [
+            "ATTACK_ERROR",
+            "Kai Hesthammer",
+            [
+              "Taylor Howe"
+            ]
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Garrett Jones",
+          "event": [
+            "KILL",
+            "Kai Hesthammer",
+            "Matthew Mohler",
+            "Taylor Howe"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Max Vriend",
+          "event": [
+            "BHE",
+            "Shane Kerrison"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Taylor Howe",
+          "event": [
+            "ATTACK_ERROR",
+            "Kornel Kowalewski"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Taylor Howe",
+          "event": [
+            "ATTACK_ERROR",
+            "Christian Sides"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Taylor Howe",
+          "event": [
+            "KILL",
+            "Shane Kerrison",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Christian Sides",
+          "event": [
+            "KILL",
+            "Mikael Clegg",
+            "Brendan Thielmann"
+          ]
+        }
+      ]
+    },
+    "4": {
+      "starters": {
+        "WPGM": [
+          "Taylor Howe",
+          "Nicholas Jacobson",
+          "Brendan Thielmann",
+          "Ethan Duncan",
+          "Garrett Jones",
+          "Mikael Clegg",
+          "Logan Brennan"
+        ],
+        "MACEWAN": [
+          "Matthew Mohler",
+          "Shane Kerrison",
+          "Max Vriend",
+          "Christian Sides",
+          "Kai Hesthammer",
+          "Kornel Kowalewski",
+          "Kirk Testawich"
+        ]
+      },
+      "events": [
+        {
+          "point": "WPGM",
+          "server": "Shane Kerrison",
+          "event": [
+            "KILL",
+            "Brendan Thielmann",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Brendan Thielmann",
+          "event": [
+            "KILL",
+            "Christian Sides",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Shane Kerrison",
+          "event": [
+            "BHE",
+            "Testawich,Kirk"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Garrett Jones",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Max Vriend",
+          "event": [
+            "ATTACK_ERROR",
+            "Taylor Howe",
+            [
+              "Kai Hesthammer"
+            ]
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Max Vriend",
+          "event": [
+            "KILL",
+            "Nicholas Jacobson",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Taylor Howe",
+          "event": [
+            "KILL",
+            "Kai Hesthammer",
+            "Matthew Mohler",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Christian Sides",
+          "event": [
+            "KILL",
+            "Max Vriend",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Christian Sides",
+          "event": [
+            "ATTACK_ERROR",
+            "Kai Hesthammer"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Ethan Duncan",
+          "event": [
+            "KILL",
+            "Max Vriend",
+            "Matthew Mohler",
+            "9"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Kai Hesthammer",
+          "event": [
+            "KILL",
+            "Brendan Thielmann",
+            "Mikael Clegg",
+            "Kornel Kowalewski"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Nicholas Jacobson",
+          "event": [
+            "KILL",
+            "Shane Kerrison",
+            "Matthew Mohler",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Kornel Kowalewski",
+          "event": [
+            "KILL",
+            "Ethan Duncan",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Mikael Clegg",
+          "event": [
+            "ATTACK_ERROR",
+            "Shane Kerrison",
+            [
+              "Ethan Duncan"
+            ]
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Mikael Clegg",
+          "event": [
+            "KILL",
+            "Shane Kerrison",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Matthew Mohler",
+          "event": [
+            "KILL",
+            "Brendan Thielmann",
+            "Logan Brennan",
+            "Shane Kerrison"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Brendan Thielmann",
+          "event": [
+            "KILL",
+            "Shane Kerrison",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Shane Kerrison",
+          "event": [
+            "KILL",
+            "Taylor Howe",
+            "Mikael Clegg",
+            "Kai Hesthammer"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Garrett Jones",
+          "event": [
+            "KILL",
+            "Christian Sides",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Max Vriend",
+          "event": [
+            "KILL",
+            "Ethan Duncan",
+            "Mikael Clegg",
+            "Kornel Kowalewski"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Taylor Howe",
+          "event": [
+            "KILL",
+            "Kornel Kowalewski",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Christian Sides",
+          "event": [
+            "KILL",
+            "Kai Hesthammer",
+            "Matthew Mohler",
+            "Nicholas Jacobson"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Christian Sides",
+          "event": [
+            "ATTACK_ERROR",
+            "Kornel Kowalewski"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Ethan Duncan",
+          "event": [
+            "KILL",
+            "Kai Hesthammer",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Kai Hesthammer",
+          "event": [
+            "KILL",
+            "Brendan Thielmann",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Jaden Prive",
+          "event": [
+            "SERVICE_ACE",
+            "Testawich,Kirk"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Jaden Prive",
+          "event": [
+            "KILL",
+            "Garrett Jones"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Jaden Prive",
+          "event": [
+            "KILL",
+            "Shane Kerrison",
+            "Testawich,Kirk"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Kornel Kowalewski",
+          "event": [
+            "ATTACK_ERROR",
+            "Brendan Thielmann"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Kornel Kowalewski",
+          "event": [
+            "KILL",
+            "Garrett Jones",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Mikael Clegg",
+          "event": [
+            "KILL",
+            "Shane Kerrison",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Matthew Mohler",
+          "event": [
+            "KILL",
+            "Garrett Jones",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Brendan Thielmann",
+          "event": [
+            "ATTACK_ERROR",
+            "Christian Sides",
+            [
+              "Taylor Howe",
+              "Garrett Jones"
+            ]
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Brendan Thielmann",
+          "event": [
+            "ATTACK_ERROR",
+            "Christian Sides"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Brendan Thielmann",
+          "event": [
+            "KILL",
+            "Taylor Howe",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Brendan Thielmann",
+          "event": [
+            "SERVICE_ACE",
+            "Kai Hesthammer"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Brendan Thielmann",
+          "event": [
+            "KILL",
+            "Shane Kerrison",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Shane Kerrison",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Garrett Jones",
+          "event": [
+            "KILL",
+            "Ethan Duncan",
+            "Mikael Clegg",
+            "Jordan Peters"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Garrett Jones",
+          "event": [
+            "BAD_SET",
+            "Garrett Jones"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Max Vriend",
+          "event": [
+            "KILL",
+            "Ethan Duncan",
+            "Mikael Clegg"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Taylor Howe",
+          "event": [
+            "ATTACK_ERROR",
+            "Kai Hesthammer"
+          ]
+        },
+        {
+          "point": "WPGM",
+          "server": "Taylor Howe",
+          "event": [
+            "BHE",
+            "Jordan Peters"
+          ]
+        }
+      ]
+    }
+  },
+  "source": "canadawest.org"
+}

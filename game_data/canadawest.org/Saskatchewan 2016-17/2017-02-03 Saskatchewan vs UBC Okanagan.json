@@ -1,0 +1,1566 @@
+{
+  "source": "canadawest.org",
+  "teams": [
+    [
+      "canadawest.org:team/vw3suzwumcai6jjw",
+      "Saskatchewan"
+    ],
+    [
+      "canadawest.org:team/dxr6cxddzdwobqa5",
+      "UBC Okanagan"
+    ]
+  ],
+  "sets": {
+    "1": {
+      "events": [
+        {
+          "server": "Jon Russo",
+          "point": "UBCO",
+          "event": [
+            "ATTACK_ERROR",
+            "Andrew Nelson"
+          ]
+        },
+        {
+          "server": "Jon Russo",
+          "point": "UBCO",
+          "event": [
+            "SERVICE_ACE",
+            "Etienne Hagenbuch"
+          ]
+        },
+        {
+          "server": "Jon Russo",
+          "point": "UBCO",
+          "event": [
+            "ATTACK_ERROR",
+            "Colin Fraser"
+          ]
+        },
+        {
+          "server": "Jon Russo",
+          "point": "SASK",
+          "event": [
+            "ATTACK_ERROR",
+            "Alex Swiatlowski",
+            [
+              "Daulton Sinoski"
+            ]
+          ]
+        },
+        {
+          "server": "Daulton Sinoski",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Kyle Hinchey",
+            "Jon Russo"
+          ]
+        },
+        {
+          "server": "Devon Cote",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Derek Epp"
+          ]
+        },
+        {
+          "server": "Andrew Nelson",
+          "point": "UBCO",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Alex Swiatlowski",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Zak Rempel",
+            "Derek Epp"
+          ]
+        },
+        {
+          "server": "Zak Rempel",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Lars Bornemann",
+            "Jon Russo"
+          ]
+        },
+        {
+          "server": "Kyle Hinchey",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Colin Fraser",
+            "Derek Epp"
+          ]
+        },
+        {
+          "server": "Tyler Epp",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Kyle Hinchey",
+            "Jon Russo"
+          ]
+        },
+        {
+          "server": "Lars Bornemann",
+          "point": "SASK",
+          "event": [
+            "BAD_SET",
+            "Joshua Harvey"
+          ]
+        },
+        {
+          "server": "Derek Epp",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Daulton Sinoski",
+            "Derek Epp"
+          ]
+        },
+        {
+          "server": "Derek Epp",
+          "point": "SASK",
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ]
+        },
+        {
+          "server": "Derek Epp",
+          "point": "UBCO",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Joshua Harvey",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Derek Epp"
+          ]
+        },
+        {
+          "server": "Colin Fraser",
+          "point": "UBCO",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Jon Russo",
+          "point": "SASK",
+          "event": [
+            "ATTACK_ERROR",
+            "Devon Cote",
+            [
+              "Andrew Nelson",
+              "Daulton Sinoski"
+            ]
+          ]
+        },
+        {
+          "server": "Daulton Sinoski",
+          "point": "UBCO",
+          "event": [
+            "ATTACK_ERROR",
+            "Andrew Nelson"
+          ]
+        },
+        {
+          "server": "Devon Cote",
+          "point": "UBCO",
+          "event": [
+            "ATTACK_ERROR",
+            "Derek Epp"
+          ]
+        },
+        {
+          "server": "Devon Cote",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Alex Swiatlowski",
+            "Jon Russo"
+          ]
+        },
+        {
+          "server": "Devon Cote",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Derek Epp"
+          ]
+        },
+        {
+          "server": "Andrew Nelson",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Alex Swiatlowski",
+            "Jon Russo"
+          ]
+        },
+        {
+          "server": "Alex Swiatlowski",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Zak Rempel",
+            "Etienne Hagenbuch"
+          ]
+        },
+        {
+          "server": "Zak Rempel",
+          "point": "SASK",
+          "event": [
+            "ATTACK_ERROR",
+            "Lars Bornemann",
+            [
+              "Derek Epp",
+              "Tyler Epp"
+            ]
+          ]
+        },
+        {
+          "server": "Zak Rempel",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Lars Bornemann",
+            "Jon Russo"
+          ]
+        },
+        [
+          "SUB",
+          "SASK subs: Connor Murray; Zak Rempel."
+        ],
+        [
+          "SUB",
+          "UBCO subs: Adam Schwarz; Kyle Hinchey; Luke Harvey; Jon Russo."
+        ],
+        {
+          "server": "Adam Schwarz",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Tyler Epp",
+            "Derek Epp"
+          ]
+        },
+        {
+          "server": "Tyler Epp",
+          "point": "UBCO",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Lars Bornemann",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Colin Fraser",
+            "Connor Murray"
+          ]
+        },
+        {
+          "server": "Derek Epp",
+          "point": "UBCO",
+          "event": [
+            "ATTACK_ERROR",
+            "Andrew Nelson"
+          ]
+        },
+        {
+          "server": "Joshua Harvey",
+          "point": "UBCO",
+          "event": [
+            "ATTACK_ERROR",
+            "Andrew Nelson",
+            [
+              "Luke Harvey",
+              "Alex Swiatlowski"
+            ]
+          ]
+        },
+        {
+          "server": "Joshua Harvey",
+          "point": "SASK",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        [
+          "SUB",
+          "SASK subs: Zak Rempel; Connor Murray."
+        ],
+        {
+          "server": "Colin Fraser",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Daulton Sinoski",
+            "Derek Epp"
+          ]
+        },
+        {
+          "server": "Colin Fraser",
+          "point": "SASK",
+          "event": [
+            "ATTACK_ERROR",
+            "Luke Harvey",
+            [
+              "Zak Rempel",
+              "Daulton Sinoski"
+            ]
+          ]
+        },
+        {
+          "server": "Colin Fraser",
+          "point": "UBCO",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        [
+          "SUB",
+          "UBCO subs: Jon Russo; Luke Harvey; Kyle Hinchey; Adam Schwarz."
+        ],
+        {
+          "server": "Jon Russo",
+          "point": "UBCO",
+          "event": [
+            "ATTACK_ERROR",
+            "Zak Rempel"
+          ]
+        },
+        {
+          "server": "Jon Russo",
+          "point": "UBCO",
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Saskatchewan."
+        ],
+        {
+          "server": "Jon Russo",
+          "point": "SASK",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout UBC Okanagan."
+        ],
+        {
+          "server": "Daulton Sinoski",
+          "point": "UBCO",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Devon Cote",
+          "point": "UBCO",
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ]
+        },
+        {
+          "server": "Devon Cote",
+          "point": "UBCO",
+          "event": [
+            "ATTACK_ERROR",
+            "Andrew Nelson",
+            [
+              "Lars Bornemann"
+            ]
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Saskatchewan."
+        ],
+        {
+          "server": "Devon Cote",
+          "point": "UBCO",
+          "event": [
+            "ATTACK_ERROR",
+            "Colin Fraser"
+          ]
+        },
+        {
+          "server": "Devon Cote",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Tyler Epp",
+            "Derek Epp"
+          ]
+        },
+        {
+          "server": "Andrew Nelson",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Kyle Hinchey",
+            "Eli Risso"
+          ]
+        }
+      ],
+      "starters": {
+        "SASK": [
+          "Zak Rempel",
+          "Andrew Nelson",
+          "Daulton Sinoski",
+          "Colin Fraser",
+          "Derek Epp",
+          "Tyler Epp",
+          "Etienne Hagenbuch"
+        ],
+        "UBCO": [
+          "Kyle Hinchey",
+          "Alex Swiatlowski",
+          "Lars Bornemann",
+          "Joshua Harvey",
+          "Jon Russo",
+          "Devon Cote",
+          "Eli Risso"
+        ]
+      }
+    },
+    "2": {
+      "events": [
+        {
+          "server": "Andrew Nelson",
+          "point": "UBCO",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Devon Cote",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Derek Epp"
+          ]
+        },
+        {
+          "server": "Zak Rempel",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Lars Bornemann",
+            "Jon Russo"
+          ]
+        },
+        {
+          "server": "Alex Swiatlowski",
+          "point": "UBCO",
+          "event": [
+            "ATTACK_ERROR",
+            "Colin Fraser"
+          ]
+        },
+        {
+          "server": "Alex Swiatlowski",
+          "point": "UBCO",
+          "event": [
+            "ATTACK_ERROR",
+            "Zak Rempel"
+          ]
+        },
+        {
+          "server": "Alex Swiatlowski",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Derek Epp"
+          ]
+        },
+        {
+          "server": "Tyler Epp",
+          "point": "UBCO",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Kyle Hinchey",
+          "point": "UBCO",
+          "event": [
+            "ATTACK_ERROR",
+            "Andrew Nelson",
+            [
+              "Lars Bornemann",
+              "Joshua Harvey"
+            ]
+          ]
+        },
+        {
+          "server": "Kyle Hinchey",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Colin Fraser",
+            "Derek Epp"
+          ]
+        },
+        {
+          "server": "Derek Epp",
+          "point": "SASK",
+          "event": [
+            "ATTACK_ERROR",
+            "Jon Russo",
+            [
+              "Colin Fraser"
+            ]
+          ]
+        },
+        {
+          "server": "Derek Epp",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Lars Bornemann",
+            "Jon Russo"
+          ]
+        },
+        {
+          "server": "Lars Bornemann",
+          "point": "UBCO",
+          "event": [
+            "BHE",
+            "Derek Epp"
+          ]
+        },
+        {
+          "server": "Lars Bornemann",
+          "point": "UBCO",
+          "event": [
+            "SERVICE_ACE",
+            "Andrew Nelson"
+          ]
+        },
+        {
+          "server": "Lars Bornemann",
+          "point": "SASK",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Colin Fraser",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Joshua Harvey",
+            "Jon Russo"
+          ]
+        },
+        {
+          "server": "Joshua Harvey",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Colin Fraser",
+            "Derek Epp"
+          ]
+        },
+        {
+          "server": "Daulton Sinoski",
+          "point": "SASK",
+          "event": [
+            "ATTACK_ERROR",
+            "Lars Bornemann",
+            [
+              "Tyler Epp"
+            ]
+          ]
+        },
+        {
+          "server": "Daulton Sinoski",
+          "point": "SASK",
+          "event": [
+            "ATTACK_ERROR",
+            "Devon Cote"
+          ]
+        },
+        {
+          "server": "Daulton Sinoski",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Zak Rempel",
+            "Colin Fraser"
+          ]
+        },
+        {
+          "server": "Daulton Sinoski",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Derek Epp"
+          ]
+        },
+        {
+          "server": "Daulton Sinoski",
+          "point": "UBCO",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Jon Russo",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Derek Epp"
+          ]
+        },
+        {
+          "server": "Andrew Nelson",
+          "point": "SASK",
+          "event": [
+            "ATTACK_ERROR",
+            "Kyle Hinchey"
+          ]
+        },
+        {
+          "server": "Andrew Nelson",
+          "point": "UBCO",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Devon Cote",
+          "point": "SASK",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Zak Rempel",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Lars Bornemann",
+            "Eli Risso"
+          ]
+        },
+        {
+          "server": "Alex Swiatlowski",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Colin Fraser",
+            "Derek Epp"
+          ]
+        },
+        {
+          "server": "Tyler Epp",
+          "point": "SASK",
+          "event": [
+            "ATTACK_ERROR",
+            "Kyle Hinchey",
+            [
+              "Colin Fraser",
+              "Daulton Sinoski"
+            ]
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout UBC Okanagan."
+        ],
+        {
+          "server": "Tyler Epp",
+          "point": "UBCO",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        [
+          "SUB",
+          "UBCO subs: Adam Schwarz; Kyle Hinchey; Luke Harvey; Jon Russo."
+        ],
+        {
+          "server": "Adam Schwarz",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Lars Bornemann",
+            "Alex Swiatlowski"
+          ]
+        },
+        {
+          "server": "Adam Schwarz",
+          "point": "UBCO",
+          "event": [
+            "ATTACK_ERROR",
+            "Daulton Sinoski"
+          ]
+        },
+        {
+          "server": "Adam Schwarz",
+          "point": "UBCO",
+          "event": [
+            "ATTACK_ERROR",
+            "Zak Rempel",
+            [
+              "Joshua Harvey"
+            ]
+          ]
+        },
+        [
+          "SUB",
+          "SASK subs: Connor Murray; Zak Rempel."
+        ],
+        {
+          "server": "Adam Schwarz",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Colin Fraser",
+            "Derek Epp",
+            "Luke Harvey"
+          ]
+        },
+        {
+          "server": "Derek Epp",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Joshua Harvey",
+            "Adam Schwarz"
+          ]
+        },
+        {
+          "server": "Lars Bornemann",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Joshua Harvey"
+          ]
+        },
+        {
+          "server": "Lars Bornemann",
+          "point": "SASK",
+          "event": [
+            "ATTACK_ERROR",
+            "Devon Cote"
+          ]
+        },
+        [
+          "SUB",
+          "SASK subs: Zak Rempel; Connor Murray."
+        ],
+        {
+          "server": "Colin Fraser",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Luke Harvey",
+            "Adam Schwarz"
+          ]
+        },
+        {
+          "server": "Joshua Harvey",
+          "point": "UBCO",
+          "event": [
+            "ATTACK_ERROR",
+            "Andrew Nelson",
+            [
+              "Devon Cote",
+              "Alex Swiatlowski"
+            ]
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Saskatchewan."
+        ],
+        {
+          "server": "Joshua Harvey",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Zak Rempel",
+            "Derek Epp"
+          ]
+        },
+        {
+          "server": "Daulton Sinoski",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Derek Epp"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout UBC Okanagan."
+        ],
+        {
+          "server": "Daulton Sinoski",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Devon Cote",
+            "Adam Schwarz"
+          ]
+        },
+        [
+          "SUB",
+          "UBCO subs: Luke Harvey; Jon Russo; Adam Schwarz; Kyle Hinchey."
+        ],
+        [
+          "SUB",
+          "SASK subs: Troy Wiebe; Andrew Nelson."
+        ],
+        {
+          "server": "Troy Wiebe",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Tyler Epp",
+            "Troy Wiebe"
+          ]
+        },
+        {
+          "server": "Troy Wiebe",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Tyler Epp",
+            "Troy Wiebe"
+          ]
+        },
+        {
+          "server": "Troy Wiebe",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Alex Swiatlowski",
+            "Jon Russo"
+          ]
+        },
+        {
+          "server": "Devon Cote",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Tyler Epp",
+            "Troy Wiebe"
+          ]
+        },
+        {
+          "server": "Zak Rempel",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Lars Bornemann",
+            "Jon Russo"
+          ]
+        },
+        {
+          "server": "Alex Swiatlowski",
+          "point": "SASK",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Tyler Epp",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Lars Bornemann",
+            "Jon Russo"
+          ]
+        },
+        {
+          "server": "Kyle Hinchey",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Zak Rempel",
+            "Troy Wiebe"
+          ]
+        },
+        [
+          "SUB",
+          "SASK subs: Andrew Nelson; Troy Wiebe."
+        ],
+        {
+          "server": "Derek Epp",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Joshua Harvey",
+            "Jon Russo"
+          ]
+        },
+        {
+          "server": "Lars Bornemann",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Troy Wiebe"
+          ]
+        },
+        {
+          "server": "Colin Fraser",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Zak Rempel",
+            "Etienne Hagenbuch"
+          ]
+        },
+        {
+          "server": "Colin Fraser",
+          "point": "UBCO",
+          "event": [
+            "ATTACK_ERROR",
+            "Zak Rempel"
+          ]
+        },
+        {
+          "server": "Joshua Harvey",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Alex Swiatlowski",
+            "Jon Russo"
+          ]
+        },
+        {
+          "server": "Joshua Harvey",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Derek Epp"
+          ]
+        },
+        {
+          "server": "Daulton Sinoski",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Derek Epp"
+          ]
+        },
+        {
+          "server": "Daulton Sinoski",
+          "point": "UBCO",
+          "event": [
+            "ATTACK_ERROR",
+            "Andrew Nelson",
+            [
+              "Devon Cote",
+              "Alex Swiatlowski"
+            ]
+          ]
+        },
+        {
+          "server": "Jon Russo",
+          "point": "SASK",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Andrew Nelson",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Devon Cote",
+            "Jon Russo"
+          ]
+        },
+        {
+          "server": "Devon Cote",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Tyler Epp",
+            "Derek Epp"
+          ]
+        },
+        {
+          "server": "Zak Rempel",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Alex Swiatlowski",
+            "Jon Russo"
+          ]
+        },
+        {
+          "server": "Alex Swiatlowski",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Lars Bornemann",
+            "Alex Swiatlowski"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Saskatchewan."
+        ],
+        {
+          "server": "Alex Swiatlowski",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Colin Fraser",
+            "Derek Epp"
+          ]
+        },
+        {
+          "server": "Tyler Epp",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Joshua Harvey",
+            "Jon Russo"
+          ]
+        },
+        {
+          "server": "Kyle Hinchey",
+          "point": "UBCO",
+          "event": [
+            "ATTACK_ERROR",
+            "Colin Fraser"
+          ]
+        }
+      ],
+      "starters": {
+        "SASK": [
+          "Andrew Nelson",
+          "Tyler Epp",
+          "Zak Rempel",
+          "Derek Epp",
+          "Colin Fraser",
+          "Daulton Sinoski",
+          "Etienne Hagenbuch"
+        ],
+        "UBCO": [
+          "Kyle Hinchey",
+          "Alex Swiatlowski",
+          "Devon Cote",
+          "Lars Bornemann",
+          "Joshua Harvey",
+          "Jon Russo",
+          "Eli Risso"
+        ]
+      }
+    },
+    "3": {
+      "events": [
+        {
+          "server": "Jon Russo",
+          "point": "UBCO",
+          "event": [
+            "SERVICE_ACE",
+            "Colin Fraser"
+          ]
+        },
+        {
+          "server": "Jon Russo",
+          "point": "SASK",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Daulton Sinoski",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Devon Cote",
+            "Jon Russo"
+          ]
+        },
+        {
+          "server": "Devon Cote",
+          "point": "UBCO",
+          "event": [
+            "ATTACK_ERROR",
+            "Andrew Nelson",
+            [
+              "Lars Bornemann"
+            ]
+          ]
+        },
+        {
+          "server": "Devon Cote",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Lars Bornemann",
+            "Jon Russo"
+          ]
+        },
+        {
+          "server": "Devon Cote",
+          "point": "SASK",
+          "event": [
+            "BAD_SET",
+            "Alex Swiatlowski"
+          ]
+        },
+        {
+          "server": "Andrew Nelson",
+          "point": "UBCO",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Alex Swiatlowski",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Derek Epp"
+          ]
+        },
+        {
+          "server": "Zak Rempel",
+          "point": "SASK",
+          "event": [
+            "ATTACK_ERROR",
+            "Kyle Hinchey"
+          ]
+        },
+        {
+          "server": "Kyle Hinchey",
+          "point": "SASK",
+          "event": [
+            "ATTACK_ERROR",
+            "Alex Swiatlowski",
+            [
+              "Tyler Epp"
+            ]
+          ]
+        },
+        {
+          "server": "Tyler Epp",
+          "point": "UBCO",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Lars Bornemann",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Derek Epp"
+          ]
+        },
+        [
+          "SUB",
+          "SASK subs: Troy Wiebe; Derek Epp."
+        ],
+        {
+          "server": "Troy Wiebe",
+          "point": "UBCO",
+          "event": [
+            "ATTACK_ERROR",
+            "Colin Fraser",
+            [
+              "Joshua Harvey",
+              "Jon Russo"
+            ]
+          ]
+        },
+        {
+          "server": "Joshua Harvey",
+          "point": "UBCO",
+          "event": [
+            "ATTACK_ERROR",
+            "Colin Fraser",
+            [
+              "Alex Swiatlowski",
+              "Devon Cote"
+            ]
+          ]
+        },
+        {
+          "server": "Joshua Harvey",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Colin Fraser",
+            "Troy Wiebe"
+          ]
+        },
+        {
+          "server": "Colin Fraser",
+          "point": "SASK",
+          "event": [
+            "ATTACK_ERROR",
+            "Devon Cote",
+            [
+              "Daulton Sinoski",
+              "Andrew Nelson"
+            ]
+          ]
+        },
+        {
+          "server": "Colin Fraser",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Zak Rempel",
+            "Daulton Sinoski"
+          ]
+        },
+        {
+          "server": "Colin Fraser",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Zak Rempel",
+            "Troy Wiebe"
+          ]
+        },
+        {
+          "server": "Colin Fraser",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Zak Rempel",
+            "Troy Wiebe"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout UBC Okanagan."
+        ],
+        {
+          "server": "Colin Fraser",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Devon Cote",
+            "Jon Russo"
+          ]
+        },
+        {
+          "server": "Jon Russo",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Daulton Sinoski",
+            "Troy Wiebe"
+          ]
+        },
+        {
+          "server": "Daulton Sinoski",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Alex Swiatlowski",
+            "Jon Russo"
+          ]
+        },
+        {
+          "server": "Devon Cote",
+          "point": "UBCO",
+          "event": [
+            "ATTACK_ERROR",
+            "Andrew Nelson"
+          ]
+        },
+        {
+          "server": "Devon Cote",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Zak Rempel",
+            "Troy Wiebe"
+          ]
+        },
+        {
+          "server": "Andrew Nelson",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Lars Bornemann",
+            "Jon Russo"
+          ]
+        },
+        {
+          "server": "Alex Swiatlowski",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Zak Rempel",
+            "Troy Wiebe"
+          ]
+        },
+        {
+          "server": "Zak Rempel",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Joshua Harvey",
+            "Jon Russo"
+          ]
+        },
+        [
+          "SUB",
+          "UBCO subs: Adam Schwarz; Kyle Hinchey; Luke Harvey; Jon Russo."
+        ],
+        {
+          "server": "Adam Schwarz",
+          "point": "SASK",
+          "event": [
+            "ATTACK_ERROR",
+            "Luke Harvey",
+            [
+              "Tyler Epp",
+              "Colin Fraser"
+            ]
+          ]
+        },
+        {
+          "server": "Tyler Epp",
+          "point": "UBCO",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Lars Bornemann",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Colin Fraser",
+            "Troy Wiebe"
+          ]
+        },
+        {
+          "server": "Troy Wiebe",
+          "point": "UBCO",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Joshua Harvey",
+          "point": "SASK",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "server": "Colin Fraser",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Troy Wiebe"
+          ]
+        },
+        {
+          "server": "Colin Fraser",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Devon Cote",
+            "Adam Schwarz"
+          ]
+        },
+        [
+          "SUB",
+          "UBCO subs: Kyle Hinchey; Adam Schwarz; Jon Russo; Luke Harvey."
+        ],
+        {
+          "server": "Jon Russo",
+          "point": "UBCO",
+          "event": [
+            "ATTACK_ERROR",
+            "Daulton Sinoski"
+          ]
+        },
+        {
+          "server": "Jon Russo",
+          "point": "UBCO",
+          "event": [
+            "ATTACK_ERROR",
+            "Zak Rempel"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Saskatchewan."
+        ],
+        {
+          "server": "Jon Russo",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Colin Fraser",
+            "Troy Wiebe"
+          ]
+        },
+        {
+          "server": "Daulton Sinoski",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Adam Schwarz",
+            "Jon Russo"
+          ]
+        },
+        {
+          "server": "Devon Cote",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Troy Wiebe"
+          ]
+        },
+        {
+          "server": "Andrew Nelson",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Lars Bornemann",
+            "Jon Russo"
+          ]
+        },
+        {
+          "server": "Alex Swiatlowski",
+          "point": "UBCO",
+          "event": [
+            "SERVICE_ACE",
+            "Colin Fraser"
+          ]
+        },
+        {
+          "server": "Alex Swiatlowski",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Tyler Epp",
+            "Troy Wiebe"
+          ]
+        },
+        {
+          "server": "Zak Rempel",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Tyler Epp",
+            "Troy Wiebe"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout UBC Okanagan."
+        ],
+        {
+          "server": "Zak Rempel",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Lars Bornemann",
+            "Jon Russo"
+          ]
+        },
+        [
+          "SUB",
+          "SASK subs: Connor Murray; Zak Rempel."
+        ],
+        {
+          "server": "Kyle Hinchey",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Lars Bornemann",
+            "Jon Russo"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Saskatchewan."
+        ],
+        {
+          "server": "Kyle Hinchey",
+          "point": "SASK",
+          "event": [
+            "KILL",
+            "Tyler Epp",
+            "Troy Wiebe"
+          ]
+        },
+        {
+          "server": "Tyler Epp",
+          "point": "UBCO",
+          "event": [
+            "KILL",
+            "Lars Bornemann",
+            "Jon Russo"
+          ]
+        }
+      ],
+      "starters": {
+        "SASK": [
+          "Zak Rempel",
+          "Andrew Nelson",
+          "Daulton Sinoski",
+          "Tyler Epp",
+          "Derek Epp",
+          "Colin Fraser",
+          "Etienne Hagenbuch"
+        ],
+        "UBCO": [
+          "Lars Bornemann",
+          "Kyle Hinchey",
+          "Alex Swiatlowski",
+          "Devon Cote",
+          "Joshua Harvey",
+          "Jon Russo",
+          "Eli Risso"
+        ]
+      }
+    }
+  },
+  "date": "2017-02-03",
+  "id": "canadawest.org:game/20170203_6gef"
+}

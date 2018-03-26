@@ -1,0 +1,25 @@
+2016-10-28 MacEwan vs Winnipeg.json
+2016-10-29 MacEwan vs Winnipeg.json
+2016-11-04 Saskatchewan vs MacEwan.json
+2016-11-05 Saskatchewan vs MacEwan.json
+2016-11-10 Alberta vs MacEwan.json
+2016-11-11 MacEwan vs Alberta.json
+2016-11-18 MacEwan vs Trinity Western.json
+2016-11-19 MacEwan vs Trinity Western.json
+2016-11-25 Thompson Rivers vs MacEwan.json
+2016-11-26 Thompson Rivers vs MacEwan.json
+2016-12-02 UBC vs MacEwan.json
+2016-12-03 UBC vs MacEwan.json
+2017-01-13 Calgary vs MacEwan.json
+2017-01-14 Calgary vs MacEwan.json
+2017-01-20 Brandon vs MacEwan.json
+2017-01-21 Brandon vs MacEwan.json
+2017-01-27 MacEwan vs Mount Royal.json
+2017-01-28 MacEwan vs Mount Royal.json
+2017-02-03 MacEwan vs Regina.json
+2017-02-04 MacEwan vs Regina.json
+2017-02-10 Manitoba vs MacEwan.json
+2017-02-11 Manitoba vs MacEwan.json
+2017-02-24 MacEwan vs UBC Okanagan.json
+2017-02-25 MacEwan vs UBC Okanagan.json
+file.txt

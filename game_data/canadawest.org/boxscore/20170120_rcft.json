@@ -1,0 +1,198 @@
+{
+  "ta_per_set": {
+    "Calgary": [
+      23,
+      30,
+      33
+    ],
+    "Manitoba": [
+      24,
+      30,
+      29
+    ]
+  },
+  "source": "canadawest.org",
+  "teams": {
+    "Calgary": [
+      [
+        "canadawest.org:player/timtaylor",
+        "Tim Taylor",
+        {
+          "DIGS": 2,
+          "TA": 8
+        }
+      ],
+      [
+        "canadawest.org:player/fj6drllww1euproi",
+        "Blain Cranston",
+        {
+          "DIGS": 2,
+          "TA": 0
+        }
+      ],
+      [
+        "canadawest.org:player/ibatmbqkxeh0m58l",
+        "Parker Maris",
+        {
+          "DIGS": 0,
+          "TA": 0
+        }
+      ],
+      [
+        "canadawest.org:player/vxsay1qd4v8a0jlh",
+        "Derek Meeuwisse",
+        {
+          "DIGS": 9,
+          "TA": 0
+        }
+      ],
+      [
+        "canadawest.org:player/oqqwfl5pmszrgnku",
+        "Curtis Stockton",
+        {
+          "DIGS": 7,
+          "TA": 31
+        }
+      ],
+      [
+        "canadawest.org:player/plrlluqsd1ppphpa",
+        "Parker Siroishka",
+        {
+          "DIGS": 1,
+          "TA": 4
+        }
+      ],
+      [
+        "canadawest.org:player/lmj2reyccuac39wi",
+        "Alex Bader",
+        {
+          "DIGS": 4,
+          "TA": 26
+        }
+      ],
+      [
+        "canadawest.org:player/ffatky1nzdjt47ea",
+        "Brett Bolin",
+        {
+          "DIGS": 0,
+          "TA": 1
+        }
+      ],
+      [
+        "canadawest.org:player/0kftx565szkcd2k2",
+        "Mitchell Higgin",
+        {
+          "DIGS": 1,
+          "TA": 10
+        }
+      ],
+      [
+        "canadawest.org:player/ytw4vau16ryv3ibl",
+        "Liam Laidlaw",
+        {
+          "DIGS": 0,
+          "TA": 5
+        }
+      ],
+      [
+        "canadawest.org:player/v7yx1mqu1vh7i7qs",
+        "Alex Cook",
+        {
+          "DIGS": 4,
+          "TA": 1
+        }
+      ]
+    ],
+    "Manitoba": [
+      [
+        "canadawest.org:player/ivt9aqxzfntighps",
+        "Caleb Hickok",
+        {
+          "DIGS": 0,
+          "TA": 0
+        }
+      ],
+      [
+        "canadawest.org:player/pqai622fpu2idk77",
+        "Luke Herr",
+        {
+          "DIGS": 6,
+          "TA": 7
+        }
+      ],
+      [
+        "canadawest.org:player/py2vlzhx1z1tc5lb",
+        "Devren Dear",
+        {
+          "DIGS": 2,
+          "TA": 33
+        }
+      ],
+      [
+        "canadawest.org:player/0pw5adu57k9vpv9m",
+        "Scott Vercaigne",
+        {
+          "DIGS": 0,
+          "TA": 2
+        }
+      ],
+      [
+        "canadawest.org:player/wqjx2kcnke7xv6ga",
+        "Evan Jackson",
+        {
+          "DIGS": 4,
+          "TA": 13
+        }
+      ],
+      [
+        "canadawest.org:player/761lbr8upnfuevyy",
+        "Alex Strachan",
+        {
+          "DIGS": 0,
+          "TA": 0
+        }
+      ],
+      [
+        "canadawest.org:player/2a8r6v2rzar0qpfq",
+        "Adam DeJonckheere",
+        {
+          "DIGS": 3,
+          "TA": 17
+        }
+      ],
+      [
+        "canadawest.org:player/rxcns5ku7x7vx0z7",
+        "Kevin Falconer",
+        {
+          "DIGS": 4,
+          "TA": 0
+        }
+      ],
+      [
+        "canadawest.org:player/gckr4mgxs7dewhf0",
+        "Caleb Konrad",
+        {
+          "DIGS": 0,
+          "TA": 0
+        }
+      ],
+      [
+        "canadawest.org:player/cvex42pidh5jni8b",
+        "Dustin Spiring",
+        {
+          "DIGS": 4,
+          "TA": 3
+        }
+      ],
+      [
+        "canadawest.org:player/entgbmlo834xi6mz",
+        "Ken Rooney",
+        {
+          "DIGS": 4,
+          "TA": 8
+        }
+      ]
+    ]
+  },
+  "id": "canadawest.org:game/20170120_rcft"
+}

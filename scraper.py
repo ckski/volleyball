@@ -306,7 +306,7 @@ def main():
 					if action_string.startswith('Timeout'):
 						# TODO: parse action_string
 						return ('TIMEOUT', action_string)
-					
+
 					if action_string.startswith('Point'):
 						m = re.search(r"^Point ([^:]*):\s*\(([^)]*)\) (.*?)\.$", action_string)
 
@@ -495,10 +495,11 @@ def main():
 					m = re.search(r"^\[(.*?)\] (.*)\. Point", action_string)
 
 					if not m: 
-					# 	if 'awarded by official' in action_string:
-					# 		m = re.search(r"^Point ([^:]*):", action_string)
-					# 		if m: return {'point': m.group(1), 'event': ('OFFICIAL_AWARDED',)}
-						
+						if 'awarded by official' in action_string:
+							# m = re.search(r"^Point ([^:]*):", action_string)
+							# if m: return {'point': m.group(1), 'event': ('OFFICIAL_AWARDED',)}
+							return {'point': point_to, 'event': ('OFFICIAL_AWARDED',)}
+
 						raise Exception("Error parsing action string: " + action_string)
 
 					# point_to = m.group(1)
@@ -706,35 +707,35 @@ def main():
 
 	init()
 
-	canadawest_games = [
-		# "20161028_9sk3",
-		"20161029_u4om",
-		"20161104_xwo6",
-		"20161105_wy5c",
-		"20161118_146o",
-		"20161119_s2n8",
-		"20161125_2zth",
-		"20161126_fn7z",
-		"20161202_ols6",
-		"20161203_109e",
-		"20170106_osv4",
-		"20170107_i6ao",
-		"20170113_c8x5",
-		"20170114_kj1t",
-		"20170120_gq4t",
-		"20170121_pnkm",
-		"20170127_74or",
-		"20170128_oy4e",
-		"20170203_chcs",
-		"20170204_h4kp",
-		"20170217_73f1",
-		"20170218_psc7",
-		"20170224_ya31",
-		"20170225_0gcc"]
+	# canadawest_games = [
+	# 	# "20161028_9sk3",
+	# 	"20161029_u4om",
+	# 	"20161104_xwo6",
+	# 	"20161105_wy5c",
+	# 	"20161118_146o",
+	# 	"20161119_s2n8",
+	# 	"20161125_2zth",
+	# 	"20161126_fn7z",
+	# 	"20161202_ols6",
+	# 	"20161203_109e",
+	# 	"20170106_osv4",
+	# 	"20170107_i6ao",
+	# 	"20170113_c8x5",
+	# 	"20170114_kj1t",
+	# 	"20170120_gq4t",
+	# 	"20170121_pnkm",
+	# 	"20170127_74or",
+	# 	"20170128_oy4e",
+	# 	"20170203_chcs",
+	# 	"20170204_h4kp",
+	# 	"20170217_73f1",
+	# 	"20170218_psc7",
+	# 	"20170224_ya31",
+	# 	"20170225_0gcc"]
 
-	for game_id in canadawest_games:
-		boxscore = fetch_box_score('http://canadawest.org/sports/mvball/2016-17/boxscores/' + game_id + '.xml')
-		save_box_score(boxscore)
+	# for game_id in canadawest_games:
+	# 	boxscore = fetch_box_score('http://canadawest.org/sports/mvball/2016-17/boxscores/' + game_id + '.xml')
+	# 	save_box_score(boxscore)
 
 	# box_score = fetch_box_score('http://canadawest.org/sports/mvball/2016-17/boxscores/20161028_9sk3.xml')
 	# save_box_score(box_score)
@@ -748,6 +749,11 @@ def main():
 	# logger.debug(game_data)
 	# save_game_data(game_data)
 
+
+
+
+
+
 	# fetch_team('http://stats.ncaa.org/teams/24312') # Stanford 2015-16
 	# team_data = fetch_team('http://stats.ncaa.org/teams/98971') # Stanford 2011-12
 	# team_data = fetch_team('http://stats.ncaa.org/teams/79751') # Stanford 2012-13
@@ -755,7 +761,46 @@ def main():
 	# team_data = fetch_team('http://stats.ncaa.org/teams/105832') # Stanford 2014-15
 	# team_data = fetch_team('http://stats.ncaa.org/teams/43636') # Stanford 2016-17
 
-	# team_data = fetch_team('http://canadawest.org/sports/mvball/2016-17/schedule?teamId=dtjw1qxi3rsm18q9')
+	# team_data = fetch_team('http://canadawest.org/sports/mvball/2016-17/schedule?teamId=dtjw1qxi3rsm18q9') # TWU
+	# team_data = fetch_team('http://canadawest.org/sports/mvball/2016-17/schedule?teamId=8ym66afwr3tnrhwn') # UBC
+	# team_data = fetch_team('http://canadawest.org/sports/mvball/2016-17/schedule?teamId=w41s4fuy1ldg73vw') # TRU
+	# team_data = fetch_team('http://canadawest.org/sports/mvball/2016-17/schedule?teamId=c7d4uvmky7mmw7kx') # AB
+	# team_data = fetch_team('http://canadawest.org/sports/mvball/2016-17/schedule?teamId=afgkow4zpogyvpag') # Macewan
+	# team_data = fetch_team('http://canadawest.org/sports/mvball/2016-17/schedule?teamId=92rw9okcosb0aabi') # Winnepeg
+	# team_data = fetch_team('http://canadawest.org/sports/mvball/2016-17/schedule?teamId=zgpxqu3xsum5vee5') # Calgary
+	# team_data = fetch_team('http://canadawest.org/sports/mvball/2016-17/schedule?teamId=ismg6mi3ytuao2qw') # Brandon
+	# team_data = fetch_team('http://canadawest.org/sports/mvball/2016-17/schedule?teamId=vw3suzwumcai6jjw') # Sask
+	# team_data = fetch_team('http://canadawest.org/sports/mvball/2016-17/schedule?teamId=z78yo6jcwew4e0xb') # Regina
+	# team_data = fetch_team('http://canadawest.org/sports/mvball/2016-17/schedule?teamId=dxr6cxddzdwobqa5') # UBCO
+	# team_data = fetch_team('http://canadawest.org/sports/mvball/2016-17/schedule?teamId=m4t2yy12xffoq7f6') # MRU
+	team_data = fetch_team('http://canadawest.org/sports/mvball/2016-17/schedule?teamId=ijdtf6y9xus4vfqp') # MRU
+
+	# Manitoba ijdtf6y9xus4vfqp
+
+
+	# logger.info(team_data)
+
+
+	# if team_data['web_host'] == 'canadawest.org':
+	game_ids = team_data['games']
+
+	# game_ids = ['/sports/mvball/2016-17/boxscores/20170218_o40c.xml', '/sports/mvball/2016-17/boxscores/20170224_2ayj.xml', '/sports/mvball/2016-17/boxscores/20170225_qk12.xml']
+
+	# game_ids = ['/sports/mvball/2016-17/boxscores/20170218_o40c.xml', '/sports/mvball/2016-17/boxscores/20170224_w6w6.xml', '/sports/mvball/2016-17/boxscores/20170225_8pgg.xml']
+	# game_ids = ['/sports/mvball/2016-17/boxscores/20161203_ggum.xml', '/sports/mvball/2016-17/boxscores/20170106_qanm.xml', '/sports/mvball/2016-17/boxscores/20170107_72ya.xml', '/sports/mvball/2016-17/boxscores/20170113_zb4u.xml', '/sports/mvball/2016-17/boxscores/20170114_ros1.xml', '/sports/mvball/2016-17/boxscores/20170120_kr9o.xml', '/sports/mvball/2016-17/boxscores/20170121_1dz9.xml', '/sports/mvball/2016-17/boxscores/20170127_fmir.xml', '/sports/mvball/2016-17/boxscores/20170128_qcyt.xml', '/sports/mvball/2016-17/boxscores/20170210_kkto.xml', '/sports/mvball/2016-17/boxscores/20170211_a7d2.xml', '/sports/mvball/2016-17/boxscores/20170217_gz3s.xml', '/sports/mvball/2016-17/boxscores/20170218_gy6e.xml', '/sports/mvball/2016-17/boxscores/20170224_rm1i.xml', '/sports/mvball/2016-17/boxscores/20170225_v6du.xml']
+
+	for game_id in game_ids:
+		time.sleep(1)
+		base_id = os.path.basename(game_id)
+
+		game_data = fetch_play_by_play('http://canadawest.org' + game_id + '?view=plays')
+		save_game_data(game_data)
+
+		boxscore = fetch_box_score('http://canadawest.org/' + game_id)
+		# boxscore = fetch_box_score('http://canadawest.org/sports/mvball/2016-17/boxscores/' + base_id + '.xml')
+		save_box_score(boxscore)	
+
+
 
 	# if team_data['web_host'] = 'canadawest.org':
 	# 	game_ids = team_data['games']

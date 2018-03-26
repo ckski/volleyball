@@ -1,0 +1,25 @@
+2016-10-28 Brandon vs UBC Okanagan.json
+2016-10-29 Brandon vs UBC Okanagan.json
+2016-11-11 Manitoba vs UBC Okanagan.json
+2016-11-12 Manitoba vs UBC Okanagan.json
+2016-11-18 UBC Okanagan vs Mount Royal.json
+2016-11-19 UBC Okanagan vs Mount Royal.json
+2016-11-25 UBC Okanagan vs Regina.json
+2016-11-26 UBC Okanagan vs Regina.json
+2016-12-02 Calgary vs UBC Okanagan.json
+2016-12-03 Calgary vs UBC Okanagan.json
+2017-01-06 UBC Okanagan vs UBC.json
+2017-01-07 UBC Okanagan vs UBC.json
+2017-01-13 UBC Okanagan vs Winnipeg.json
+2017-01-14 UBC Okanagan vs Winnipeg.json
+2017-01-20 Trinity Western vs UBC Okanagan.json
+2017-01-21 Trinity Western vs UBC Okanagan.json
+2017-02-03 Saskatchewan vs UBC Okanagan.json
+2017-02-04 Saskatchewan vs UBC Okanagan.json
+2017-02-10 UBC Okanagan vs Alberta.json
+2017-02-11 UBC Okanagan vs Alberta.json
+2017-02-16 UBC Okanagan vs Thompson Rivers.json
+2017-02-18 Thompson Rivers vs UBC Okanagan.json
+2017-02-24 MacEwan vs UBC Okanagan.json
+2017-02-25 MacEwan vs UBC Okanagan.json
+files.txt

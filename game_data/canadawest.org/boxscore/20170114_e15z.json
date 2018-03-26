@@ -1,0 +1,170 @@
+{
+  "source": "canadawest.org",
+  "id": "canadawest.org:game/20170114_e15z",
+  "ta_per_set": {
+    "MacEwan": [
+      41,
+      32,
+      34,
+      34,
+      20
+    ],
+    "Calgary": [
+      46,
+      31,
+      35,
+      34,
+      18
+    ]
+  },
+  "teams": {
+    "MacEwan": [
+      [
+        "canadawest.org:player/h96ib9p409bf3wlw",
+        "Lee Iverson",
+        {
+          "DIGS": 8,
+          "TA": 41
+        }
+      ],
+      [
+        "canadawest.org:player/g1zhvlfea1ttws07",
+        "Kirk Testawich",
+        {
+          "DIGS": 14,
+          "TA": 30
+        }
+      ],
+      [
+        "canadawest.org:player/wns2ikfha7rhxohw",
+        "Kai Hesthammer",
+        {
+          "DIGS": 12,
+          "TA": 45
+        }
+      ],
+      [
+        "canadawest.org:player/2h37zwc03tqiapru",
+        "Matthew Mohler",
+        {
+          "DIGS": 5,
+          "TA": 5
+        }
+      ],
+      [
+        "canadawest.org:player/fnkdtl5vncr5eqki",
+        "Christian Sides",
+        {
+          "DIGS": 1,
+          "TA": 4
+        }
+      ],
+      [
+        "canadawest.org:player/74anh3uo1powhljp",
+        "Kornel Kowalewski",
+        {
+          "DIGS": 2,
+          "TA": 11
+        }
+      ],
+      [
+        "canadawest.org:player/sovj45ga4ljq4bvy",
+        "Jordan Peters",
+        {
+          "DIGS": 2,
+          "TA": 7
+        }
+      ],
+      [
+        "canadawest.org:player/tyo27tlen6ybyltd",
+        "Andre Arsenault",
+        {
+          "DIGS": 12,
+          "TA": 0
+        }
+      ],
+      [
+        "canadawest.org:player/qrqdkbt5sgyy5ast",
+        "Max Vriend",
+        {
+          "DIGS": 4,
+          "TA": 18
+        }
+      ],
+      [
+        "canadawest.org:player/6k4fc8r7xyp42e2z",
+        "Joshua Peters",
+        {
+          "DIGS": 1,
+          "TA": 0
+        }
+      ]
+    ],
+    "Calgary": [
+      [
+        "canadawest.org:player/oqqwfl5pmszrgnku",
+        "Curtis Stockton",
+        {
+          "DIGS": 12,
+          "TA": 72
+        }
+      ],
+      [
+        "canadawest.org:player/plrlluqsd1ppphpa",
+        "Parker Siroishka",
+        {
+          "DIGS": 5,
+          "TA": 25
+        }
+      ],
+      [
+        "canadawest.org:player/lmj2reyccuac39wi",
+        "Alex Bader",
+        {
+          "DIGS": 8,
+          "TA": 28
+        }
+      ],
+      [
+        "canadawest.org:player/0kftx565szkcd2k2",
+        "Mitchell Higgin",
+        {
+          "DIGS": 6,
+          "TA": 15
+        }
+      ],
+      [
+        "canadawest.org:player/fjcl3nxnbfagaow7",
+        "Liam Laidlaw",
+        {
+          "DIGS": 2,
+          "TA": 9
+        }
+      ],
+      [
+        "canadawest.org:player/v7yx1mqu1vh7i7qs",
+        "Alex Cook",
+        {
+          "DIGS": 6,
+          "TA": 9
+        }
+      ],
+      [
+        "canadawest.org:player/fj6drllww1euproi",
+        "Blain Cranston",
+        {
+          "DIGS": 8,
+          "TA": 4
+        }
+      ],
+      [
+        "canadawest.org:player/vxsay1qd4v8a0jlh",
+        "Derek Meeuwisse",
+        {
+          "DIGS": 20,
+          "TA": 2
+        }
+      ]
+    ]
+  }
+}

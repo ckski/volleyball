@@ -1,0 +1,170 @@
+{
+  "ta_per_set": {
+    "Manitoba": [
+      20,
+      26,
+      30,
+      31,
+      7
+    ],
+    "Alberta": [
+      25,
+      27,
+      33,
+      27,
+      15
+    ]
+  },
+  "source": "canadawest.org",
+  "teams": {
+    "Manitoba": [
+      [
+        "canadawest.org:player/ivt9aqxzfntighps",
+        "Caleb Hickok",
+        {
+          "DIGS": 0,
+          "TA": 0
+        }
+      ],
+      [
+        "canadawest.org:player/pqai622fpu2idk77",
+        "Luke Herr",
+        {
+          "DIGS": 3,
+          "TA": 4
+        }
+      ],
+      [
+        "canadawest.org:player/py2vlzhx1z1tc5lb",
+        "Devren Dear",
+        {
+          "DIGS": 5,
+          "TA": 41
+        }
+      ],
+      [
+        "canadawest.org:player/0pw5adu57k9vpv9m",
+        "Scott Vercaigne",
+        {
+          "DIGS": 6,
+          "TA": 19
+        }
+      ],
+      [
+        "canadawest.org:player/wqjx2kcnke7xv6ga",
+        "Evan Jackson",
+        {
+          "DIGS": 7,
+          "TA": 22
+        }
+      ],
+      [
+        "canadawest.org:player/rxcns5ku7x7vx0z7",
+        "Kevin Falconer",
+        {
+          "DIGS": 7,
+          "TA": 0
+        }
+      ],
+      [
+        "canadawest.org:player/gckr4mgxs7dewhf0",
+        "Caleb Konrad",
+        {
+          "DIGS": 0,
+          "TA": 0
+        }
+      ],
+      [
+        "canadawest.org:player/cvex42pidh5jni8b",
+        "Dustin Spiring",
+        {
+          "DIGS": 6,
+          "TA": 10
+        }
+      ],
+      [
+        "canadawest.org:player/entgbmlo834xi6mz",
+        "Ken Rooney",
+        {
+          "DIGS": 0,
+          "TA": 18
+        }
+      ]
+    ],
+    "Alberta": [
+      [
+        "canadawest.org:player/mz7ht0jyky8o6c7p",
+        "Chris Morrow",
+        {
+          "DIGS": 0,
+          "TA": 0
+        }
+      ],
+      [
+        "canadawest.org:player/q4twjui1d67drngh",
+        "Reed May",
+        {
+          "DIGS": 7,
+          "TA": 0
+        }
+      ],
+      [
+        "canadawest.org:player/u53kv9wuu3g08jhp",
+        "Ryan Nickifor",
+        {
+          "DIGS": 9,
+          "TA": 39
+        }
+      ],
+      [
+        "canadawest.org:player/iq0o7vl81a4cmq5i",
+        "Brett Walsh",
+        {
+          "DIGS": 9,
+          "TA": 3
+        }
+      ],
+      [
+        "canadawest.org:player/4qh64ncan5gj3k75",
+        "Taylor Arnett",
+        {
+          "DIGS": 1,
+          "TA": 24
+        }
+      ],
+      [
+        "canadawest.org:player/57p6hg26q54sgngj",
+        "George Hobern",
+        {
+          "DIGS": 0,
+          "TA": 0
+        }
+      ],
+      [
+        "canadawest.org:player/6vaagfx9gw76fev5",
+        "Arran Chambers",
+        {
+          "DIGS": 1,
+          "TA": 13
+        }
+      ],
+      [
+        "canadawest.org:player/6vjosyq992zc5ane",
+        "Taryq Sani",
+        {
+          "DIGS": 4,
+          "TA": 25
+        }
+      ],
+      [
+        "canadawest.org:player/k0y0gwdsk15eoo5n",
+        "Alex McMullin",
+        {
+          "DIGS": 3,
+          "TA": 23
+        }
+      ]
+    ]
+  },
+  "id": "canadawest.org:game/20161119_7sy1"
+}

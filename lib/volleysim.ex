@@ -6,6 +6,22 @@ defmodule Volleysim do
   # iex(1)> Volleysim.process_file("gamedata.json", "boxscore.json") 
 
 
+  # Data cleaning notes:
+
+  # names have typos / not standard, appears differently across files, count instances to resolve
+
+  # Sam Taylor parks / Sam Taylor Parks , Daniel Eikland rod / Rod
+  # Pearce / Pearson
+  # Elliott versus Elliot
+  # Konel / Kornel
+  # Nick / Nicholas
+
+  # first last / last,first
+
+
+  # Volleysim.rollup(facts, [:player]) |> Volleysim.add_derived_measure(:hit_pct, [:kill, :attack_error, :kill_attempt], fn k, e, ta -> if(ta == 0, do: 0, else: Float.round((k - e) / ta, 3)) end)
+
+
   # Action influencer rule
 
   # use rule if fun 1 == true, apply rule when game state is ?, apply to select players fun, 
@@ -88,7 +104,8 @@ defmodule Volleysim do
   end
 
   def batch_job do
-    files = [
+    # Trinity Western 2016-17
+    twu_files = [
       "2016-10-28 Trinity Western vs Regina.json",
       "2016-10-29 Trinity Western vs Regina.json",
       "2016-11-04 Calgary vs Trinity Western.json",
@@ -115,23 +132,329 @@ defmodule Volleysim do
       "2017-02-25 Manitoba vs Trinity Western.json"
     ]
 
+    # UBC 2016-17
+    ubc_files = [
+      "2016-10-28 UBC vs Saskatchewan.json",
+      "2016-10-29 UBC vs Saskatchewan.json",
+      "2016-11-04 Winnipeg vs UBC.json",
+      "2016-11-05 Winnipeg vs UBC.json",
+      "2016-11-18 UBC vs Thompson Rivers.json",
+      "2016-11-19 UBC vs Thompson Rivers.json",
+      # "2016-11-25 Trinity Western vs UBC.json",
+      # "2016-11-26 UBC vs Trinity Western.json",
+      "2016-12-02 UBC vs MacEwan.json",
+      "2016-12-03 UBC vs MacEwan.json",
+      "2017-01-06 UBC Okanagan vs UBC.json",
+      "2017-01-07 UBC Okanagan vs UBC.json",
+      "2017-01-13 UBC vs Manitoba.json",
+      "2017-01-14 UBC vs Manitoba.json",
+      "2017-01-20 Mount Royal vs UBC.json",
+      "2017-01-21 Mount Royal vs UBC.json",
+      "2017-01-27 UBC vs Calgary.json",
+      "2017-01-28 UBC vs Calgary.json",
+      "2017-02-10 Regina vs UBC.json",
+      "2017-02-11 Regina vs UBC.json",
+      "2017-02-17 Alberta vs UBC.json",
+      "2017-02-18 Alberta vs UBC.json",
+      "2017-02-24 UBC vs Brandon.json",
+      "2017-02-25 UBC vs Brandon.json",
+    ]
+
+    tru_files = [
+      "2016-10-28 Alberta vs Thompson Rivers.json",
+      "2016-10-29 Alberta vs Thompson Rivers.json",
+      "2016-11-04 Thompson Rivers vs Brandon.json",
+      "2016-11-05 Thompson Rivers vs Brandon.json",
+      "2016-11-11 Mount Royal vs Thompson Rivers.json",
+      "2016-11-12 Mount Royal vs Thompson Rivers.json",
+      # "2016-11-18 UBC vs Thompson Rivers.json",
+      # "2016-11-19 UBC vs Thompson Rivers.json",
+      "2016-11-25 Thompson Rivers vs MacEwan.json",
+      "2016-11-26 Thompson Rivers vs MacEwan.json",
+      "2017-01-05 Thompson Rivers vs Calgary.json",
+      "2017-01-06 Thompson Rivers vs Calgary.json",
+      # "2017-01-13 Thompson Rivers vs Trinity Western.json",
+      # "2017-01-14 Thompson Rivers vs Trinity Western.json",
+      "2017-01-27 Regina vs Thompson Rivers.json",
+      "2017-01-28 Regina vs Thompson Rivers.json",
+      "2017-02-03 Thompson Rivers vs Manitoba.json",
+      "2017-02-04 Thompson Rivers vs Manitoba.json",
+      "2017-02-10 Winnipeg vs Thompson Rivers.json",
+      "2017-02-11 Winnipeg vs Thompson Rivers.json",
+      "2017-02-16 UBC Okanagan vs Thompson Rivers.json",
+      "2017-02-18 Thompson Rivers vs UBC Okanagan.json",
+      "2017-02-24 Thompson Rivers vs Saskatchewan.json",
+      "2017-02-25 Thompson Rivers vs Saskatchewan.json"
+    ]
+
+    alberta_files = [
+      # "2016-10-28 Alberta vs Thompson Rivers.json",
+      # "2016-10-29 Alberta vs Thompson Rivers.json",
+      "2016-11-10 Alberta vs MacEwan.json",
+      "2016-11-11 MacEwan vs Alberta.json",
+      "2016-11-18 Alberta vs Manitoba.json",
+      "2016-11-19 Alberta vs Manitoba.json",
+      "2016-11-25 Winnipeg vs Alberta.json",
+      "2016-11-26 Winnipeg vs Alberta.json",
+      "2016-12-02 Regina vs Alberta.json",
+      "2016-12-03 Regina vs Alberta.json",
+      "2017-01-06 Alberta vs Brandon.json",
+      "2017-01-07 Alberta vs Brandon.json",
+      "2017-01-20 Alberta vs Saskatchewan.json",
+      "2017-01-21 Alberta vs Saskatchewan.json",
+      # "2017-01-27 Trinity Western vs Alberta.json",
+      # "2017-01-28 Trinity Western vs Alberta.json",
+      "2017-02-03 Mount Royal vs Alberta.json",
+      "2017-02-04 Mount Royal vs Alberta.json",
+      "2017-02-10 UBC Okanagan vs Alberta.json",
+      "2017-02-11 UBC Okanagan vs Alberta.json",
+      # "2017-02-17 Alberta vs UBC.json",
+      # "2017-02-18 Alberta vs UBC.json",
+      "2017-02-24 Alberta vs Calgary.json",
+      "2017-02-25 Alberta vs Calgary.json"
+    ]
+
+    macewan_files = [
+      "2016-10-28 MacEwan vs Winnipeg.json",
+      "2016-10-29 MacEwan vs Winnipeg.json",
+      "2016-11-04 Saskatchewan vs MacEwan.json",
+      "2016-11-05 Saskatchewan vs MacEwan.json",
+      # "2016-11-10 Alberta vs MacEwan.json",
+      # "2016-11-11 MacEwan vs Alberta.json",
+      # "2016-11-18 MacEwan vs Trinity Western.json",
+      # "2016-11-19 MacEwan vs Trinity Western.json",
+      # "2016-11-25 Thompson Rivers vs MacEwan.json",
+      # "2016-11-26 Thompson Rivers vs MacEwan.json",
+      # "2016-12-02 UBC vs MacEwan.json",
+      # "2016-12-03 UBC vs MacEwan.json",
+      "2017-01-13 Calgary vs MacEwan.json",
+      "2017-01-14 Calgary vs MacEwan.json",
+      "2017-01-20 Brandon vs MacEwan.json",
+      "2017-01-21 Brandon vs MacEwan.json",
+      "2017-01-27 MacEwan vs Mount Royal.json",
+      "2017-01-28 MacEwan vs Mount Royal.json",
+      "2017-02-03 MacEwan vs Regina.json",
+      "2017-02-04 MacEwan vs Regina.json",
+      "2017-02-10 Manitoba vs MacEwan.json",
+      "2017-02-11 Manitoba vs MacEwan.json",
+      "2017-02-24 MacEwan vs UBC Okanagan.json",
+      "2017-02-25 MacEwan vs UBC Okanagan.json"
+    ]
+
+    winnipeg_files = [
+      # "2016-10-28 MacEwan vs Winnipeg.json",
+      # "2016-10-29 MacEwan vs Winnipeg.json",
+      # "2016-11-04 Winnipeg vs UBC.json",
+      # "2016-11-05 Winnipeg vs UBC.json",
+      "2016-11-12 Winnipeg vs Calgary.json",
+      "2016-11-13 Winnipeg vs Calgary.json",
+      # "2016-11-25 Winnipeg vs Alberta.json",
+      # "2016-11-26 Winnipeg vs Alberta.json",
+      "2016-12-01 Winnipeg vs Brandon.json",
+      "2016-12-02 Brandon vs Winnipeg.json",
+      "2016-12-07 Manitoba vs Winnipeg.json",
+      "2016-12-08 Winnipeg vs Manitoba.json",
+      "2017-01-13 UBC Okanagan vs Winnipeg.json",
+      "2017-01-14 UBC Okanagan vs Winnipeg.json",
+      "2017-01-20 Winnipeg vs Regina.json",
+      "2017-01-21 Winnipeg vs Regina.json",
+      "2017-01-27 Saskatchewan vs Winnipeg.json",
+      "2017-01-28 Saskatchewan vs Winnipeg.json",
+      # "2017-02-10 Winnipeg vs Thompson Rivers.json",
+      # "2017-02-11 Winnipeg vs Thompson Rivers.json",
+      # "2017-02-17 Trinity Western vs Winnipeg.json",
+      # "2017-02-18 Trinity Western vs Winnipeg.json",
+      "2017-02-24 Mount Royal vs Winnipeg.json",
+      "2017-02-25 Mount Royal vs Winnipeg.json"
+    ]
+
+    calgary_files = [
+      # "2016-11-04 Calgary vs Trinity Western.json",
+      # "2016-11-05 Calgary vs Trinity Western.json",
+      # "2016-11-12 Winnipeg vs Calgary.json",
+      # "2016-11-13 Winnipeg vs Calgary.json",
+      "2016-11-18 Calgary vs Brandon.json",
+      "2016-11-19 Calgary vs Brandon.json",
+      "2016-11-24 Mount Royal vs Calgary.json",
+      "2016-11-26 Calgary vs Mount Royal.json",
+      "2016-12-02 Calgary vs UBC Okanagan.json",
+      "2016-12-03 Calgary vs UBC Okanagan.json",
+      # "2017-01-05 Thompson Rivers vs Calgary.json",
+      # "2017-01-06 Thompson Rivers vs Calgary.json",
+      # "2017-01-13 Calgary vs MacEwan.json",
+      # "2017-01-14 Calgary vs MacEwan.json",
+      "2017-01-20 Calgary vs Manitoba.json",
+      "2017-01-21 Calgary vs Manitoba.json",
+      # "2017-01-27 UBC vs Calgary.json",
+      # "2017-01-28 UBC vs Calgary.json",
+      "2017-02-10 Calgary vs Saskatchewan.json",
+      "2017-02-11 Calgary vs Saskatchewan.json",
+      "2017-02-17 Regina vs Calgary.json",
+      "2017-02-18 Regina vs Calgary.json",
+      # "2017-02-24 Alberta vs Calgary.json",
+      # "2017-02-25 Alberta vs Calgary.json"
+    ]
+
+    brandon_files = [
+      "2016-10-28 Brandon vs UBC Okanagan.json",
+      "2016-10-29 Brandon vs UBC Okanagan.json",
+      # "2016-11-04 Thompson Rivers vs Brandon.json",
+      # "2016-11-05 Thompson Rivers vs Brandon.json",
+      # "2016-11-18 Calgary vs Brandon.json",
+      # "2016-11-19 Calgary vs Brandon.json",
+      "2016-11-25 Brandon vs Saskatchewan.json",
+      "2016-11-26 Brandon vs Saskatchewan.json",
+      # "2016-12-01 Winnipeg vs Brandon.json",
+      # "2016-12-02 Brandon vs Winnipeg.json",
+      # "2017-01-06 Alberta vs Brandon.json",
+      # "2017-01-07 Alberta vs Brandon.json",
+      "2017-01-12 Regina vs Brandon.json",
+      "2017-01-13 Regina vs Brandon.json",
+      # "2017-01-20 Brandon vs MacEwan.json",
+      # "2017-01-21 Brandon vs MacEwan.json",
+      "2017-01-27 Manitoba vs Brandon.json",
+      "2017-01-28 Manitoba vs Brandon.json",
+      # "2017-02-03 Brandon vs Trinity Western.json",
+      # "2017-02-04 Brandon vs Trinity Western.json",
+      "2017-02-10 Brandon vs Mount Royal.json",
+      "2017-02-11 Brandon vs Mount Royal.json",
+      # "2017-02-24 UBC vs Brandon.json",
+      # "2017-02-25 UBC vs Brandon.json"
+    ]
+
+    sask_files = [
+      # "2016-10-28 UBC vs Saskatchewan.json",
+      # "2016-10-29 UBC vs Saskatchewan.json",
+      # "2016-11-04 Saskatchewan vs MacEwan.json",
+      # "2016-11-05 Saskatchewan vs MacEwan.json",
+      "2016-11-18 Saskatchewan vs Regina.json",
+      "2016-11-19 Saskatchewan vs Regina.json",
+      # "2016-11-25 Brandon vs Saskatchewan.json",
+      # "2016-11-26 Brandon vs Saskatchewan.json",
+      "2016-12-02 Manitoba vs Saskatchewan.json",
+      "2016-12-03 Manitoba vs Saskatchewan.json",
+      # "2017-01-06 Saskatchewan vs Trinity Western.json",
+      # "2017-01-07 Saskatchewan vs Trinity Western.json",
+      # "2017-01-20 Alberta vs Saskatchewan.json",
+      # "2017-01-21 Alberta vs Saskatchewan.json",
+      # "2017-01-27 Saskatchewan vs Winnipeg.json",
+      # "2017-01-28 Saskatchewan vs Winnipeg.json",
+      "2017-02-03 Saskatchewan vs UBC Okanagan.json",
+      "2017-02-04 Saskatchewan vs UBC Okanagan.json",
+      # "2017-02-10 Calgary vs Saskatchewan.json",
+      # "2017-02-11 Calgary vs Saskatchewan.json",
+      "2017-02-17 Saskatchewan vs Mount Royal.json",
+      "2017-02-18 Saskatchewan vs Mount Royal.json",
+      # "2017-02-24 Thompson Rivers vs Saskatchewan.json",
+      # "2017-02-25 Thompson Rivers vs Saskatchewan.json"
+    ]
+
+    regina_files = [
+      # "2016-10-28 Trinity Western vs Regina.json",
+      # "2016-10-29 Trinity Western vs Regina.json",
+      "2016-11-04 Regina vs Manitoba.json",
+      "2016-11-05 Regina vs Manitoba.json",
+      # "2016-11-18 Saskatchewan vs Regina.json",
+      # "2016-11-19 Saskatchewan vs Regina.json",
+      "2016-11-25 UBC Okanagan vs Regina.json",
+      "2016-11-26 UBC Okanagan vs Regina.json",
+      # "2016-12-02 Regina vs Alberta.json",
+      # "2016-12-03 Regina vs Alberta.json",
+      "2017-01-06 Mount Royal vs Regina.json",
+      "2017-01-07 Mount Royal vs Regina.json",
+      # "2017-01-12 Regina vs Brandon.json",
+      # "2017-01-13 Regina vs Brandon.json",
+      # "2017-01-20 Winnipeg vs Regina.json",
+      # "2017-01-21 Winnipeg vs Regina.json",
+      # "2017-01-27 Regina vs Thompson Rivers.json",
+      # "2017-01-28 Regina vs Thompson Rivers.json",
+      # "2017-02-03 MacEwan vs Regina.json",
+      # "2017-02-04 MacEwan vs Regina.json",
+      # "2017-02-10 Regina vs UBC.json",
+      # "2017-02-11 Regina vs UBC.json",
+      # "2017-02-17 Regina vs Calgary.json",
+      # "2017-02-18 Regina vs Calgary.json"
+    ]
+
+    ubco_files = [
+      # "2016-10-28 Brandon vs UBC Okanagan.json",
+      # "2016-10-29 Brandon vs UBC Okanagan.json",
+      # "2016-11-11 Manitoba vs UBC Okanagan.json",
+      "2016-11-12 Manitoba vs UBC Okanagan.json",
+      "2016-11-18 UBC Okanagan vs Mount Royal.json",
+      "2016-11-19 UBC Okanagan vs Mount Royal.json",
+      # "2016-11-25 UBC Okanagan vs Regina.json",
+      # "2016-11-26 UBC Okanagan vs Regina.json",
+      # "2016-12-02 Calgary vs UBC Okanagan.json",
+      # "2016-12-03 Calgary vs UBC Okanagan.json",
+      # "2017-01-06 UBC Okanagan vs UBC.json",
+      # "2017-01-07 UBC Okanagan vs UBC.json",
+      # "2017-01-13 UBC Okanagan vs Winnipeg.json",
+      # "2017-01-14 UBC Okanagan vs Winnipeg.json",
+      # "2017-01-20 Trinity Western vs UBC Okanagan.json",
+      # "2017-01-21 Trinity Western vs UBC Okanagan.json",
+      # "2017-02-03 Saskatchewan vs UBC Okanagan.json",
+      # "2017-02-04 Saskatchewan vs UBC Okanagan.json",
+      # "2017-02-10 UBC Okanagan vs Alberta.json",
+      # "2017-02-11 UBC Okanagan vs Alberta.json",
+      # "2017-02-16 UBC Okanagan vs Thompson Rivers.json",
+      # "2017-02-18 Thompson Rivers vs UBC Okanagan.json",
+      # "2017-02-24 MacEwan vs UBC Okanagan.json",
+      # "2017-02-25 MacEwan vs UBC Okanagan.json"
+    ]
+
+    mru_files = [
+      "2016-10-28 Manitoba vs Mount Royal.json",
+      "2016-10-29 Manitoba vs Mount Royal.json"
+    ]
+
+    # Manitoba files are all already covered.
+
+
     cache_obj = case File.read("cached_facts") do
       {:ok, bin} -> :erlang.binary_to_term(bin)
       {:error, :enoent} -> %{games: [], data: %{}}
     end
 
-    cache_obj = Enum.reduce files, cache_obj, fn file, acc ->
-      process_file_series("game_data/canadawest.org/Trinity Western 2016-17/" <> file, acc)
+    file_sets = [{"Trinity Western 2016-17", twu_files}, 
+                 {"UBC 2016-17", ubc_files}, 
+                 {"TRU 2016-17", tru_files}, 
+                 {"Alberta 2016-17", alberta_files},
+                 {"MacEwan 2016-17", macewan_files},
+                 {"Winnipeg 2016-17", winnipeg_files},
+                 {"Calgary 2016-17", calgary_files},
+                 {"Brandon 2016-17", brandon_files},
+                 {"Saskatchewan 2016-17", sask_files},
+                 {"Regina 2016-17", regina_files},
+                 {"UBCO 2016-17", ubco_files},
+                 {"Mount Royal 2016-17", mru_files}]
+    # file_sets = [{"Alberta 2016-17", alberta_files}]
+
+    cache_obj = Enum.reduce file_sets, cache_obj, fn {dir, files}, cache_obj ->
+      cache_obj = Enum.reduce files, cache_obj, fn file, acc ->
+        process_file_series("game_data/canadawest.org/" <> dir <> "/" <> file, acc)
+      end
     end
+
+    # cache_obj = Enum.reduce ubc_files, cache_obj, fn file, acc ->
+    #   process_file_series("game_data/canadawest.org/UBC 2016-17/" <> file, acc)
+    # end
+
+    # cache_obj = Enum.reduce ubc_files, cache_obj, fn file, acc ->
+    #   process_file_series("game_data/canadawest.org/UBC 2016-17/" <> file, acc)
+    # end
 
     File.write!("cached_facts", :erlang.term_to_binary(cache_obj))
     :ok
   end
 
   def process_file_series(pbp_file, cache_obj) do
+    IO.puts("Processing: #{pbp_file}")
     {:ok, game_id, facts} = process_play_by_play(File.read!(pbp_file))
 
-    unless game_id in cache_obj[:games] do
+    if game_id in cache_obj[:games] do
+      IO.puts("Game already found in cache: #{game_id}")
+    else
       cache_obj = update_in(cache_obj[:games], &([game_id | &1]))
       |> update_in([:data], &Map.merge(&1, facts))
     end
@@ -145,6 +468,7 @@ defmodule Volleysim do
       {:ok, bin} -> :erlang.binary_to_term(bin)
       {:error, :enoent} -> %{games: [], data: %{}}
     end
+    IO.puts("Processing: #{pbp_file}")
     {:ok, game_id, facts} = process_play_by_play(File.read!(pbp_file))
 
     unless game_id in cache_obj[:games] do
@@ -205,10 +529,10 @@ defmodule Volleysim do
 
     # Enum.reduce point_facts_for_set 
 
-    team_sum_per_set = rollup(facts_fine_grain, [:set, :team], drop_measures: [:sets_played])
+    # team_sum_per_set = rollup(facts_fine_grain, [:set, :team], drop_measures: [:sets_played])
 
     # Insert kill attempt stats (per set) into facts.
-    team_sum_per_set = Enum.reduce [team_1_name, team_2_name], team_sum_per_set, fn team, acc ->
+    facts_fine_grain = Enum.reduce [team_1_name, team_2_name], facts_fine_grain, fn team, acc ->
       team_abbr = abbreviate_name(team)
       Enum.reduce Enum.with_index(boxscore["ta_per_set"][team], 1), acc, fn {ta_stat, set_i}, acc -> 
         insert_fact acc, [game: game_id, set: set_i, team: team_abbr], %{kill_attempt: ta_stat}
@@ -220,13 +544,13 @@ defmodule Volleysim do
     # IO.puts("--------------------------")
 
     # IO.puts("rollup [:team, :player]")
-    player_game_sums = rollup(facts_fine_grain, [:team, :player])
+    # player_game_sums = rollup(facts_fine_grain, [:team, :player])
 
     # IO.inspect(player_game_sums)
 
 
     # Insert extra stats from the box score
-    player_game_sums = Enum.reduce Map.keys(boxscore["teams"]), player_game_sums, fn team, acc ->
+    facts_fine_grain = Enum.reduce Map.keys(boxscore["teams"]), facts_fine_grain, fn team, acc ->
       Enum.reduce boxscore["teams"][team], acc, fn [_player_id, player_name, %{"TA" => ta, "DIGS" => digs}], acc ->
         insert_fact acc, [game: game_id, team: abbreviate_name(team), player: player_name], %{kill_attempt: ta, digs: digs}
       end
@@ -240,10 +564,10 @@ defmodule Volleysim do
 
     # IO.puts("--------------------------------------------")
 
-    team_game_sums = rollup(player_game_sums, [:team], drop_measures: [:sets_played])
+    # team_game_sums = rollup(player_game_sums, [:team], drop_measures: [:sets_played])
 
     # IO.puts("Rollup [:team]")
-    IO.inspect(team_game_sums)
+    # IO.inspect(team_game_sums)
 
 
     # IO.puts("--------------------------------------------")
@@ -253,7 +577,8 @@ defmodule Volleysim do
 
 
     # facts_fine_grain ++ Map.values(player_game_sums)
-    all_facts = facts_fine_grain |> join_facts(team_game_sums) |> join_facts(player_game_sums)
+    # all_facts = facts_fine_grain |> join_facts(team_game_sums) |> join_facts(player_game_sums)
+    all_facts = facts_fine_grain
 
     all_facts = insert_fact(all_facts, [game: game_id, team: abbreviate_name(team_1_name)], %{games: 1})
     |> insert_fact([game: game_id, team: abbreviate_name(team_2_name)], %{games: 1})
@@ -270,7 +595,7 @@ defmodule Volleysim do
       "UBC" -> "UBC"
       "Mount Royal" -> "MRU"
       "Saskatchewan" -> "SASK"
-      "Thompson Rivers" -> "TRUMVB"
+      "Thompson Rivers" -> "TRU"
       "UBC Okanagan" -> "UBCO"
       "Alberta" -> "AB"
       "Brandon" -> "BRNM"
@@ -362,7 +687,7 @@ defmodule Volleysim do
     {_state, point_facts} = Enum.reduce events, {%{}, facts}, fn
       # TODO: handle points/serves first, if points = 25/15, give set win to team.
 
-      %{"event" => ["KILL", by | _], "point" => p, "server" => s}, {state, fact_acc} ->
+      %{"event" => ["KILL", by | _], "point" => p, "server" => s} = e, {state, fact_acc} ->
 
         serving_team = lookup_player_team.(s)
         serve_streak = case state[:last_server] do
@@ -430,7 +755,9 @@ defmodule Volleysim do
 
       ["SUB", data], {state, fact_acc} ->
         # TODO: different cases for different data sources (ncaa versus canadawest)
-        [_, team, player] = Regex.run(~r/^(.*?) subs: (.*?)\.$/, data)  # TODO: fix for ; where two players specified
+        [_, team, _, player] = Regex.run(~r/^(.*?) subs: (.*; )?(.*?)\.$/, data)
+
+        # [_, team, player] = Regex.run(~r/^(.*?) subs: (.*?)\.$/, data)  # TODO: fix for ; where two players specified
 
         fact_acc = insert_set_fact.(fact_acc, [team: team, player: player], :sets_played, [set_i])
         |> insert_set_fact.([team: team, score_gap: get_score_gap.(state, team)], :subs, +1)
@@ -478,6 +805,24 @@ defmodule Volleysim do
       Enum.all?(dim_filters, fn {dim, fun} -> fun.(fact_dims[dim]) end) and
       Enum.all?(measure_filters, fn {measure, fun} -> fun.(measures[measure]) end)
     end
+  end
+
+  def add_derived_measure(facts, name, d_measures, fun) do
+    Enum.reduce facts, facts, fn {facts_dim, measures}, acc ->
+      args = Enum.map d_measures, &(get_in(measures, [Access.key(&1, 0)]))
+      put_in acc, [facts_dim, name], apply(fun, args)
+    end
+  end
+
+  def top_n(facts, measure, n) do
+    Enum.reduce(facts, [], fn
+      {facts_dim, %{^measure => val}}, acc when length(acc) < n -> Enum.sort [{val, facts_dim} | acc]
+      {facts_dim, %{^measure => val}}, [{lowest, _} | rest] when val > lowest ->
+        Enum.sort [{val, facts_dim} | rest]
+      _, acc -> acc
+    end) 
+    |> Enum.reverse
+    |> Enum.map fn {a, b} -> {b, a} end
   end
 
 end

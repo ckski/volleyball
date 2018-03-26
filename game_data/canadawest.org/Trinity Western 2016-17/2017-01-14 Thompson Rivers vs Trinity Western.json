@@ -5,10 +5,10 @@
       "events": [
         {
           "server": "Blake Scheerhoorn",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
-            "Sam Taylor parks",
+            "Sam Taylor Parks",
             "Jakob Hamilton"
           ]
         },
@@ -40,16 +40,16 @@
         },
         {
           "server": "Leigh Goossen",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
-            "Sam Taylor parks",
+            "Sam Taylor Parks",
             "Jakob Hamilton"
           ]
         },
         {
-          "server": "Sam Taylor parks",
-          "point": "TRUMVB",
+          "server": "Sam Taylor Parks",
+          "point": "TRU",
           "event": [
             "ATTACK_ERROR",
             "Adam Schriemer",
@@ -59,7 +59,7 @@
           ]
         },
         {
-          "server": "Sam Taylor parks",
+          "server": "Sam Taylor Parks",
           "point": "TWU",
           "event": [
             "KILL",
@@ -77,7 +77,7 @@
         },
         {
           "server": "Adam Schriemer",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
             "Randy Grundmann",
@@ -86,7 +86,7 @@
         },
         {
           "server": "Tim Edge",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "ATTACK_ERROR",
             "Aaron Boettcher"
@@ -94,7 +94,7 @@
         },
         {
           "server": "Tim Edge",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "ATTACK_ERROR",
             "Ryan Sclater",
@@ -106,7 +106,7 @@
         },
         {
           "server": "Tim Edge",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "ATTACK_ERROR",
             "Ryan Sclater"
@@ -114,7 +114,7 @@
         },
         {
           "server": "Tim Edge",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
             "Charlie Bringloe",
@@ -144,7 +144,7 @@
         },
         {
           "server": "Ryan Sclater",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "BAD_SET",
             "Adam Schriemer"
@@ -159,7 +159,7 @@
         },
         {
           "server": "Aaron Boettcher",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
             "Randy Grundmann",
@@ -175,7 +175,7 @@
         },
         {
           "server": "Scott Plocktis",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "SERVICE_ERROR"
           ]
@@ -203,7 +203,7 @@
         },
         {
           "server": "Blake Scheerhoorn",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
             "Charlie Bringloe",
@@ -225,7 +225,7 @@
         },
         {
           "server": "Leigh Goossen",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
             "Tim Edge",
@@ -233,15 +233,15 @@
           ]
         },
         {
-          "server": "Sam Taylor parks",
-          "point": "TRUMVB",
+          "server": "Sam Taylor Parks",
+          "point": "TRU",
           "event": [
             "ATTACK_ERROR",
             "Ryan Sclater"
           ]
         },
         {
-          "server": "Sam Taylor parks",
+          "server": "Sam Taylor Parks",
           "point": "TWU",
           "event": [
             "KILL",
@@ -262,7 +262,7 @@
         },
         {
           "server": "Adam Schriemer",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
             "Tim Edge",
@@ -295,11 +295,11 @@
         ],
         [
           "SUB",
-          "TRUMVB subs: Joshua Mullaney; Tyler Pomietlarz."
+          "TRU subs: Joshua Mullaney; Tyler Pomietlarz."
         ],
         {
           "server": "Ryan Sclater",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "SERVICE_ERROR"
           ]
@@ -315,7 +315,7 @@
         },
         {
           "server": "Aaron Boettcher",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "SERVICE_ERROR"
           ]
@@ -373,7 +373,7 @@
         },
         {
           "server": "Scott Plocktis",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
             "Charlie Bringloe",
@@ -382,7 +382,7 @@
         },
         [
           "SUB",
-          "TRUMVB subs: Tim Edge; Jakob Hamilton."
+          "TRU subs: Tim Edge; Jakob Hamilton."
         ],
         {
           "server": "Jakob Hamilton",
@@ -403,7 +403,7 @@
         },
         {
           "server": "Blake Scheerhoorn",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "SERVICE_ACE",
             ""
@@ -411,11 +411,11 @@
         }
       ],
       "starters": {
-        "TRUMVB": [
+        "TRU": [
           "Jakob Hamilton",
           "Charlie Bringloe",
           "Randy Grundmann",
-          "Sam Taylor parks",
+          "Sam Taylor Parks",
           "Tim Edge",
           "Kyle Behiels",
           "Cole Keddie"
@@ -444,7 +444,7 @@
         },
         {
           "server": "Leigh Goossen",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "SERVICE_ERROR"
           ]
@@ -458,7 +458,7 @@
         },
         {
           "server": "Adam Schriemer",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
             "Randy Grundmann",
@@ -466,7 +466,7 @@
           ]
         },
         {
-          "server": "Sam Taylor parks",
+          "server": "Sam Taylor Parks",
           "point": "TWU",
           "event": [
             "SERVICE_ERROR"
@@ -474,7 +474,7 @@
         },
         {
           "server": "Ryan Sclater",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
             "Jakob Hamilton",
@@ -483,7 +483,7 @@
         },
         {
           "server": "Tim Edge",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "SERVICE_ACE",
             "Mark Antoniuk"
@@ -506,7 +506,7 @@
         },
         {
           "server": "Aaron Boettcher",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
             "Kyle Behiels",
@@ -551,7 +551,7 @@
         ],
         {
           "server": "Scott Plocktis",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
             "Charlie Bringloe",
@@ -567,7 +567,7 @@
         },
         {
           "server": "Blake Scheerhoorn",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "ATTACK_ERROR",
             "Scott Plocktis"
@@ -579,7 +579,7 @@
         ],
         {
           "server": "Jakob Hamilton",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "ATTACK_ERROR",
             "Scott Plocktis"
@@ -587,7 +587,7 @@
         },
         {
           "server": "Jakob Hamilton",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "BAD_SET",
             "Adam Schriemer"
@@ -595,7 +595,7 @@
         },
         {
           "server": "Jakob Hamilton",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "ATTACK_ERROR",
             "Leigh Goossen"
@@ -621,16 +621,16 @@
         },
         {
           "server": "Leigh Goossen",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
-            "Sam Taylor parks",
+            "Sam Taylor Parks",
             "Jakob Hamilton"
           ]
         },
         {
           "server": "Charlie Bringloe",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "ATTACK_ERROR",
             "Ben Lieuwen"
@@ -638,7 +638,7 @@
         },
         {
           "server": "Charlie Bringloe",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "SERVICE_ACE",
             "Ryan Sclater"
@@ -646,11 +646,11 @@
         },
         {
           "server": "Charlie Bringloe",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
             "Tim Edge",
-            "Sam Taylor parks"
+            "Sam Taylor Parks"
           ]
         },
         {
@@ -662,16 +662,16 @@
         },
         {
           "server": "Adam Schriemer",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
-            "Sam Taylor parks",
+            "Sam Taylor Parks",
             "Jakob Hamilton"
           ]
         },
         {
-          "server": "Sam Taylor parks",
-          "point": "TRUMVB",
+          "server": "Sam Taylor Parks",
+          "point": "TRU",
           "event": [
             "ATTACK_ERROR",
             "Aaron Boettcher",
@@ -685,7 +685,7 @@
           "Timeout Thompson Rivers."
         ],
         {
-          "server": "Sam Taylor parks",
+          "server": "Sam Taylor Parks",
           "point": "TWU",
           "event": [
             "KILL",
@@ -711,14 +711,14 @@
         },
         {
           "server": "Ryan Sclater",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "SERVICE_ERROR"
           ]
         },
         [
           "SUB",
-          "TRUMVB subs: Joshua Mullaney; Tyler Pomietlarz."
+          "TRU subs: Joshua Mullaney; Tyler Pomietlarz."
         ],
         {
           "server": "Tyler Pomietlarz",
@@ -731,7 +731,7 @@
         },
         {
           "server": "Aaron Boettcher",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "SERVICE_ERROR"
           ]
@@ -747,7 +747,7 @@
         },
         {
           "server": "Scott Plocktis",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "SERVICE_ERROR"
           ]
@@ -766,7 +766,7 @@
         },
         {
           "server": "Blake Scheerhoorn",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "ATTACK_ERROR",
             "Ryan Sclater"
@@ -774,7 +774,7 @@
         },
         [
           "SUB",
-          "TRUMVB subs: Tim Edge; Jakob Hamilton."
+          "TRU subs: Tim Edge; Jakob Hamilton."
         ],
         {
           "server": "Jakob Hamilton",
@@ -794,17 +794,17 @@
         },
         {
           "server": "Leigh Goossen",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "SERVICE_ERROR"
           ]
         },
         {
           "server": "Charlie Bringloe",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
-            "Sam Taylor parks"
+            "Sam Taylor Parks"
           ]
         },
         [
@@ -824,15 +824,15 @@
         ],
         {
           "server": "Adam Schriemer",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
-            "Sam Taylor parks",
+            "Sam Taylor Parks",
             "Jakob Hamilton"
           ]
         },
         {
-          "server": "Sam Taylor parks",
+          "server": "Sam Taylor Parks",
           "point": "TWU",
           "event": [
             "KILL",
@@ -846,7 +846,7 @@
         ],
         {
           "server": "Ryan Sclater",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
             "Randy Grundmann",
@@ -859,7 +859,7 @@
         ],
         {
           "server": "Tim Edge",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
             "Randy Grundmann",
@@ -868,8 +868,8 @@
         }
       ],
       "starters": {
-        "TRUMVB": [
-          "Sam Taylor parks",
+        "TRU": [
+          "Sam Taylor Parks",
           "Jakob Hamilton",
           "Randy Grundmann",
           "Tim Edge",
@@ -901,16 +901,16 @@
         },
         {
           "server": "Blake Scheerhoorn",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
-            "Sam Taylor parks",
+            "Sam Taylor Parks",
             "Jakob Hamilton"
           ]
         },
         {
           "server": "Charlie Bringloe",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
             "Tim Edge",
@@ -926,7 +926,7 @@
         },
         {
           "server": "Leigh Goossen",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
             "Randy Grundmann",
@@ -934,7 +934,7 @@
           ]
         },
         {
-          "server": "Sam Taylor parks",
+          "server": "Sam Taylor Parks",
           "point": "TWU",
           "event": [
             "KILL",
@@ -944,7 +944,7 @@
         },
         {
           "server": "Adam Schriemer",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
             "Tim Edge",
@@ -988,7 +988,7 @@
         },
         {
           "server": "Ryan Sclater",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "SERVICE_ERROR"
           ]
@@ -1015,14 +1015,14 @@
         ],
         {
           "server": "Aaron Boettcher",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "SERVICE_ERROR"
           ]
         },
         {
           "server": "Kyle Behiels",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "ATTACK_ERROR",
             "Ryan Sclater"
@@ -1030,7 +1030,7 @@
         },
         {
           "server": "Kyle Behiels",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "SERVICE_ACE",
             "TEAM"
@@ -1038,7 +1038,7 @@
         },
         {
           "server": "Kyle Behiels",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "SERVICE_ACE",
             "TEAM"
@@ -1055,10 +1055,10 @@
         },
         {
           "server": "Scott Plocktis",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
-            "Sam Taylor parks",
+            "Sam Taylor Parks",
             "Jakob Hamilton"
           ]
         },
@@ -1085,7 +1085,7 @@
         },
         {
           "server": "Blake Scheerhoorn",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
             "Tim Edge",
@@ -1094,10 +1094,10 @@
         },
         {
           "server": "Charlie Bringloe",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
-            "Sam Taylor parks",
+            "Sam Taylor Parks",
             "Jakob Hamilton"
           ]
         },
@@ -1174,14 +1174,14 @@
         },
         {
           "server": "Leigh Goossen",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
             "Randy Grundmann"
           ]
         },
         {
-          "server": "Sam Taylor parks",
+          "server": "Sam Taylor Parks",
           "point": "TWU",
           "event": [
             "KILL",
@@ -1191,7 +1191,7 @@
         },
         {
           "server": "Adam Schriemer",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
             "Kyle Behiels",
@@ -1200,7 +1200,7 @@
         },
         [
           "SUB",
-          "TRUMVB subs: Joshua Mullaney; Tyler Pomietlarz."
+          "TRU subs: Joshua Mullaney; Tyler Pomietlarz."
         ],
         {
           "server": "Tyler Pomietlarz",
@@ -1213,7 +1213,7 @@
         },
         {
           "server": "Ryan Sclater",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
             "Randy Grundmann",
@@ -1239,7 +1239,7 @@
         },
         {
           "server": "Aaron Boettcher",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "SERVICE_ERROR"
           ]
@@ -1268,9 +1268,9 @@
         }
       ],
       "starters": {
-        "TRUMVB": [
+        "TRU": [
           "Randy Grundmann",
-          "Sam Taylor parks",
+          "Sam Taylor Parks",
           "Kyle Behiels",
           "Tim Edge",
           "Jakob Hamilton",
@@ -1300,7 +1300,7 @@
         },
         {
           "server": "Leigh Goossen",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "SERVICE_ERROR"
           ]
@@ -1314,7 +1314,7 @@
         },
         {
           "server": "Adam Schriemer",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
             "Tim Edge",
@@ -1322,7 +1322,7 @@
           ]
         },
         {
-          "server": "Sam Taylor parks",
+          "server": "Sam Taylor Parks",
           "point": "TWU",
           "event": [
             "KILL",
@@ -1332,7 +1332,7 @@
         },
         {
           "server": "Ryan Sclater",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "SERVICE_ERROR"
           ]
@@ -1348,7 +1348,7 @@
         },
         {
           "server": "Aaron Boettcher",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "SERVICE_ERROR"
           ]
@@ -1412,7 +1412,7 @@
         },
         [
           "SUB",
-          "TRUMVB subs: Daniel Eikland rod."
+          "TRU subs: Daniel Eikland Rod."
         ],
         {
           "server": "Scott Plocktis",
@@ -1424,10 +1424,10 @@
         },
         {
           "server": "Scott Plocktis",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
-            "Daniel Eikland rod",
+            "Daniel Eikland Rod",
             "Jakob Hamilton"
           ]
         },
@@ -1442,7 +1442,7 @@
         },
         {
           "server": "Blake Scheerhoorn",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
             "Tim Edge",
@@ -1485,13 +1485,13 @@
         },
         {
           "server": "Leigh Goossen",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "SERVICE_ERROR"
           ]
         },
         {
-          "server": "Daniel Eikland rod",
+          "server": "Daniel Eikland Rod",
           "point": "TWU",
           "event": [
             "KILL",
@@ -1505,17 +1505,17 @@
         ],
         {
           "server": "Adam Schriemer",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "ATTACK_ERROR",
             "Blake Scheerhoorn",
             [
-              "Sam Taylor parks"
+              "Sam Taylor Parks"
             ]
           ]
         },
         {
-          "server": "Sam Taylor parks",
+          "server": "Sam Taylor Parks",
           "point": "TWU",
           "event": [
             "KILL",
@@ -1533,7 +1533,7 @@
         },
         {
           "server": "Ryan Sclater",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
             "Kyle Behiels",
@@ -1542,7 +1542,7 @@
         },
         [
           "YELLOW_CARD",
-          "TRUMVB",
+          "TRU",
           "Kyle Behiels",
           false
         ],
@@ -1555,7 +1555,7 @@
         },
         {
           "server": "Aaron Boettcher",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "SERVICE_ERROR"
           ]
@@ -1582,15 +1582,15 @@
           "point": "TWU",
           "event": [
             "ATTACK_ERROR",
-            "Daniel Eikland rod"
+            "Daniel Eikland Rod"
           ]
         },
         {
           "server": "Scott Plocktis",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "KILL",
-            "Daniel Eikland rod",
+            "Daniel Eikland Rod",
             "Jakob Hamilton"
           ]
         },
@@ -1605,7 +1605,7 @@
         },
         {
           "server": "Blake Scheerhoorn",
-          "point": "TRUMVB",
+          "point": "TRU",
           "event": [
             "SERVICE_ERROR"
           ]
@@ -1622,14 +1622,14 @@
           "point": "TWU",
           "event": [
             "ATTACK_ERROR",
-            "Sam Taylor parks"
+            "Sam Taylor Parks"
           ]
         }
       ],
       "starters": {
-        "TRUMVB": [
+        "TRU": [
           "Charlie Bringloe",
-          "Sam Taylor parks",
+          "Sam Taylor Parks",
           "Tim Edge",
           "Kyle Behiels",
           "Randy Grundmann",

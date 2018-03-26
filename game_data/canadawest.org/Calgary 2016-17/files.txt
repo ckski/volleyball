@@ -1,0 +1,25 @@
+2016-11-04 Calgary vs Trinity Western.json
+2016-11-05 Calgary vs Trinity Western.json
+2016-11-12 Winnipeg vs Calgary.json
+2016-11-13 Winnipeg vs Calgary.json
+2016-11-18 Calgary vs Brandon.json
+2016-11-19 Calgary vs Brandon.json
+2016-11-24 Mount Royal vs Calgary.json
+2016-11-26 Calgary vs Mount Royal.json
+2016-12-02 Calgary vs UBC Okanagan.json
+2016-12-03 Calgary vs UBC Okanagan.json
+2017-01-05 Thompson Rivers vs Calgary.json
+2017-01-06 Thompson Rivers vs Calgary.json
+2017-01-13 Calgary vs MacEwan.json
+2017-01-14 Calgary vs MacEwan.json
+2017-01-20 Calgary vs Manitoba.json
+2017-01-21 Calgary vs Manitoba.json
+2017-01-27 UBC vs Calgary.json
+2017-01-28 UBC vs Calgary.json
+2017-02-10 Calgary vs Saskatchewan.json
+2017-02-11 Calgary vs Saskatchewan.json
+2017-02-17 Regina vs Calgary.json
+2017-02-18 Regina vs Calgary.json
+2017-02-24 Alberta vs Calgary.json
+2017-02-25 Alberta vs Calgary.json
+files.txt

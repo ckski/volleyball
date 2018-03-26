@@ -1,0 +1,184 @@
+{
+  "teams": {
+    "Alberta": [
+      [
+        "canadawest.org:player/mz7ht0jyky8o6c7p",
+        "Chris Morrow",
+        {
+          "DIGS": 1,
+          "TA": 9
+        }
+      ],
+      [
+        "canadawest.org:player/iq0o7vl81a4cmq5i",
+        "Brett Walsh",
+        {
+          "DIGS": 12,
+          "TA": 8
+        }
+      ],
+      [
+        "canadawest.org:player/4qh64ncan5gj3k75",
+        "Taylor Arnett",
+        {
+          "DIGS": 8,
+          "TA": 38
+        }
+      ],
+      [
+        "canadawest.org:player/6vaagfx9gw76fev5",
+        "Arran Chambers",
+        {
+          "DIGS": 3,
+          "TA": 9
+        }
+      ],
+      [
+        "canadawest.org:player/6vjosyq992zc5ane",
+        "Taryq Sani",
+        {
+          "DIGS": 11,
+          "TA": 22
+        }
+      ],
+      [
+        "canadawest.org:player/k0y0gwdsk15eoo5n",
+        "Alex McMullin",
+        {
+          "DIGS": 4,
+          "TA": 34
+        }
+      ],
+      [
+        "canadawest.org:player/q4twjui1d67drngh",
+        "Reed May",
+        {
+          "DIGS": 6,
+          "TA": 1
+        }
+      ],
+      [
+        "canadawest.org:player/3jm6p19qx1uihs69",
+        "Michael Goertz",
+        {
+          "DIGS": 0,
+          "TA": 0
+        }
+      ],
+      [
+        "canadawest.org:player/57p6hg26q54sgngj",
+        "George Hobern",
+        {
+          "DIGS": 0,
+          "TA": 0
+        }
+      ]
+    ],
+    "MacEwan": [
+      [
+        "canadawest.org:player/h96ib9p409bf3wlw",
+        "Lee Iverson",
+        {
+          "DIGS": 2,
+          "TA": 8
+        }
+      ],
+      [
+        "canadawest.org:player/x7xko8h5ialxcs8e",
+        "Shane Kerrison",
+        {
+          "DIGS": 3,
+          "TA": 30
+        }
+      ],
+      [
+        "canadawest.org:player/wns2ikfha7rhxohw",
+        "Kai Hesthammer",
+        {
+          "DIGS": 2,
+          "TA": 27
+        }
+      ],
+      [
+        "canadawest.org:player/qrqdkbt5sgyy5ast",
+        "Max Vriend",
+        {
+          "DIGS": 8,
+          "TA": 23
+        }
+      ],
+      [
+        "canadawest.org:player/2h37zwc03tqiapru",
+        "Matthew Mohler",
+        {
+          "DIGS": 6,
+          "TA": 1
+        }
+      ],
+      [
+        "canadawest.org:player/74anh3uo1powhljp",
+        "Kornel Kowalewski",
+        {
+          "DIGS": 1,
+          "TA": 9
+        }
+      ],
+      [
+        "canadawest.org:player/sovj45ga4ljq4bvy",
+        "Jordan Peters",
+        {
+          "DIGS": 1,
+          "TA": 19
+        }
+      ],
+      [
+        "canadawest.org:player/tyo27tlen6ybyltd",
+        "Andre Arsenault",
+        {
+          "DIGS": 7,
+          "TA": 1
+        }
+      ],
+      [
+        "canadawest.org:player/g1zhvlfea1ttws07",
+        "Kirk Testawich",
+        {
+          "DIGS": 0,
+          "TA": 0
+        }
+      ],
+      [
+        "canadawest.org:player/fnkdtl5vncr5eqki",
+        "Christian Sides",
+        {
+          "DIGS": 0,
+          "TA": 0
+        }
+      ],
+      [
+        "canadawest.org:player/6k4fc8r7xyp42e2z",
+        "Joshua Peters",
+        {
+          "DIGS": 1,
+          "TA": 0
+        }
+      ]
+    ]
+  },
+  "id": "canadawest.org:game/20161110_rfvc",
+  "ta_per_set": {
+    "Alberta": [
+      28,
+      26,
+      39,
+      28
+    ],
+    "MacEwan": [
+      34,
+      33,
+      24,
+      27
+    ]
+  },
+  "source": "canadawest.org"
+}

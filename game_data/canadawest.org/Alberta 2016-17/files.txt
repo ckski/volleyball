@@ -1,0 +1,25 @@
+2016-10-28 Alberta vs Thompson Rivers.json
+2016-10-29 Alberta vs Thompson Rivers.json
+2016-11-10 Alberta vs MacEwan.json
+2016-11-11 MacEwan vs Alberta.json
+2016-11-18 Alberta vs Manitoba.json
+2016-11-19 Alberta vs Manitoba.json
+2016-11-25 Winnipeg vs Alberta.json
+2016-11-26 Winnipeg vs Alberta.json
+2016-12-02 Regina vs Alberta.json
+2016-12-03 Regina vs Alberta.json
+2017-01-06 Alberta vs Brandon.json
+2017-01-07 Alberta vs Brandon.json
+2017-01-20 Alberta vs Saskatchewan.json
+2017-01-21 Alberta vs Saskatchewan.json
+2017-01-27 Trinity Western vs Alberta.json
+2017-01-28 Trinity Western vs Alberta.json
+2017-02-03 Mount Royal vs Alberta.json
+2017-02-04 Mount Royal vs Alberta.json
+2017-02-10 UBC Okanagan vs Alberta.json
+2017-02-11 UBC Okanagan vs Alberta.json
+2017-02-17 Alberta vs UBC.json
+2017-02-18 Alberta vs UBC.json
+2017-02-24 Alberta vs Calgary.json
+2017-02-25 Alberta vs Calgary.json
+files.txt

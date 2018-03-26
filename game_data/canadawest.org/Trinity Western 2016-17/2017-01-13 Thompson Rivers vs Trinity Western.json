@@ -8,7 +8,7 @@
             "Carter Bergen"
           ],
           "server": "Adam Schriemer",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -16,7 +16,7 @@
             "Ryan Sclater",
             "Adam Schriemer"
           ],
-          "server": "Daniel Eikland rod",
+          "server": "Daniel Eikland Rod",
           "point": "TWU"
         },
         {
@@ -43,7 +43,7 @@
             "Jakob Hamilton"
           ],
           "server": "Jacob Kern",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -58,10 +58,10 @@
           "event": [
             "KILL",
             "Tim Edge",
-            "Daniel Eikland rod"
+            "Daniel Eikland Rod"
           ],
           "server": "Aaron Boettcher",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -69,12 +69,12 @@
             "Randy Grundmann"
           ],
           "server": "Tim Edge",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
             "ATTACK_ERROR",
-            "Sam Taylor parks"
+            "Sam Taylor Parks"
           ],
           "server": "Tim Edge",
           "point": "TWU"
@@ -85,7 +85,7 @@
             "Blake Scheerhoorn"
           ],
           "server": "Ryan Sclater",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -97,11 +97,11 @@
         {
           "event": [
             "KILL",
-            "Sam Taylor parks",
+            "Sam Taylor Parks",
             "Jakob Hamilton"
           ],
           "server": "Blake Scheerhoorn",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -112,7 +112,7 @@
               "Pearson Eshenko"
             ]
           ],
-          "server": "Sam Taylor parks",
+          "server": "Sam Taylor Parks",
           "point": "TWU"
         },
         {
@@ -126,7 +126,7 @@
         {
           "event": [
             "ATTACK_ERROR",
-            "Daniel Eikland rod"
+            "Daniel Eikland Rod"
           ],
           "server": "Pearson Eshenko",
           "point": "TWU"
@@ -145,7 +145,7 @@
             "SERVICE_ERROR"
           ],
           "server": "Pearson Eshenko",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -163,11 +163,11 @@
         {
           "event": [
             "KILL",
-            "Daniel Eikland rod",
+            "Daniel Eikland Rod",
             "Jakob Hamilton"
           ],
           "server": "Adam Schriemer",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -175,7 +175,7 @@
             "Ryan Sclater",
             "Adam Schriemer"
           ],
-          "server": "Daniel Eikland rod",
+          "server": "Daniel Eikland Rod",
           "point": "TWU"
         },
         {
@@ -183,7 +183,7 @@
             "SERVICE_ERROR"
           ],
           "server": "Jacob Kern",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         [
           "SUB",
@@ -195,7 +195,7 @@
             "Adam Schriemer"
           ],
           "server": "Kyle Behiels",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -204,7 +204,7 @@
             "Jakob Hamilton"
           ],
           "server": "Kyle Behiels",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -228,11 +228,11 @@
             "SERVICE_ERROR"
           ],
           "server": "Aaron Boettcher",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         [
           "SUB",
-          "TRUMVB subs: Douglas Groenendijk; Tyler Pomietlarz."
+          "TRU subs: Douglas Groenendijk; Tyler Pomietlarz."
         ],
         {
           "event": [
@@ -252,7 +252,7 @@
             "SERVICE_ERROR"
           ],
           "server": "Ryan Sclater",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -271,7 +271,7 @@
             "SERVICE_ERROR"
           ],
           "server": "Blake Scheerhoorn",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -279,8 +279,8 @@
             "Kyle Behiels",
             "Jakob Hamilton"
           ],
-          "server": "Sam Taylor parks",
-          "point": "TRUMVB"
+          "server": "Sam Taylor Parks",
+          "point": "TRU"
         },
         {
           "event": [
@@ -288,21 +288,21 @@
             "Ryan Sclater",
             "Adam Schriemer"
           ],
-          "server": "Sam Taylor parks",
+          "server": "Sam Taylor Parks",
           "point": "TWU"
         },
         {
           "event": [
             "KILL",
-            "Daniel Eikland rod",
+            "Daniel Eikland Rod",
             "Tyler Pomietlarz"
           ],
           "server": "Pearson Eshenko",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         [
           "SUB",
-          "TRUMVB subs: Tim Edge; Jakob Hamilton."
+          "TRU subs: Tim Edge; Jakob Hamilton."
         ],
         {
           "event": [
@@ -310,7 +310,7 @@
             "Ryan Sclater"
           ],
           "server": "Jakob Hamilton",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -374,20 +374,20 @@
         {
           "event": [
             "ATTACK_ERROR",
-            "Daniel Eikland rod"
+            "Daniel Eikland Rod"
           ],
           "server": "Adam Schriemer",
           "point": "TWU"
         }
       ],
       "starters": {
-        "TRUMVB": [
+        "TRU": [
           "Jakob Hamilton",
-          "Daniel Eikland rod",
+          "Daniel Eikland Rod",
           "Randy Grundmann",
           "Kyle Behiels",
           "Tim Edge",
-          "Sam Taylor parks",
+          "Sam Taylor Parks",
           "Cole Keddie"
         ],
         "TWU": [
@@ -417,7 +417,7 @@
             "SERVICE_ERROR"
           ],
           "server": "Adam Schriemer",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -425,8 +425,8 @@
             "Tim Edge",
             "Randy Grundmann"
           ],
-          "server": "Daniel Eikland rod",
-          "point": "TRUMVB"
+          "server": "Daniel Eikland Rod",
+          "point": "TRU"
         },
         {
           "event": [
@@ -434,13 +434,13 @@
             "Ryan Sclater",
             "Adam Schriemer"
           ],
-          "server": "Daniel Eikland rod",
+          "server": "Daniel Eikland Rod",
           "point": "TWU"
         },
         {
           "event": [
             "SERVICE_ACE",
-            "Daniel Eikland rod"
+            "Daniel Eikland Rod"
           ],
           "server": "Jacob Kern",
           "point": "TWU"
@@ -450,7 +450,7 @@
             "SERVICE_ERROR"
           ],
           "server": "Jacob Kern",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -472,14 +472,14 @@
         {
           "event": [
             "SERVICE_ACE",
-            "Daniel Eikland rod"
+            "Daniel Eikland Rod"
           ],
           "server": "Aaron Boettcher",
           "point": "TWU"
         },
         [
           "SUB",
-          "TRUMVB subs: Anton Napolitano."
+          "TRU subs: Anton Napolitano."
         ],
         {
           "event": [
@@ -506,7 +506,7 @@
             "SERVICE_ERROR"
           ],
           "server": "Aaron Boettcher",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -514,7 +514,7 @@
             "Ryan Sclater"
           ],
           "server": "Tim Edge",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -528,7 +528,7 @@
             "SERVICE_ERROR"
           ],
           "server": "Ryan Sclater",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -537,7 +537,7 @@
             "Jakob Hamilton"
           ],
           "server": "Randy Grundmann",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -571,13 +571,13 @@
             "SERVICE_ERROR"
           ],
           "server": "Blake Scheerhoorn",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
             "SERVICE_ERROR"
           ],
-          "server": "Sam Taylor parks",
+          "server": "Sam Taylor Parks",
           "point": "TWU"
         },
         {
@@ -674,7 +674,7 @@
             "SERVICE_ERROR"
           ],
           "server": "Pearson Eshenko",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -692,7 +692,7 @@
             "Jakob Hamilton"
           ],
           "server": "Adam Schriemer",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -704,7 +704,7 @@
             ]
           ],
           "server": "Anton Napolitano",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -722,7 +722,7 @@
             "Jakob Hamilton"
           ],
           "server": "Jacob Kern",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -735,13 +735,13 @@
         }
       ],
       "starters": {
-        "TRUMVB": [
-          "Sam Taylor parks",
+        "TRU": [
+          "Sam Taylor Parks",
           "Kyle Behiels",
           "Randy Grundmann",
           "Tim Edge",
           "Jakob Hamilton",
-          "Daniel Eikland rod",
+          "Daniel Eikland Rod",
           "Cole Keddie"
         ],
         "TWU": [
@@ -764,7 +764,7 @@
             "Tyler Pomietlarz"
           ],
           "server": "Adam Schriemer",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -772,7 +772,7 @@
             "Carter Bergen"
           ],
           "server": "Charlie Bringloe",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -798,7 +798,7 @@
             "Tyler Pomietlarz"
           ],
           "server": "Jacob Kern",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -824,7 +824,7 @@
             "Tyler Pomietlarz"
           ],
           "server": "Aaron Boettcher",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -832,7 +832,7 @@
             "Carter Bergen"
           ],
           "server": "Tim Edge",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -840,7 +840,7 @@
             "TEAM"
           ],
           "server": "Tim Edge",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -858,7 +858,7 @@
             "Tyler Pomietlarz"
           ],
           "server": "Ryan Sclater",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -901,7 +901,7 @@
             "Jacob Kern"
           ],
           "server": "Ben Lieuwen",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -909,7 +909,7 @@
             "Jacob Kern",
             "Adam Schriemer"
           ],
-          "server": "Sam Taylor parks",
+          "server": "Sam Taylor Parks",
           "point": "TWU"
         },
         {
@@ -927,7 +927,7 @@
             "Tyler Pomietlarz"
           ],
           "server": "Pearson Eshenko",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -945,7 +945,7 @@
             "Tyler Pomietlarz"
           ],
           "server": "Adam Schriemer",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -972,7 +972,7 @@
             "Aaron Boettcher"
           ],
           "server": "Jacob Kern",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         [
           "SUB",
@@ -990,7 +990,7 @@
             "SERVICE_ERROR"
           ],
           "server": "Aaron Boettcher",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -999,7 +999,7 @@
             "Tyler Pomietlarz"
           ],
           "server": "Tim Edge",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -1029,7 +1029,7 @@
             "Tyler Pomietlarz"
           ],
           "server": "Ryan Sclater",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         [
           "SUB",
@@ -1042,7 +1042,7 @@
             "Tyler Pomietlarz"
           ],
           "server": "Randy Grundmann",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         [
           "TIMEOUT",
@@ -1066,7 +1066,7 @@
             "SERVICE_ERROR"
           ],
           "server": "Ben Lieuwen",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -1074,7 +1074,7 @@
             "Pearson Eshenko",
             "Maddux Greves"
           ],
-          "server": "Sam Taylor parks",
+          "server": "Sam Taylor Parks",
           "point": "TWU"
         },
         {
@@ -1100,7 +1100,7 @@
             "Tyler Pomietlarz"
           ],
           "server": "Pearson Eshenko",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -1109,7 +1109,7 @@
             "Tyler Pomietlarz"
           ],
           "server": "Tyler Pomietlarz",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -1117,7 +1117,7 @@
             "Scott Plocktis"
           ],
           "server": "Tyler Pomietlarz",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -1125,7 +1125,7 @@
             "Scott Plocktis"
           ],
           "server": "Tyler Pomietlarz",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -1150,7 +1150,7 @@
             "Tyler Pomietlarz"
           ],
           "server": "Adam Schriemer",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -1175,7 +1175,7 @@
             "Kyle Behiels"
           ],
           "server": "Jacob Kern",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         {
           "event": [
@@ -1191,7 +1191,7 @@
             "Tyler Pomietlarz"
           ],
           "server": "Aaron Boettcher",
-          "point": "TRUMVB"
+          "point": "TRU"
         },
         [
           "TIMEOUT",
@@ -1199,7 +1199,7 @@
         ],
         [
           "SUB",
-          "TRUMVB subs: Jakob Hamilton."
+          "TRU subs: Jakob Hamilton."
         ],
         {
           "event": [
@@ -1212,12 +1212,12 @@
         }
       ],
       "starters": {
-        "TRUMVB": [
+        "TRU": [
           "Tyler Pomietlarz",
           "Randy Grundmann",
           "Tim Edge",
           "Kyle Behiels",
-          "Sam Taylor parks",
+          "Sam Taylor Parks",
           "Charlie Bringloe",
           "Cole Keddie"
         ],

@@ -1,0 +1,25 @@
+2016-10-28 Alberta vs Thompson Rivers.json
+2016-10-29 Alberta vs Thompson Rivers.json
+2016-11-04 Thompson Rivers vs Brandon.json
+2016-11-05 Thompson Rivers vs Brandon.json
+2016-11-11 Mount Royal vs Thompson Rivers.json
+2016-11-12 Mount Royal vs Thompson Rivers.json
+2016-11-18 UBC vs Thompson Rivers.json
+2016-11-19 UBC vs Thompson Rivers.json
+2016-11-25 Thompson Rivers vs MacEwan.json
+2016-11-26 Thompson Rivers vs MacEwan.json
+2017-01-05 Thompson Rivers vs Calgary.json
+2017-01-06 Thompson Rivers vs Calgary.json
+2017-01-13 Thompson Rivers vs Trinity Western.json
+2017-01-14 Thompson Rivers vs Trinity Western.json
+2017-01-27 Regina vs Thompson Rivers.json
+2017-01-28 Regina vs Thompson Rivers.json
+2017-02-03 Thompson Rivers vs Manitoba.json
+2017-02-04 Thompson Rivers vs Manitoba.json
+2017-02-10 Winnipeg vs Thompson Rivers.json
+2017-02-11 Winnipeg vs Thompson Rivers.json
+2017-02-16 UBC Okanagan vs Thompson Rivers.json
+2017-02-18 Thompson Rivers vs UBC Okanagan.json
+2017-02-24 Thompson Rivers vs Saskatchewan.json
+2017-02-25 Thompson Rivers vs Saskatchewan.json
+files.txt

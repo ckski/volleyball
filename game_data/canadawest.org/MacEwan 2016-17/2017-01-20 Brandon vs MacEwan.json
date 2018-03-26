@@ -1,0 +1,2034 @@
+{
+  "teams": [
+    [
+      "canadawest.org:team/ismg6mi3ytuao2qw",
+      "Brandon"
+    ],
+    [
+      "canadawest.org:team/afgkow4zpogyvpag",
+      "MacEwan"
+    ]
+  ],
+  "id": "canadawest.org:game/20170120_yz8k",
+  "date": "2017-01-20",
+  "sets": {
+    "1": {
+      "starters": {
+        "BRNM": [
+          "Reece Dixon",
+          "Elliott Viles",
+          "Mason Metcalf",
+          "Brady Nault",
+          "Roy Ching",
+          "James Weir",
+          "Jeremy Davies"
+        ],
+        "MACEWAN": [
+          "Max Vriend",
+          "Matthew Mohler",
+          "Kai Hesthammer",
+          "Kornel Kowalewski",
+          "Lee Iverson",
+          "Jordan Peters",
+          "Kirk Testawich"
+        ]
+      },
+      "events": [
+        {
+          "point": "MACEWAN",
+          "server": "Reece Dixon",
+          "event": [
+            "KILL",
+            "Kai Hesthammer",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Matthew Mohler",
+          "event": [
+            "KILL",
+            "Kai Hesthammer",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Matthew Mohler",
+          "event": [
+            "ATTACK_ERROR",
+            "Kai Hesthammer"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Elliott Viles",
+          "event": [
+            "KILL",
+            "Lee Iverson",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Kai Hesthammer",
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Mason Metcalf",
+          "event": [
+            "KILL",
+            "Jordan Peters",
+            "Matthew Mohler",
+            "James Weir"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Kornel Kowalewski",
+          "event": [
+            "KILL",
+            "James Weir",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Brady Nault",
+          "event": [
+            "ATTACK_ERROR",
+            "Jordan Peters"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Brady Nault",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Lee Iverson",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Roy Ching",
+          "event": [
+            "KILL",
+            "Max Vriend",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Jordan Peters",
+          "event": [
+            "KILL",
+            "Max Vriend",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Jordan Peters",
+          "event": [
+            "ATTACK_ERROR",
+            "Lee Iverson"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "James Weir",
+          "event": [
+            "KILL",
+            "Kai Hesthammer",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Max Vriend",
+          "event": [
+            "KILL",
+            "Kai Hesthammer",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Max Vriend",
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Reece Dixon",
+          "event": [
+            "KILL",
+            "Kornel Kowalewski",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Matthew Mohler",
+          "event": [
+            "KILL",
+            "Brady Nault",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Elliott Viles",
+          "event": [
+            "ATTACK_ERROR",
+            "Lee Iverson"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Elliott Viles",
+          "event": [
+            "ATTACK_ERROR",
+            "Kornel Kowalewski"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Elliott Viles",
+          "event": [
+            "KILL",
+            "Kai Hesthammer",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Kai Hesthammer",
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Jeremy Davies"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Mason Metcalf",
+          "event": [
+            "KILL",
+            "Jordan Peters",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Kornel Kowalewski",
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Brady Nault",
+          "event": [
+            "KILL",
+            "Jordan Peters",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Lee Iverson",
+          "event": [
+            "KILL",
+            "James Weir",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Roy Ching",
+          "event": [
+            "KILL",
+            "Jordan Peters",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Jordan Peters",
+          "event": [
+            "KILL",
+            "Kai Hesthammer",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Jordan Peters",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "James Weir",
+          "event": [
+            "KILL",
+            "Max Vriend",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Max Vriend",
+          "event": [
+            "KILL",
+            "Lee Iverson",
+            "Matthew Mohler"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Brandon."
+        ],
+        {
+          "point": "BRNM",
+          "server": "Max Vriend",
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Reece Dixon",
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Roy Ching"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Reece Dixon",
+          "event": [
+            "ATTACK_ERROR",
+            "Elliott Viles",
+            [
+              "Kornel Kowalewski",
+              "Kai Hesthammer"
+            ]
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Matthew Mohler",
+          "event": [
+            "KILL",
+            "Brady Nault",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Elliott Viles",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Kai Hesthammer",
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Mason Metcalf",
+          "event": [
+            "KILL",
+            "Jordan Peters",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Kornel Kowalewski",
+          "event": [
+            "ATTACK_ERROR",
+            "Jordan Peters",
+            [
+              "James Weir",
+              "Roy Ching",
+              "Brady Nault"
+            ]
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Brady Nault",
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout MacEwan."
+        ],
+        {
+          "point": "BRNM",
+          "server": "Brady Nault",
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Brady Nault",
+          "event": [
+            "ATTACK_ERROR",
+            "Jordan Peters",
+            [
+              "James Weir",
+              "Reece Dixon"
+            ]
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout MacEwan."
+        ],
+        {
+          "point": "BRNM",
+          "server": "Brady Nault",
+          "event": [
+            "ATTACK_ERROR",
+            "Max Vriend",
+            [
+              "James Weir",
+              "Roy Ching"
+            ]
+          ]
+        },
+        [
+          "SUB",
+          "MACEWAN subs: Shane Kerrison."
+        ],
+        {
+          "point": "MACEWAN",
+          "server": "Brady Nault",
+          "event": [
+            "KILL",
+            "Jordan Peters",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Shane Kerrison",
+          "event": [
+            "ATTACK_ERROR",
+            "Reece Dixon",
+            [
+              "Matthew Mohler"
+            ]
+          ]
+        },
+        [
+          "SUB",
+          "MACEWAN subs: Joshua Peters."
+        ],
+        {
+          "point": "BRNM",
+          "server": "Shane Kerrison",
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ]
+        },
+        [
+          "SUB",
+          "BRNM subs: Jacob Reid."
+        ],
+        [
+          "SUB",
+          "MACEWAN subs: Matthew Mohler."
+        ],
+        {
+          "point": "MACEWAN",
+          "server": "Roy Ching",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Jordan Peters",
+          "event": [
+            "KILL",
+            "Kai Hesthammer",
+            "Matthew Mohler"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Brandon."
+        ],
+        {
+          "point": "BRNM",
+          "server": "Jordan Peters",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "James Weir",
+          "event": [
+            "SERVICE_ACE",
+            "Jordan Peters"
+          ]
+        }
+      ]
+    },
+    "2": {
+      "starters": {
+        "BRNM": [
+          "James Weir",
+          "Reece Dixon",
+          "Elliott Viles",
+          "Mason Metcalf",
+          "Brady Nault",
+          "Roy Ching",
+          "Jeremy Davies"
+        ],
+        "MACEWAN": [
+          "Max Vriend",
+          "Matthew Mohler",
+          "Kai Hesthammer",
+          "Kornel Kowalewski",
+          "Shane Kerrison",
+          "Jordan Peters",
+          "Kirk Testawich"
+        ]
+      },
+      "events": [
+        {
+          "point": "MACEWAN",
+          "server": "Max Vriend",
+          "event": [
+            "ATTACK_ERROR",
+            "Elliott Viles"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Max Vriend",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Reece Dixon",
+          "event": [
+            "ATTACK_ERROR",
+            "Kai Hesthammer"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Reece Dixon",
+          "event": [
+            "KILL",
+            "Kornel Kowalewski",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Matthew Mohler",
+          "event": [
+            "KILL",
+            "Mason Metcalf",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Elliott Viles",
+          "event": [
+            "KILL",
+            "Kornel Kowalewski",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Kai Hesthammer",
+          "event": [
+            "KILL",
+            "Mason Metcalf",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Mason Metcalf",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Kornel Kowalewski",
+          "event": [
+            "KILL",
+            "Shane Kerrison",
+            "Max Vriend",
+            "Roy Ching"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Kornel Kowalewski",
+          "event": [
+            "BHE",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Kornel Kowalewski",
+          "event": [
+            "KILL",
+            "James Weir",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Brady Nault",
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Brady Nault",
+          "event": [
+            "ATTACK_ERROR",
+            "Shane Kerrison",
+            [
+              "James Weir",
+              "Roy Ching"
+            ]
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Brady Nault",
+          "event": [
+            "KILL",
+            "Max Vriend",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Shane Kerrison",
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Roy Ching",
+          "event": [
+            "KILL",
+            "Shane Kerrison",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Jordan Peters",
+          "event": [
+            "ATTACK_ERROR",
+            "Roy Ching"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Jordan Peters",
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "James Weir",
+          "event": [
+            "KILL",
+            "Matthew Mohler",
+            "Jordan Peters"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Max Vriend",
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Reece Dixon",
+          "event": [
+            "KILL",
+            "Kai Hesthammer",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Matthew Mohler",
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Elliott Viles",
+          "event": [
+            "SERVICE_ACE",
+            "Kai Hesthammer"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Elliott Viles",
+          "event": [
+            "ATTACK_ERROR",
+            "Brady Nault"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Kai Hesthammer",
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Mason Metcalf",
+          "event": [
+            "KILL",
+            "Shane Kerrison",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Kornel Kowalewski",
+          "event": [
+            "KILL",
+            "James Weir",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Brady Nault",
+          "event": [
+            "KILL",
+            "Jordan Peters",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Shane Kerrison",
+          "event": [
+            "SERVICE_ACE",
+            "Jeremy Davies"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Shane Kerrison",
+          "event": [
+            "ATTACK_ERROR",
+            "James Weir",
+            [
+              "Max Vriend"
+            ]
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Shane Kerrison",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Roy Ching",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Jordan Peters",
+          "event": [
+            "KILL",
+            "James Weir",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "James Weir",
+          "event": [
+            "KILL",
+            "Kai Hesthammer",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Max Vriend",
+          "event": [
+            "KILL",
+            "Mason Metcalf",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Reece Dixon",
+          "event": [
+            "KILL",
+            "Kornel Kowalewski",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Matthew Mohler",
+          "event": [
+            "ATTACK_ERROR",
+            "Brady Nault"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Brandon."
+        ],
+        {
+          "point": "BRNM",
+          "server": "Matthew Mohler",
+          "event": [
+            "ATTACK_ERROR",
+            "Kai Hesthammer",
+            [
+              "Mason Metcalf",
+              "Elliott Viles"
+            ]
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Elliott Viles",
+          "event": [
+            "BHE",
+            "Kornel Kowalewski"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout MacEwan."
+        ],
+        {
+          "point": "MACEWAN",
+          "server": "Elliott Viles",
+          "event": [
+            "ATTACK_ERROR",
+            "Roy Ching"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Kai Hesthammer",
+          "event": [
+            "KILL",
+            "Mason Metcalf",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Mason Metcalf",
+          "event": [
+            "BAD_SET",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Mason Metcalf",
+          "event": [
+            "KILL",
+            "Jordan Peters",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Kornel Kowalewski",
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Brady Nault",
+          "event": [
+            "KILL",
+            "Roy Ching"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout MacEwan."
+        ],
+        {
+          "point": "MACEWAN",
+          "server": "Brady Nault",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        [
+          "SUB",
+          "MACEWAN subs: Christian Sides."
+        ],
+        {
+          "point": "BRNM",
+          "server": "Christian Sides",
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ]
+        },
+        [
+          "SUB",
+          "BRNM subs: Jacob Reid."
+        ],
+        [
+          "SUB",
+          "MACEWAN subs: Shane Kerrison."
+        ],
+        {
+          "point": "MACEWAN",
+          "server": "Roy Ching",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Jordan Peters",
+          "event": [
+            "ATTACK_ERROR",
+            "James Weir",
+            [
+              "Max Vriend",
+              "Matthew Mohler"
+            ]
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Brandon."
+        ],
+        [
+          "SUB",
+          "BRNM subs: Reece Dixon."
+        ],
+        [
+          "SUB",
+          "MACEWAN subs: Joshua Peters."
+        ],
+        {
+          "point": "BRNM",
+          "server": "Jordan Peters",
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ]
+        },
+        [
+          "SUB",
+          "MACEWAN subs: Matthew Mohler; Andre Arsenault."
+        ],
+        {
+          "point": "MACEWAN",
+          "server": "James Weir",
+          "event": [
+            "KILL",
+            "Max Vriend",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Max Vriend",
+          "event": [
+            "KILL",
+            "Mason Metcalf",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Reece Dixon",
+          "event": [
+            "KILL",
+            "Kai Hesthammer",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Matthew Mohler",
+          "event": [
+            "KILL",
+            "Kai Hesthammer",
+            "Matthew Mohler"
+          ]
+        }
+      ]
+    },
+    "3": {
+      "starters": {
+        "BRNM": [
+          "James Weir",
+          "Reece Dixon",
+          "Elliott Viles",
+          "Mason Metcalf",
+          "Brady Nault",
+          "Roy Ching",
+          "Jeremy Davies"
+        ],
+        "MACEWAN": [
+          "Max Vriend",
+          "Matthew Mohler",
+          "Kai Hesthammer",
+          "Kornel Kowalewski",
+          "Shane Kerrison",
+          "Jordan Peters",
+          "Kirk Testawich"
+        ]
+      },
+      "events": [
+        {
+          "point": "BRNM",
+          "server": "James Weir",
+          "event": [
+            "ATTACK_ERROR",
+            "Shane Kerrison",
+            [
+              "Elliott Viles"
+            ]
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "James Weir",
+          "event": [
+            "KILL",
+            "Kai Hesthammer",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Matthew Mohler",
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Reece Dixon",
+          "event": [
+            "BAD_SET",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Reece Dixon",
+          "event": [
+            "SERVICE_ACE",
+            "Kirk Testawich"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Reece Dixon",
+          "event": [
+            "BHE",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Kai Hesthammer",
+          "event": [
+            "ATTACK_ERROR",
+            "Mason Metcalf"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Kai Hesthammer",
+          "event": [
+            "SERVICE_ACE",
+            "Elliott Viles"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Kai Hesthammer",
+          "event": [
+            "ATTACK_ERROR",
+            "Brady Nault",
+            [
+              "Shane Kerrison",
+              "Kornel Kowalewski"
+            ]
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Kai Hesthammer",
+          "event": [
+            "KILL",
+            "Brady Nault",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Elliott Viles",
+          "event": [
+            "ATTACK_ERROR",
+            "Jordan Peters"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Elliott Viles",
+          "event": [
+            "KILL",
+            "Jordan Peters",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Kornel Kowalewski",
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon",
+            "Max Vriend"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Mason Metcalf",
+          "event": [
+            "KILL",
+            "Max Vriend",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Shane Kerrison",
+          "event": [
+            "ATTACK_ERROR",
+            "Brady Nault"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Shane Kerrison",
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Brady Nault",
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Brady Nault",
+          "event": [
+            "KILL",
+            "Jordan Peters",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Jordan Peters",
+          "event": [
+            "KILL",
+            "Jeremy Davies",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Roy Ching",
+          "event": [
+            "ATTACK_ERROR",
+            "Brady Nault"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Max Vriend",
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "James Weir",
+          "event": [
+            "KILL",
+            "Kornel Kowalewski",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Matthew Mohler",
+          "event": [
+            "ATTACK_ERROR",
+            "Brady Nault"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Matthew Mohler",
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Reece Dixon",
+          "event": [
+            "ATTACK_ERROR",
+            "Kai Hesthammer",
+            [
+              "Mason Metcalf",
+              "Elliott Viles"
+            ]
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Reece Dixon",
+          "event": [
+            "ATTACK_ERROR",
+            "Jordan Peters"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Reece Dixon",
+          "event": [
+            "ATTACK_ERROR",
+            "Brady Nault",
+            [
+              "Kai Hesthammer"
+            ]
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Kai Hesthammer",
+          "event": [
+            "KILL",
+            "Mason Metcalf",
+            "Reece Dixon"
+          ]
+        },
+        [
+          "SUB",
+          "BRNM subs: Seth Friesen."
+        ],
+        {
+          "point": "BRNM",
+          "server": "Elliott Viles",
+          "event": [
+            "ATTACK_ERROR",
+            "Jordan Peters",
+            [
+              "Mason Metcalf",
+              "Seth Friesen"
+            ]
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Elliott Viles",
+          "event": [
+            "KILL",
+            "Shane Kerrison",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Kornel Kowalewski",
+          "event": [
+            "KILL",
+            "Mason Metcalf",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Mason Metcalf",
+          "event": [
+            "KILL",
+            "Jordan Peters",
+            "Kai Hesthammer"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Shane Kerrison",
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Seth Friesen",
+          "event": [
+            "KILL",
+            "Max Vriend",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Jordan Peters",
+          "event": [
+            "ATTACK_ERROR",
+            "Kai Hesthammer",
+            [
+              "James Weir",
+              "Reece Dixon"
+            ]
+          ]
+        },
+        [
+          "SUB",
+          "MACEWAN subs: Andre Arsenault."
+        ],
+        {
+          "point": "MACEWAN",
+          "server": "Roy Ching",
+          "event": [
+            "KILL",
+            "Matthew Mohler",
+            "Kirk Testawich"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Max Vriend",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "James Weir",
+          "event": [
+            "SERVICE_ACE",
+            "Andre Arsenault"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout MacEwan."
+        ],
+        {
+          "point": "BRNM",
+          "server": "James Weir",
+          "event": [
+            "ATTACK_ERROR",
+            "Shane Kerrison"
+          ]
+        },
+        [
+          "SUB",
+          "MACEWAN subs: Lee Iverson."
+        ],
+        {
+          "point": "MACEWAN",
+          "server": "James Weir",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Matthew Mohler",
+          "event": [
+            "ATTACK_ERROR",
+            "Elliott Viles"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Matthew Mohler",
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Reece Dixon"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout MacEwan."
+        ],
+        {
+          "point": "MACEWAN",
+          "server": "Reece Dixon",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        [
+          "SUB",
+          "MACEWAN subs: Jordan Peters."
+        ],
+        {
+          "point": "BRNM",
+          "server": "Kai Hesthammer",
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Mason Metcalf"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Elliott Viles",
+          "event": [
+            "KILL",
+            "Lee Iverson",
+            "Kirk Testawich"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Kornel Kowalewski",
+          "event": [
+            "KILL",
+            "Jordan Peters",
+            "Matthew Mohler"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Brandon."
+        ],
+        {
+          "point": "MACEWAN",
+          "server": "Kornel Kowalewski",
+          "event": [
+            "BAD_SET",
+            "Mason Metcalf"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Brandon."
+        ],
+        {
+          "point": "BRNM",
+          "server": "Kornel Kowalewski",
+          "event": [
+            "ATTACK_ERROR",
+            "Matthew Mohler",
+            [
+              "Mason Metcalf",
+              "Seth Friesen"
+            ]
+          ]
+        }
+      ]
+    },
+    "4": {
+      "starters": {
+        "BRNM": [
+          "Roy Ching",
+          "James Weir",
+          "Reece Dixon",
+          "Elliott Viles",
+          "Mason Metcalf",
+          "Brady Nault",
+          "Jeremy Davies"
+        ],
+        "MACEWAN": [
+          "Kai Hesthammer",
+          "Kornel Kowalewski",
+          "Lee Iverson",
+          "Jordan Peters",
+          "Max Vriend",
+          "Matthew Mohler",
+          "Kirk Testawich"
+        ]
+      },
+      "events": [
+        {
+          "point": "MACEWAN",
+          "server": "Kai Hesthammer",
+          "event": [
+            "KILL",
+            "Lee Iverson",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Kai Hesthammer",
+          "event": [
+            "KILL",
+            "James Weir",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "James Weir",
+          "event": [
+            "ATTACK_ERROR",
+            "Roy Ching",
+            [
+              "Kornel Kowalewski",
+              "Jordan Peters"
+            ]
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Kornel Kowalewski",
+          "event": [
+            "KILL",
+            "Reece Dixon",
+            "Mason Metcalf"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Reece Dixon",
+          "event": [
+            "KILL",
+            "Max Vriend",
+            "Matthew Mohler",
+            "Mason Metcalf"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Lee Iverson",
+          "event": [
+            "KILL",
+            "Mason Metcalf",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Elliott Viles",
+          "event": [
+            "KILL",
+            "Mason Metcalf",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Elliott Viles",
+          "event": [
+            "ATTACK_ERROR",
+            "Lee Iverson",
+            [
+              "Roy Ching",
+              "Mason Metcalf"
+            ]
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Elliott Viles",
+          "event": [
+            "KILL",
+            "Jordan Peters",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Jordan Peters",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Mason Metcalf",
+          "event": [
+            "ATTACK_ERROR",
+            "Kai Hesthammer",
+            [
+              "Brady Nault",
+              "James Weir"
+            ]
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Mason Metcalf",
+          "event": [
+            "KILL",
+            "Kai Hesthammer",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Max Vriend",
+          "event": [
+            "KILL",
+            "Brady Nault",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Brady Nault",
+          "event": [
+            "ATTACK_ERROR",
+            "Kornel Kowalewski"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Brady Nault",
+          "event": [
+            "KILL",
+            "Kai Hesthammer",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Matthew Mohler",
+          "event": [
+            "KILL",
+            "Kai Hesthammer",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Matthew Mohler",
+          "event": [
+            "KILL",
+            "Kai Hesthammer",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Matthew Mohler",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Roy Ching",
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Roy Ching",
+          "event": [
+            "KILL",
+            "Kornel Kowalewski",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Kai Hesthammer",
+          "event": [
+            "ATTACK_ERROR",
+            "Elliott Viles",
+            [
+              "Lee Iverson",
+              "Kornel Kowalewski"
+            ]
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Kai Hesthammer",
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "James Weir",
+          "event": [
+            "KILL",
+            "Kornel Kowalewski",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Kornel Kowalewski",
+          "event": [
+            "KILL",
+            "Lee Iverson",
+            "Jordan Peters"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Kornel Kowalewski",
+          "event": [
+            "ATTACK_ERROR",
+            "Lee Iverson"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Reece Dixon",
+          "event": [
+            "KILL",
+            "Max Vriend",
+            "Matthew Mohler"
+          ]
+        },
+        [
+          "SUB",
+          "BRNM subs: Seth Friesen."
+        ],
+        {
+          "point": "BRNM",
+          "server": "Lee Iverson",
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Elliott Viles",
+          "event": [
+            "KILL",
+            "Lee Iverson",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Jordan Peters",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Mason Metcalf",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Max Vriend",
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Seth Friesen",
+          "event": [
+            "BAD_SET",
+            "Kai Hesthammer"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout MacEwan."
+        ],
+        {
+          "point": "MACEWAN",
+          "server": "Seth Friesen",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Matthew Mohler",
+          "event": [
+            "KILL",
+            "Kai Hesthammer",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Matthew Mohler",
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ]
+        },
+        [
+          "SUB",
+          "BRNM subs: Jacob Reid."
+        ],
+        {
+          "point": "BRNM",
+          "server": "Roy Ching",
+          "event": [
+            "KILL",
+            "Elliott Viles"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Roy Ching",
+          "event": [
+            "KILL",
+            "Kornel Kowalewski",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Kai Hesthammer",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "James Weir",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Kornel Kowalewski",
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Jacob Reid"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Jacob Reid",
+          "event": [
+            "KILL",
+            "Max Vriend",
+            "Matthew Mohler"
+          ]
+        },
+        [
+          "SUB",
+          "BRNM subs: Reece Dixon."
+        ],
+        [
+          "SUB",
+          "MACEWAN subs: Christian Sides."
+        ],
+        {
+          "point": "BRNM",
+          "server": "Christian Sides",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        [
+          "SUB",
+          "MACEWAN subs: Lee Iverson."
+        ],
+        {
+          "point": "MACEWAN",
+          "server": "Elliott Viles",
+          "event": [
+            "BHE",
+            "Reece Dixon"
+          ]
+        },
+        [
+          "SUB",
+          "MACEWAN subs: Joshua Peters."
+        ],
+        [
+          "TIMEOUT",
+          "Timeout Brandon."
+        ],
+        {
+          "point": "BRNM",
+          "server": "Jordan Peters",
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ]
+        },
+        [
+          "SUB",
+          "MACEWAN subs: Matthew Mohler; Andre Arsenault."
+        ],
+        {
+          "point": "MACEWAN",
+          "server": "Mason Metcalf",
+          "event": [
+            "ATTACK_ERROR",
+            "Seth Friesen"
+          ]
+        },
+        {
+          "point": "MACEWAN",
+          "server": "Max Vriend",
+          "event": [
+            "KILL",
+            "Lee Iverson",
+            "Matthew Mohler"
+          ]
+        },
+        {
+          "point": "BRNM",
+          "server": "Max Vriend",
+          "event": [
+            "KILL",
+            "James Weir",
+            "Reece Dixon"
+          ]
+        },
+        [
+          "SUB",
+          "BRNM subs: Brady Nault."
+        ],
+        {
+          "point": "BRNM",
+          "server": "Brady Nault",
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ]
+        }
+      ]
+    }
+  },
+  "source": "canadawest.org"
+}

@@ -1,0 +1,1892 @@
+{
+  "id": "canadawest.org:game/20161125_2zth",
+  "source": "canadawest.org",
+  "sets": {
+    "1": {
+      "events": [
+        {
+          "point": "TWU",
+          "server": "Eric Loeppky",
+          "event": [
+            "ATTACK_ERROR",
+            "Mat Guidi"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Eric Loeppky",
+          "event": [
+            "SERVICE_ACE",
+            "Tyson Smith"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Eric Loeppky",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Jordan Deshane",
+          "event": [
+            "KILL",
+            "Scott Plocktis",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Leigh Goossen",
+          "event": [
+            "KILL",
+            "Mat Guidi",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Byron Keturakis",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Adam Schriemer",
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Adam Schriemer",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvan Brar",
+            [
+              "Ryan Sclater",
+              "Aaron Boettcher"
+            ]
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Adam Schriemer",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Irvan Brar",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Irvan Brar",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Ryan Sclater",
+          "event": [
+            "BAD_SET",
+            "Byron Keturakis"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout UBC."
+        ],
+        {
+          "point": "TWU",
+          "server": "Ryan Sclater",
+          "event": [
+            "ATTACK_ERROR",
+            "Joel Regehr",
+            [
+              "Aaron Boettcher"
+            ]
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Ryan Sclater",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Joel Regehr",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Aaron Boettcher",
+          "event": [
+            "SERVICE_ACE",
+            "Tyson Smith"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Aaron Boettcher",
+          "event": [
+            "KILL",
+            "Cam Fennema",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Mat Guidi",
+          "event": [
+            "KILL",
+            "Scott Plocktis",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Scott Plocktis",
+          "event": [
+            "ATTACK_ERROR",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Scott Plocktis",
+          "event": [
+            "KILL",
+            "Jordan Deshane",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Cam Fennema",
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Carter Bergen"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Eric Loeppky",
+          "event": [
+            "KILL",
+            "Cam Fennema",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Jordan Deshane",
+          "event": [
+            "ATTACK_ERROR",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Leigh Goossen",
+          "event": [
+            "KILL",
+            "Irvan Brar",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Byron Keturakis",
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        {
+          "point": "UBC",
+          "server": "Adam Schriemer",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Irvan Brar",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Ryan Sclater",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Joel Regehr",
+          "event": [
+            "ATTACK_ERROR",
+            "Scott Plocktis",
+            [
+              "Jordan Deshane",
+              "Cam Fennema"
+            ]
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Joel Regehr",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Aaron Boettcher",
+          "event": [
+            "SERVICE_ACE",
+            "Tyson Smith"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Aaron Boettcher",
+          "event": [
+            "KILL",
+            "Mat Guidi",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Mat Guidi",
+          "event": [
+            "BHE",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Mat Guidi",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        [
+          "SUB",
+          "TWU subs: Blake Scheerhoorn."
+        ],
+        {
+          "point": "UBC",
+          "server": "Scott Plocktis",
+          "event": [
+            "KILL",
+            "Cam Fennema",
+            "Byron Keturakis"
+          ]
+        },
+        [
+          "SUB",
+          "TWU subs: Maddux Greves."
+        ],
+        {
+          "point": "TWU",
+          "server": "Cam Fennema",
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Maddux Greves"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Eric Loeppky",
+          "event": [
+            "SERVICE_ACE",
+            "Cam Fennema"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Eric Loeppky",
+          "event": [
+            "ATTACK_ERROR",
+            "Leigh Goossen"
+          ]
+        },
+        [
+          "SUB",
+          "UBC subs: Kashtin De Souza."
+        ],
+        {
+          "point": "TWU",
+          "server": "Kashtin De Souza",
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Maddux Greves"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Leigh Goossen",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Leigh Goossen"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Leigh Goossen",
+          "event": [
+            "ATTACK_ERROR",
+            "Mat Guidi"
+          ]
+        }
+      ],
+      "starters": {
+        "TWU": [
+          "Aaron Boettcher",
+          "Leigh Goossen",
+          "Adam Schriemer",
+          "Scott Plocktis",
+          "Ryan Sclater",
+          "Eric Loeppky",
+          "Carter Bergen"
+        ],
+        "UBC": [
+          "Byron Keturakis",
+          "Irvan Brar",
+          "Cam Fennema",
+          "Joel Regehr",
+          "Mat Guidi",
+          "Jordan Deshane",
+          "Tyson Smith"
+        ]
+      }
+    },
+    "2": {
+      "events": [
+        {
+          "point": "UBC",
+          "server": "Ryan Sclater",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Cam Fennema",
+          "event": [
+            "SERVICE_ACE",
+            "Scott Plocktis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Cam Fennema",
+          "event": [
+            "KILL",
+            "Mat Guidi",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Cam Fennema",
+          "event": [
+            "KILL",
+            "Jordan Deshane",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Cam Fennema",
+          "event": [
+            "KILL",
+            "Byron Keturakis",
+            "Mat Guidi"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Cam Fennema",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Leigh Goossen",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvan Brar"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Leigh Goossen",
+          "event": [
+            "KILL",
+            "Irvan Brar",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Jordan Deshane",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Adam Schriemer",
+          "event": [
+            "ATTACK_ERROR",
+            "Mat Guidi",
+            [
+              "Aaron Boettcher",
+              "Scott Plocktis"
+            ]
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Adam Schriemer",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvan Brar"
+          ]
+        },
+        [
+          "SUB",
+          "TWU subs: Eric Loeppky."
+        ],
+        {
+          "point": "UBC",
+          "server": "Adam Schriemer",
+          "event": [
+            "ATTACK_ERROR",
+            "Scott Plocktis"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Byron Keturakis",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Ryan Sclater",
+          "event": [
+            "ATTACK_ERROR",
+            "Joel Regehr"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Ryan Sclater",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Irvan Brar",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Aaron Boettcher",
+          "event": [
+            "KILL",
+            "Cam Fennema",
+            "Tyson Smith"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Joel Regehr",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Scott Plocktis",
+          "event": [
+            "ATTACK_ERROR",
+            "Cam Fennema"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Scott Plocktis",
+          "event": [
+            "KILL",
+            "Jordan Deshane",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Mat Guidi",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Mat Guidi",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Eric Loeppky",
+          "event": [
+            "KILL",
+            "Cam Fennema",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Cam Fennema",
+          "event": [
+            "ATTACK_ERROR",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Cam Fennema",
+          "event": [
+            "ATTACK_ERROR",
+            "Eric Loeppky"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Cam Fennema",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        [
+          "SUB",
+          "UBC subs: Trenton Leisen."
+        ],
+        {
+          "point": "UBC",
+          "server": "Leigh Goossen",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater",
+            [
+              "Byron Keturakis"
+            ]
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Jordan Deshane",
+          "event": [
+            "ATTACK_ERROR",
+            "Aaron Boettcher"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        {
+          "point": "UBC",
+          "server": "Jordan Deshane",
+          "event": [
+            "KILL",
+            "Irvan Brar",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Jordan Deshane",
+          "event": [
+            "SERVICE_ACE",
+            "Ryan Sclater"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Jordan Deshane",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Adam Schriemer",
+          "event": [
+            "KILL",
+            "Mat Guidi",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Byron Keturakis",
+          "event": [
+            "KILL",
+            "Irvan Brar",
+            "Byron Keturakis"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        {
+          "point": "TWU",
+          "server": "Byron Keturakis",
+          "event": [
+            "KILL",
+            "Scott Plocktis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Ryan Sclater",
+          "event": [
+            "KILL",
+            "Mat Guidi",
+            "Byron Keturakis"
+          ]
+        },
+        [
+          "SUB",
+          "UBC subs: Cam Fennema."
+        ],
+        {
+          "point": "UBC",
+          "server": "Irvan Brar",
+          "event": [
+            "KILL",
+            "Cam Fennema",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Irvan Brar",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Aaron Boettcher",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        [
+          "SUB",
+          "UBC subs: Joel Regehr."
+        ],
+        {
+          "point": "UBC",
+          "server": "Joel Regehr",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Joel Regehr",
+          "event": [
+            "KILL",
+            "Leigh Goossen",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Scott Plocktis",
+          "event": [
+            "KILL",
+            "Jordan Deshane",
+            "Byron Keturakis"
+          ]
+        }
+      ],
+      "starters": {
+        "TWU": [
+          "Adam Schriemer",
+          "Scott Plocktis",
+          "Leigh Goossen",
+          "Ryan Sclater",
+          "Aaron Boettcher",
+          "Carter Bergen"
+        ],
+        "UBC": [
+          "Cam Fennema",
+          "Jordan Deshane",
+          "Mat Guidi",
+          "Byron Keturakis",
+          "Irvan Brar",
+          "Tyson Smith"
+        ]
+      }
+    },
+    "3": {
+      "events": [
+        {
+          "point": "TWU",
+          "server": "Adam Schriemer",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvan Brar"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Adam Schriemer",
+          "event": [
+            "KILL",
+            "Irvan Brar",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Jordan Deshane",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Ryan Sclater",
+          "event": [
+            "ATTACK_ERROR",
+            "Byron Keturakis",
+            [
+              "Eric Loeppky"
+            ]
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Ryan Sclater",
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Ryan Sclater",
+          "event": [
+            "KILL",
+            "Byron Keturakis",
+            "Cam Fennema"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Byron Keturakis",
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Aaron Boettcher",
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Aaron Boettcher",
+          "event": [
+            "ATTACK_ERROR",
+            "Scott Plocktis",
+            [
+              "Joel Regehr"
+            ]
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Irvan Brar",
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Scott Plocktis",
+          "event": [
+            "KILL",
+            "Cam Fennema",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Joel Regehr",
+          "event": [
+            "ATTACK_ERROR",
+            "Eric Loeppky",
+            [
+              "Byron Keturakis",
+              "Mat Guidi"
+            ]
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Joel Regehr",
+          "event": [
+            "SERVICE_ACE",
+            "Ryan Sclater"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Joel Regehr",
+          "event": [
+            "KILL",
+            "Mat Guidi",
+            "Jordan Deshane"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Joel Regehr",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        {
+          "point": "TWU",
+          "server": "Eric Loeppky",
+          "event": [
+            "ATTACK_ERROR",
+            "Jordan Deshane",
+            [
+              "Adam Schriemer",
+              "Leigh Goossen"
+            ]
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Eric Loeppky",
+          "event": [
+            "ATTACK_ERROR",
+            "Cam Fennema"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Eric Loeppky",
+          "event": [
+            "KILL",
+            "Leigh Goossen",
+            "Adam Schriemer"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout UBC."
+        ],
+        {
+          "point": "TWU",
+          "server": "Eric Loeppky",
+          "event": [
+            "SERVICE_ACE",
+            "Tyson Smith"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Eric Loeppky",
+          "event": [
+            "KILL",
+            "Adam Schriemer",
+            "Scott Plocktis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Eric Loeppky",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Mat Guidi",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Leigh Goossen",
+          "event": [
+            "KILL",
+            "Mat Guidi",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Cam Fennema",
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ]
+        },
+        [
+          "SUB",
+          "UBC subs: Trenton Leisen."
+        ],
+        {
+          "point": "UBC",
+          "server": "Adam Schriemer",
+          "event": [
+            "KILL",
+            "Irvan Brar",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Jordan Deshane",
+          "event": [
+            "KILL",
+            "Byron Keturakis",
+            "Mat Guidi"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Jordan Deshane",
+          "event": [
+            "KILL",
+            "Irvan Brar",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Jordan Deshane",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        {
+          "point": "UBC",
+          "server": "Ryan Sclater",
+          "event": [
+            "KILL",
+            "Irvan Brar",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Byron Keturakis",
+          "event": [
+            "KILL",
+            "Irvan Brar",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Byron Keturakis",
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Aaron Boettcher",
+          "event": [
+            "KILL",
+            "Joel Regehr",
+            "Byron Keturakis"
+          ]
+        },
+        [
+          "SUB",
+          "UBC subs: Cam Fennema."
+        ],
+        {
+          "point": "TWU",
+          "server": "Irvan Brar",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Scott Plocktis",
+          "event": [
+            "KILL",
+            "Mat Guidi",
+            "Byron Keturakis"
+          ]
+        },
+        [
+          "SUB",
+          "TWU subs: Mark Antoniuk."
+        ],
+        {
+          "point": "UBC",
+          "server": "Joel Regehr",
+          "event": [
+            "ATTACK_ERROR",
+            "Eric Loeppky"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Joel Regehr",
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Eric Loeppky",
+          "event": [
+            "KILL",
+            "Cam Fennema",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Mat Guidi",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        {
+          "point": "UBC",
+          "server": "Leigh Goossen",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Cam Fennema",
+          "event": [
+            "ATTACK_ERROR",
+            "Jordan Deshane"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Adam Schriemer",
+          "event": [
+            "ATTACK_ERROR",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Adam Schriemer",
+          "event": [
+            "ATTACK_ERROR",
+            "Jordan Deshane"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout UBC."
+        ],
+        {
+          "point": "UBC",
+          "server": "Adam Schriemer",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        [
+          "SUB",
+          "UBC subs: Kashtin De Souza."
+        ],
+        {
+          "point": "TWU",
+          "server": "Kashtin De Souza",
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ]
+        },
+        [
+          "SUB",
+          "UBC subs: Jordan Deshane."
+        ],
+        {
+          "point": "UBC",
+          "server": "Ryan Sclater",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Byron Keturakis",
+          "event": [
+            "ATTACK_ERROR",
+            "Eric Loeppky"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Byron Keturakis",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Byron Keturakis",
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ]
+        }
+      ],
+      "starters": {
+        "TWU": [
+          "Leigh Goossen",
+          "Eric Loeppky",
+          "Adam Schriemer",
+          "Ryan Sclater",
+          "Aaron Boettcher",
+          "Scott Plocktis",
+          "Carter Bergen"
+        ],
+        "UBC": [
+          "Joel Regehr",
+          "Cam Fennema",
+          "Mat Guidi",
+          "Jordan Deshane",
+          "Irvan Brar",
+          "Byron Keturakis",
+          "Tyson Smith"
+        ]
+      }
+    },
+    "4": {
+      "events": [
+        {
+          "point": "UBC",
+          "server": "Cam Fennema",
+          "event": [
+            "BHE",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Cam Fennema",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Ryan Sclater",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Jordan Deshane",
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Aaron Boettcher",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Byron Keturakis",
+          "event": [
+            "KILL",
+            "Pearson Eshenko",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Jacob Kern",
+          "event": [
+            "KILL",
+            "Jacob Kern",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Jacob Kern",
+          "event": [
+            "KILL",
+            "Mat Guidi",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Irvan Brar",
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Eric Loeppky",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Joel Regehr",
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Pearson Eshenko",
+          "event": [
+            "KILL",
+            "Irvan Brar",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Mat Guidi",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Adam Schriemer",
+          "event": [
+            "KILL",
+            "Aaron Boettcher"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        {
+          "point": "TWU",
+          "server": "Adam Schriemer",
+          "event": [
+            "ATTACK_ERROR",
+            "Mat Guidi",
+            [
+              "Ryan Sclater",
+              "Aaron Boettcher"
+            ]
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Adam Schriemer",
+          "event": [
+            "KILL",
+            "Cam Fennema",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Cam Fennema",
+          "event": [
+            "ATTACK_ERROR",
+            "Aaron Boettcher",
+            [
+              "Byron Keturakis"
+            ]
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Cam Fennema",
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Ryan Sclater",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Jordan Deshane",
+          "event": [
+            "KILL",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Jordan Deshane",
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Aaron Boettcher",
+          "event": [
+            "ATTACK_ERROR",
+            "Eric Loeppky"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Byron Keturakis",
+          "event": [
+            "ATTACK_ERROR",
+            "Eric Loeppky"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Byron Keturakis",
+          "event": [
+            "KILL",
+            "Irvan Brar"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Byron Keturakis",
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Jacob Kern",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater",
+            [
+              "Joel Regehr"
+            ]
+          ]
+        },
+        [
+          "SUB",
+          "TWU subs: Mark Antoniuk."
+        ],
+        {
+          "point": "TWU",
+          "server": "Irvan Brar",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Eric Loeppky",
+          "event": [
+            "KILL",
+            "Cam Fennema",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Joel Regehr",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        {
+          "point": "UBC",
+          "server": "Pearson Eshenko",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Mat Guidi",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Mat Guidi",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        [
+          "SUB",
+          "TWU subs: Jacob Kern."
+        ],
+        {
+          "point": "TWU",
+          "server": "Adam Schriemer",
+          "event": [
+            "SERVICE_ACE",
+            "Cam Fennema"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Adam Schriemer",
+          "event": [
+            "ATTACK_ERROR",
+            "Aaron Boettcher"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Cam Fennema",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        [
+          "SUB",
+          "UBC subs: Trenton Leisen."
+        ],
+        {
+          "point": "TWU",
+          "server": "Ryan Sclater",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Ryan Sclater",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        [
+          "SUB",
+          "UBC subs: Kashtin De Souza."
+        ],
+        {
+          "point": "UBC",
+          "server": "Kashtin De Souza",
+          "event": [
+            "KILL",
+            "Irvan Brar",
+            "Byron Keturakis"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        {
+          "point": "UBC",
+          "server": "Kashtin De Souza",
+          "event": [
+            "KILL",
+            "Mat Guidi",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Kashtin De Souza",
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ]
+        },
+        [
+          "SUB",
+          "UBC subs: Jordan Deshane."
+        ],
+        {
+          "point": "UBC",
+          "server": "Aaron Boettcher",
+          "event": [
+            "KILL",
+            "Byron Keturakis",
+            "Mat Guidi"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Byron Keturakis",
+          "event": [
+            "KILL",
+            "Pearson Eshenko",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Jacob Kern",
+          "event": [
+            "ATTACK_ERROR",
+            "Joel Regehr",
+            [
+              "Pearson Eshenko"
+            ]
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        {
+          "point": "UBC",
+          "server": "Jacob Kern",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater"
+          ]
+        },
+        [
+          "SUB",
+          "UBC subs: Cam Fennema."
+        ],
+        {
+          "point": "TWU",
+          "server": "Irvan Brar",
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Eric Loeppky",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout UBC."
+        ],
+        {
+          "point": "TWU",
+          "server": "Eric Loeppky",
+          "event": [
+            "KILL",
+            "Pearson Eshenko"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Eric Loeppky",
+          "event": [
+            "ATTACK_ERROR",
+            "Eric Loeppky"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Joel Regehr",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        [
+          "SUB",
+          "TWU subs: Scott Plocktis."
+        ],
+        {
+          "point": "UBC",
+          "server": "Scott Plocktis",
+          "event": [
+            "KILL",
+            "Mat Guidi"
+          ]
+        },
+        [
+          "SUB",
+          "TWU subs: Pearson Eshenko."
+        ],
+        {
+          "point": "UBC",
+          "server": "Mat Guidi",
+          "event": [
+            "KILL",
+            "Irvan Brar",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Mat Guidi",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Adam Schriemer",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Adam Schriemer",
+          "event": [
+            "KILL",
+            "Cam Fennema",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Cam Fennema",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater",
+            [
+              "Jordan Deshane",
+              "Irvan Brar"
+            ]
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Cam Fennema",
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Ryan Sclater",
+          "event": [
+            "KILL",
+            "Cam Fennema",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Jordan Deshane",
+          "event": [
+            "ATTACK_ERROR",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Aaron Boettcher",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Byron Keturakis",
+          "event": [
+            "KILL",
+            "Pearson Eshenko",
+            "Adam Schriemer"
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Jacob Kern",
+          "event": [
+            "ATTACK_ERROR",
+            "Joel Regehr",
+            [
+              "Pearson Eshenko",
+              "Adam Schriemer"
+            ]
+          ]
+        },
+        {
+          "point": "TWU",
+          "server": "Jacob Kern",
+          "event": [
+            "SERVICE_ACE",
+            "Cam Fennema"
+          ]
+        }
+      ],
+      "starters": {
+        "TWU": [
+          "Aaron Boettcher",
+          "Jacob Kern",
+          "Ryan Sclater",
+          "Pearson Eshenko",
+          "Eric Loeppky",
+          "Adam Schriemer",
+          "Carter Bergen"
+        ],
+        "UBC": [
+          "Jordan Deshane",
+          "Byron Keturakis",
+          "Joel Regehr",
+          "Cam Fennema",
+          "Irvan Brar",
+          "Mat Guidi",
+          "Tyson Smith"
+        ]
+      }
+    }
+  },
+  "teams": [
+    [
+      "canadawest.org:team/dtjw1qxi3rsm18q9",
+      "Trinity Western"
+    ],
+    [
+      "canadawest.org:team/8ym66afwr3tnrhwn",
+      "UBC"
+    ]
+  ],
+  "date": "2016-11-25"
+}

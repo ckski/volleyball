@@ -1,0 +1,1261 @@
+{
+  "source": "canadawest.org",
+  "teams": [
+    [
+      "canadawest.org:team/c7d4uvmky7mmw7kx",
+      "Alberta"
+    ],
+    [
+      "canadawest.org:team/w41s4fuy1ldg73vw",
+      "Thompson Rivers"
+    ]
+  ],
+  "sets": {
+    "1": {
+      "events": [
+        {
+          "point": "TRU",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "ATTACK_ERROR",
+            "Chris Towe"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "KILL",
+            "Ryan Nickifor",
+            "Brett Walsh"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Taylor Arnett",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Randy Grundmann",
+          "event": [
+            "KILL",
+            "Sam Taylor Parks",
+            "Randy Grundmann"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Randy Grundmann",
+          "event": [
+            "ATTACK_ERROR",
+            "Sam Taylor Parks",
+            [
+              "Arran Chambers"
+            ]
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Brett Walsh",
+          "event": [
+            "KILL",
+            "Sam Taylor Parks",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "ATTACK_ERROR",
+            "Chris Towe"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "SERVICE_ACE",
+            "Chris Towe"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Nickifor"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Alberta."
+        ],
+        {
+          "point": "AB",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "KILL",
+            "Arran Chambers",
+            "Brett Walsh"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Chris Towe",
+          "event": [
+            "KILL",
+            "Alex McMullin",
+            "Brett Walsh"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Chris Towe",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Tim Edge",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Arran Chambers",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "ATTACK_ERROR",
+            "Taylor Arnett",
+            [
+              "Jordan Foot"
+            ]
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "ATTACK_ERROR",
+            "Randy Grundmann"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Ryan Nickifor",
+          "event": [
+            "ATTACK_ERROR",
+            "Chris Towe"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Jordan Foot",
+          "event": [
+            "KILL",
+            "Ryan Nickifor",
+            "Brett Walsh"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Alex McMullin",
+          "event": [
+            "SERVICE_ACE",
+            "Daniel Eikland Rod"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Alex McMullin",
+          "event": [
+            "KILL",
+            "Chris Towe",
+            "Reed May"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Alex McMullin",
+          "event": [
+            "SERVICE_ACE",
+            "Daniel Eikland Rod"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Alex McMullin",
+          "event": [
+            "ATTACK_ERROR",
+            "Randy Grundmann",
+            [
+              "Taylor Arnett",
+              "Brett Walsh"
+            ]
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Alex McMullin",
+          "event": [
+            "ATTACK_ERROR",
+            "Taylor Arnett",
+            [
+              "Tyler Pomietlarz"
+            ]
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "ATTACK_ERROR",
+            "Taylor Arnett",
+            [
+              "Sam Taylor Parks",
+              "Randy Grundmann"
+            ]
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "KILL",
+            "Ryan Nickifor",
+            "Brett Walsh"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Taylor Arnett",
+          "event": [
+            "ATTACK_ERROR",
+            "Sam Taylor Parks"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Taylor Arnett",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Randy Grundmann",
+          "event": [
+            "KILL",
+            "Ryan Nickifor",
+            "Brett Walsh"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Brett Walsh",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Nickifor",
+            [
+              "Tim Edge",
+              "Jordan Foot"
+            ]
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Chris Towe",
+          "event": [
+            "KILL",
+            "Ryan Nickifor"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Chris Towe",
+          "event": [
+            "KILL",
+            "Alex McMullin",
+            "Brett Walsh"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Chris Towe",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Tim Edge",
+          "event": [
+            "KILL",
+            "Ryan Nickifor",
+            "Brett Walsh"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Arran Chambers",
+          "event": [
+            "KILL",
+            "Daniel Eikland Rod"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "ATTACK_ERROR",
+            "Alex McMullin"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "SERVICE_ACE",
+            "Alex McMullin"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Alberta."
+        ],
+        {
+          "point": "AB",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "KILL",
+            "Taylor Arnett",
+            "Brett Walsh"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Ryan Nickifor",
+          "event": [
+            "KILL",
+            "Ryan Nickifor",
+            "Reed May"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Ryan Nickifor",
+          "event": [
+            "KILL",
+            "Jordan Foot",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Jordan Foot",
+          "event": [
+            "KILL",
+            "Taylor Arnett",
+            "Brett Walsh"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Alex McMullin",
+          "event": [
+            "ATTACK_ERROR",
+            "Chris Towe"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Nickifor",
+            [
+              "Randy Grundmann",
+              "Sam Taylor Parks"
+            ]
+          ]
+        },
+        [
+          "SUB",
+          "AB subs: Taryq Sani."
+        ],
+        {
+          "point": "AB",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "KILL",
+            "Ryan Nickifor",
+            "Brett Walsh"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Taylor Arnett",
+          "event": [
+            "BHE",
+            "Cole Keddie"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Taylor Arnett",
+          "event": [
+            "KILL",
+            "Taryq Sani",
+            "Brett Walsh"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "point": "AB",
+          "server": "Taylor Arnett",
+          "event": [
+            "ATTACK_ERROR",
+            "Randy Grundmann",
+            [
+              "Taryq Sani",
+              "Arran Chambers"
+            ]
+          ]
+        }
+      ],
+      "starters": {
+        "AB": [
+          "Alex McMullin",
+          "Taylor Arnett",
+          "Brett Walsh",
+          "Chris Towe",
+          "Arran Chambers",
+          "Ryan Nickifor",
+          "Reed May"
+        ],
+        "TRU": [
+          "Tyler Pomietlarz",
+          "Randy Grundmann",
+          "Sam Taylor Parks",
+          "Tim Edge",
+          "Daniel Eikland Rod",
+          "Jordan Foot",
+          "Cole Keddie"
+        ]
+      }
+    },
+    "2": {
+      "events": [
+        {
+          "point": "AB",
+          "server": "Brett Walsh",
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Edge"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Brett Walsh",
+          "event": [
+            "KILL",
+            "Daniel Eikland Rod",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "ATTACK_ERROR",
+            "Daniel Eikland Rod"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Chris Towe",
+          "event": [
+            "ATTACK_ERROR",
+            "Randy Grundmann"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Chris Towe",
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Edge",
+            [
+              "Arran Chambers",
+              "Ryan Nickifor"
+            ]
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "point": "TRU",
+          "server": "Chris Towe",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Randy Grundmann",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Arran Chambers",
+          "event": [
+            "ATTACK_ERROR",
+            "Daniel Eikland Rod"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Arran Chambers",
+          "event": [
+            "KILL",
+            "Daniel Eikland Rod",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Nickifor"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "KILL",
+            "Ryan Nickifor",
+            "Brett Walsh"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Ryan Nickifor",
+          "event": [
+            "ATTACK_ERROR",
+            "Daniel Eikland Rod",
+            [
+              "Brett Walsh",
+              "Taylor Arnett"
+            ]
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Ryan Nickifor",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Tim Edge",
+          "event": [
+            "SERVICE_ACE",
+            "Reed May"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Tim Edge",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Alex McMullin",
+          "event": [
+            "KILL",
+            "Daniel Eikland Rod",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "ATTACK_ERROR",
+            "Brett Walsh"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "KILL",
+            "Taylor Arnett",
+            "Brett Walsh"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Taylor Arnett",
+          "event": [
+            "KILL",
+            "Jordan Foot"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Jordan Foot",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Brett Walsh",
+          "event": [
+            "ATTACK_ERROR",
+            "Randy Grundmann",
+            [
+              "Arran Chambers",
+              "Ryan Nickifor"
+            ]
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Brett Walsh",
+          "event": [
+            "KILL",
+            "Daniel Eikland Rod",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "KILL",
+            "Arran Chambers",
+            "Brett Walsh"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Chris Towe",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Tyler Pomietlarz",
+            "Ryan Nickifor"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Randy Grundmann",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Arran Chambers",
+          "event": [
+            "ATTACK_ERROR",
+            "Daniel Eikland Rod"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "point": "AB",
+          "server": "Arran Chambers",
+          "event": [
+            "KILL",
+            "Alex McMullin",
+            "Brett Walsh"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Arran Chambers",
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Edge",
+            [
+              "Taylor Arnett",
+              "Alex McMullin"
+            ]
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Arran Chambers",
+          "event": [
+            "KILL",
+            "Alex McMullin",
+            "Brett Walsh"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Arran Chambers",
+          "event": [
+            "KILL",
+            "Sam Taylor Parks",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "KILL",
+            "Taylor Arnett",
+            "Brett Walsh"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Ryan Nickifor",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Tim Edge",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Charlie Bringloe; Jakob Hamilton."
+        ],
+        {
+          "point": "TRU",
+          "server": "Alex McMullin",
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Nickifor"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "KILL",
+            "Taylor Arnett",
+            "Brett Walsh"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Taylor Arnett",
+          "event": [
+            "SERVICE_ACE",
+            "Cole Keddie"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Taylor Arnett",
+          "event": [
+            "KILL",
+            "Jordan Foot",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Jordan Foot",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Brett Walsh",
+          "event": [
+            "KILL",
+            "Chris Towe"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Brett Walsh",
+          "event": [
+            "KILL",
+            "Sam Taylor Parks",
+            "Jakob Hamilton"
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Tyler Pomietlarz; Tim Edge."
+        ],
+        {
+          "point": "AB",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "KILL",
+            "Chris Towe",
+            "Reed May"
+          ]
+        }
+      ],
+      "starters": {
+        "AB": [
+          "Brett Walsh",
+          "Chris Towe",
+          "Arran Chambers",
+          "Ryan Nickifor",
+          "Alex McMullin",
+          "Taylor Arnett",
+          "Reed May"
+        ],
+        "TRU": [
+          "Jordan Foot",
+          "Tyler Pomietlarz",
+          "Randy Grundmann",
+          "Sam Taylor Parks",
+          "Tim Edge",
+          "Daniel Eikland Rod",
+          "Cole Keddie"
+        ]
+      }
+    },
+    "3": {
+      "events": [
+        {
+          "point": "AB",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "KILL",
+            "Chris Towe",
+            "Brett Walsh"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Brett Walsh",
+          "event": [
+            "KILL",
+            "Ryan Nickifor"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Brett Walsh",
+          "event": [
+            "KILL",
+            "Sam Taylor Parks",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Randy Grundmann",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Chris Towe",
+          "event": [
+            "ATTACK_ERROR",
+            "Alex McMullin"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Edge",
+            [
+              "Arran Chambers",
+              "Alex McMullin"
+            ]
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Arran Chambers",
+          "event": [
+            "BAD_SET",
+            "Daniel Eikland Rod"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Arran Chambers",
+          "event": [
+            "KILL",
+            "Jordan Foot"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Tim Edge",
+          "event": [
+            "ATTACK_ERROR",
+            "Randy Grundmann"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Ryan Nickifor",
+          "event": [
+            "KILL",
+            "Alex McMullin",
+            "Brett Walsh"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Ryan Nickifor",
+          "event": [
+            "ATTACK_ERROR",
+            "Daniel Eikland Rod",
+            [
+              "Brett Walsh",
+              "Taylor Arnett"
+            ]
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "point": "TRU",
+          "server": "Ryan Nickifor",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "KILL",
+            "Taylor Arnett",
+            "Brett Walsh"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Alex McMullin",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Jordan Foot",
+          "event": [
+            "KILL",
+            "Chris Towe",
+            "Brett Walsh"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Taylor Arnett",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "KILL",
+            "Ryan Nickifor",
+            "Brett Walsh"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Brett Walsh",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Randy Grundmann",
+          "event": [
+            "KILL",
+            "Ryan Nickifor",
+            "Brett Walsh"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Chris Towe",
+          "event": [
+            "KILL",
+            "Daniel Eikland Rod",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "KILL",
+            "Arran Chambers",
+            "Brett Walsh"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Arran Chambers",
+          "event": [
+            "ATTACK_ERROR",
+            "Jordan Foot",
+            [
+              "Taylor Arnett"
+            ]
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "point": "TRU",
+          "server": "Arran Chambers",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Tim Edge",
+          "event": [
+            "KILL",
+            "Alex McMullin",
+            "Ryan Nickifor",
+            "Daniel Eikland Rod"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Ryan Nickifor",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "KILL",
+            "Ryan Nickifor",
+            "Brett Walsh"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Alex McMullin",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Jordan Foot",
+          "event": [
+            "KILL",
+            "Chris Towe",
+            "Brett Walsh"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Taylor Arnett",
+          "event": [
+            "SERVICE_ACE",
+            "Daniel Eikland Rod"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Taylor Arnett",
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Edge"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Taylor Arnett",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "KILL",
+            "Brett Walsh",
+            "Chris Towe"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Brett Walsh",
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Edge",
+            [
+              "Ryan Nickifor",
+              "Arran Chambers"
+            ]
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Brett Walsh",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Randy Grundmann",
+          "event": [
+            "ATTACK_ERROR",
+            "Daniel Eikland Rod"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Chris Towe",
+          "event": [
+            "KILL",
+            "Alex McMullin",
+            "Brett Walsh"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Chris Towe",
+          "event": [
+            "SERVICE_ACE",
+            "Randy Grundmann"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Chris Towe",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "ATTACK_ERROR",
+            "Chris Towe"
+          ]
+        },
+        {
+          "point": "AB",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "KILL",
+            "Ryan Nickifor",
+            "Brett Walsh"
+          ]
+        }
+      ],
+      "starters": {
+        "AB": [
+          "Taylor Arnett",
+          "Brett Walsh",
+          "Chris Towe",
+          "Arran Chambers",
+          "Ryan Nickifor",
+          "Alex McMullin",
+          "Reed May"
+        ],
+        "TRU": [
+          "Tyler Pomietlarz",
+          "Randy Grundmann",
+          "Sam Taylor Parks",
+          "Tim Edge",
+          "Daniel Eikland Rod",
+          "Jordan Foot",
+          "Cole Keddie"
+        ]
+      }
+    }
+  },
+  "id": "canadawest.org:game/20161028_gsuc",
+  "date": "2016-10-28"
+}

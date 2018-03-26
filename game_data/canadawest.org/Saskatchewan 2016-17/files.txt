@@ -1,0 +1,25 @@
+2016-10-28 UBC vs Saskatchewan.json
+2016-10-29 UBC vs Saskatchewan.json
+2016-11-04 Saskatchewan vs MacEwan.json
+2016-11-05 Saskatchewan vs MacEwan.json
+2016-11-18 Saskatchewan vs Regina.json
+2016-11-19 Saskatchewan vs Regina.json
+2016-11-25 Brandon vs Saskatchewan.json
+2016-11-26 Brandon vs Saskatchewan.json
+2016-12-02 Manitoba vs Saskatchewan.json
+2016-12-03 Manitoba vs Saskatchewan.json
+2017-01-06 Saskatchewan vs Trinity Western.json
+2017-01-07 Saskatchewan vs Trinity Western.json
+2017-01-20 Alberta vs Saskatchewan.json
+2017-01-21 Alberta vs Saskatchewan.json
+2017-01-27 Saskatchewan vs Winnipeg.json
+2017-01-28 Saskatchewan vs Winnipeg.json
+2017-02-03 Saskatchewan vs UBC Okanagan.json
+2017-02-04 Saskatchewan vs UBC Okanagan.json
+2017-02-10 Calgary vs Saskatchewan.json
+2017-02-11 Calgary vs Saskatchewan.json
+2017-02-17 Saskatchewan vs Mount Royal.json
+2017-02-18 Saskatchewan vs Mount Royal.json
+2017-02-24 Thompson Rivers vs Saskatchewan.json
+2017-02-25 Thompson Rivers vs Saskatchewan.json
+files.txt

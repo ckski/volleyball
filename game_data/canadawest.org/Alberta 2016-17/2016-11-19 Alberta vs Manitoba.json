@@ -1,0 +1,2098 @@
+{
+  "id": "canadawest.org:game/20161119_7sy1",
+  "source": "canadawest.org",
+  "sets": {
+    "1": {
+      "starters": {
+        "MAN": [
+          "Ken Rooney",
+          "Dustin Spiring",
+          "Evan Jackson",
+          "Scott Vercaigne",
+          "Devren Dear",
+          "Luke Herr",
+          "Kevin Falconer"
+        ],
+        "AB": [
+          "Brett Walsh",
+          "Ryan Nickifor",
+          "Taylor Arnett",
+          "Taryq Sani",
+          "Arran Chambers",
+          "Alex McMullin",
+          "Reed May"
+        ]
+      },
+      "events": [
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Alex McMullin"
+          ],
+          "point": "MAN",
+          "server": "Ken Rooney"
+        },
+        {
+          "event": [
+            "KILL",
+            "Taylor Arnett",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Ken Rooney"
+        },
+        {
+          "event": [
+            "KILL",
+            "Scott Vercaigne",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Alex McMullin"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "AB",
+          "server": "Luke Herr"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "MAN",
+          "server": "Taylor Arnett"
+        },
+        {
+          "event": [
+            "KILL",
+            "Alex McMullin",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Scott Vercaigne"
+        },
+        {
+          "event": [
+            "KILL",
+            "Evan Jackson",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Brett Walsh"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Arran Chambers"
+          ],
+          "point": "MAN",
+          "server": "Dustin Spiring"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Arran Chambers"
+          ],
+          "point": "MAN",
+          "server": "Dustin Spiring"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Taryq Sani",
+            [
+              "Evan Jackson"
+            ]
+          ],
+          "point": "MAN",
+          "server": "Dustin Spiring"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Nickifor",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Dustin Spiring"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ken Rooney",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Taryq Sani"
+        },
+        {
+          "event": [
+            "KILL",
+            "Alex McMullin",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Devren Dear"
+        },
+        {
+          "event": [
+            "KILL",
+            "Devren Dear",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Arran Chambers"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Ken Rooney",
+            [
+              "Taylor Arnett",
+              "Ryan Nickifor",
+              "Alex McMullin"
+            ]
+          ],
+          "point": "AB",
+          "server": "Evan Jackson"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Taylor Arnett"
+          ],
+          "point": "MAN",
+          "server": "Ryan Nickifor"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Nickifor",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Ken Rooney"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Taryq Sani",
+            [
+              "Scott Vercaigne",
+              "Dustin Spiring",
+              "Luke Herr"
+            ]
+          ],
+          "point": "MAN",
+          "server": "Alex McMullin"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Scott Vercaigne"
+          ],
+          "point": "AB",
+          "server": "Brett Walsh"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "MAN",
+          "server": "Taylor Arnett"
+        },
+        {
+          "event": [
+            "KILL",
+            "Arran Chambers",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Scott Vercaigne"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Nickifor",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Brett Walsh"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Scott Vercaigne",
+            [
+              "Ryan Nickifor",
+              "Arran Chambers"
+            ]
+          ],
+          "point": "AB",
+          "server": "Brett Walsh"
+        },
+        {
+          "event": [
+            "KILL",
+            "Evan Jackson",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Brett Walsh"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Nickifor"
+          ],
+          "point": "MAN",
+          "server": "Dustin Spiring"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Nickifor",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Dustin Spiring"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Dustin Spiring"
+          ],
+          "point": "AB",
+          "server": "Taryq Sani"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "MAN",
+          "server": "Taryq Sani"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Arran Chambers"
+          ],
+          "point": "MAN",
+          "server": "Devren Dear"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Evan Jackson",
+            [
+              "Ryan Nickifor",
+              "Arran Chambers"
+            ]
+          ],
+          "point": "AB",
+          "server": "Devren Dear"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ken Rooney",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Arran Chambers"
+        },
+        {
+          "event": [
+            "KILL",
+            "Devren Dear",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Evan Jackson"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Alberta."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Taryq Sani",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Evan Jackson"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Alex McMullin"
+          ],
+          "point": "MAN",
+          "server": "Ryan Nickifor"
+        },
+        {
+          "event": [
+            "KILL",
+            "Taylor Arnett",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Ken Rooney"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Devren Dear",
+            [
+              "Taryq Sani",
+              "Taylor Arnett"
+            ]
+          ],
+          "point": "AB",
+          "server": "Alex McMullin"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Evan Jackson",
+            [
+              "Brett Walsh"
+            ]
+          ],
+          "point": "AB",
+          "server": "Alex McMullin"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Manitoba."
+        ],
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "MAN",
+          "server": "Alex McMullin"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Taryq Sani",
+            [
+              "Scott Vercaigne",
+              "Devren Dear",
+              "Dustin Spiring"
+            ]
+          ],
+          "point": "MAN",
+          "server": "Luke Herr"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Alberta."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Taryq Sani",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Luke Herr"
+        },
+        [
+          "SUB",
+          "AB subs: Chris Morrow."
+        ],
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Evan Jackson"
+          ],
+          "point": "AB",
+          "server": "Chris Morrow"
+        },
+        [
+          "SUB",
+          "AB subs: George Hobern."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Devren Dear",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Chris Morrow"
+        },
+        [
+          "SUB",
+          "AB subs: Arran Chambers; Taylor Arnett."
+        ],
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Taryq Sani",
+            [
+              "Devren Dear"
+            ]
+          ],
+          "point": "MAN",
+          "server": "Scott Vercaigne"
+        },
+        {
+          "event": [
+            "KILL",
+            "Taryq Sani",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Scott Vercaigne"
+        },
+        [
+          "SUB",
+          "MAN subs: Caleb Hickok."
+        ],
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Caleb Hickok"
+          ],
+          "point": "AB",
+          "server": "Brett Walsh"
+        },
+        {
+          "event": [
+            "KILL",
+            "Devren Dear",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Brett Walsh"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Nickifor",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Dustin Spiring"
+        },
+        {
+          "event": [
+            "KILL",
+            "Devren Dear",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Taryq Sani"
+        }
+      ]
+    },
+    "2": {
+      "starters": {
+        "MAN": [
+          "Evan Jackson",
+          "Devren Dear",
+          "Dustin Spiring",
+          "Ken Rooney",
+          "Scott Vercaigne",
+          "Luke Herr",
+          "Kevin Falconer"
+        ],
+        "AB": [
+          "Ryan Nickifor",
+          "Taryq Sani",
+          "Arran Chambers",
+          "Brett Walsh",
+          "Taylor Arnett",
+          "Alex McMullin",
+          "Reed May"
+        ]
+      },
+      "events": [
+        {
+          "event": [
+            "KILL",
+            "Ken Rooney",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Brett Walsh"
+        },
+        {
+          "event": [
+            "KILL",
+            "Arran Chambers",
+            "Reed May"
+          ],
+          "point": "AB",
+          "server": "Ken Rooney"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "MAN",
+          "server": "Taryq Sani"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Nickifor",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Luke Herr"
+        },
+        {
+          "event": [
+            "KILL",
+            "Devren Dear",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Arran Chambers"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "AB",
+          "server": "Scott Vercaigne"
+        },
+        {
+          "event": [
+            "KILL",
+            "Taylor Arnett",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Ryan Nickifor"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Kevin Falconer"
+          ],
+          "point": "AB",
+          "server": "Ryan Nickifor"
+        },
+        {
+          "event": [
+            "KILL",
+            "Alex McMullin"
+          ],
+          "point": "AB",
+          "server": "Ryan Nickifor"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Manitoba."
+        ],
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Dustin Spiring",
+            [
+              "Taylor Arnett",
+              "Alex McMullin"
+            ]
+          ],
+          "point": "AB",
+          "server": "Ryan Nickifor"
+        },
+        {
+          "event": [
+            "KILL",
+            "Dustin Spiring",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Ryan Nickifor"
+        },
+        {
+          "event": [
+            "KILL",
+            "Taylor Arnett",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Dustin Spiring"
+        },
+        {
+          "event": [
+            "KILL",
+            "Taylor Arnett"
+          ],
+          "point": "AB",
+          "server": "Alex McMullin"
+        },
+        {
+          "event": [
+            "KILL",
+            "Taryq Sani",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Alex McMullin"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Manitoba."
+        ],
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Dustin Spiring"
+          ],
+          "point": "AB",
+          "server": "Alex McMullin"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Taryq Sani",
+            [
+              "Devren Dear"
+            ]
+          ],
+          "point": "MAN",
+          "server": "Alex McMullin"
+        },
+        {
+          "event": [
+            "KILL",
+            "Taylor Arnett",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Devren Dear"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "MAN",
+          "server": "Taylor Arnett"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Devren Dear"
+          ],
+          "point": "AB",
+          "server": "Evan Jackson"
+        },
+        {
+          "event": [
+            "KILL",
+            "Scott Vercaigne",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Brett Walsh"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Nickifor",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Ken Rooney"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Nickifor"
+          ],
+          "point": "MAN",
+          "server": "Taryq Sani"
+        },
+        {
+          "event": [
+            "KILL",
+            "Arran Chambers",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Luke Herr"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "MAN",
+          "server": "Arran Chambers"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "AB",
+          "server": "Scott Vercaigne"
+        },
+        [
+          "SUB",
+          "MAN subs: Caleb Hickok."
+        ],
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Evan Jackson",
+            [
+              "Alex McMullin",
+              "Taylor Arnett"
+            ]
+          ],
+          "point": "AB",
+          "server": "Ryan Nickifor"
+        },
+        {
+          "event": [
+            "KILL",
+            "Taylor Arnett",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Ryan Nickifor"
+        },
+        {
+          "event": [
+            "KILL",
+            "Dustin Spiring",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Ryan Nickifor"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Nickifor",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Dustin Spiring"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Evan Jackson",
+            [
+              "Taylor Arnett",
+              "Brett Walsh"
+            ]
+          ],
+          "point": "AB",
+          "server": "Alex McMullin"
+        },
+        {
+          "event": [
+            "KILL",
+            "Devren Dear",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Alex McMullin"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Taylor Arnett"
+          ],
+          "point": "MAN",
+          "server": "Devren Dear"
+        },
+        {
+          "event": [
+            "KILL",
+            "Taryq Sani",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Devren Dear"
+        },
+        [
+          "SUB",
+          "AB subs: Chris Morrow."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Evan Jackson",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Chris Morrow"
+        },
+        [
+          "SUB",
+          "MAN subs: Scott Vercaigne."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Alex McMullin",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Evan Jackson"
+        },
+        {
+          "event": [
+            "KILL",
+            "Scott Vercaigne",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Brett Walsh"
+        },
+        {
+          "event": [
+            "KILL",
+            "Scott Vercaigne",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Ken Rooney"
+        },
+        {
+          "event": [
+            "KILL",
+            "Arran Chambers",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Ken Rooney"
+        },
+        {
+          "event": [
+            "BAD_SET",
+            "Brett Walsh"
+          ],
+          "point": "MAN",
+          "server": "Taryq Sani"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Alex McMullin"
+          ],
+          "point": "MAN",
+          "server": "Luke Herr"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "AB",
+          "server": "Luke Herr"
+        },
+        [
+          "SUB",
+          "AB subs: Taylor Arnett."
+        ],
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Nickifor",
+            [
+              "Dustin Spiring"
+            ]
+          ],
+          "point": "MAN",
+          "server": "Arran Chambers"
+        },
+        {
+          "event": [
+            "KILL",
+            "Taylor Arnett",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Scott Vercaigne"
+        }
+      ]
+    },
+    "3": {
+      "starters": {
+        "MAN": [
+          "Ken Rooney",
+          "Evan Jackson",
+          "Dustin Spiring",
+          "Luke Herr",
+          "Scott Vercaigne",
+          "Devren Dear",
+          "Kevin Falconer"
+        ],
+        "AB": [
+          "Brett Walsh",
+          "Ryan Nickifor",
+          "Taryq Sani",
+          "Arran Chambers",
+          "Taylor Arnett",
+          "Alex McMullin",
+          "Reed May"
+        ]
+      },
+      "events": [
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Taryq Sani",
+            [
+              "Devren Dear"
+            ]
+          ],
+          "point": "MAN",
+          "server": "Dustin Spiring"
+        },
+        {
+          "event": [
+            "KILL",
+            "Taryq Sani",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Dustin Spiring"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ken Rooney",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Brett Walsh"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Arran Chambers",
+            [
+              "Ken Rooney"
+            ]
+          ],
+          "point": "MAN",
+          "server": "Devren Dear"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Nickifor",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Devren Dear"
+        },
+        {
+          "event": [
+            "KILL",
+            "Alex McMullin",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Taryq Sani"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "MAN",
+          "server": "Taryq Sani"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Alex McMullin"
+          ],
+          "point": "MAN",
+          "server": "Evan Jackson"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "AB",
+          "server": "Evan Jackson"
+        },
+        {
+          "event": [
+            "KILL",
+            "Devren Dear",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Arran Chambers"
+        },
+        {
+          "event": [
+            "KILL",
+            "Devren Dear",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Ken Rooney"
+        },
+        {
+          "event": [
+            "KILL",
+            "Luke Herr",
+            "Scott Vercaigne"
+          ],
+          "point": "MAN",
+          "server": "Ken Rooney"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Alex McMullin"
+          ],
+          "point": "MAN",
+          "server": "Ken Rooney"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Alberta."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Alex McMullin",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Ken Rooney"
+        },
+        {
+          "event": [
+            "KILL",
+            "Devren Dear",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Ryan Nickifor"
+        },
+        {
+          "event": [
+            "KILL",
+            "Devren Dear",
+            "Kevin Falconer"
+          ],
+          "point": "MAN",
+          "server": "Luke Herr"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Alex McMullin",
+            [
+              "Dustin Spiring",
+              "Scott Vercaigne",
+              "Devren Dear"
+            ]
+          ],
+          "point": "MAN",
+          "server": "Luke Herr"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "AB",
+          "server": "Luke Herr"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Dustin Spiring"
+          ],
+          "point": "AB",
+          "server": "Alex McMullin"
+        },
+        {
+          "event": [
+            "KILL",
+            "Devren Dear",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Alex McMullin"
+        },
+        {
+          "event": [
+            "KILL",
+            "Taylor Arnett"
+          ],
+          "point": "AB",
+          "server": "Scott Vercaigne"
+        },
+        [
+          "SUB",
+          "AB subs: Chris Morrow."
+        ],
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "MAN",
+          "server": "Chris Morrow"
+        },
+        [
+          "SUB",
+          "AB subs: Taylor Arnett."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Devren Dear",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Dustin Spiring"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Nickifor",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Dustin Spiring"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ken Rooney",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Brett Walsh"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "AB",
+          "server": "Devren Dear"
+        },
+        {
+          "event": [
+            "KILL",
+            "Arran Chambers"
+          ],
+          "point": "AB",
+          "server": "Taryq Sani"
+        },
+        {
+          "event": [
+            "BAD_SET",
+            "Alex McMullin"
+          ],
+          "point": "MAN",
+          "server": "Taryq Sani"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ken Rooney",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Evan Jackson"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Nickifor",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Evan Jackson"
+        },
+        {
+          "event": [
+            "KILL",
+            "Scott Vercaigne",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Arran Chambers"
+        },
+        {
+          "event": [
+            "KILL",
+            "Scott Vercaigne",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Ken Rooney"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Alberta."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Ryan Nickifor",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Ken Rooney"
+        },
+        {
+          "event": [
+            "KILL",
+            "Dustin Spiring",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Ryan Nickifor"
+        },
+        {
+          "event": [
+            "KILL",
+            "Taylor Arnett",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Luke Herr"
+        },
+        {
+          "event": [
+            "KILL",
+            "Devren Dear",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Alex McMullin"
+        },
+        {
+          "event": [
+            "KILL",
+            "Taylor Arnett",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Scott Vercaigne"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Devren Dear"
+          ],
+          "point": "AB",
+          "server": "Taylor Arnett"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "MAN",
+          "server": "Taylor Arnett"
+        },
+        {
+          "event": [
+            "KILL",
+            "Taryq Sani",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Dustin Spiring"
+        },
+        {
+          "event": [
+            "KILL",
+            "Devren Dear",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Brett Walsh"
+        },
+        {
+          "event": [
+            "KILL",
+            "Arran Chambers",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Devren Dear"
+        },
+        {
+          "event": [
+            "KILL",
+            "Alex McMullin",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Taryq Sani"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ken Rooney",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Taryq Sani"
+        }
+      ]
+    },
+    "4": {
+      "starters": {
+        "MAN": [
+          "Devren Dear",
+          "Luke Herr",
+          "Ken Rooney",
+          "Dustin Spiring",
+          "Scott Vercaigne",
+          "Evan Jackson",
+          "Kevin Falconer"
+        ],
+        "AB": [
+          "Ryan Nickifor",
+          "Arran Chambers",
+          "Taryq Sani",
+          "Taylor Arnett",
+          "Brett Walsh",
+          "Alex McMullin",
+          "Reed May"
+        ]
+      },
+      "events": [
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Taryq Sani"
+          ],
+          "point": "MAN",
+          "server": "Brett Walsh"
+        },
+        {
+          "event": [
+            "KILL",
+            "Alex McMullin",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Devren Dear"
+        },
+        {
+          "event": [
+            "KILL",
+            "Devren Dear",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Brett Walsh"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "AB",
+          "server": "Evan Jackson"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Scott Vercaigne"
+          ],
+          "point": "AB",
+          "server": "Arran Chambers"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ken Rooney",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Arran Chambers"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Nickifor",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Ken Rooney"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "MAN",
+          "server": "Ryan Nickifor"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Alex McMullin"
+          ],
+          "point": "MAN",
+          "server": "Luke Herr"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Nickifor",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Luke Herr"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Dustin Spiring",
+            [
+              "Taryq Sani",
+              "Taylor Arnett"
+            ]
+          ],
+          "point": "AB",
+          "server": "Alex McMullin"
+        },
+        {
+          "event": [
+            "KILL",
+            "Devren Dear",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Alex McMullin"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Nickifor",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Scott Vercaigne"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Taryq Sani",
+            [
+              "Devren Dear",
+              "Luke Herr",
+              "Evan Jackson"
+            ]
+          ],
+          "point": "MAN",
+          "server": "Taylor Arnett"
+        },
+        {
+          "event": [
+            "KILL",
+            "Arran Chambers",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Dustin Spiring"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Ken Rooney",
+            [
+              "Taryq Sani",
+              "Arran Chambers"
+            ]
+          ],
+          "point": "AB",
+          "server": "Brett Walsh"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Devren Dear",
+            [
+              "Ryan Nickifor",
+              "Arran Chambers"
+            ]
+          ],
+          "point": "AB",
+          "server": "Brett Walsh"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Manitoba."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Evan Jackson",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Brett Walsh"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "AB",
+          "server": "Devren Dear"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "MAN",
+          "server": "Taryq Sani"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "AB",
+          "server": "Evan Jackson"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Devren Dear",
+            [
+              "Taylor Arnett",
+              "Alex McMullin"
+            ]
+          ],
+          "point": "AB",
+          "server": "Arran Chambers"
+        },
+        {
+          "event": [
+            "BAD_SET",
+            "Arran Chambers"
+          ],
+          "point": "MAN",
+          "server": "Arran Chambers"
+        },
+        {
+          "event": [
+            "KILL",
+            "Luke Herr",
+            "Dustin Spiring"
+          ],
+          "point": "MAN",
+          "server": "Ken Rooney"
+        },
+        {
+          "event": [
+            "KILL",
+            "Scott Vercaigne",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Ken Rooney"
+        },
+        {
+          "event": [
+            "KILL",
+            "Devren Dear",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Ken Rooney"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Alberta."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Taylor Arnett",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Ken Rooney"
+        },
+        {
+          "event": [
+            "KILL",
+            "Luke Herr",
+            "Evan Jackson"
+          ],
+          "point": "MAN",
+          "server": "Ryan Nickifor"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Nickifor",
+            [
+              "Scott Vercaigne"
+            ]
+          ],
+          "point": "MAN",
+          "server": "Luke Herr"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Reed May"
+          ],
+          "point": "MAN",
+          "server": "Luke Herr"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "AB",
+          "server": "Luke Herr"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "MAN",
+          "server": "Alex McMullin"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Taryq Sani"
+          ],
+          "point": "MAN",
+          "server": "Scott Vercaigne"
+        },
+        {
+          "event": [
+            "KILL",
+            "Taylor Arnett",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Scott Vercaigne"
+        },
+        [
+          "SUB",
+          "MAN subs: Caleb Hickok."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Evan Jackson",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Taylor Arnett"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Nickifor",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Dustin Spiring"
+        },
+        {
+          "event": [
+            "KILL",
+            "Evan Jackson",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Brett Walsh"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Nickifor",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Devren Dear"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Devren Dear"
+          ],
+          "point": "AB",
+          "server": "Taryq Sani"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Evan Jackson",
+            [
+              "Arran Chambers",
+              "Ryan Nickifor"
+            ]
+          ],
+          "point": "AB",
+          "server": "Taryq Sani"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Manitoba."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Devren Dear",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Taryq Sani"
+        },
+        [
+          "SUB",
+          "MAN subs: Scott Vercaigne."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Alex McMullin",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Evan Jackson"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ken Rooney",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Arran Chambers"
+        },
+        [
+          "SUB",
+          "MAN subs: Caleb Konrad."
+        ],
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "AB",
+          "server": "Ken Rooney"
+        },
+        [
+          "SUB",
+          "MAN subs: Luke Herr."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Ryan Nickifor",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Ryan Nickifor"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Brett Walsh",
+            [
+              "Scott Vercaigne"
+            ]
+          ],
+          "point": "MAN",
+          "server": "Ryan Nickifor"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Alberta."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Taylor Arnett",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Luke Herr"
+        },
+        [
+          "SUB",
+          "AB subs: George Hobern."
+        ],
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Devren Dear",
+            [
+              "George Hobern",
+              "Taylor Arnett",
+              "Ryan Nickifor"
+            ]
+          ],
+          "point": "AB",
+          "server": "Alex McMullin"
+        }
+      ]
+    },
+    "5": {
+      "starters": {
+        "MAN": [
+          "Devren Dear",
+          "Dustin Spiring",
+          "Evan Jackson",
+          "Luke Herr",
+          "Ken Rooney",
+          "Scott Vercaigne",
+          "Kevin Falconer"
+        ],
+        "AB": [
+          "Taylor Arnett",
+          "Brett Walsh",
+          "Taryq Sani",
+          "Alex McMullin",
+          "Arran Chambers",
+          "Ryan Nickifor",
+          "Reed May"
+        ]
+      },
+      "events": [
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "MAN",
+          "server": "Arran Chambers"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Taylor Arnett",
+            [
+              "Ken Rooney"
+            ]
+          ],
+          "point": "MAN",
+          "server": "Devren Dear"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "AB",
+          "server": "Devren Dear"
+        },
+        {
+          "event": [
+            "KILL",
+            "Evan Jackson",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Ryan Nickifor"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Devren Dear",
+            [
+              "Alex McMullin",
+              "Taylor Arnett"
+            ]
+          ],
+          "point": "AB",
+          "server": "Evan Jackson"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ken Rooney",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Alex McMullin"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Nickifor",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Ken Rooney"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "MAN",
+          "server": "Taylor Arnett"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Taryq Sani",
+            [
+              "Devren Dear",
+              "Dustin Spiring",
+              "Scott Vercaigne"
+            ]
+          ],
+          "point": "MAN",
+          "server": "Luke Herr"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Alberta."
+        ],
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Alex McMullin"
+          ],
+          "point": "MAN",
+          "server": "Luke Herr"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Arran Chambers"
+          ],
+          "point": "MAN",
+          "server": "Luke Herr"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Devren Dear"
+          ],
+          "point": "AB",
+          "server": "Luke Herr"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "MAN",
+          "server": "Taylor Arnett"
+        },
+        {
+          "event": [
+            "KILL",
+            "Alex McMullin",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Scott Vercaigne"
+        },
+        [
+          "SUB",
+          "MAN subs: Caleb Hickok."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Devren Dear",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Taryq Sani"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Alex McMullin"
+          ],
+          "point": "MAN",
+          "server": "Dustin Spiring"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Alberta."
+        ],
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Alex McMullin",
+            [
+              "Devren Dear",
+              "Ken Rooney"
+            ]
+          ],
+          "point": "MAN",
+          "server": "Dustin Spiring"
+        },
+        {
+          "event": [
+            "KILL",
+            "Arran Chambers",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Dustin Spiring"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "MAN",
+          "server": "Arran Chambers"
+        },
+        {
+          "event": [
+            "KILL",
+            "Taylor Arnett",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Devren Dear"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "MAN",
+          "server": "Ryan Nickifor"
+        },
+        [
+          "SUB",
+          "MAN subs: Scott Vercaigne."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Taylor Arnett",
+            "Brett Walsh"
+          ],
+          "point": "AB",
+          "server": "Evan Jackson"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ken Rooney",
+            "Luke Herr"
+          ],
+          "point": "MAN",
+          "server": "Alex McMullin"
+        }
+      ]
+    }
+  },
+  "date": "2016-11-19",
+  "teams": [
+    [
+      "canadawest.org:team/c7d4uvmky7mmw7kx",
+      "Alberta"
+    ],
+    [
+      "canadawest.org:team/ijdtf6y9xus4vfqp",
+      "Manitoba"
+    ]
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "ta_per_set": {
+    "Saskatchewan": [
+      40,
+      40,
+      20
+    ],
+    "Calgary": [
+      41,
+      30,
+      29
+    ]
+  },
+  "source": "canadawest.org",
+  "teams": {
+    "Saskatchewan": [
+      [
+        "canadawest.org:player/o1b12n0rjhyoyj3z",
+        "Zak Rempel",
+        {
+          "DIGS": 1,
+          "TA": 4
+        }
+      ],
+      [
+        "canadawest.org:player/gn2vigeb8glu8ed3",
+        "Patrick Hunchak",
+        {
+          "DIGS": 0,
+          "TA": 0
+        }
+      ],
+      [
+        "canadawest.org:player/h2nzpykntnido3j5",
+        "Andrew Nelson",
+        {
+          "DIGS": 3,
+          "TA": 39
+        }
+      ],
+      [
+        "canadawest.org:player/lvs3ulcsjyl933yr",
+        "Troy Wiebe",
+        {
+          "DIGS": 1,
+          "TA": 1
+        }
+      ],
+      [
+        "canadawest.org:player/iqw1rlar6ra5r3h5",
+        "Colin Fraser",
+        {
+          "DIGS": 6,
+          "TA": 21
+        }
+      ],
+      [
+        "canadawest.org:player/1tnw9yb2sgbvklsc",
+        "Daulton Sinoski",
+        {
+          "DIGS": 0,
+          "TA": 3
+        }
+      ],
+      [
+        "canadawest.org:player/mequfkl9k1mxxxiz",
+        "Connor Murray",
+        {
+          "DIGS": 1,
+          "TA": 7
+        }
+      ],
+      [
+        "canadawest.org:player/l6oqe5j0nq4pqepz",
+        "Derek Epp",
+        {
+          "DIGS": 6,
+          "TA": 4
+        }
+      ],
+      [
+        "canadawest.org:player/72onerwymd57qdxj",
+        "Kale Little",
+        {
+          "DIGS": 0,
+          "TA": 5
+        }
+      ],
+      [
+        "canadawest.org:player/08xauccrib63l291",
+        "Etienne Hagenbuch",
+        {
+          "DIGS": 9,
+          "TA": 0
+        }
+      ],
+      [
+        "canadawest.org:player/6cpcu3j9rmvz50hk",
+        "Tyler Epp",
+        {
+          "DIGS": 0,
+          "TA": 16
+        }
+      ]
+    ],
+    "Calgary": [
+      [
+        "canadawest.org:player/fj6drllww1euproi",
+        "Blain Cranston",
+        {
+          "DIGS": 9,
+          "TA": 0
+        }
+      ],
+      [
+        "canadawest.org:player/ibatmbqkxeh0m58l",
+        "Parker Maris",
+        {
+          "DIGS": 1,
+          "TA": 0
+        }
+      ],
+      [
+        "canadawest.org:player/vxsay1qd4v8a0jlh",
+        "Derek Meeuwisse",
+        {
+          "DIGS": 10,
+          "TA": 0
+        }
+      ],
+      [
+        "canadawest.org:player/oqqwfl5pmszrgnku",
+        "Curtis Stockton",
+        {
+          "DIGS": 6,
+          "TA": 39
+        }
+      ],
+      [
+        "canadawest.org:player/hwi1r0z26o3rnpl5",
+        "Tim Taylor",
+        {
+          "DIGS": 5,
+          "TA": 18
+        }
+      ],
+      [
+        "canadawest.org:player/plrlluqsd1ppphpa",
+        "Parker Siroishka",
+        {
+          "DIGS": 1,
+          "TA": 0
+        }
+      ],
+      [
+        "canadawest.org:player/lmj2reyccuac39wi",
+        "Alex Bader",
+        {
+          "DIGS": 6,
+          "TA": 21
+        }
+      ],
+      [
+        "canadawest.org:player/ffatky1nzdjt47ea",
+        "Brett Bolin",
+        {
+          "DIGS": 0,
+          "TA": 9
+        }
+      ],
+      [
+        "canadawest.org:player/fjcl3nxnbfagaow7",
+        "Liam Laidlaw",
+        {
+          "DIGS": 2,
+          "TA": 13
+        }
+      ],
+      [
+        "canadawest.org:player/v7yx1mqu1vh7i7qs",
+        "Alex Cook",
+        {
+          "DIGS": 0,
+          "TA": 0
+        }
+      ]
+    ]
+  },
+  "id": "canadawest.org:game/20170211_nzy1"
+}

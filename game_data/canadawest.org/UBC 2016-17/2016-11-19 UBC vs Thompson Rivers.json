@@ -1,0 +1,2261 @@
+{
+  "id": "canadawest.org:game/20161119_7lhr",
+  "source": "canadawest.org",
+  "sets": {
+    "1": {
+      "events": [
+        {
+          "point": "UBC",
+          "server": "Joel Regehr",
+          "event": [
+            "ATTACK_ERROR",
+            "Randy Grundmann",
+            [
+              "Jordan Deshane",
+              "Byron Keturakis"
+            ]
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Joel Regehr",
+          "event": [
+            "ATTACK_ERROR",
+            "Tyler Pomietlarz",
+            [
+              "Jordan Deshane"
+            ]
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Joel Regehr",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "KILL",
+            "Jordan Deshane",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Byron Keturakis",
+          "event": [
+            "ATTACK_ERROR",
+            "Cam Fennema",
+            [
+              "Sam Taylor Parks",
+              "Tyler Pomietlarz"
+            ]
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Cole Keddie"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "ATTACK_ERROR",
+            "Jordan Deshane",
+            [
+              "Sam Taylor Parks"
+            ]
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Cole Keddie"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "ATTACK_ERROR",
+            "Cam Fennema",
+            [
+              "Sam Taylor Parks",
+              "Randy Grundmann"
+            ]
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "ATTACK_ERROR",
+            "Randy Grundmann"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Cam Fennema",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Randy Grundmann",
+          "event": [
+            "KILL",
+            "Irvan Brar",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Jordan Deshane",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "KILL",
+            "Irvan Brar",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Mat Guidi",
+          "event": [
+            "KILL",
+            "Daniel Eikland Rod",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Tim Edge",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Irvan Brar",
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Edge"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Irvan Brar",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "ATTACK_ERROR",
+            "Mat Guidi"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "KILL",
+            "Mat Guidi",
+            "Cam Fennema"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Joel Regehr",
+          "event": [
+            "KILL",
+            "Daniel Eikland Rod",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "KILL",
+            "Daniel Eikland Rod",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "ATTACK_ERROR",
+            "Mat Guidi"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "KILL",
+            "Byron Keturakis",
+            "Tyson Smith"
+          ]
+        },
+        [
+          "SUB",
+          "UBC subs: Matt Santema."
+        ],
+        {
+          "point": "TRU",
+          "server": "Byron Keturakis",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "KILL",
+            "Mat Guidi",
+            "Byron Keturakis"
+          ]
+        },
+        [
+          "SUB",
+          "UBC subs: Cam Fennema."
+        ],
+        {
+          "point": "TRU",
+          "server": "Cam Fennema",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Randy Grundmann",
+          "event": [
+            "KILL",
+            "Mat Guidi",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Jordan Deshane",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "KILL",
+            "Joel Regehr",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Mat Guidi",
+          "event": [
+            "ATTACK_ERROR",
+            "Daniel Eikland Rod",
+            [
+              "Byron Keturakis",
+              "Joel Regehr"
+            ]
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Mat Guidi",
+          "event": [
+            "KILL",
+            "Daniel Eikland Rod",
+            "Tyler Pomietlarz"
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Isaac Smit."
+        ],
+        {
+          "point": "UBC",
+          "server": "Isaac Smit",
+          "event": [
+            "KILL",
+            "Irvan Brar",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Irvan Brar",
+          "event": [
+            "ATTACK_ERROR",
+            "Randy Grundmann",
+            [
+              "Cam Fennema",
+              "Joel Regehr"
+            ]
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "point": "TRU",
+          "server": "Irvan Brar",
+          "event": [
+            "ATTACK_ERROR",
+            "Cam Fennema"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "KILL",
+            "Byron Keturakis",
+            "Tyson Smith"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Joel Regehr",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "KILL",
+            "Mat Guidi",
+            "Byron Keturakis",
+            "Randy Grundmann"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Byron Keturakis",
+          "event": [
+            "KILL",
+            "Mat Guidi",
+            "Tyson Smith"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "point": "UBC",
+          "server": "Byron Keturakis",
+          "event": [
+            "ATTACK_ERROR",
+            "Randy Grundmann"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Byron Keturakis",
+          "event": [
+            "KILL",
+            "Mat Guidi",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Byron Keturakis",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Tim Edge."
+        ],
+        {
+          "point": "UBC",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "KILL",
+            "Cam Fennema",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Cam Fennema",
+          "event": [
+            "KILL",
+            "Jordan Deshane",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Cam Fennema",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Jakob Hamilton."
+        ],
+        {
+          "point": "TRU",
+          "server": "Jakob Hamilton",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Tyler Pomietlarz"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout UBC."
+        ],
+        {
+          "point": "UBC",
+          "server": "Jakob Hamilton",
+          "event": [
+            "KILL",
+            "Irvan Brar",
+            "Byron Keturakis"
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Randy Grundmann."
+        ],
+        {
+          "point": "TRU",
+          "server": "Jordan Deshane",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "KILL",
+            "Irvan Brar",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Mat Guidi",
+          "event": [
+            "KILL",
+            "Daniel Eikland Rod",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Tim Edge",
+          "event": [
+            "KILL",
+            "Irvan Brar",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Irvan Brar",
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Edge"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Irvan Brar",
+          "event": [
+            "KILL",
+            "Daniel Eikland Rod",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "KILL",
+            "Irvan Brar",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Joel Regehr",
+          "event": [
+            "KILL",
+            "Jordan Deshane",
+            "Byron Keturakis"
+          ]
+        }
+      ],
+      "starters": {
+        "UBC": [
+          "Joel Regehr",
+          "Byron Keturakis",
+          "Cam Fennema",
+          "Jordan Deshane",
+          "Mat Guidi",
+          "Irvan Brar",
+          "Tyson Smith"
+        ],
+        "TRU": [
+          "Daniel Eikland Rod",
+          "Douglas Groenendijk",
+          "Tyler Pomietlarz",
+          "Randy Grundmann",
+          "Sam Taylor Parks",
+          "Tim Edge",
+          "Cole Keddie"
+        ]
+      }
+    },
+    "2": {
+      "events": [
+        {
+          "point": "TRU",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvan Brar"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Joel Regehr",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "SERVICE_ACE",
+            "Cam Fennema"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "KILL",
+            "Jordan Deshane",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Byron Keturakis",
+          "event": [
+            "ATTACK_ERROR",
+            "Randy Grundmann",
+            [
+              "Mat Guidi"
+            ]
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Byron Keturakis",
+          "event": [
+            "KILL",
+            "Cam Fennema",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Byron Keturakis",
+          "event": [
+            "KILL",
+            "Irvan Brar",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Byron Keturakis",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Cam Fennema",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Randy Grundmann",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Jordan Deshane",
+          "event": [
+            "KILL",
+            "Mat Guidi",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Jordan Deshane",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "KILL",
+            "Joel Regehr",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Mat Guidi",
+          "event": [
+            "KILL",
+            "Daniel Eikland Rod",
+            "Cole Keddie"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Tim Edge",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Irvan Brar",
+          "event": [
+            "KILL",
+            "Cam Fennema",
+            "Irvan Brar"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "point": "TRU",
+          "server": "Irvan Brar",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "KILL",
+            "Irvan Brar",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Joel Regehr",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "KILL",
+            "Cam Fennema",
+            "Mat Guidi"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Byron Keturakis",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "KILL",
+            "Daniel Eikland Rod",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "KILL",
+            "Jordan Deshane",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Cam Fennema",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Randy Grundmann",
+          "event": [
+            "ATTACK_ERROR",
+            "Jordan Deshane"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Randy Grundmann",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvan Brar",
+            [
+              "Tim Edge",
+              "Sam Taylor Parks"
+            ]
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Randy Grundmann",
+          "event": [
+            "KILL",
+            "Mat Guidi",
+            "Byron Keturakis"
+          ]
+        },
+        [
+          "SUB",
+          "UBC subs: Kashtin De Souza."
+        ],
+        {
+          "point": "UBC",
+          "server": "Kashtin De Souza",
+          "event": [
+            "KILL",
+            "Mat Guidi",
+            "Kashtin De Souza"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Kashtin De Souza",
+          "event": [
+            "BHE",
+            "Irvan Brar"
+          ]
+        },
+        [
+          "SUB",
+          "UBC subs: Jordan Deshane."
+        ],
+        {
+          "point": "UBC",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Edge",
+            [
+              "Irvan Brar",
+              "Joel Regehr"
+            ]
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Mat Guidi",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Isaac Smit."
+        ],
+        {
+          "point": "UBC",
+          "server": "Isaac Smit",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Irvan Brar",
+          "event": [
+            "ATTACK_ERROR",
+            "Daniel Eikland Rod"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Irvan Brar",
+          "event": [
+            "KILL",
+            "Daniel Eikland Rod",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "ATTACK_ERROR",
+            "Mat Guidi",
+            [
+              "Douglas Groenendijk",
+              "Randy Grundmann"
+            ]
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "KILL",
+            "Daniel Eikland Rod",
+            "Tyler Pomietlarz"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout UBC."
+        ],
+        {
+          "point": "TRU",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "ATTACK_ERROR",
+            "Cam Fennema",
+            [
+              "Tyler Pomietlarz",
+              "Douglas Groenendijk"
+            ]
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "KILL",
+            "Cam Fennema",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Joel Regehr",
+          "event": [
+            "KILL",
+            "Douglas Groenendijk",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "KILL",
+            "Byron Keturakis",
+            "Cam Fennema"
+          ]
+        },
+        [
+          "SUB",
+          "UBC subs: Matt Santema."
+        ],
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "point": "UBC",
+          "server": "Byron Keturakis",
+          "event": [
+            "BHE",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Byron Keturakis",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Tyler Pomietlarz"
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Tim Edge."
+        ],
+        {
+          "point": "TRU",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "ATTACK_ERROR",
+            "Jordan Deshane"
+          ]
+        }
+      ],
+      "starters": {
+        "UBC": [
+          "Jordan Deshane",
+          "Mat Guidi",
+          "Irvan Brar",
+          "Byron Keturakis",
+          "Cam Fennema",
+          "Joel Regehr",
+          "Tyson Smith"
+        ],
+        "TRU": [
+          "Douglas Groenendijk",
+          "Daniel Eikland Rod",
+          "Sam Taylor Parks",
+          "Tim Edge",
+          "Randy Grundmann",
+          "Tyler Pomietlarz",
+          "Cole Keddie"
+        ]
+      }
+    },
+    "3": {
+      "events": [
+        {
+          "point": "TRU",
+          "server": "Byron Keturakis",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "ATTACK_ERROR",
+            "Mat Guidi"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "KILL",
+            "Cam Fennema",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Cam Fennema",
+          "event": [
+            "ATTACK_ERROR",
+            "Tyler Pomietlarz",
+            [
+              "Jordan Deshane",
+              "Mat Guidi"
+            ]
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Cam Fennema",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "KILL",
+            "Mat Guidi",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Jordan Deshane",
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Edge"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Jordan Deshane",
+          "event": [
+            "KILL",
+            "Daniel Eikland Rod",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Randy Grundmann",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Mat Guidi",
+          "event": [
+            "SERVICE_ACE",
+            "Randy Grundmann"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Mat Guidi",
+          "event": [
+            "KILL",
+            "Byron Keturakis",
+            "Tyson Smith"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Mat Guidi",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Irvan Brar",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Tim Edge",
+          "event": [
+            "KILL",
+            "Mat Guidi",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Joel Regehr",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "KILL",
+            "Jordan Deshane",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Byron Keturakis",
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Edge"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Byron Keturakis",
+          "event": [
+            "ATTACK_ERROR",
+            "Cam Fennema"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "ATTACK_ERROR",
+            "Jordan Deshane",
+            [
+              "Sam Taylor Parks"
+            ]
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout UBC."
+        ],
+        {
+          "point": "TRU",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "ATTACK_ERROR",
+            "Cam Fennema"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "BHE",
+            "Byron Keturakis"
+          ]
+        },
+        [
+          "SUB",
+          "UBC subs: Kashtin De Souza."
+        ],
+        {
+          "point": "TRU",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvan Brar",
+            [
+              "Sam Taylor Parks"
+            ]
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "ATTACK_ERROR",
+            "Jordan Deshane"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout UBC."
+        ],
+        {
+          "point": "UBC",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "KILL",
+            "Jordan Deshane",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Kashtin De Souza",
+          "event": [
+            "KILL",
+            "Daniel Eikland Rod",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvan Brar"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "ATTACK_ERROR",
+            "Mat Guidi"
+          ]
+        },
+        [
+          "SUB",
+          "UBC subs: Matt Santema."
+        ],
+        {
+          "point": "UBC",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "KILL",
+            "Irvan Brar",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Jordan Deshane",
+          "event": [
+            "KILL",
+            "Sam Taylor Parks",
+            "Tyler Pomietlarz"
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Isaac Smit."
+        ],
+        {
+          "point": "TRU",
+          "server": "Isaac Smit",
+          "event": [
+            "ATTACK_ERROR",
+            "Joel Regehr"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Isaac Smit",
+          "event": [
+            "KILL",
+            "Daniel Eikland Rod",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Isaac Smit",
+          "event": [
+            "KILL",
+            "Joel Regehr",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Matt Santema",
+          "event": [
+            "SERVICE_ACE",
+            "Isaac Smit"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Matt Santema",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Edge"
+          ]
+        },
+        [
+          "SUB",
+          "UBC subs: Cam Fennema."
+        ],
+        {
+          "point": "UBC",
+          "server": "Irvan Brar",
+          "event": [
+            "KILL",
+            "Cam Fennema",
+            "Byron Keturakis"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "point": "UBC",
+          "server": "Irvan Brar",
+          "event": [
+            "SERVICE_ACE",
+            "Cole Keddie"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Irvan Brar",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Jakob Hamilton."
+        ],
+        {
+          "point": "UBC",
+          "server": "Jakob Hamilton",
+          "event": [
+            "KILL",
+            "Cam Fennema",
+            "Byron Keturakis"
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Tim Edge."
+        ],
+        {
+          "point": "TRU",
+          "server": "Joel Regehr",
+          "event": [
+            "KILL",
+            "Tyler Pomietlarz",
+            "Daniel Eikland Rod"
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Randy Grundmann."
+        ],
+        {
+          "point": "UBC",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "KILL",
+            "Matt Santema",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Byron Keturakis",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Tyler Pomietlarz"
+          ]
+        }
+      ],
+      "starters": {
+        "UBC": [
+          "Byron Keturakis",
+          "Cam Fennema",
+          "Jordan Deshane",
+          "Mat Guidi",
+          "Irvan Brar",
+          "Joel Regehr",
+          "Tyson Smith"
+        ],
+        "TRU": [
+          "Daniel Eikland Rod",
+          "Douglas Groenendijk",
+          "Tyler Pomietlarz",
+          "Randy Grundmann",
+          "Sam Taylor Parks",
+          "Tim Edge",
+          "Cole Keddie"
+        ]
+      }
+    },
+    "4": {
+      "events": [
+        {
+          "point": "UBC",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Byron Keturakis",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvan Brar"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "KILL",
+            "Irvan Brar",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Irvan Brar",
+          "event": [
+            "ATTACK_ERROR",
+            "Cam Fennema"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "KILL",
+            "Cam Fennema",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Jordan Deshane",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Randy Grundmann",
+          "event": [
+            "KILL",
+            "Daniel Eikland Rod",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Randy Grundmann",
+          "event": [
+            "ATTACK_ERROR",
+            "Mat Guidi"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Randy Grundmann",
+          "event": [
+            "KILL",
+            "Daniel Eikland Rod",
+            "Tim Edge"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout UBC."
+        ],
+        {
+          "point": "UBC",
+          "server": "Randy Grundmann",
+          "event": [
+            "KILL",
+            "Joel Regehr",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Mat Guidi",
+          "event": [
+            "BHE",
+            "Joel Regehr"
+          ]
+        },
+        [
+          "YELLOW_CARD",
+          "???",
+          "Yellow card to TRU #17"
+        ],
+        {
+          "point": "UBC",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "KILL",
+            "Irvan Brar",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Cam Fennema",
+          "event": [
+            "ATTACK_ERROR",
+            "Daniel Eikland Rod"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Cam Fennema",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Tim Edge",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Joel Regehr",
+          "event": [
+            "ATTACK_ERROR",
+            "Daniel Eikland Rod",
+            [
+              "Byron Keturakis",
+              "Jordan Deshane"
+            ]
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Joel Regehr",
+          "event": [
+            "KILL",
+            "Irvan Brar",
+            "Byron Keturakis"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "point": "UBC",
+          "server": "Joel Regehr",
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Edge"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Joel Regehr",
+          "event": [
+            "KILL",
+            "Cam Fennema",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Joel Regehr",
+          "event": [
+            "ATTACK_ERROR",
+            "Daniel Eikland Rod",
+            [
+              "Byron Keturakis"
+            ]
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Charlie Bringloe; Jakob Hamilton."
+        ],
+        {
+          "point": "UBC",
+          "server": "Joel Regehr",
+          "event": [
+            "KILL",
+            "Irvan Brar",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Joel Regehr",
+          "event": [
+            "ATTACK_ERROR",
+            "Douglas Groenendijk"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "point": "UBC",
+          "server": "Joel Regehr",
+          "event": [
+            "KILL",
+            "Cam Fennema",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Joel Regehr",
+          "event": [
+            "SERVICE_ACE",
+            "Cole Keddie"
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Tim Edge; Tyler Pomietlarz."
+        ],
+        {
+          "point": "TRU",
+          "server": "Joel Regehr",
+          "event": [
+            "KILL",
+            "Daniel Eikland Rod",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "KILL",
+            "Irvan Brar",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Byron Keturakis",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "KILL",
+            "Jordan Deshane",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Irvan Brar",
+          "event": [
+            "BHE",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Irvan Brar",
+          "event": [
+            "ATTACK_ERROR",
+            "Randy Grundmann"
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Anton Napolitano."
+        ],
+        {
+          "point": "TRU",
+          "server": "Irvan Brar",
+          "event": [
+            "KILL",
+            "Anton Napolitano",
+            "Tim Edge"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "BAD_SET",
+            "Tyler Pomietlarz"
+          ]
+        },
+        [
+          "SUB",
+          "UBC subs: Kashtin De Souza."
+        ],
+        {
+          "point": "UBC",
+          "server": "Kashtin De Souza",
+          "event": [
+            "ATTACK_ERROR",
+            "Sam Taylor Parks",
+            [
+              "Joel Regehr"
+            ]
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Kashtin De Souza",
+          "event": [
+            "KILL",
+            "Daniel Eikland Rod",
+            "Tyler Pomietlarz"
+          ]
+        },
+        [
+          "SUB",
+          "UBC subs: Jordan Deshane."
+        ],
+        {
+          "point": "TRU",
+          "server": "Anton Napolitano",
+          "event": [
+            "KILL",
+            "Daniel Eikland Rod",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Anton Napolitano",
+          "event": [
+            "KILL",
+            "Tim Edge"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Anton Napolitano",
+          "event": [
+            "ATTACK_ERROR",
+            "Cam Fennema"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Anton Napolitano",
+          "event": [
+            "ATTACK_ERROR",
+            "Mat Guidi",
+            [
+              "Daniel Eikland Rod",
+              "Sam Taylor Parks"
+            ]
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Anton Napolitano",
+          "event": [
+            "KILL",
+            "Joel Regehr",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Mat Guidi",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Cam Fennema",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Tim Edge",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        }
+      ],
+      "starters": {
+        "UBC": [
+          "Mat Guidi",
+          "Jordan Deshane",
+          "Cam Fennema",
+          "Byron Keturakis",
+          "Joel Regehr",
+          "Irvan Brar",
+          "Tyson Smith"
+        ],
+        "TRU": [
+          "Randy Grundmann",
+          "Tim Edge",
+          "Sam Taylor Parks",
+          "Douglas Groenendijk",
+          "Daniel Eikland Rod",
+          "Tyler Pomietlarz",
+          "Cole Keddie"
+        ]
+      }
+    },
+    "5": {
+      "events": [
+        {
+          "point": "UBC",
+          "server": "Joel Regehr",
+          "event": [
+            "ATTACK_ERROR",
+            "Randy Grundmann",
+            [
+              "Byron Keturakis",
+              "Jordan Deshane"
+            ]
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Joel Regehr",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "KILL",
+            "Jordan Deshane",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Byron Keturakis",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "KILL",
+            "Irvan Brar",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Irvan Brar",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Randy Grundmann",
+          "event": [
+            "KILL",
+            "Cam Fennema",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Jordan Deshane",
+          "event": [
+            "KILL",
+            "Byron Keturakis",
+            "Cam Fennema",
+            "Sam Taylor Parks"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Jordan Deshane",
+          "event": [
+            "ATTACK_ERROR",
+            "Daniel Eikland Rod",
+            [
+              "Joel Regehr",
+              "Mat Guidi"
+            ]
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Jordan Deshane",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "KILL",
+            "Cam Fennema",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Mat Guidi",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Isaac Smit."
+        ],
+        {
+          "point": "UBC",
+          "server": "Isaac Smit",
+          "event": [
+            "KILL",
+            "Cam Fennema",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Cam Fennema",
+          "event": [
+            "KILL",
+            "Daniel Eikland Rod",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Joel Regehr",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvan Brar"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "ATTACK_ERROR",
+            "Randy Grundmann"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "point": "TRU",
+          "server": "Byron Keturakis",
+          "event": [
+            "ATTACK_ERROR",
+            "Mat Guidi"
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Tim Edge."
+        ],
+        {
+          "point": "UBC",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Edge"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Irvan Brar",
+          "event": [
+            "ATTACK_ERROR",
+            "Cam Fennema"
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Jakob Hamilton."
+        ],
+        {
+          "point": "UBC",
+          "server": "Jakob Hamilton",
+          "event": [
+            "KILL",
+            "Cam Fennema",
+            "Byron Keturakis"
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Randy Grundmann."
+        ],
+        {
+          "point": "TRU",
+          "server": "Jordan Deshane",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "KILL",
+            "Joel Regehr",
+            "Byron Keturakis"
+          ]
+        },
+        [
+          "SUB",
+          "UBC subs: Kashtin De Souza."
+        ],
+        {
+          "point": "TRU",
+          "server": "Kashtin De Souza",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Tyler Pomietlarz"
+          ]
+        },
+        [
+          "SUB",
+          "UBC subs: Mat Guidi."
+        ],
+        {
+          "point": "UBC",
+          "server": "Tim Edge",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "point": "TRU",
+          "server": "Cam Fennema",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvan Brar"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "ATTACK_ERROR",
+            "Irvan Brar"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout UBC."
+        ],
+        {
+          "point": "UBC",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "ATTACK_ERROR",
+            "Randy Grundmann"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Joel Regehr",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "KILL",
+            "Irvan Brar",
+            "Byron Keturakis"
+          ]
+        },
+        {
+          "point": "UBC",
+          "server": "Byron Keturakis",
+          "event": [
+            "KILL",
+            "Mat Guidi"
+          ]
+        }
+      ],
+      "starters": {
+        "UBC": [
+          "Joel Regehr",
+          "Byron Keturakis",
+          "Irvan Brar",
+          "Jordan Deshane",
+          "Mat Guidi",
+          "Cam Fennema",
+          "Tyson Smith"
+        ],
+        "TRU": [
+          "Daniel Eikland Rod",
+          "Douglas Groenendijk",
+          "Tyler Pomietlarz",
+          "Randy Grundmann",
+          "Sam Taylor Parks",
+          "Tim Edge",
+          "Cole Keddie"
+        ]
+      }
+    }
+  },
+  "teams": [
+    [
+      "canadawest.org:team/8ym66afwr3tnrhwn",
+      "UBC"
+    ],
+    [
+      "canadawest.org:team/w41s4fuy1ldg73vw",
+      "Thompson Rivers"
+    ]
+  ],
+  "date": "2016-11-19"
+}

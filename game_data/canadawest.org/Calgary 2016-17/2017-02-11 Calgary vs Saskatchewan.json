@@ -1,0 +1,1512 @@
+{
+  "date": "2017-02-11",
+  "source": "canadawest.org",
+  "id": "canadawest.org:game/20170211_nzy1",
+  "sets": {
+    "1": {
+      "starters": {
+        "CGY": [
+          "Blain Cranston",
+          "Curtis Stockton",
+          "Tim Taylor",
+          "Brett Bolin",
+          "Alex Bader",
+          "Liam Laidlaw",
+          "Derek Meeuwisse"
+        ],
+        "SASK": [
+          "Zak Rempel",
+          "Andrew Nelson",
+          "Troy Wiebe",
+          "Colin Fraser",
+          "Daulton Sinoski",
+          "Tyler Epp",
+          "Etienne Hagenbuch"
+        ]
+      },
+      "events": [
+        {
+          "event": [
+            "KILL",
+            "Tyler Epp",
+            "Troy Wiebe"
+          ],
+          "point": "SASK",
+          "server": "Blain Cranston"
+        },
+        {
+          "event": [
+            "KILL",
+            "Liam Laidlaw",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Andrew Nelson"
+        },
+        {
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Etienne Hagenbuch"
+          ],
+          "point": "SASK",
+          "server": "Tim Taylor"
+        },
+        {
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Troy Wiebe"
+          ],
+          "point": "SASK",
+          "server": "Zak Rempel"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Alex Bader"
+          ],
+          "point": "SASK",
+          "server": "Zak Rempel"
+        },
+        {
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Zak Rempel"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "SASK",
+          "server": "Liam Laidlaw"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Alex Bader"
+          ],
+          "point": "SASK",
+          "server": "Tyler Epp"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "CGY",
+          "server": "Tyler Epp"
+        },
+        {
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Curtis Stockton"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "SASK",
+          "server": "Curtis Stockton"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Tim Taylor"
+          ],
+          "point": "SASK",
+          "server": "Troy Wiebe"
+        },
+        {
+          "event": [
+            "KILL",
+            "Alex Bader",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Troy Wiebe"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Daulton Sinoski"
+          ],
+          "point": "CGY",
+          "server": "Alex Bader"
+        },
+        {
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Troy Wiebe"
+          ],
+          "point": "SASK",
+          "server": "Alex Bader"
+        },
+        {
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Troy Wiebe"
+          ],
+          "point": "SASK",
+          "server": "Colin Fraser"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Calgary."
+        ],
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Taylor"
+          ],
+          "point": "SASK",
+          "server": "Colin Fraser"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "CGY",
+          "server": "Colin Fraser"
+        },
+        {
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Troy Wiebe"
+          ],
+          "point": "SASK",
+          "server": "Brett Bolin"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Curtis Stockton"
+          ],
+          "point": "SASK",
+          "server": "Daulton Sinoski"
+        },
+        {
+          "event": [
+            "KILL",
+            "Alex Bader",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Daulton Sinoski"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "SASK",
+          "server": "Blain Cranston"
+        },
+        {
+          "event": [
+            "KILL",
+            "Tim Taylor",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Andrew Nelson"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "SASK",
+          "server": "Tim Taylor"
+        },
+        {
+          "event": [
+            "KILL",
+            "Alex Bader",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Zak Rempel"
+        },
+        {
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Liam Laidlaw"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ],
+          "point": "CGY",
+          "server": "Liam Laidlaw"
+        },
+        [
+          "SUB",
+          "SASK subs: Connor Murray."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Troy Wiebe"
+          ],
+          "point": "SASK",
+          "server": "Liam Laidlaw"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "CGY",
+          "server": "Tyler Epp"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Colin Fraser"
+          ],
+          "point": "CGY",
+          "server": "Curtis Stockton"
+        },
+        {
+          "event": [
+            "KILL",
+            "Alex Bader",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Curtis Stockton"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Saskatchewan."
+        ],
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Daulton Sinoski"
+          ],
+          "point": "CGY",
+          "server": "Curtis Stockton"
+        },
+        [
+          "SUB",
+          "SASK subs: Kale Little."
+        ],
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Curtis Stockton"
+          ],
+          "point": "SASK",
+          "server": "Curtis Stockton"
+        },
+        {
+          "event": [
+            "KILL",
+            "Brett Bolin",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Troy Wiebe"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Andrew Nelson"
+          ],
+          "point": "CGY",
+          "server": "Alex Bader"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Andrew Nelson",
+            [
+              "Brett Bolin",
+              "Blain Cranston"
+            ]
+          ],
+          "point": "CGY",
+          "server": "Alex Bader"
+        },
+        [
+          "SUB",
+          "SASK subs: Derek Epp."
+        ],
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "SASK",
+          "server": "Alex Bader"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Curtis Stockton",
+            [
+              "Kale Little",
+              "Connor Murray"
+            ]
+          ],
+          "point": "SASK",
+          "server": "Colin Fraser"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "CGY",
+          "server": "Colin Fraser"
+        },
+        [
+          "SUB",
+          "CGY subs: Parker Maris."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Etienne Hagenbuch"
+          ],
+          "point": "SASK",
+          "server": "Parker Maris"
+        },
+        [
+          "SUB",
+          "CGY subs: Brett Bolin."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Liam Laidlaw",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Kale Little"
+        },
+        {
+          "event": [
+            "KILL",
+            "Tyler Epp",
+            "Derek Epp"
+          ],
+          "point": "SASK",
+          "server": "Blain Cranston"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Connor Murray",
+            [
+              "Liam Laidlaw",
+              "Tim Taylor"
+            ]
+          ],
+          "point": "CGY",
+          "server": "Andrew Nelson"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Curtis Stockton",
+            [
+              "Tyler Epp",
+              "Connor Murray"
+            ]
+          ],
+          "point": "SASK",
+          "server": "Tim Taylor"
+        },
+        {
+          "event": [
+            "KILL",
+            "Liam Laidlaw",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Connor Murray"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "SASK",
+          "server": "Liam Laidlaw"
+        },
+        {
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Derek Meeuwisse"
+          ],
+          "point": "CGY",
+          "server": "Tyler Epp"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Saskatchewan."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Colin Fraser",
+            "Etienne Hagenbuch"
+          ],
+          "point": "SASK",
+          "server": "Curtis Stockton"
+        },
+        {
+          "event": [
+            "KILL",
+            "Alex Bader",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Derek Epp"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "SASK",
+          "server": "Alex Bader"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Taylor"
+          ],
+          "point": "SASK",
+          "server": "Colin Fraser"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Calgary."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Colin Fraser"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "SASK",
+          "server": "Brett Bolin"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Andrew Nelson",
+            [
+              "Liam Laidlaw",
+              "Tim Taylor"
+            ]
+          ],
+          "point": "CGY",
+          "server": "Kale Little"
+        },
+        {
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Derek Epp"
+          ],
+          "point": "SASK",
+          "server": "Blain Cranston"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Curtis Stockton",
+            [
+              "Derek Epp",
+              "Tyler Epp"
+            ]
+          ],
+          "point": "SASK",
+          "server": "Andrew Nelson"
+        }
+      ]
+    },
+    "2": {
+      "starters": {
+        "CGY": [
+          "Alex Bader",
+          "Liam Laidlaw",
+          "Tim Taylor",
+          "Curtis Stockton",
+          "Blain Cranston",
+          "Brett Bolin",
+          "Derek Meeuwisse"
+        ],
+        "SASK": [
+          "Colin Fraser",
+          "Connor Murray",
+          "Andrew Nelson",
+          "Derek Epp",
+          "Kale Little",
+          "Tyler Epp",
+          "Etienne Hagenbuch"
+        ]
+      },
+      "events": [
+        {
+          "event": [
+            "KILL",
+            "Colin Fraser",
+            "Derek Epp"
+          ],
+          "point": "SASK",
+          "server": "Andrew Nelson"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Tim Taylor"
+          ],
+          "point": "SASK",
+          "server": "Andrew Nelson"
+        },
+        {
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Derek Epp"
+          ],
+          "point": "SASK",
+          "server": "Andrew Nelson"
+        },
+        {
+          "event": [
+            "BAD_SET",
+            "Blain Cranston"
+          ],
+          "point": "SASK",
+          "server": "Andrew Nelson"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ],
+          "point": "SASK",
+          "server": "Andrew Nelson"
+        },
+        {
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Andrew Nelson"
+        },
+        {
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Liam Laidlaw"
+          ],
+          "point": "CGY",
+          "server": "Liam Laidlaw"
+        },
+        {
+          "event": [
+            "KILL",
+            "Connor Murray",
+            "Derek Epp"
+          ],
+          "point": "SASK",
+          "server": "Liam Laidlaw"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Colin Fraser",
+            [
+              "Curtis Stockton"
+            ]
+          ],
+          "point": "CGY",
+          "server": "Connor Murray"
+        },
+        {
+          "event": [
+            "KILL",
+            "Tyler Epp",
+            "Derek Epp"
+          ],
+          "point": "SASK",
+          "server": "Curtis Stockton"
+        },
+        {
+          "event": [
+            "KILL",
+            "Brett Bolin",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Tyler Epp"
+        },
+        {
+          "event": [
+            "KILL",
+            "Brett Bolin",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Alex Bader"
+        },
+        {
+          "event": [
+            "KILL",
+            "Kale Little",
+            "Derek Epp"
+          ],
+          "point": "SASK",
+          "server": "Alex Bader"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Colin Fraser"
+          ],
+          "point": "CGY",
+          "server": "Derek Epp"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Andrew Nelson"
+          ],
+          "point": "CGY",
+          "server": "Brett Bolin"
+        },
+        {
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Derek Epp"
+          ],
+          "point": "SASK",
+          "server": "Brett Bolin"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Liam Laidlaw"
+          ],
+          "point": "SASK",
+          "server": "Colin Fraser"
+        },
+        {
+          "event": [
+            "KILL",
+            "Tim Taylor",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Colin Fraser"
+        },
+        {
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Derek Meeuwisse"
+          ],
+          "point": "CGY",
+          "server": "Blain Cranston"
+        },
+        {
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Derek Epp"
+          ],
+          "point": "SASK",
+          "server": "Blain Cranston"
+        },
+        {
+          "event": [
+            "KILL",
+            "Alex Bader",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Kale Little"
+        },
+        {
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Derek Epp"
+          ],
+          "point": "SASK",
+          "server": "Tim Taylor"
+        },
+        {
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Andrew Nelson"
+        },
+        {
+          "event": [
+            "KILL",
+            "Connor Murray",
+            "Etienne Hagenbuch"
+          ],
+          "point": "SASK",
+          "server": "Liam Laidlaw"
+        },
+        {
+          "event": [
+            "KILL",
+            "Alex Bader",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Connor Murray"
+        },
+        {
+          "event": [
+            "KILL",
+            "Colin Fraser",
+            "Derek Epp"
+          ],
+          "point": "SASK",
+          "server": "Curtis Stockton"
+        },
+        {
+          "event": [
+            "KILL",
+            "Alex Bader",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Tyler Epp"
+        },
+        {
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Derek Epp"
+          ],
+          "point": "SASK",
+          "server": "Alex Bader"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "CGY",
+          "server": "Derek Epp"
+        },
+        {
+          "event": [
+            "KILL",
+            "Kale Little",
+            "Derek Epp"
+          ],
+          "point": "SASK",
+          "server": "Brett Bolin"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "CGY",
+          "server": "Colin Fraser"
+        },
+        {
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Derek Epp"
+          ],
+          "point": "SASK",
+          "server": "Blain Cranston"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "CGY",
+          "server": "Kale Little"
+        },
+        [
+          "SUB",
+          "CGY subs: Parker Siroishka."
+        ],
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "SASK",
+          "server": "Parker Siroishka"
+        },
+        {
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Alex Bader"
+          ],
+          "point": "CGY",
+          "server": "Andrew Nelson"
+        },
+        {
+          "event": [
+            "KILL",
+            "Brett Bolin",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Liam Laidlaw"
+        },
+        {
+          "event": [
+            "KILL",
+            "Derek Epp"
+          ],
+          "point": "SASK",
+          "server": "Liam Laidlaw"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Alex Bader",
+            [
+              "Derek Epp"
+            ]
+          ],
+          "point": "SASK",
+          "server": "Connor Murray"
+        },
+        {
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Derek Meeuwisse"
+          ],
+          "point": "CGY",
+          "server": "Connor Murray"
+        },
+        [
+          "SUB",
+          "CGY subs: Tim Taylor."
+        ],
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "SASK",
+          "server": "Curtis Stockton"
+        },
+        {
+          "event": [
+            "KILL",
+            "Brett Bolin",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Tyler Epp"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Colin Fraser",
+            [
+              "Brett Bolin",
+              "Blain Cranston"
+            ]
+          ],
+          "point": "CGY",
+          "server": "Alex Bader"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Saskatchewan."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Derek Epp"
+          ],
+          "point": "SASK",
+          "server": "Alex Bader"
+        },
+        {
+          "event": [
+            "KILL",
+            "Colin Fraser",
+            "Etienne Hagenbuch"
+          ],
+          "point": "SASK",
+          "server": "Derek Epp"
+        },
+        {
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Derek Epp"
+        },
+        [
+          "SUB",
+          "CGY subs: Parker Maris."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Derek Epp"
+          ],
+          "point": "SASK",
+          "server": "Parker Maris"
+        },
+        [
+          "SUB",
+          "CGY subs: Brett Bolin."
+        ],
+        [
+          "SUB",
+          "SASK subs: Zak Rempel."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Liam Laidlaw",
+            "Derek Meeuwisse"
+          ],
+          "point": "CGY",
+          "server": "Colin Fraser"
+        },
+        [
+          "SUB",
+          "SASK subs: Connor Murray."
+        ],
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "SASK",
+          "server": "Blain Cranston"
+        }
+      ]
+    },
+    "3": {
+      "starters": {
+        "CGY": [
+          "Alex Bader",
+          "Curtis Stockton",
+          "Brett Bolin",
+          "Tim Taylor",
+          "Liam Laidlaw",
+          "Blain Cranston",
+          "Derek Meeuwisse"
+        ],
+        "SASK": [
+          "Tyler Epp",
+          "Kale Little",
+          "Connor Murray",
+          "Andrew Nelson",
+          "Derek Epp",
+          "Colin Fraser",
+          "Etienne Hagenbuch"
+        ]
+      },
+      "events": [
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "SASK",
+          "server": "Liam Laidlaw"
+        },
+        {
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Andrew Nelson"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Tyler Epp",
+            [
+              "Blain Cranston",
+              "Brett Bolin"
+            ]
+          ],
+          "point": "CGY",
+          "server": "Curtis Stockton"
+        },
+        {
+          "event": [
+            "KILL",
+            "Tyler Epp",
+            "Derek Epp"
+          ],
+          "point": "SASK",
+          "server": "Curtis Stockton"
+        },
+        {
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Derek Epp"
+          ],
+          "point": "SASK",
+          "server": "Connor Murray"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "CGY",
+          "server": "Connor Murray"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "SASK",
+          "server": "Alex Bader"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Taylor",
+            [
+              "Derek Epp",
+              "Kale Little"
+            ]
+          ],
+          "point": "SASK",
+          "server": "Tyler Epp"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Brett Bolin",
+            [
+              "Kale Little"
+            ]
+          ],
+          "point": "SASK",
+          "server": "Tyler Epp"
+        },
+        {
+          "event": [
+            "KILL",
+            "Brett Bolin",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Tyler Epp"
+        },
+        {
+          "event": [
+            "BAD_SET",
+            "Derek Epp"
+          ],
+          "point": "CGY",
+          "server": "Brett Bolin"
+        },
+        {
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Derek Epp"
+          ],
+          "point": "SASK",
+          "server": "Brett Bolin"
+        },
+        {
+          "event": [
+            "KILL",
+            "Liam Laidlaw",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Derek Epp"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Colin Fraser",
+            [
+              "Liam Laidlaw",
+              "Tim Taylor"
+            ]
+          ],
+          "point": "CGY",
+          "server": "Blain Cranston"
+        },
+        {
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Blain Cranston"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Liam Laidlaw"
+          ],
+          "point": "SASK",
+          "server": "Blain Cranston"
+        },
+        {
+          "event": [
+            "KILL",
+            "Liam Laidlaw",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Colin Fraser"
+        },
+        {
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Derek Epp"
+          ],
+          "point": "SASK",
+          "server": "Tim Taylor"
+        },
+        {
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Kale Little"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "SASK",
+          "server": "Liam Laidlaw"
+        },
+        {
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Andrew Nelson"
+        },
+        [
+          "SUB",
+          "SASK subs: Troy Wiebe."
+        ],
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "SASK",
+          "server": "Curtis Stockton"
+        },
+        {
+          "event": [
+            "KILL",
+            "Tim Taylor",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Connor Murray"
+        },
+        {
+          "event": [
+            "KILL",
+            "Derek Epp",
+            "Etienne Hagenbuch"
+          ],
+          "point": "SASK",
+          "server": "Alex Bader"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Derek Meeuwisse"
+          ],
+          "point": "SASK",
+          "server": "Tyler Epp"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Curtis Stockton"
+          ],
+          "point": "SASK",
+          "server": "Tyler Epp"
+        },
+        {
+          "event": [
+            "KILL",
+            "Tim Taylor",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Tyler Epp"
+        },
+        {
+          "event": [
+            "KILL",
+            "Colin Fraser",
+            "Troy Wiebe"
+          ],
+          "point": "SASK",
+          "server": "Brett Bolin"
+        },
+        [
+          "SUB",
+          "SASK subs: Andrew Nelson."
+        ],
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Curtis Stockton",
+            [
+              "Colin Fraser",
+              "Kale Little"
+            ]
+          ],
+          "point": "SASK",
+          "server": "Derek Epp"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Colin Fraser",
+            [
+              "Liam Laidlaw",
+              "Blain Cranston"
+            ]
+          ],
+          "point": "CGY",
+          "server": "Derek Epp"
+        },
+        {
+          "event": [
+            "KILL",
+            "Tim Taylor",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Blain Cranston"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "SASK",
+          "server": "Blain Cranston"
+        },
+        {
+          "event": [
+            "KILL",
+            "Liam Laidlaw",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Colin Fraser"
+        },
+        {
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Derek Epp"
+          ],
+          "point": "SASK",
+          "server": "Tim Taylor"
+        },
+        [
+          "SUB",
+          "SASK subs: Patrick Hunchak."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Alex Bader",
+            "Blain Cranston"
+          ],
+          "point": "CGY",
+          "server": "Patrick Hunchak"
+        },
+        [
+          "SUB",
+          "SASK subs: Kale Little."
+        ],
+        [
+          "SUB",
+          "CGY subs: Alex Cook."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Curtis Stockton"
+          ],
+          "point": "CGY",
+          "server": "Alex Cook"
+        },
+        {
+          "event": [
+            "KILL",
+            "Andrew Nelson",
+            "Derek Epp"
+          ],
+          "point": "SASK",
+          "server": "Alex Cook"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Alex Bader",
+            [
+              "Derek Epp",
+              "Tyler Epp"
+            ]
+          ],
+          "point": "SASK",
+          "server": "Andrew Nelson"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "point": "CGY",
+          "server": "Andrew Nelson"
+        },
+        {
+          "event": [
+            "KILL",
+            "Derek Epp",
+            "Colin Fraser"
+          ],
+          "point": "SASK",
+          "server": "Curtis Stockton"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Tim Taylor"
+          ],
+          "point": "SASK",
+          "server": "Connor Murray"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Calgary."
+        ],
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Alex Bader",
+            [
+              "Tyler Epp",
+              "Derek Epp"
+            ]
+          ],
+          "point": "SASK",
+          "server": "Connor Murray"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Colin Fraser"
+          ],
+          "point": "CGY",
+          "server": "Connor Murray"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Curtis Stockton",
+            [
+              "Tyler Epp",
+              "Colin Fraser"
+            ]
+          ],
+          "point": "SASK",
+          "server": "Alex Bader"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Colin Fraser",
+            [
+              "Blain Cranston",
+              "Brett Bolin"
+            ]
+          ],
+          "point": "CGY",
+          "server": "Tyler Epp"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Liam Laidlaw"
+          ],
+          "point": "SASK",
+          "server": "Parker Maris"
+        },
+        [
+          "SUB",
+          "CGY subs: Parker Maris."
+        ],
+        [
+          "SUB",
+          "CGY subs: Liam Laidlaw."
+        ]
+      ]
+    }
+  },
+  "teams": [
+    [
+      "canadawest.org:team/zgpxqu3xsum5vee5",
+      "Calgary"
+    ],
+    [
+      "canadawest.org:team/vw3suzwumcai6jjw",
+      "Saskatchewan"
+    ]
+  ]
+}

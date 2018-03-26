@@ -1,0 +1,1977 @@
+{
+  "source": "canadawest.org",
+  "teams": [
+    [
+      "canadawest.org:team/w41s4fuy1ldg73vw",
+      "Thompson Rivers"
+    ],
+    [
+      "canadawest.org:team/zgpxqu3xsum5vee5",
+      "Calgary"
+    ]
+  ],
+  "sets": {
+    "1": {
+      "events": [
+        {
+          "point": "TRU",
+          "server": "Parker Siroishka",
+          "event": [
+            "KILL",
+            "Sam Taylor Parks",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Jakob Hamilton",
+          "event": [
+            "ATTACK_ERROR",
+            "Alex Bader"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Jakob Hamilton",
+          "event": [
+            "BHE",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Mitchell Higgin",
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Mitchell Higgin",
+          "event": [
+            "ATTACK_ERROR",
+            "Curtis Stockton"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "KILL",
+            "Alex Bader",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Curtis Stockton",
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Edge",
+            [
+              "Liam Laidlaw",
+              "Alex Bader"
+            ]
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Curtis Stockton",
+          "event": [
+            "KILL",
+            "Liam Laidlaw",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Curtis Stockton",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "KILL",
+            "Alex Bader",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Alex Bader",
+          "event": [
+            "ATTACK_ERROR",
+            "Parker Siroishka",
+            [
+              "Tim Edge"
+            ]
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Tim Edge",
+          "event": [
+            "SERVICE_ACE",
+            "Alex Bader"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Tim Edge",
+          "event": [
+            "SERVICE_ACE",
+            "Derek Meeuwisse"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Tim Edge",
+          "event": [
+            "SERVICE_ACE",
+            "Alex Bader"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Tim Edge",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Liam Laidlaw",
+          "event": [
+            "KILL",
+            "Mitchell Higgin"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Liam Laidlaw",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Randy Grundmann",
+          "event": [
+            "ATTACK_ERROR",
+            "Daniel Eikland Rod"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Blain Cranston",
+          "event": [
+            "KILL",
+            "Daniel Eikland Rod",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Parker Siroishka",
+          "event": [
+            "KILL",
+            "Alex Bader",
+            "Curtis Stockton"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Parker Siroishka",
+          "event": [
+            "BHE",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Jakob Hamilton",
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Mitchell Higgin",
+          "event": [
+            "KILL",
+            "Sam Taylor Parks",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Curtis Stockton",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Alex Bader",
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Edge"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Alex Bader",
+          "event": [
+            "ATTACK_ERROR",
+            "Douglas Groenendijk"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout (Media)."
+        ],
+        {
+          "point": "TRU",
+          "server": "Alex Bader",
+          "event": [
+            "KILL",
+            "Douglas Groenendijk",
+            "Jakob Hamilton"
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Joshua Mullaney; Tyler Pomietlarz."
+        ],
+        {
+          "point": "CGY",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "KILL",
+            "Alex Bader",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Liam Laidlaw",
+          "event": [
+            "ATTACK_ERROR",
+            "Randy Grundmann"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "point": "CGY",
+          "server": "Liam Laidlaw",
+          "event": [
+            "SERVICE_ACE",
+            "Daniel Eikland Rod"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Liam Laidlaw",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Joshua Mullaney"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Randy Grundmann",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Blain Cranston",
+          "event": [
+            "KILL",
+            "Joshua Mullaney",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "KILL",
+            "Parker Siroishka",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Parker Siroishka",
+          "event": [
+            "KILL",
+            "Joshua Mullaney",
+            "Tyler Pomietlarz"
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Tim Edge; Jakob Hamilton."
+        ],
+        {
+          "point": "TRU",
+          "server": "Jakob Hamilton",
+          "event": [
+            "ATTACK_ERROR",
+            "Alex Bader",
+            [
+              "Sam Taylor Parks",
+              "Tim Edge"
+            ]
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Jakob Hamilton",
+          "event": [
+            "ATTACK_ERROR",
+            "Daniel Eikland Rod",
+            [
+              "Mitchell Higgin",
+              "Curtis Stockton"
+            ]
+          ]
+        },
+        [
+          "SUB",
+          "CGY subs: Parker Maris."
+        ],
+        {
+          "point": "TRU",
+          "server": "Parker Maris",
+          "event": [
+            "ATTACK_ERROR",
+            "Parker Siroishka"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "KILL",
+            "Liam Laidlaw"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "point": "TRU",
+          "server": "Curtis Stockton",
+          "event": [
+            "KILL",
+            "Sam Taylor Parks",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "KILL",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Alex Bader",
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Edge",
+            [
+              "Liam Laidlaw",
+              "Parker Siroishka"
+            ]
+          ]
+        }
+      ],
+      "starters": {
+        "CGY": [
+          "Parker Siroishka",
+          "Mitchell Higgin",
+          "Curtis Stockton",
+          "Alex Bader",
+          "Liam Laidlaw",
+          "Blain Cranston",
+          "Derek Meeuwisse"
+        ],
+        "TRU": [
+          "Douglas Groenendijk",
+          "Jakob Hamilton",
+          "Daniel Eikland Rod",
+          "Sam Taylor Parks",
+          "Tim Edge",
+          "Randy Grundmann",
+          "Cole Keddie"
+        ]
+      }
+    },
+    "2": {
+      "events": [
+        {
+          "point": "CGY",
+          "server": "Jakob Hamilton",
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Mitchell Higgin",
+          "event": [
+            "KILL",
+            "Alex Bader",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Mitchell Higgin",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Jakob Hamilton",
+            "Liam Laidlaw"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "KILL",
+            "Liam Laidlaw",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Curtis Stockton",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Daniel Eikland Rod"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Alex Bader",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Tim Edge",
+          "event": [
+            "SERVICE_ACE",
+            "Parker Siroishka"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Tim Edge",
+          "event": [
+            "ATTACK_ERROR",
+            "Parker Siroishka",
+            [
+              "Jakob Hamilton",
+              "Douglas Groenendijk"
+            ]
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Tim Edge",
+          "event": [
+            "KILL",
+            "Alex Bader",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Liam Laidlaw",
+          "event": [
+            "ATTACK_ERROR",
+            "Randy Grundmann"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Liam Laidlaw",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Randy Grundmann",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Randy Grundmann",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Blain Cranston",
+          "event": [
+            "KILL",
+            "Douglas Groenendijk",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "ATTACK_ERROR",
+            "Mitchell Higgin",
+            [
+              "Sam Taylor Parks"
+            ]
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Parker Siroishka",
+          "event": [
+            "KILL",
+            "Mitchell Higgin"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Parker Siroishka",
+          "event": [
+            "KILL",
+            "Daniel Eikland Rod",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Jakob Hamilton",
+          "event": [
+            "KILL",
+            "Curtis Stockton"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Mitchell Higgin",
+          "event": [
+            "KILL",
+            "Tim Edge"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Sam Taylor Parks"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Calgary."
+        ],
+        {
+          "point": "CGY",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "ATTACK_ERROR",
+            "Randy Grundmann",
+            [
+              "Liam Laidlaw",
+              "Curtis Stockton"
+            ]
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Curtis Stockton",
+          "event": [
+            "KILL",
+            "Sam Taylor Parks",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Alex Bader",
+          "event": [
+            "SERVICE_ACE",
+            "Daniel Eikland Rod"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Alex Bader",
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Edge"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "point": "CGY",
+          "server": "Alex Bader",
+          "event": [
+            "KILL",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Alex Bader",
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Edge"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout (Media)."
+        ],
+        {
+          "point": "TRU",
+          "server": "Alex Bader",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Tim Edge",
+          "event": [
+            "BHE",
+            "Tim Edge"
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Joshua Mullaney; Tyler Pomietlarz."
+        ],
+        {
+          "point": "TRU",
+          "server": "Liam Laidlaw",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Randy Grundmann",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Blain Cranston",
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Blain Cranston"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "point": "TRU",
+          "server": "Blain Cranston",
+          "event": [
+            "BHE",
+            "Mitchell Higgin"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Parker Siroishka",
+          "event": [
+            "KILL",
+            "Joshua Mullaney",
+            "Randy Grundmann"
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Jakob Hamilton; Tim Edge."
+        ],
+        {
+          "point": "TRU",
+          "server": "Jakob Hamilton",
+          "event": [
+            "SERVICE_ACE",
+            "Alex Bader"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Jakob Hamilton",
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Blain Cranston"
+          ]
+        },
+        [
+          "SUB",
+          "CGY subs: Parker Maris."
+        ],
+        {
+          "point": "TRU",
+          "server": "Parker Maris",
+          "event": [
+            "KILL",
+            "Sam Taylor Parks",
+            "Jakob Hamilton"
+          ]
+        },
+        [
+          "SUB",
+          "CGY subs: Mitchell Higgin."
+        ],
+        {
+          "point": "TRU",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "ATTACK_ERROR",
+            "Curtis Stockton"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "KILL",
+            "Liam Laidlaw",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Curtis Stockton",
+          "event": [
+            "SERVICE_ACE",
+            "Daniel Eikland Rod"
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Anton Napolitano."
+        ],
+        {
+          "point": "TRU",
+          "server": "Curtis Stockton",
+          "event": [
+            "KILL",
+            "Sam Taylor Parks",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "KILL",
+            "Liam Laidlaw",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Alex Bader",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Tim Edge",
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Blain Cranston"
+          ]
+        },
+        [
+          "SUB",
+          "CGY subs: Alex Cook."
+        ],
+        {
+          "point": "TRU",
+          "server": "Alex Cook",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Jakob Hamilton"
+          ]
+        },
+        [
+          "SUB",
+          "CGY subs: Liam Laidlaw."
+        ],
+        {
+          "point": "TRU",
+          "server": "Randy Grundmann",
+          "event": [
+            "KILL",
+            "Douglas Groenendijk",
+            "Jakob Hamilton"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Calgary."
+        ],
+        {
+          "point": "CGY",
+          "server": "Randy Grundmann",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Blain Cranston",
+          "event": [
+            "KILL",
+            "Anton Napolitano",
+            "Tim Edge"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "KILL",
+            "Anton Napolitano",
+            "Jakob Hamilton"
+          ]
+        }
+      ],
+      "starters": {
+        "CGY": [
+          "Parker Siroishka",
+          "Mitchell Higgin",
+          "Curtis Stockton",
+          "Alex Bader",
+          "Liam Laidlaw",
+          "Blain Cranston",
+          "Derek Meeuwisse"
+        ],
+        "TRU": [
+          "Jakob Hamilton",
+          "Daniel Eikland Rod",
+          "Sam Taylor Parks",
+          "Tim Edge",
+          "Randy Grundmann",
+          "Douglas Groenendijk",
+          "Cole Keddie"
+        ]
+      }
+    },
+    "3": {
+      "events": [
+        {
+          "point": "CGY",
+          "server": "Parker Siroishka",
+          "event": [
+            "ATTACK_ERROR",
+            "Randy Grundmann",
+            [
+              "Curtis Stockton",
+              "Mitchell Higgin"
+            ]
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Parker Siroishka",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Edge"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Mitchell Higgin",
+          "event": [
+            "KILL",
+            "Tim Edge"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Tim Edge",
+          "event": [
+            "KILL",
+            "Alex Bader",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Curtis Stockton",
+          "event": [
+            "KILL",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Randy Grundmann",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Alex Bader",
+          "event": [
+            "KILL",
+            "Douglas Groenendijk",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "KILL",
+            "Parker Siroishka",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Liam Laidlaw",
+          "event": [
+            "KILL",
+            "Sam Taylor Parks",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Jakob Hamilton",
+          "event": [
+            "ATTACK_ERROR",
+            "Parker Siroishka",
+            [
+              "Sam Taylor Parks",
+              "Tim Edge"
+            ]
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Jakob Hamilton",
+          "event": [
+            "KILL",
+            "Parker Siroishka",
+            "Derek Meeuwisse"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Blain Cranston",
+          "event": [
+            "SERVICE_ACE",
+            "Cole Keddie"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Blain Cranston",
+          "event": [
+            "KILL",
+            "Anton Napolitano",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Anton Napolitano",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Parker Siroishka",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Edge",
+            [
+              "Alex Bader",
+              "Mitchell Higgin"
+            ]
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Mitchell Higgin",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Tim Edge",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Curtis Stockton",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Randy Grundmann",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Alex Bader",
+          "event": [
+            "SERVICE_ACE",
+            "Anton Napolitano"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Alex Bader",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "KILL",
+            "Parker Siroishka",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Liam Laidlaw",
+          "event": [
+            "KILL",
+            "Anton Napolitano",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Jakob Hamilton",
+          "event": [
+            "KILL",
+            "Tim Edge"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Jakob Hamilton",
+          "event": [
+            "KILL",
+            "Anton Napolitano",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Jakob Hamilton",
+          "event": [
+            "KILL",
+            "Sam Taylor Parks"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Jakob Hamilton",
+          "event": [
+            "KILL",
+            "Anton Napolitano",
+            "Jakob Hamilton"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout (Media)."
+        ],
+        {
+          "point": "CGY",
+          "server": "Jakob Hamilton",
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Blain Cranston",
+          "event": [
+            "KILL",
+            "Mitchell Higgin",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Blain Cranston",
+          "event": [
+            "ATTACK_ERROR",
+            "Parker Siroishka",
+            [
+              "Sam Taylor Parks",
+              "Anton Napolitano"
+            ]
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Anton Napolitano",
+          "event": [
+            "KILL",
+            "Parker Siroishka",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Parker Siroishka",
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Edge"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Parker Siroishka",
+          "event": [
+            "BAD_SET",
+            "Jakob Hamilton"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "point": "TRU",
+          "server": "Parker Siroishka",
+          "event": [
+            "KILL",
+            "Sam Taylor Parks",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Mitchell Higgin",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Joshua Mullaney; Tyler Pomietlarz."
+        ],
+        {
+          "point": "CGY",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Curtis Stockton",
+          "event": [
+            "ATTACK_ERROR",
+            "Alex Bader"
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Daniel Eikland Rod."
+        ],
+        {
+          "point": "CGY",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "KILL",
+            "Parker Siroishka",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Alex Bader",
+          "event": [
+            "KILL",
+            "Joshua Mullaney",
+            "Tyler Pomietlarz"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Blain Cranston"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "point": "TRU",
+          "server": "Liam Laidlaw",
+          "event": [
+            "KILL",
+            "Anton Napolitano",
+            "Tyler Pomietlarz"
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Tim Edge; Jakob Hamilton."
+        ],
+        {
+          "point": "CGY",
+          "server": "Jakob Hamilton",
+          "event": [
+            "ATTACK_ERROR",
+            "Anton Napolitano"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Blain Cranston",
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Blain Cranston"
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Randy Grundmann."
+        ],
+        {
+          "point": "TRU",
+          "server": "Blain Cranston",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Anton Napolitano",
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Blain Cranston",
+            "Sam Taylor Parks"
+          ]
+        }
+      ],
+      "starters": {
+        "CGY": [
+          "Parker Siroishka",
+          "Mitchell Higgin",
+          "Curtis Stockton",
+          "Alex Bader",
+          "Liam Laidlaw",
+          "Blain Cranston",
+          "Derek Meeuwisse"
+        ],
+        "TRU": [
+          "Anton Napolitano",
+          "Sam Taylor Parks",
+          "Tim Edge",
+          "Randy Grundmann",
+          "Douglas Groenendijk",
+          "Jakob Hamilton",
+          "Cole Keddie"
+        ]
+      }
+    },
+    "4": {
+      "events": [
+        {
+          "point": "TRU",
+          "server": "Anton Napolitano",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Anton Napolitano",
+          "event": [
+            "ATTACK_ERROR",
+            "Alex Bader",
+            [
+              "Tim Edge",
+              "Sam Taylor Parks"
+            ]
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Anton Napolitano",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Mitchell Higgin",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "KILL",
+            "Alex Bader",
+            "Blain Cranston"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Curtis Stockton",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Tim Edge",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Alex Bader",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Randy Grundmann",
+          "event": [
+            "KILL",
+            "Anton Napolitano",
+            "Jakob Hamilton"
+          ]
+        },
+        [
+          "SUB",
+          "CGY subs: Alex Cook."
+        ],
+        {
+          "point": "CGY",
+          "server": "Randy Grundmann",
+          "event": [
+            "KILL",
+            "Parker Siroishka",
+            "Derek Meeuwisse"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Liam Laidlaw",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "KILL",
+            "Mitchell Higgin",
+            "Alex Cook"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Alex Cook",
+          "event": [
+            "ATTACK_ERROR",
+            "Sam Taylor Parks",
+            [
+              "Curtis Stockton",
+              "Mitchell Higgin"
+            ]
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Alex Cook",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Jakob Hamilton",
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Derek Meeuwisse"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Parker Siroishka",
+          "event": [
+            "KILL",
+            "Sam Taylor Parks",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Anton Napolitano",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Mitchell Higgin",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "KILL",
+            "Alex Bader",
+            "Alex Cook"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Curtis Stockton",
+          "event": [
+            "KILL",
+            "Alex Bader",
+            "Curtis Stockton",
+            "Anton Napolitano"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Curtis Stockton",
+          "event": [
+            "KILL",
+            "Liam Laidlaw, block error by Anton Napolitano"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Curtis Stockton",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Cole Keddie"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Tim Edge",
+          "event": [
+            "KILL",
+            "Alex Cook",
+            "Curtis Stockton"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Alex Bader",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Randy Grundmann",
+          "event": [
+            "ATTACK_ERROR",
+            "Parker Siroishka"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Randy Grundmann",
+          "event": [
+            "ATTACK_ERROR",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Liam Laidlaw",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "ATTACK_ERROR",
+            "Anton Napolitano",
+            [
+              "Alex Cook"
+            ]
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Alex Cook",
+          "event": [
+            "ATTACK_ERROR",
+            "Anton Napolitano",
+            [
+              "Parker Siroishka",
+              "Curtis Stockton",
+              "Mitchell Higgin"
+            ]
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Alex Cook",
+          "event": [
+            "ATTACK_ERROR",
+            "Curtis Stockton",
+            [
+              "Anton Napolitano",
+              "Sam Taylor Parks"
+            ]
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout (Media)."
+        ],
+        {
+          "point": "CGY",
+          "server": "Jakob Hamilton",
+          "event": [
+            "KILL",
+            "Parker Siroishka",
+            "Alex Cook"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Parker Siroishka",
+          "event": [
+            "KILL",
+            "Anton Napolitano",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Anton Napolitano",
+          "event": [
+            "KILL",
+            "Alex Bader",
+            "Alex Cook",
+            "Tim Edge"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Mitchell Higgin",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Jakob Hamilton"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Jakob Hamilton"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Calgary."
+        ],
+        {
+          "point": "CGY",
+          "server": "Sam Taylor Parks",
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Alex Cook"
+          ]
+        },
+        {
+          "point": "CGY",
+          "server": "Curtis Stockton",
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Alex Cook"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "point": "TRU",
+          "server": "Curtis Stockton",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Joshua Mullaney; Tyler Pomietlarz."
+        ],
+        {
+          "point": "CGY",
+          "server": "Tyler Pomietlarz",
+          "event": [
+            "KILL",
+            "Liam Laidlaw",
+            "Alex Cook"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Alex Bader",
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Tyler Pomietlarz"
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Daniel Eikland Rod."
+        ],
+        {
+          "point": "CGY",
+          "server": "Daniel Eikland Rod",
+          "event": [
+            "KILL",
+            "Curtis Stockton",
+            "Alex Cook"
+          ]
+        },
+        [
+          "SUB",
+          "CGY subs: Parker Maris."
+        ],
+        {
+          "point": "CGY",
+          "server": "Parker Maris",
+          "event": [
+            "ATTACK_ERROR",
+            "Anton Napolitano"
+          ]
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "point": "CGY",
+          "server": "Parker Maris",
+          "event": [
+            "ATTACK_ERROR",
+            "Anton Napolitano",
+            [
+              "Mitchell Higgin",
+              "Alex Cook"
+            ]
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Randy Grundmann."
+        ],
+        {
+          "point": "TRU",
+          "server": "Parker Maris",
+          "event": [
+            "SERVICE_ERROR"
+          ]
+        },
+        [
+          "SUB",
+          "CGY subs: Liam Laidlaw."
+        ],
+        {
+          "point": "CGY",
+          "server": "Douglas Groenendijk",
+          "event": [
+            "KILL",
+            "Parker Siroishka",
+            "Alex Cook"
+          ]
+        },
+        {
+          "point": "TRU",
+          "server": "Alex Cook",
+          "event": [
+            "KILL",
+            "Joshua Mullaney",
+            "Sam Taylor Parks"
+          ]
+        },
+        [
+          "SUB",
+          "TRU subs: Jakob Hamilton; Tim Edge."
+        ],
+        [
+          "TIMEOUT",
+          "Timeout Calgary."
+        ],
+        {
+          "point": "CGY",
+          "server": "Jakob Hamilton",
+          "event": [
+            "KILL",
+            "Mitchell Higgin",
+            "Alex Cook"
+          ]
+        }
+      ],
+      "starters": {
+        "CGY": [
+          "Parker Siroishka",
+          "Mitchell Higgin",
+          "Curtis Stockton",
+          "Alex Bader",
+          "Liam Laidlaw",
+          "Blain Cranston",
+          "Derek Meeuwisse"
+        ],
+        "TRU": [
+          "Anton Napolitano",
+          "Sam Taylor Parks",
+          "Tim Edge",
+          "Randy Grundmann",
+          "Douglas Groenendijk",
+          "Jakob Hamilton",
+          "Cole Keddie"
+        ]
+      }
+    }
+  },
+  "id": "canadawest.org:game/20170105_exxg",
+  "date": "2017-01-05"
+}

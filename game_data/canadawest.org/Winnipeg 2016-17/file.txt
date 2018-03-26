@@ -1,0 +1,25 @@
+2016-10-28 MacEwan vs Winnipeg.json
+2016-10-29 MacEwan vs Winnipeg.json
+2016-11-04 Winnipeg vs UBC.json
+2016-11-05 Winnipeg vs UBC.json
+2016-11-12 Winnipeg vs Calgary.json
+2016-11-13 Winnipeg vs Calgary.json
+2016-11-25 Winnipeg vs Alberta.json
+2016-11-26 Winnipeg vs Alberta.json
+2016-12-01 Winnipeg vs Brandon.json
+2016-12-02 Brandon vs Winnipeg.json
+2016-12-07 Manitoba vs Winnipeg.json
+2016-12-08 Winnipeg vs Manitoba.json
+2017-01-13 UBC Okanagan vs Winnipeg.json
+2017-01-14 UBC Okanagan vs Winnipeg.json
+2017-01-20 Winnipeg vs Regina.json
+2017-01-21 Winnipeg vs Regina.json
+2017-01-27 Saskatchewan vs Winnipeg.json
+2017-01-28 Saskatchewan vs Winnipeg.json
+2017-02-10 Winnipeg vs Thompson Rivers.json
+2017-02-11 Winnipeg vs Thompson Rivers.json
+2017-02-17 Trinity Western vs Winnipeg.json
+2017-02-18 Trinity Western vs Winnipeg.json
+2017-02-24 Mount Royal vs Winnipeg.json
+2017-02-25 Mount Royal vs Winnipeg.json
+file.txt

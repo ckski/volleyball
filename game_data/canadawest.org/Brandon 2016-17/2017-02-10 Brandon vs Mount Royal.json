@@ -1,0 +1,2130 @@
+{
+  "sets": {
+    "1": {
+      "starters": {
+        "BRNM": [
+          "Matt Powell",
+          "James Weir",
+          "Elliott Viles",
+          "Roy Ching",
+          "Mason Metcalf",
+          "Reece Dixon",
+          "Jeremy Davies"
+        ],
+        "MRU": [
+          "Riley Friesen",
+          "Samuel Brisbane",
+          "Josh Kirkham",
+          "Scott Gieske",
+          "Tyler Schmidt",
+          "Matt Saly",
+          "Jonathan Phillips"
+        ]
+      },
+      "events": [
+        {
+          "event": [
+            "KILL",
+            "Josh Kirkham",
+            "Samuel Brisbane"
+          ],
+          "server": "Reece Dixon",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Riley Friesen",
+            "Samuel Brisbane"
+          ],
+          "server": "Josh Kirkham",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Matt Powell",
+            "James Weir"
+          ],
+          "server": "Josh Kirkham",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Scott Gieske",
+            "Samuel Brisbane"
+          ],
+          "server": "Elliott Viles",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "BAD_SET",
+            "Reece Dixon"
+          ],
+          "server": "Samuel Brisbane",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Riley Friesen",
+            "Samuel Brisbane"
+          ],
+          "server": "Samuel Brisbane",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ],
+          "server": "Samuel Brisbane",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Matt Powell",
+            "Reece Dixon"
+          ],
+          "server": "James Weir",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Tyler Schmidt",
+            "Samuel Brisbane"
+          ],
+          "server": "James Weir",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Matt Powell"
+          ],
+          "server": "Riley Friesen",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Riley Friesen",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Matt Powell",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Roy Ching",
+            [
+              "Matt Saly",
+              "Josh Kirkham",
+              "Tyler Schmidt"
+            ]
+          ],
+          "server": "Scott Gieske",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "BHE",
+            "Scott Gieske"
+          ],
+          "server": "Scott Gieske",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Roy Ching",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ],
+          "server": "Tyler Schmidt",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Tyler Schmidt",
+            [
+              "Elliott Viles",
+              "James Weir"
+            ]
+          ],
+          "server": "Mason Metcalf",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Matt Saly",
+            "Samuel Brisbane"
+          ],
+          "server": "Mason Metcalf",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Reece Dixon"
+          ],
+          "server": "Matt Saly",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Tyler Schmidt",
+            [
+              "Elliott Viles",
+              "James Weir"
+            ]
+          ],
+          "server": "Reece Dixon",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Matt Powell",
+            "Reece Dixon",
+            "Josh Kirkham"
+          ],
+          "server": "Reece Dixon",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Riley Friesen",
+            "Samuel Brisbane"
+          ],
+          "server": "Reece Dixon",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Tyler Schmidt",
+            "Samuel Brisbane",
+            "Matt Powell"
+          ],
+          "server": "Josh Kirkham",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Jeremy Davies"
+          ],
+          "server": "Josh Kirkham",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Josh Kirkham",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Roy Ching",
+            [
+              "Scott Gieske",
+              "Samuel Brisbane"
+            ]
+          ],
+          "server": "Elliott Viles",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "James Weir",
+            "Reece Dixon"
+          ],
+          "server": "Samuel Brisbane",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Scott Gieske",
+            "Samuel Brisbane"
+          ],
+          "server": "James Weir",
+          "point": "MRU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout BRN."
+        ],
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Riley Friesen",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Tyler Schmidt",
+            "Scott Gieske"
+          ],
+          "server": "Matt Powell",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ],
+          "server": "Scott Gieske",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Matt Saly",
+            "Samuel Brisbane"
+          ],
+          "server": "Roy Ching",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Jeremy Davies"
+          ],
+          "server": "Tyler Schmidt",
+          "point": "MRU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout BRN."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Matt Powell",
+            "Reece Dixon"
+          ],
+          "server": "Tyler Schmidt",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Jonathan Phillips"
+          ],
+          "server": "Mason Metcalf",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Reece Dixon"
+          ],
+          "server": "Mason Metcalf",
+          "point": "BRNM"
+        },
+        [
+          "TIMEOUT",
+          "Timeout MRU."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Josh Kirkham",
+            "Samuel Brisbane"
+          ],
+          "server": "Mason Metcalf",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Matt Saly",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Riley Friesen",
+            "Samuel Brisbane"
+          ],
+          "server": "Reece Dixon",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Riley Friesen",
+            "Samuel Brisbane"
+          ],
+          "server": "Josh Kirkham",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Josh Kirkham",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Matt Powell",
+            "Reece Dixon"
+          ],
+          "server": "Elliott Viles",
+          "point": "BRNM"
+        },
+        [
+          "TIMEOUT",
+          "Timeout MRU."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Riley Friesen",
+            "Samuel Brisbane"
+          ],
+          "server": "Elliott Viles",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ],
+          "server": "Samuel Brisbane",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Tyler Schmidt"
+          ],
+          "server": "James Weir",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "James Weir"
+          ],
+          "server": "James Weir",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Riley Friesen",
+            [
+              "Mason Metcalf",
+              "Roy Ching"
+            ]
+          ],
+          "server": "James Weir",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Roy Ching",
+            [
+              "Riley Friesen"
+            ]
+          ],
+          "server": "James Weir",
+          "point": "MRU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout BRN."
+        ],
+        [
+          "SUB",
+          "MRU subs: Quinn Bromley."
+        ],
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Riley Friesen",
+          "point": "BRNM"
+        },
+        [
+          "SUB",
+          "BRNM subs: Brady Nault; Jacob Reid."
+        ],
+        [
+          "SUB",
+          "MRU subs: Matt Saly."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Tyler Schmidt",
+            "Samuel Brisbane"
+          ],
+          "server": "Brady Nault",
+          "point": "MRU"
+        },
+        [
+          "SUB",
+          "MRU subs: Nick Lightfoot."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Matt Saly",
+            "Samuel Brisbane"
+          ],
+          "server": "Nick Lightfoot",
+          "point": "MRU"
+        },
+        [
+          "SUB",
+          "BRNM subs: Reece Dixon."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ],
+          "server": "Nick Lightfoot",
+          "point": "BRNM"
+        },
+        [
+          "SUB",
+          "MRU subs: Scott Gieske."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Tyler Schmidt",
+            "Samuel Brisbane"
+          ],
+          "server": "Roy Ching",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ],
+          "server": "Tyler Schmidt",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Reece Dixon, block error by Matt Saly"
+          ],
+          "server": "Mason Metcalf",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Matt Saly",
+            [
+              "James Weir",
+              "Reece Dixon"
+            ]
+          ],
+          "server": "Mason Metcalf",
+          "point": "BRNM"
+        }
+      ]
+    },
+    "2": {
+      "starters": {
+        "BRNM": [
+          "James Weir",
+          "Elliott Viles",
+          "Reece Dixon",
+          "Matt Powell",
+          "Roy Ching",
+          "Mason Metcalf",
+          "Jeremy Davies"
+        ],
+        "MRU": [
+          "Riley Friesen",
+          "Samuel Brisbane",
+          "Josh Kirkham",
+          "Scott Gieske",
+          "Tyler Schmidt",
+          "Matt Saly",
+          "Jonathan Phillips"
+        ]
+      },
+      "events": [
+        {
+          "event": [
+            "BAD_SET",
+            "Reece Dixon"
+          ],
+          "server": "Matt Saly",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Matt Powell",
+            "Reece Dixon"
+          ],
+          "server": "Matt Saly",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Riley Friesen",
+            [
+              "Matt Powell",
+              "James Weir"
+            ]
+          ],
+          "server": "Reece Dixon",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "James Weir"
+          ],
+          "server": "Reece Dixon",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Reece Dixon"
+          ],
+          "server": "Josh Kirkham",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Riley Friesen",
+            [
+              "Matt Powell",
+              "James Weir",
+              "Roy Ching"
+            ]
+          ],
+          "server": "Elliott Viles",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Tyler Schmidt"
+          ],
+          "server": "Elliott Viles",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Scott Gieske",
+            "Samuel Brisbane"
+          ],
+          "server": "Elliott Viles",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Elliott Viles"
+          ],
+          "server": "Samuel Brisbane",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Riley Friesen",
+            "Jonathan Phillips",
+            "Matt Powell"
+          ],
+          "server": "Samuel Brisbane",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "James Weir",
+            "Reece Dixon"
+          ],
+          "server": "Samuel Brisbane",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Riley Friesen",
+            "Samuel Brisbane"
+          ],
+          "server": "James Weir",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Riley Friesen",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Matt Powell",
+            "Reece Dixon"
+          ],
+          "server": "Matt Powell",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ],
+          "server": "Matt Powell",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Riley Friesen",
+            "Samuel Brisbane"
+          ],
+          "server": "Matt Powell",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Mason Metcalf",
+            "Reece Dixon"
+          ],
+          "server": "Scott Gieske",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Roy Ching",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Tyler Schmidt",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Reece Dixon"
+          ],
+          "server": "Mason Metcalf",
+          "point": "BRNM"
+        },
+        [
+          "SUB",
+          "BRNM subs: Daven Pascal."
+        ],
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Mason Metcalf",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Matt Saly",
+          "point": "BRNM"
+        },
+        [
+          "TIMEOUT",
+          "Timeout MRU."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Josh Kirkham",
+            "Samuel Brisbane"
+          ],
+          "server": "Reece Dixon",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Tyler Schmidt",
+            "Samuel Brisbane"
+          ],
+          "server": "Josh Kirkham",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Matt Powell",
+            "Reece Dixon"
+          ],
+          "server": "Josh Kirkham",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Elliott Viles"
+          ],
+          "server": "Elliott Viles",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Roy Ching",
+            [
+              "Scott Gieske",
+              "Tyler Schmidt"
+            ]
+          ],
+          "server": "Samuel Brisbane",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Daven Pascal",
+            [
+              "Scott Gieske"
+            ]
+          ],
+          "server": "Samuel Brisbane",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ],
+          "server": "Samuel Brisbane",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Scott Gieske",
+            "Samuel Brisbane"
+          ],
+          "server": "Daven Pascal",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Tyler Schmidt",
+            "Jonathan Phillips"
+          ],
+          "server": "Riley Friesen",
+          "point": "MRU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout BRN."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Matt Saly",
+            "Samuel Brisbane"
+          ],
+          "server": "Riley Friesen",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Matt Powell",
+            [
+              "Matt Saly",
+              "Scott Gieske"
+            ]
+          ],
+          "server": "Riley Friesen",
+          "point": "MRU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout BRN."
+        ],
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Tyler Schmidt"
+          ],
+          "server": "Riley Friesen",
+          "point": "BRNM"
+        },
+        [
+          "SUB",
+          "BRNM subs: Brady Nault; Jacob Reid."
+        ],
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Jacob Reid"
+          ],
+          "server": "Brady Nault",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Elliott Viles"
+          ],
+          "server": "Scott Gieske",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Josh Kirkham"
+          ],
+          "server": "Scott Gieske",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Matt Saly"
+          ],
+          "server": "Roy Ching",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Riley Friesen",
+            "Samuel Brisbane"
+          ],
+          "server": "Roy Ching",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Jacob Reid"
+          ],
+          "server": "Tyler Schmidt",
+          "point": "MRU"
+        },
+        [
+          "SUB",
+          "MRU subs: Quinn Bromley."
+        ],
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Tyler Schmidt",
+          "point": "BRNM"
+        },
+        [
+          "SUB",
+          "MRU subs: Matt Saly."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Tyler Schmidt",
+            "Jonathan Phillips"
+          ],
+          "server": "Mason Metcalf",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Jacob Reid"
+          ],
+          "server": "Matt Saly",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Josh Kirkham",
+            "Samuel Brisbane"
+          ],
+          "server": "Jacob Reid",
+          "point": "MRU"
+        },
+        [
+          "SUB",
+          "BRNM subs: Reece Dixon."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Reece Dixon"
+          ],
+          "server": "Josh Kirkham",
+          "point": "BRNM"
+        },
+        [
+          "SUB",
+          "BRNM subs: Matt Powell."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Scott Gieske",
+            "Samuel Brisbane"
+          ],
+          "server": "Elliott Viles",
+          "point": "MRU"
+        }
+      ]
+    },
+    "3": {
+      "starters": {
+        "BRNM": [
+          "Matt Powell",
+          "James Weir",
+          "Elliott Viles",
+          "Roy Ching",
+          "Mason Metcalf",
+          "Reece Dixon",
+          "Jeremy Davies"
+        ],
+        "MRU": [
+          "Riley Friesen",
+          "Samuel Brisbane",
+          "Josh Kirkham",
+          "Scott Gieske",
+          "Tyler Schmidt",
+          "Matt Saly",
+          "Jonathan Phillips"
+        ]
+      },
+      "events": [
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Tyler Schmidt"
+          ],
+          "server": "Reece Dixon",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Reece Dixon",
+            "James Weir"
+          ],
+          "server": "Reece Dixon",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "James Weir",
+            "Reece Dixon"
+          ],
+          "server": "Reece Dixon",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Reece Dixon"
+          ],
+          "server": "Reece Dixon",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Reece Dixon",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Riley Friesen"
+          ],
+          "server": "Josh Kirkham",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Tyler Schmidt",
+            "Samuel Brisbane"
+          ],
+          "server": "Elliott Viles",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "James Weir",
+            "Reece Dixon"
+          ],
+          "server": "Samuel Brisbane",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Riley Friesen",
+            "Samuel Brisbane"
+          ],
+          "server": "James Weir",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Riley Friesen",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Jonathan Phillips"
+          ],
+          "server": "Matt Powell",
+          "point": "BRNM"
+        },
+        [
+          "TIMEOUT",
+          "Timeout MRU."
+        ],
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Matt Powell",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Matt Powell"
+          ],
+          "server": "Scott Gieske",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Tyler Schmidt",
+            [
+              "Roy Ching",
+              "Mason Metcalf"
+            ]
+          ],
+          "server": "Scott Gieske",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Elliott Viles",
+            [
+              "Tyler Schmidt",
+              "Josh Kirkham"
+            ]
+          ],
+          "server": "Roy Ching",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Reece Dixon",
+            "Jeremy Davies"
+          ],
+          "server": "Tyler Schmidt",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Mason Metcalf",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon",
+            "Samuel Brisbane"
+          ],
+          "server": "Matt Saly",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Riley Friesen"
+          ],
+          "server": "Reece Dixon",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Josh Kirkham",
+            "Samuel Brisbane"
+          ],
+          "server": "Reece Dixon",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Matt Powell",
+            "Reece Dixon",
+            "Samuel Brisbane"
+          ],
+          "server": "Josh Kirkham",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Tyler Schmidt"
+          ],
+          "server": "Elliott Viles",
+          "point": "BRNM"
+        },
+        [
+          "TIMEOUT",
+          "Timeout MRU."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Matt Powell",
+            "Reece Dixon"
+          ],
+          "server": "Elliott Viles",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Tyler Schmidt",
+            [
+              "Roy Ching",
+              "James Weir"
+            ]
+          ],
+          "server": "Elliott Viles",
+          "point": "BRNM"
+        },
+        [
+          "TIMEOUT",
+          "Timeout BRN."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Scott Gieske",
+            "Samuel Brisbane"
+          ],
+          "server": "Elliott Viles",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Roy Ching",
+            [
+              "Scott Gieske",
+              "Tyler Schmidt"
+            ]
+          ],
+          "server": "Samuel Brisbane",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Scott Gieske"
+          ],
+          "server": "Samuel Brisbane",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Tyler Schmidt"
+          ],
+          "server": "Samuel Brisbane",
+          "point": "MRU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout BRN."
+        ],
+        {
+          "event": [
+            "KILL",
+            "James Weir",
+            "Reece Dixon"
+          ],
+          "server": "Samuel Brisbane",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Riley Friesen",
+            "Samuel Brisbane"
+          ],
+          "server": "James Weir",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Mason Metcalf",
+            "Reece Dixon"
+          ],
+          "server": "Riley Friesen",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Matt Powell",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Tyler Schmidt",
+            "Matt Saly"
+          ],
+          "server": "Scott Gieske",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Roy Ching"
+          ],
+          "server": "Scott Gieske",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ],
+          "server": "Scott Gieske",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Riley Friesen",
+            "Samuel Brisbane"
+          ],
+          "server": "Roy Ching",
+          "point": "MRU"
+        },
+        [
+          "SUB",
+          "MRU subs: Nick Lightfoot."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Riley Friesen",
+            "Samuel Brisbane"
+          ],
+          "server": "Nick Lightfoot",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Matt Saly"
+          ],
+          "server": "Nick Lightfoot",
+          "point": "BRNM"
+        },
+        [
+          "SUB",
+          "MRU subs: Tyler Schmidt."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Riley Friesen",
+            "Jonathan Phillips"
+          ],
+          "server": "Mason Metcalf",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Riley Friesen",
+            "Samuel Brisbane"
+          ],
+          "server": "Matt Saly",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Elliott Viles"
+          ],
+          "server": "Matt Saly",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Elliott Viles"
+          ],
+          "server": "Matt Saly",
+          "point": "MRU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout BRN."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Matt Powell",
+            "Reece Dixon"
+          ],
+          "server": "Matt Saly",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Riley Friesen",
+            [
+              "James Weir",
+              "Matt Powell"
+            ]
+          ],
+          "server": "Reece Dixon",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Riley Friesen",
+            [
+              "James Weir",
+              "Matt Powell"
+            ]
+          ],
+          "server": "Reece Dixon",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Josh Kirkham",
+            "Samuel Brisbane"
+          ],
+          "server": "Reece Dixon",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Reece Dixon"
+          ],
+          "server": "Josh Kirkham",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Matt Powell"
+          ],
+          "server": "Elliott Viles",
+          "point": "BRNM"
+        }
+      ]
+    },
+    "4": {
+      "starters": {
+        "BRNM": [
+          "James Weir",
+          "Elliott Viles",
+          "Reece Dixon",
+          "Matt Powell",
+          "Roy Ching",
+          "Mason Metcalf",
+          "Jeremy Davies"
+        ],
+        "MRU": [
+          "Tyler Schmidt",
+          "Scott Gieske",
+          "Riley Friesen",
+          "Matt Saly",
+          "Josh Kirkham",
+          "Samuel Brisbane",
+          "Jonathan Phillips"
+        ]
+      },
+      "events": [
+        {
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ],
+          "server": "Samuel Brisbane",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Riley Friesen",
+            "Matt Saly"
+          ],
+          "server": "Reece Dixon",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Elliott Viles"
+          ],
+          "server": "Riley Friesen",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "James Weir"
+          ],
+          "server": "Riley Friesen",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Matt Powell",
+            "Reece Dixon"
+          ],
+          "server": "Riley Friesen",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Tyler Schmidt",
+            "Samuel Brisbane",
+            "Roy Ching"
+          ],
+          "server": "Elliott Viles",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "James Weir",
+            "Reece Dixon"
+          ],
+          "server": "Scott Gieske",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "James Weir"
+          ],
+          "server": "James Weir",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Tyler Schmidt",
+            "Samuel Brisbane"
+          ],
+          "server": "James Weir",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Tyler Schmidt",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Riley Friesen",
+            "Samuel Brisbane"
+          ],
+          "server": "Matt Powell",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ],
+          "server": "Matt Saly",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Roy Ching",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Matt Powell",
+            "Reece Dixon"
+          ],
+          "server": "Josh Kirkham",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Scott Gieske",
+            "Samuel Brisbane"
+          ],
+          "server": "Mason Metcalf",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Scott Gieske"
+          ],
+          "server": "Samuel Brisbane",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Riley Friesen",
+            [
+              "James Weir"
+            ]
+          ],
+          "server": "Samuel Brisbane",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Tyler Schmidt",
+            "Samuel Brisbane",
+            "James Weir"
+          ],
+          "server": "Reece Dixon",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Matt Powell",
+            [
+              "Scott Gieske",
+              "Tyler Schmidt"
+            ]
+          ],
+          "server": "Riley Friesen",
+          "point": "MRU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout BRN."
+        ],
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Riley Friesen",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon",
+            "Tyler Schmidt"
+          ],
+          "server": "Elliott Viles",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Matt Powell"
+          ],
+          "server": "Elliott Viles",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Tyler Schmidt"
+          ],
+          "server": "Scott Gieske",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Josh Kirkham",
+            "Samuel Brisbane"
+          ],
+          "server": "James Weir",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ],
+          "server": "Tyler Schmidt",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Josh Kirkham",
+            "Samuel Brisbane"
+          ],
+          "server": "Matt Powell",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Riley Friesen",
+            "Samuel Brisbane"
+          ],
+          "server": "Matt Saly",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Matt Saly",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Riley Friesen",
+            "Samuel Brisbane"
+          ],
+          "server": "Roy Ching",
+          "point": "MRU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout BRN."
+        ],
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Josh Kirkham",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Mason Metcalf",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Reece Dixon"
+          ],
+          "server": "Samuel Brisbane",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Tyler Schmidt",
+            "Samuel Brisbane"
+          ],
+          "server": "Reece Dixon",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Reece Dixon"
+          ],
+          "server": "Riley Friesen",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Tyler Schmidt",
+            [
+              "James Weir",
+              "Roy Ching"
+            ]
+          ],
+          "server": "Elliott Viles",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Tyler Schmidt",
+            "Samuel Brisbane"
+          ],
+          "server": "Elliott Viles",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Matt Powell",
+            "Reece Dixon"
+          ],
+          "server": "Scott Gieske",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Riley Friesen"
+          ],
+          "server": "James Weir",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Matt Saly",
+            "Samuel Brisbane"
+          ],
+          "server": "James Weir",
+          "point": "MRU"
+        },
+        [
+          "SUB",
+          "MRU subs: Nick Lightfoot."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Reece Dixon"
+          ],
+          "server": "Nick Lightfoot",
+          "point": "BRNM"
+        },
+        [
+          "SUB",
+          "MRU subs: Tyler Schmidt."
+        ],
+        [
+          "SUB",
+          "BRNM subs: Brady Nault."
+        ],
+        [
+          "SUB",
+          "BRNM subs: Jacob Reid."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Tyler Schmidt",
+            "Samuel Brisbane"
+          ],
+          "server": "Brady Nault",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Jacob Reid"
+          ],
+          "server": "Matt Saly",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Roy Ching",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Mason Metcalf",
+            "Jacob Reid"
+          ],
+          "server": "Josh Kirkham",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Riley Friesen"
+          ],
+          "server": "Mason Metcalf",
+          "point": "BRNM"
+        },
+        [
+          "TIMEOUT",
+          "Timeout MRU."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Tyler Schmidt",
+            "Samuel Brisbane"
+          ],
+          "server": "Mason Metcalf",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Jacob Reid"
+          ],
+          "server": "Samuel Brisbane",
+          "point": "MRU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout BRN."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Jacob Reid"
+          ],
+          "server": "Samuel Brisbane",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Scott Gieske",
+            "Samuel Brisbane"
+          ],
+          "server": "Jacob Reid",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Brady Nault",
+            "Jacob Reid"
+          ],
+          "server": "Riley Friesen",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "James Weir"
+          ],
+          "server": "Elliott Viles",
+          "point": "BRNM"
+        },
+        [
+          "TIMEOUT",
+          "Timeout MRU."
+        ],
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Elliott Viles",
+          "point": "MRU"
+        },
+        [
+          "SUB",
+          "MRU subs: Quinn Bromley."
+        ],
+        {
+          "event": [
+            "KILL",
+            "James Weir",
+            "Jacob Reid"
+          ],
+          "server": "Scott Gieske",
+          "point": "BRNM"
+        },
+        [
+          "SUB",
+          "MRU subs: Matt Saly."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Tyler Schmidt",
+            "Samuel Brisbane"
+          ],
+          "server": "James Weir",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Jacob Reid"
+          ],
+          "server": "Tyler Schmidt",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Josh Kirkham",
+            "Samuel Brisbane"
+          ],
+          "server": "Brady Nault",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Jacob Reid"
+          ],
+          "server": "Matt Saly",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Riley Friesen",
+            "Samuel Brisbane"
+          ],
+          "server": "Roy Ching",
+          "point": "MRU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Roy Ching",
+            "Jacob Reid"
+          ],
+          "server": "Josh Kirkham",
+          "point": "BRNM"
+        },
+        {
+          "event": [
+            "KILL",
+            "Elliott Viles",
+            "Jacob Reid"
+          ],
+          "server": "Mason Metcalf",
+          "point": "BRNM"
+        }
+      ]
+    }
+  },
+  "date": "2017-02-10",
+  "teams": [
+    [
+      "canadawest.org:team/ismg6mi3ytuao2qw",
+      "Brandon"
+    ],
+    [
+      "canadawest.org:team/m4t2yy12xffoq7f6",
+      "Mount Royal"
+    ]
+  ],
+  "id": "canadawest.org:game/20170210_3mk9",
+  "source": "canadawest.org"
+}
