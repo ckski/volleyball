@@ -3,7 +3,12 @@ defmodule Volleysim do
   # To run, install Elixir and run from command-line
   # $ mix deps.get
   # $ iex -S mix
-  # iex(1)> Volleysim.process_file("gamedata.json", "boxscore.json") 
+
+  # cache = Volleysim.load_cache_file("cached_facts")
+  # facts = cache[:data]
+  # Volleysim.rollup(facts, [:team])
+
+
 
 
   # Data cleaning notes:
