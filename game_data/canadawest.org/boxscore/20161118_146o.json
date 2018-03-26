@@ -1,0 +1,190 @@
+{
+  "ta_per_set": {
+    "MacEwan": [
+      24,
+      20,
+      36
+    ],
+    "Trinity Western": [
+      35,
+      30,
+      40
+    ]
+  },
+  "teams": {
+    "MacEwan": [
+      [
+        "canadawest.org:player/x7xko8h5ialxcs8e",
+        "Shane Kerrison",
+        {
+          "TA": 23,
+          "DIGS": 6
+        }
+      ],
+      [
+        "canadawest.org:player/wns2ikfha7rhxohw",
+        "Kai Hesthammer",
+        {
+          "TA": 27,
+          "DIGS": 5
+        }
+      ],
+      [
+        "canadawest.org:player/qrqdkbt5sgyy5ast",
+        "Max Vriend",
+        {
+          "TA": 17,
+          "DIGS": 6
+        }
+      ],
+      [
+        "canadawest.org:player/2h37zwc03tqiapru",
+        "Matthew Mohler",
+        {
+          "TA": 0,
+          "DIGS": 10
+        }
+      ],
+      [
+        "canadawest.org:player/fnkdtl5vncr5eqki",
+        "Christian Sides",
+        {
+          "TA": 3,
+          "DIGS": 0
+        }
+      ],
+      [
+        "canadawest.org:player/74anh3uo1powhljp",
+        "Kornel Kowalewski",
+        {
+          "TA": 5,
+          "DIGS": 0
+        }
+      ],
+      [
+        "canadawest.org:player/sovj45ga4ljq4bvy",
+        "Jordan Peters",
+        {
+          "TA": 5,
+          "DIGS": 1
+        }
+      ],
+      [
+        "canadawest.org:player/tyo27tlen6ybyltd",
+        "Andre Arsenault",
+        {
+          "TA": 0,
+          "DIGS": 0
+        }
+      ],
+      [
+        "canadawest.org:player/g1zhvlfea1ttws07",
+        "Kirk Testawich",
+        {
+          "TA": 0,
+          "DIGS": 5
+        }
+      ],
+      [
+        "canadawest.org:player/6k4fc8r7xyp42e2z",
+        "Joshua Peters",
+        {
+          "TA": 0,
+          "DIGS": 0
+        }
+      ]
+    ],
+    "Trinity Western": [
+      [
+        "canadawest.org:player/emz650we21ws39ek",
+        "Pearson Eshenko",
+        {
+          "TA": 6,
+          "DIGS": 1
+        }
+      ],
+      [
+        "canadawest.org:player/h63nyiuehsuwc67g",
+        "Eric Loeppky",
+        {
+          "TA": 25,
+          "DIGS": 5
+        }
+      ],
+      [
+        "canadawest.org:player/incaoq15iqbtgy51",
+        "Ryan Sclater",
+        {
+          "TA": 39,
+          "DIGS": 4
+        }
+      ],
+      [
+        "canadawest.org:player/i7tyrdy1j0ink43r",
+        "Scott Plocktis",
+        {
+          "TA": 14,
+          "DIGS": 6
+        }
+      ],
+      [
+        "canadawest.org:player/ug5tcbeolhwbyczp",
+        "Adam Schriemer",
+        {
+          "TA": 3,
+          "DIGS": 3
+        }
+      ],
+      [
+        "canadawest.org:player/tc3dys9iulw7d2jv",
+        "Aaron Boettcher",
+        {
+          "TA": 15,
+          "DIGS": 0
+        }
+      ],
+      [
+        "canadawest.org:player/34ls5w39wpo73g0z",
+        "Carter Bergen",
+        {
+          "TA": 0,
+          "DIGS": 6
+        }
+      ],
+      [
+        "canadawest.org:player/t8gdila5hzt3rzw8",
+        "Mark Antoniuk",
+        {
+          "TA": 0,
+          "DIGS": 3
+        }
+      ],
+      [
+        "canadawest.org:player/jkwlkrl18ps9fyhg",
+        "Cameron Slomp",
+        {
+          "TA": 0,
+          "DIGS": 1
+        }
+      ],
+      [
+        "canadawest.org:player/10l1g0p7vjj5ghjn",
+        "Leigh Goossen",
+        {
+          "TA": 3,
+          "DIGS": 0
+        }
+      ],
+      [
+        "canadawest.org:player/h1n0qxkb7jm7wavw",
+        "Jordan Koslowsky",
+        {
+          "TA": 0,
+          "DIGS": 1
+        }
+      ]
+    ]
+  },
+  "id": "canadawest.org:game/20161118_146o",
+  "source": "canadawest.org"
+}

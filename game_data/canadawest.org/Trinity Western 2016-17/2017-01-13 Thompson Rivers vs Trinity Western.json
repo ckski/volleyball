@@ -1,1 +1,1249 @@
-{"sets": {"1": {"events": [{"event": ["BAD_SET", "Carter Bergen"], "server": "Adam Schriemer", "point": "TRUMVB"}, {"event": ["KILL", "Ryan Sclater", "Adam Schriemer"], "server": "Daniel Eikland rod", "point": "TWU"}, {"event": ["KILL", "Ryan Sclater", "Adam Schriemer"], "server": "Jacob Kern", "point": "TWU"}, {"event": ["ATTACK_ERROR", "Randy Grundmann"], "server": "Jacob Kern", "point": "TWU"}, {"event": ["KILL", "Kyle Behiels", "Jakob Hamilton"], "server": "Jacob Kern", "point": "TRUMVB"}, {"event": ["KILL", "Blake Scheerhoorn", "Adam Schriemer"], "server": "Kyle Behiels", "point": "TWU"}, {"event": ["KILL", "Tim Edge", "Daniel Eikland rod"], "server": "Aaron Boettcher", "point": "TRUMVB"}, {"event": ["KILL", "Randy Grundmann"], "server": "Tim Edge", "point": "TRUMVB"}, {"event": ["ATTACK_ERROR", "Sam Taylor parks"], "server": "Tim Edge", "point": "TWU"}, {"event": ["ATTACK_ERROR", "Blake Scheerhoorn"], "server": "Ryan Sclater", "point": "TRUMVB"}, {"event": ["SERVICE_ERROR"], "server": "Randy Grundmann", "point": "TWU"}, {"event": ["KILL", "Sam Taylor parks", "Jakob Hamilton"], "server": "Blake Scheerhoorn", "point": "TRUMVB"}, {"event": ["ATTACK_ERROR", "Randy Grundmann", ["Jacob Kern", "Pearson Eshenko"]], "server": "Sam Taylor parks", "point": "TWU"}, {"event": ["ATTACK_ERROR", "Tim Edge"], "server": "Pearson Eshenko", "point": "TWU"}, {"event": ["ATTACK_ERROR", "Daniel Eikland rod"], "server": "Pearson Eshenko", "point": "TWU"}, {"event": ["KILL", "Jacob Kern", "Adam Schriemer"], "server": "Pearson Eshenko", "point": "TWU"}, {"event": ["SERVICE_ERROR"], "server": "Pearson Eshenko", "point": "TRUMVB"}, {"event": ["KILL", "Aaron Boettcher", "Adam Schriemer"], "server": "Adam Schriemer", "point": "TWU"}, ["TIMEOUT", "Timeout Thompson Rivers."], {"event": ["KILL", "Daniel Eikland rod", "Jakob Hamilton"], "server": "Adam Schriemer", "point": "TRUMVB"}, {"event": ["KILL", "Ryan Sclater", "Adam Schriemer"], "server": "Daniel Eikland rod", "point": "TWU"}, {"event": ["SERVICE_ERROR"], "server": "Jacob Kern", "point": "TRUMVB"}, ["SUB", "TWU subs: Mark Antoniuk."], {"event": ["BAD_SET", "Adam Schriemer"], "server": "Kyle Behiels", "point": "TRUMVB"}, {"event": ["KILL", "Tim Edge", "Jakob Hamilton"], "server": "Kyle Behiels", "point": "TRUMVB"}, {"event": ["KILL", "Adam Schriemer", "Mark Antoniuk"], "server": "Kyle Behiels", "point": "TWU"}, {"event": ["SERVICE_ACE", "Cole Keddie"], "server": "Aaron Boettcher", "point": "TWU"}, {"event": ["SERVICE_ERROR"], "server": "Aaron Boettcher", "point": "TRUMVB"}, ["SUB", "TRUMVB subs: Douglas Groenendijk; Tyler Pomietlarz."], {"event": ["KILL", "Ryan Sclater", "Adam Schriemer"], "server": "Tyler Pomietlarz", "point": "TWU"}, ["TIMEOUT", "Timeout Thompson Rivers."], {"event": ["SERVICE_ERROR"], "server": "Ryan Sclater", "point": "TRUMVB"}, {"event": ["BAD_SET", "Tyler Pomietlarz"], "server": "Randy Grundmann", "point": "TWU"}, ["SUB", "TWU subs: Jacob Kern."], {"event": ["SERVICE_ERROR"], "server": "Blake Scheerhoorn", "point": "TRUMVB"}, {"event": ["KILL", "Kyle Behiels", "Jakob Hamilton"], "server": "Sam Taylor parks", "point": "TRUMVB"}, {"event": ["KILL", "Ryan Sclater", "Adam Schriemer"], "server": "Sam Taylor parks", "point": "TWU"}, {"event": ["KILL", "Daniel Eikland rod", "Tyler Pomietlarz"], "server": "Pearson Eshenko", "point": "TRUMVB"}, ["SUB", "TRUMVB subs: Tim Edge; Jakob Hamilton."], {"event": ["ATTACK_ERROR", "Ryan Sclater"], "server": "Jakob Hamilton", "point": "TRUMVB"}, {"event": ["KILL", "Adam Schriemer", "Blake Scheerhoorn"], "server": "Jakob Hamilton", "point": "TWU"}, {"event": ["ATTACK_ERROR", "Tim Edge", ["Aaron Boettcher", "Jacob Kern"]], "server": "Adam Schriemer", "point": "TWU"}, {"event": ["KILL", "Jacob Kern", "Blake Scheerhoorn"], "server": "Adam Schriemer", "point": "TWU"}, ["TIMEOUT", "Timeout Thompson Rivers."], {"event": ["SERVICE_ACE", "TEAM"], "server": "Adam Schriemer", "point": "TWU"}, {"event": ["KILL", "Blake Scheerhoorn", "Adam Schriemer"], "server": "", "point": "TWU"}, {"event": ["SERVICE_ACE", "TEAM"], "server": "Adam Schriemer", "point": "TWU"}, {"event": ["ATTACK_ERROR", "Daniel Eikland rod"], "server": "Adam Schriemer", "point": "TWU"}], "starters": {"TRUMVB": ["Jakob Hamilton", "Daniel Eikland rod", "Randy Grundmann", "Kyle Behiels", "Tim Edge", "Sam Taylor parks", "Cole Keddie"], "TWU": ["Adam Schriemer", "Aaron Boettcher", "Jacob Kern", "Ryan Sclater", "Pearson Eshenko", "Blake Scheerhoorn", "Carter Bergen"]}}, "2": {"events": [{"event": ["KILL", "Jacob Kern", "Adam Schriemer"], "server": "Jakob Hamilton", "point": "TWU"}, {"event": ["SERVICE_ERROR"], "server": "Adam Schriemer", "point": "TRUMVB"}, {"event": ["KILL", "Tim Edge", "Randy Grundmann"], "server": "Daniel Eikland rod", "point": "TRUMVB"}, {"event": ["KILL", "Ryan Sclater", "Adam Schriemer"], "server": "Daniel Eikland rod", "point": "TWU"}, {"event": ["SERVICE_ACE", "Daniel Eikland rod"], "server": "Jacob Kern", "point": "TWU"}, {"event": ["SERVICE_ERROR"], "server": "Jacob Kern", "point": "TRUMVB"}, {"event": ["KILL", "Blake Scheerhoorn", "Adam Schriemer"], "server": "Kyle Behiels", "point": "TWU"}, {"event": ["BAD_SET", "Jakob Hamilton"], "server": "Aaron Boettcher", "point": "TWU"}, {"event": ["SERVICE_ACE", "Daniel Eikland rod"], "server": "Aaron Boettcher", "point": "TWU"}, ["SUB", "TRUMVB subs: Anton Napolitano."], {"event": ["SERVICE_ACE", "Anton Napolitano"], "server": "Aaron Boettcher", "point": "TWU"}, {"event": ["ATTACK_ERROR", "Randy Grundmann"], "server": "Aaron Boettcher", "point": "TWU"}, ["TIMEOUT", "Timeout Thompson Rivers."], {"event": ["SERVICE_ERROR"], "server": "Aaron Boettcher", "point": "TRUMVB"}, {"event": ["ATTACK_ERROR", "Ryan Sclater"], "server": "Tim Edge", "point": "TRUMVB"}, {"event": ["SERVICE_ERROR"], "server": "Tim Edge", "point": "TWU"}, {"event": ["SERVICE_ERROR"], "server": "Ryan Sclater", "point": "TRUMVB"}, {"event": ["KILL", "Anton Napolitano", "Jakob Hamilton"], "server": "Randy Grundmann", "point": "TRUMVB"}, {"event": ["KILL", "Blake Scheerhoorn", "Adam Schriemer"], "server": "Randy Grundmann", "point": "TWU"}, {"event": ["KILL", "Blake Scheerhoorn", "Adam Schriemer"], "server": "Blake Scheerhoorn", "point": "TWU"}, {"event": ["KILL", "Jacob Kern", "Adam Schriemer"], "server": "Blake Scheerhoorn", "point": "TWU"}, {"event": ["SERVICE_ERROR"], "server": "Blake Scheerhoorn", "point": "TRUMVB"}, {"event": ["SERVICE_ERROR"], "server": "Sam Taylor parks", "point": "TWU"}, {"event": ["SERVICE_ACE", "TEAM"], "server": "Pearson Eshenko", "point": "TWU"}, {"event": ["ATTACK_ERROR", "Anton Napolitano", ["Adam Schriemer", "Aaron Boettcher"]], "server": "Pearson Eshenko", "point": "TWU"}, ["TIMEOUT", "Timeout Thompson Rivers."], {"event": ["KILL", "Ryan Sclater", "Adam Schriemer"], "server": "Pearson Eshenko", "point": "TWU"}, ["TIMEOUT", "Timeout Thompson Rivers."], {"event": ["SERVICE_ACE", "Anton Napolitano"], "server": "Pearson Eshenko", "point": "TWU"}, {"event": ["ATTACK_ERROR", "Kyle Behiels"], "server": "Pearson Eshenko", "point": "TWU"}, {"event": ["SERVICE_ACE", "TEAM"], "server": "Pearson Eshenko", "point": "TWU"}, {"event": ["ATTACK_ERROR", "Anton Napolitano"], "server": "Pearson Eshenko", "point": "TWU"}, {"event": ["SERVICE_ACE", "Tim Edge"], "server": "Pearson Eshenko", "point": "TWU"}, {"event": ["ATTACK_ERROR", "Kyle Behiels", ["Adam Schriemer", "Aaron Boettcher"]], "server": "Pearson Eshenko", "point": "TWU"}, {"event": ["SERVICE_ERROR"], "server": "Pearson Eshenko", "point": "TRUMVB"}, {"event": ["KILL", "Jacob Kern", "Adam Schriemer"], "server": "Jakob Hamilton", "point": "TWU"}, {"event": ["KILL", "Anton Napolitano", "Jakob Hamilton"], "server": "Adam Schriemer", "point": "TRUMVB"}, {"event": ["ATTACK_ERROR", "Ryan Sclater", ["Tim Edge", "Kyle Behiels"]], "server": "Anton Napolitano", "point": "TRUMVB"}, {"event": ["KILL", "Ryan Sclater", "Adam Schriemer"], "server": "Anton Napolitano", "point": "TWU"}, {"event": ["KILL", "Tim Edge", "Jakob Hamilton"], "server": "Jacob Kern", "point": "TRUMVB"}, {"event": ["KILL", "Ryan Sclater", "Adam Schriemer"], "server": "Kyle Behiels", "point": "TWU"}], "starters": {"TRUMVB": ["Sam Taylor parks", "Kyle Behiels", "Randy Grundmann", "Tim Edge", "Jakob Hamilton", "Daniel Eikland rod", "Cole Keddie"], "TWU": ["Pearson Eshenko", "Blake Scheerhoorn", "Ryan Sclater", "Adam Schriemer", "Aaron Boettcher", "Jacob Kern", "Carter Bergen"]}}, "3": {"events": [{"event": ["KILL", "Kyle Behiels", "Tyler Pomietlarz"], "server": "Adam Schriemer", "point": "TRUMVB"}, {"event": ["SERVICE_ACE", "Carter Bergen"], "server": "Charlie Bringloe", "point": "TRUMVB"}, {"event": ["KILL", "Jacob Kern"], "server": "Charlie Bringloe", "point": "TWU"}, {"event": ["KILL", "Aaron Boettcher", "Adam Schriemer"], "server": "Jacob Kern", "point": "TWU"}, {"event": ["KILL", "Randy Grundmann", "Tyler Pomietlarz"], "server": "Jacob Kern", "point": "TRUMVB"}, {"event": ["KILL", "Ben Lieuwen", "Adam Schriemer"], "server": "Kyle Behiels", "point": "TWU"}, {"event": ["SERVICE_ACE", "Charlie Bringloe"], "server": "Aaron Boettcher", "point": "TWU"}, {"event": ["KILL", "Randy Grundmann", "Tyler Pomietlarz"], "server": "Aaron Boettcher", "point": "TRUMVB"}, {"event": ["SERVICE_ACE", "Carter Bergen"], "server": "Tim Edge", "point": "TRUMVB"}, {"event": ["SERVICE_ACE", "TEAM"], "server": "Tim Edge", "point": "TRUMVB"}, {"event": ["KILL", "Jacob Kern", "Adam Schriemer"], "server": "Tim Edge", "point": "TWU"}, {"event": ["KILL", "Tim Edge", "Tyler Pomietlarz"], "server": "Ryan Sclater", "point": "TRUMVB"}, {"event": ["KILL", "Pearson Eshenko", "Adam Schriemer"], "server": "Randy Grundmann", "point": "TWU"}, {"event": ["ATTACK_ERROR", "Randy Grundmann"], "server": "Ben Lieuwen", "point": "TWU"}, {"event": ["KILL", "Jacob Kern", "Adam Schriemer"], "server": "Ben Lieuwen", "point": "TWU"}, {"event": ["KILL", "Pearson Eshenko", "Adam Schriemer"], "server": "Ben Lieuwen", "point": "TWU"}, {"event": ["ATTACK_ERROR", "Jacob Kern"], "server": "Ben Lieuwen", "point": "TRUMVB"}, {"event": ["KILL", "Jacob Kern", "Adam Schriemer"], "server": "Sam Taylor parks", "point": "TWU"}, {"event": ["SERVICE_ACE", "Kyle Behiels"], "server": "Pearson Eshenko", "point": "TWU"}, {"event": ["KILL", "Tim Edge", "Tyler Pomietlarz"], "server": "Pearson Eshenko", "point": "TRUMVB"}, {"event": ["KILL", "Aaron Boettcher", "Adam Schriemer"], "server": "Tyler Pomietlarz", "point": "TWU"}, {"event": ["KILL", "Tim Edge", "Tyler Pomietlarz"], "server": "Adam Schriemer", "point": "TRUMVB"}, {"event": ["SERVICE_ERROR"], "server": "Charlie Bringloe", "point": "TWU"}, {"event": ["ATTACK_ERROR", "Tim Edge"], "server": "Jacob Kern", "point": "TWU"}, ["TIMEOUT", "Timeout Thompson Rivers."], {"event": ["BAD_SET", "Aaron Boettcher"], "server": "Jacob Kern", "point": "TRUMVB"}, ["SUB", "TWU subs: Mark Antoniuk."], {"event": ["SERVICE_ERROR"], "server": "Kyle Behiels", "point": "TWU"}, {"event": ["SERVICE_ERROR"], "server": "Aaron Boettcher", "point": "TRUMVB"}, {"event": ["KILL", "Randy Grundmann", "Tyler Pomietlarz"], "server": "Tim Edge", "point": "TRUMVB"}, {"event": ["KILL", "Ben Lieuwen", "Adam Schriemer"], "server": "Tim Edge", "point": "TWU"}, ["TIMEOUT", "Timeout Thompson Rivers."], {"event": ["SERVICE_ACE", "Charlie Bringloe"], "server": "Ryan Sclater", "point": "TWU"}, {"event": ["KILL", "Randy Grundmann", "Tyler Pomietlarz"], "server": "Ryan Sclater", "point": "TRUMVB"}, ["SUB", "TWU subs: Scott Plocktis; Maddux Greves."], {"event": ["KILL", "Charlie Bringloe", "Tyler Pomietlarz"], "server": "Randy Grundmann", "point": "TRUMVB"}, ["TIMEOUT", "Timeout Trinity Western."], {"event": ["KILL", "Ben Lieuwen", "Maddux Greves"], "server": "Randy Grundmann", "point": "TWU"}, ["SUB", "TWU subs: Jacob Kern."], {"event": ["SERVICE_ERROR"], "server": "Ben Lieuwen", "point": "TRUMVB"}, {"event": ["KILL", "Pearson Eshenko", "Maddux Greves"], "server": "Sam Taylor parks", "point": "TWU"}, {"event": ["ATTACK_ERROR", "Charlie Bringloe", ["Scott Plocktis", "Aaron Boettcher"]], "server": "Pearson Eshenko", "point": "TWU"}, ["TIMEOUT", "Timeout Thompson Rivers."], {"event": ["KILL", "Tim Edge", "Tyler Pomietlarz"], "server": "Pearson Eshenko", "point": "TRUMVB"}, {"event": ["KILL", "Kyle Behiels", "Tyler Pomietlarz"], "server": "Tyler Pomietlarz", "point": "TRUMVB"}, {"event": ["ATTACK_ERROR", "Scott Plocktis"], "server": "Tyler Pomietlarz", "point": "TRUMVB"}, {"event": ["SERVICE_ACE", "Scott Plocktis"], "server": "Tyler Pomietlarz", "point": "TRUMVB"}, {"event": ["ATTACK_ERROR", "Tim Edge", ["Aaron Boettcher", "Jacob Kern"]], "server": "Tyler Pomietlarz", "point": "TWU"}, ["SUB", "TWU subs: Adam Schriemer; Ryan Sclater."], {"event": ["KILL", "Charlie Bringloe", "Tyler Pomietlarz"], "server": "Adam Schriemer", "point": "TRUMVB"}, {"event": ["KILL", "Aaron Boettcher", "Adam Schriemer"], "server": "Charlie Bringloe", "point": "TWU"}, {"event": ["ATTACK_ERROR", "Randy Grundmann"], "server": "Jacob Kern", "point": "TWU"}, {"event": ["KILL", "Kyle Behiels"], "server": "Jacob Kern", "point": "TRUMVB"}, {"event": ["SERVICE_ERROR"], "server": "Kyle Behiels", "point": "TWU"}, {"event": ["KILL", "Randy Grundmann", "Tyler Pomietlarz"], "server": "Aaron Boettcher", "point": "TRUMVB"}, ["TIMEOUT", "Timeout Trinity Western."], ["SUB", "TRUMVB subs: Jakob Hamilton."], {"event": ["KILL", "Ben Lieuwen", "Adam Schriemer"], "server": "Jakob Hamilton", "point": "TWU"}], "starters": {"TRUMVB": ["Tyler Pomietlarz", "Randy Grundmann", "Tim Edge", "Kyle Behiels", "Sam Taylor parks", "Charlie Bringloe", "Cole Keddie"], "TWU": ["Jacob Kern", "Aaron Boettcher", "Ryan Sclater", "Adam Schriemer", "Pearson Eshenko", "Ben Lieuwen", "Carter Bergen"]}}}, "source": "canadawest.org", "teams": [["canadawest.org:team/w41s4fuy1ldg73vw", "Thompson Rivers"], ["canadawest.org:team/dtjw1qxi3rsm18q9", "Trinity Western"]], "date": "2017-01-13", "id": "canadawest.org:game/20170113_c8x5"}
+{
+  "sets": {
+    "1": {
+      "events": [
+        {
+          "event": [
+            "BAD_SET",
+            "Carter Bergen"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Daniel Eikland rod",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Jacob Kern",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Randy Grundmann"
+          ],
+          "server": "Jacob Kern",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Kyle Behiels",
+            "Jakob Hamilton"
+          ],
+          "server": "Jacob Kern",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Adam Schriemer"
+          ],
+          "server": "Kyle Behiels",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Daniel Eikland rod"
+          ],
+          "server": "Aaron Boettcher",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "KILL",
+            "Randy Grundmann"
+          ],
+          "server": "Tim Edge",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Sam Taylor parks"
+          ],
+          "server": "Tim Edge",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Blake Scheerhoorn"
+          ],
+          "server": "Ryan Sclater",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Randy Grundmann",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Sam Taylor parks",
+            "Jakob Hamilton"
+          ],
+          "server": "Blake Scheerhoorn",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Randy Grundmann",
+            [
+              "Jacob Kern",
+              "Pearson Eshenko"
+            ]
+          ],
+          "server": "Sam Taylor parks",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Edge"
+          ],
+          "server": "Pearson Eshenko",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Daniel Eikland rod"
+          ],
+          "server": "Pearson Eshenko",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Jacob Kern",
+            "Adam Schriemer"
+          ],
+          "server": "Pearson Eshenko",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Pearson Eshenko",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Daniel Eikland rod",
+            "Jakob Hamilton"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Daniel Eikland rod",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Jacob Kern",
+          "point": "TRUMVB"
+        },
+        [
+          "SUB",
+          "TWU subs: Mark Antoniuk."
+        ],
+        {
+          "event": [
+            "BAD_SET",
+            "Adam Schriemer"
+          ],
+          "server": "Kyle Behiels",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Jakob Hamilton"
+          ],
+          "server": "Kyle Behiels",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "KILL",
+            "Adam Schriemer",
+            "Mark Antoniuk"
+          ],
+          "server": "Kyle Behiels",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Cole Keddie"
+          ],
+          "server": "Aaron Boettcher",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Aaron Boettcher",
+          "point": "TRUMVB"
+        },
+        [
+          "SUB",
+          "TRUMVB subs: Douglas Groenendijk; Tyler Pomietlarz."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Tyler Pomietlarz",
+          "point": "TWU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Ryan Sclater",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "BAD_SET",
+            "Tyler Pomietlarz"
+          ],
+          "server": "Randy Grundmann",
+          "point": "TWU"
+        },
+        [
+          "SUB",
+          "TWU subs: Jacob Kern."
+        ],
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Blake Scheerhoorn",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "KILL",
+            "Kyle Behiels",
+            "Jakob Hamilton"
+          ],
+          "server": "Sam Taylor parks",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Sam Taylor parks",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Daniel Eikland rod",
+            "Tyler Pomietlarz"
+          ],
+          "server": "Pearson Eshenko",
+          "point": "TRUMVB"
+        },
+        [
+          "SUB",
+          "TRUMVB subs: Tim Edge; Jakob Hamilton."
+        ],
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater"
+          ],
+          "server": "Jakob Hamilton",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "KILL",
+            "Adam Schriemer",
+            "Blake Scheerhoorn"
+          ],
+          "server": "Jakob Hamilton",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Edge",
+            [
+              "Aaron Boettcher",
+              "Jacob Kern"
+            ]
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Jacob Kern",
+            "Blake Scheerhoorn"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Adam Schriemer"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Daniel Eikland rod"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        }
+      ],
+      "starters": {
+        "TRUMVB": [
+          "Jakob Hamilton",
+          "Daniel Eikland rod",
+          "Randy Grundmann",
+          "Kyle Behiels",
+          "Tim Edge",
+          "Sam Taylor parks",
+          "Cole Keddie"
+        ],
+        "TWU": [
+          "Adam Schriemer",
+          "Aaron Boettcher",
+          "Jacob Kern",
+          "Ryan Sclater",
+          "Pearson Eshenko",
+          "Blake Scheerhoorn",
+          "Carter Bergen"
+        ]
+      }
+    },
+    "2": {
+      "events": [
+        {
+          "event": [
+            "KILL",
+            "Jacob Kern",
+            "Adam Schriemer"
+          ],
+          "server": "Jakob Hamilton",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Randy Grundmann"
+          ],
+          "server": "Daniel Eikland rod",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Daniel Eikland rod",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Daniel Eikland rod"
+          ],
+          "server": "Jacob Kern",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Jacob Kern",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Adam Schriemer"
+          ],
+          "server": "Kyle Behiels",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "BAD_SET",
+            "Jakob Hamilton"
+          ],
+          "server": "Aaron Boettcher",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Daniel Eikland rod"
+          ],
+          "server": "Aaron Boettcher",
+          "point": "TWU"
+        },
+        [
+          "SUB",
+          "TRUMVB subs: Anton Napolitano."
+        ],
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Anton Napolitano"
+          ],
+          "server": "Aaron Boettcher",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Randy Grundmann"
+          ],
+          "server": "Aaron Boettcher",
+          "point": "TWU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Aaron Boettcher",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater"
+          ],
+          "server": "Tim Edge",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Tim Edge",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Ryan Sclater",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "KILL",
+            "Anton Napolitano",
+            "Jakob Hamilton"
+          ],
+          "server": "Randy Grundmann",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Adam Schriemer"
+          ],
+          "server": "Randy Grundmann",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Blake Scheerhoorn",
+            "Adam Schriemer"
+          ],
+          "server": "Blake Scheerhoorn",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Jacob Kern",
+            "Adam Schriemer"
+          ],
+          "server": "Blake Scheerhoorn",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Blake Scheerhoorn",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Sam Taylor parks",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ],
+          "server": "Pearson Eshenko",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Anton Napolitano",
+            [
+              "Adam Schriemer",
+              "Aaron Boettcher"
+            ]
+          ],
+          "server": "Pearson Eshenko",
+          "point": "TWU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Pearson Eshenko",
+          "point": "TWU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Anton Napolitano"
+          ],
+          "server": "Pearson Eshenko",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Kyle Behiels"
+          ],
+          "server": "Pearson Eshenko",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ],
+          "server": "Pearson Eshenko",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Anton Napolitano"
+          ],
+          "server": "Pearson Eshenko",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Tim Edge"
+          ],
+          "server": "Pearson Eshenko",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Kyle Behiels",
+            [
+              "Adam Schriemer",
+              "Aaron Boettcher"
+            ]
+          ],
+          "server": "Pearson Eshenko",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Pearson Eshenko",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "KILL",
+            "Jacob Kern",
+            "Adam Schriemer"
+          ],
+          "server": "Jakob Hamilton",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Anton Napolitano",
+            "Jakob Hamilton"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater",
+            [
+              "Tim Edge",
+              "Kyle Behiels"
+            ]
+          ],
+          "server": "Anton Napolitano",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Anton Napolitano",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Jakob Hamilton"
+          ],
+          "server": "Jacob Kern",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Kyle Behiels",
+          "point": "TWU"
+        }
+      ],
+      "starters": {
+        "TRUMVB": [
+          "Sam Taylor parks",
+          "Kyle Behiels",
+          "Randy Grundmann",
+          "Tim Edge",
+          "Jakob Hamilton",
+          "Daniel Eikland rod",
+          "Cole Keddie"
+        ],
+        "TWU": [
+          "Pearson Eshenko",
+          "Blake Scheerhoorn",
+          "Ryan Sclater",
+          "Adam Schriemer",
+          "Aaron Boettcher",
+          "Jacob Kern",
+          "Carter Bergen"
+        ]
+      }
+    },
+    "3": {
+      "events": [
+        {
+          "event": [
+            "KILL",
+            "Kyle Behiels",
+            "Tyler Pomietlarz"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Carter Bergen"
+          ],
+          "server": "Charlie Bringloe",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "KILL",
+            "Jacob Kern"
+          ],
+          "server": "Charlie Bringloe",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ],
+          "server": "Jacob Kern",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Tyler Pomietlarz"
+          ],
+          "server": "Jacob Kern",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ben Lieuwen",
+            "Adam Schriemer"
+          ],
+          "server": "Kyle Behiels",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Charlie Bringloe"
+          ],
+          "server": "Aaron Boettcher",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Tyler Pomietlarz"
+          ],
+          "server": "Aaron Boettcher",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Carter Bergen"
+          ],
+          "server": "Tim Edge",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ],
+          "server": "Tim Edge",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "KILL",
+            "Jacob Kern",
+            "Adam Schriemer"
+          ],
+          "server": "Tim Edge",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Tyler Pomietlarz"
+          ],
+          "server": "Ryan Sclater",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "KILL",
+            "Pearson Eshenko",
+            "Adam Schriemer"
+          ],
+          "server": "Randy Grundmann",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Randy Grundmann"
+          ],
+          "server": "Ben Lieuwen",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Jacob Kern",
+            "Adam Schriemer"
+          ],
+          "server": "Ben Lieuwen",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Pearson Eshenko",
+            "Adam Schriemer"
+          ],
+          "server": "Ben Lieuwen",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Jacob Kern"
+          ],
+          "server": "Ben Lieuwen",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "KILL",
+            "Jacob Kern",
+            "Adam Schriemer"
+          ],
+          "server": "Sam Taylor parks",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Kyle Behiels"
+          ],
+          "server": "Pearson Eshenko",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Tyler Pomietlarz"
+          ],
+          "server": "Pearson Eshenko",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ],
+          "server": "Tyler Pomietlarz",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Tyler Pomietlarz"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Charlie Bringloe",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Edge"
+          ],
+          "server": "Jacob Kern",
+          "point": "TWU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "event": [
+            "BAD_SET",
+            "Aaron Boettcher"
+          ],
+          "server": "Jacob Kern",
+          "point": "TRUMVB"
+        },
+        [
+          "SUB",
+          "TWU subs: Mark Antoniuk."
+        ],
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Kyle Behiels",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Aaron Boettcher",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Tyler Pomietlarz"
+          ],
+          "server": "Tim Edge",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ben Lieuwen",
+            "Adam Schriemer"
+          ],
+          "server": "Tim Edge",
+          "point": "TWU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Charlie Bringloe"
+          ],
+          "server": "Ryan Sclater",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Tyler Pomietlarz"
+          ],
+          "server": "Ryan Sclater",
+          "point": "TRUMVB"
+        },
+        [
+          "SUB",
+          "TWU subs: Scott Plocktis; Maddux Greves."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Charlie Bringloe",
+            "Tyler Pomietlarz"
+          ],
+          "server": "Randy Grundmann",
+          "point": "TRUMVB"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Ben Lieuwen",
+            "Maddux Greves"
+          ],
+          "server": "Randy Grundmann",
+          "point": "TWU"
+        },
+        [
+          "SUB",
+          "TWU subs: Jacob Kern."
+        ],
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Ben Lieuwen",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "KILL",
+            "Pearson Eshenko",
+            "Maddux Greves"
+          ],
+          "server": "Sam Taylor parks",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Charlie Bringloe",
+            [
+              "Scott Plocktis",
+              "Aaron Boettcher"
+            ]
+          ],
+          "server": "Pearson Eshenko",
+          "point": "TWU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Thompson Rivers."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Tim Edge",
+            "Tyler Pomietlarz"
+          ],
+          "server": "Pearson Eshenko",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "KILL",
+            "Kyle Behiels",
+            "Tyler Pomietlarz"
+          ],
+          "server": "Tyler Pomietlarz",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Scott Plocktis"
+          ],
+          "server": "Tyler Pomietlarz",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Scott Plocktis"
+          ],
+          "server": "Tyler Pomietlarz",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Tim Edge",
+            [
+              "Aaron Boettcher",
+              "Jacob Kern"
+            ]
+          ],
+          "server": "Tyler Pomietlarz",
+          "point": "TWU"
+        },
+        [
+          "SUB",
+          "TWU subs: Adam Schriemer; Ryan Sclater."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Charlie Bringloe",
+            "Tyler Pomietlarz"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ],
+          "server": "Charlie Bringloe",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Randy Grundmann"
+          ],
+          "server": "Jacob Kern",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Kyle Behiels"
+          ],
+          "server": "Jacob Kern",
+          "point": "TRUMVB"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Kyle Behiels",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Randy Grundmann",
+            "Tyler Pomietlarz"
+          ],
+          "server": "Aaron Boettcher",
+          "point": "TRUMVB"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        [
+          "SUB",
+          "TRUMVB subs: Jakob Hamilton."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Ben Lieuwen",
+            "Adam Schriemer"
+          ],
+          "server": "Jakob Hamilton",
+          "point": "TWU"
+        }
+      ],
+      "starters": {
+        "TRUMVB": [
+          "Tyler Pomietlarz",
+          "Randy Grundmann",
+          "Tim Edge",
+          "Kyle Behiels",
+          "Sam Taylor parks",
+          "Charlie Bringloe",
+          "Cole Keddie"
+        ],
+        "TWU": [
+          "Jacob Kern",
+          "Aaron Boettcher",
+          "Ryan Sclater",
+          "Adam Schriemer",
+          "Pearson Eshenko",
+          "Ben Lieuwen",
+          "Carter Bergen"
+        ]
+      }
+    }
+  },
+  "source": "canadawest.org",
+  "teams": [
+    [
+      "canadawest.org:team/w41s4fuy1ldg73vw",
+      "Thompson Rivers"
+    ],
+    [
+      "canadawest.org:team/dtjw1qxi3rsm18q9",
+      "Trinity Western"
+    ]
+  ],
+  "date": "2017-01-13",
+  "id": "canadawest.org:game/20170113_c8x5"
+}

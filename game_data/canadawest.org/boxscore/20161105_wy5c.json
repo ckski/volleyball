@@ -1,0 +1,198 @@
+{
+  "ta_per_set": {
+    "Trinity Western": [
+      32,
+      22,
+      28
+    ],
+    "Calgary": [
+      24,
+      22,
+      28
+    ]
+  },
+  "teams": {
+    "Trinity Western": [
+      [
+        "canadawest.org:player/emz650we21ws39ek",
+        "Pearson Eshenko",
+        {
+          "TA": 8,
+          "DIGS": 1
+        }
+      ],
+      [
+        "canadawest.org:player/34ls5w39wpo73g0z",
+        "Carter Bergen",
+        {
+          "TA": 0,
+          "DIGS": 2
+        }
+      ],
+      [
+        "canadawest.org:player/t8gdila5hzt3rzw8",
+        "Mark Antoniuk",
+        {
+          "TA": 0,
+          "DIGS": 1
+        }
+      ],
+      [
+        "canadawest.org:player/h63nyiuehsuwc67g",
+        "Eric Loeppky",
+        {
+          "TA": 21,
+          "DIGS": 1
+        }
+      ],
+      [
+        "canadawest.org:player/incaoq15iqbtgy51",
+        "Ryan Sclater",
+        {
+          "TA": 25,
+          "DIGS": 4
+        }
+      ],
+      [
+        "canadawest.org:player/ug5tcbeolhwbyczp",
+        "Adam Schriemer",
+        {
+          "TA": 1,
+          "DIGS": 3
+        }
+      ],
+      [
+        "canadawest.org:player/10l1g0p7vjj5ghjn",
+        "Leigh Goossen",
+        {
+          "TA": 1,
+          "DIGS": 2
+        }
+      ],
+      [
+        "canadawest.org:player/tc3dys9iulw7d2jv",
+        "Aaron Boettcher",
+        {
+          "TA": 7,
+          "DIGS": 1
+        }
+      ],
+      [
+        "canadawest.org:player/f7urae2b029nob7f",
+        "Jacob Kern",
+        {
+          "TA": 19,
+          "DIGS": 1
+        }
+      ],
+      [
+        "canadawest.org:player/l6yngqc5jwly6wro",
+        "Maddux Greves",
+        {
+          "TA": 0,
+          "DIGS": 0
+        }
+      ],
+      [
+        "canadawest.org:player/h1n0qxkb7jm7wavw",
+        "Jordan Koslowsky",
+        {
+          "TA": 0,
+          "DIGS": 1
+        }
+      ]
+    ],
+    "Calgary": [
+      [
+        "canadawest.org:player/ibatmbqkxeh0m58l",
+        "Parker Maris",
+        {
+          "TA": 0,
+          "DIGS": 0
+        }
+      ],
+      [
+        "canadawest.org:player/vxsay1qd4v8a0jlh",
+        "Derek Meeuwisse",
+        {
+          "TA": 0,
+          "DIGS": 8
+        }
+      ],
+      [
+        "canadawest.org:player/1kawqu7a8hvxhray",
+        "Keith West",
+        {
+          "TA": 23,
+          "DIGS": 6
+        }
+      ],
+      [
+        "canadawest.org:player/oqqwfl5pmszrgnku",
+        "Curtis Stockton",
+        {
+          "TA": 21,
+          "DIGS": 2
+        }
+      ],
+      [
+        "canadawest.org:player/juuzhwttmftcz930",
+        "Sean Martin",
+        {
+          "TA": 4,
+          "DIGS": 1
+        }
+      ],
+      [
+        "canadawest.org:player/plrlluqsd1ppphpa",
+        "Parker Siroishka",
+        {
+          "TA": 0,
+          "DIGS": 0
+        }
+      ],
+      [
+        "canadawest.org:player/ufc6wcjq3x8qkp87",
+        "Cole Trifunov",
+        {
+          "TA": 2,
+          "DIGS": 0
+        }
+      ],
+      [
+        "canadawest.org:player/lmj2reyccuac39wi",
+        "Alex Bader",
+        {
+          "TA": 13,
+          "DIGS": 1
+        }
+      ],
+      [
+        "canadawest.org:player/ffatky1nzdjt47ea",
+        "Brett Bolin",
+        {
+          "TA": 6,
+          "DIGS": 0
+        }
+      ],
+      [
+        "canadawest.org:player/ytw4vau16ryv3ibl",
+        "Liam Laidlaw",
+        {
+          "TA": 0,
+          "DIGS": 0
+        }
+      ],
+      [
+        "canadawest.org:player/v7yx1mqu1vh7i7qs",
+        "Alex Cook",
+        {
+          "TA": 5,
+          "DIGS": 3
+        }
+      ]
+    ]
+  },
+  "id": "canadawest.org:game/20161105_wy5c",
+  "source": "canadawest.org"
+}

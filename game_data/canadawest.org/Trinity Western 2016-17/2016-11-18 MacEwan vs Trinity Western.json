@@ -1,1 +1,1351 @@
-{"sets": {"1": {"events": [{"event": ["ATTACK_ERROR", "Aaron Boettcher", ["Christian Sides", "Max Vriend"]], "server": "Eric Loeppky", "point": "MACEWAN"}, {"event": ["KILL", "Adam Schriemer", "Mark Antoniuk"], "server": "Shane Kerrison", "point": "TWU"}, {"event": ["SERVICE_ACE", "TEAM"], "server": "Aaron Boettcher", "point": "TWU"}, {"event": ["ATTACK_ERROR", "Ryan Sclater", ["Max Vriend"]], "server": "Aaron Boettcher", "point": "MACEWAN"}, {"event": ["KILL", "Adam Schriemer", "Ryan Sclater"], "server": "Christian Sides", "point": "TWU"}, {"event": ["KILL", "Kornel Kowalewski", "Matthew Mohler"], "server": "Adam Schriemer", "point": "MACEWAN"}, {"event": ["KILL", "Scott Plocktis", "Adam Schriemer"], "server": "Max Vriend", "point": "TWU"}, {"event": ["KILL", "Max Vriend", "Matthew Mohler"], "server": "Ryan Sclater", "point": "MACEWAN"}, {"event": ["ATTACK_ERROR", "Eric Loeppky"], "server": "Kai Hesthammer", "point": "MACEWAN"}, {"event": ["KILL", "Kornel Kowalewski", "Matthew Mohler"], "server": "Kai Hesthammer", "point": "MACEWAN"}, {"event": ["KILL", "Ryan Sclater", "Adam Schriemer"], "server": "Kai Hesthammer", "point": "TWU"}, {"event": ["KILL", "Eric Loeppky", "Adam Schriemer"], "server": "Pearson Eshenko", "point": "TWU"}, {"event": ["KILL", "Max Vriend", "Matthew Mohler"], "server": "Pearson Eshenko", "point": "MACEWAN"}, {"event": ["KILL", "Ryan Sclater", "Adam Schriemer"], "server": "Kornel Kowalewski", "point": "TWU"}, {"event": ["SERVICE_ERROR"], "server": "Scott Plocktis", "point": "MACEWAN"}, ["TIMEOUT", "Timeout Trinity Western."], {"event": ["KILL", "Aaron Boettcher", "Adam Schriemer"], "server": "Matthew Mohler", "point": "TWU"}, {"event": ["SERVICE_ERROR"], "server": "Eric Loeppky", "point": "MACEWAN"}, {"event": ["SERVICE_ACE", "Mark Antoniuk"], "server": "Shane Kerrison", "point": "MACEWAN"}, {"event": ["KILL", "Ryan Sclater", "Adam Schriemer"], "server": "Shane Kerrison", "point": "TWU"}, {"event": ["ATTACK_ERROR", "Kai Hesthammer"], "server": "Aaron Boettcher", "point": "TWU"}, {"event": ["ATTACK_ERROR", "Ryan Sclater"], "server": "Aaron Boettcher", "point": "MACEWAN"}, {"event": ["ATTACK_ERROR", "Scott Plocktis"], "server": "Christian Sides", "point": "MACEWAN"}, {"event": ["SERVICE_ERROR"], "server": "Christian Sides", "point": "TWU"}, {"event": ["KILL", "Shane Kerrison", "Matthew Mohler"], "server": "Adam Schriemer", "point": "MACEWAN"}, {"event": ["SERVICE_ERROR"], "server": "Max Vriend", "point": "TWU"}, {"event": ["KILL", "Scott Plocktis", "Adam Schriemer"], "server": "Ryan Sclater", "point": "TWU"}, {"event": ["SERVICE_ERROR"], "server": "Ryan Sclater", "point": "MACEWAN"}, {"event": ["KILL", "Ryan Sclater", "Adam Schriemer"], "server": "Kai Hesthammer", "point": "TWU"}, {"event": ["KILL", "Scott Plocktis"], "server": "Pearson Eshenko", "point": "TWU"}, {"event": ["KILL", "Aaron Boettcher", "Adam Schriemer"], "server": "Pearson Eshenko", "point": "TWU"}, ["TIMEOUT", "Timeout (Media)."], {"event": ["KILL", "Kornel Kowalewski"], "server": "Pearson Eshenko", "point": "MACEWAN"}, {"event": ["KILL", "Scott Plocktis", "Adam Schriemer"], "server": "Kornel Kowalewski", "point": "TWU"}, ["SUB", "TWU subs: Carter Bergen."], {"event": ["ATTACK_ERROR", "Christian Sides", ["Aaron Boettcher", "Eric Loeppky"]], "server": "Carter Bergen", "point": "TWU"}, ["TIMEOUT", "Timeout MacEwan."], {"event": ["ATTACK_ERROR", "Shane Kerrison", ["Adam Schriemer", "Aaron Boettcher"]], "server": "Carter Bergen", "point": "TWU"}, {"event": ["KILL", "Christian Sides", "Matthew Mohler"], "server": "Carter Bergen", "point": "MACEWAN"}, {"event": ["KILL", "Eric Loeppky", "Adam Schriemer"], "server": "Matthew Mohler", "point": "TWU"}, ["TIMEOUT", "Timeout Trinity Western."], {"event": ["KILL", "Aaron Boettcher", "Adam Schriemer"], "server": "Eric Loeppky", "point": "TWU"}, {"event": ["SERVICE_ERROR"], "server": "Eric Loeppky", "point": "MACEWAN"}, {"event": ["KILL", "Aaron Boettcher", "Adam Schriemer"], "server": "Shane Kerrison", "point": "TWU"}, {"event": ["KILL", "Max Vriend", "Matthew Mohler"], "server": "Aaron Boettcher", "point": "MACEWAN"}, {"event": ["KILL", "Ryan Sclater", "Ryan Sclater"], "server": "Christian Sides", "point": "TWU"}, ["SUB", "TWU subs: Scott Plocktis."], {"event": ["SERVICE_ACE", "TEAM"], "server": "Adam Schriemer", "point": "TWU"}, {"event": ["KILL", "Kai Hesthammer", "Matthew Mohler"], "server": "Adam Schriemer", "point": "MACEWAN"}, ["SUB", "MACEWAN subs: Joshua Peters."], {"event": ["ATTACK_ERROR", "Ryan Sclater"], "server": "Max Vriend", "point": "MACEWAN"}, {"event": ["BAD_SET", "Adam Schriemer"], "server": "Max Vriend", "point": "MACEWAN"}, {"event": ["ATTACK_ERROR", "Pearson Eshenko", ["Kornel Kowalewski"]], "server": "Max Vriend", "point": "MACEWAN"}, {"event": ["KILL", "Ryan Sclater", "Adam Schriemer"], "server": "Max Vriend", "point": "TWU"}], "starters": {"MACEWAN": ["Matthew Mohler", "Shane Kerrison", "Kornel Kowalewski", "Kai Hesthammer", "Christian Sides", "Max Vriend", "Kirk Testawich"], "TWU": ["Pearson Eshenko", "Ryan Sclater", "Scott Plocktis", "Adam Schriemer", "Aaron Boettcher", "Eric Loeppky", "Mark Antoniuk"]}}, "2": {"events": [{"event": ["SERVICE_ERROR"], "server": "Max Vriend", "point": "TWU"}, {"event": ["ATTACK_ERROR", "Scott Plocktis"], "server": "Christian Sides", "point": "MACEWAN"}, {"event": ["SERVICE_ACE", "TEAM"], "server": "Christian Sides", "point": "MACEWAN"}, {"event": ["ATTACK_ERROR", "Ryan Sclater", ["Max Vriend", "Kornel Kowalewski"]], "server": "Christian Sides", "point": "MACEWAN"}, {"event": ["ATTACK_ERROR", "Ryan Sclater", ["Max Vriend", "Kornel Kowalewski"]], "server": "Christian Sides", "point": "MACEWAN"}, {"event": ["KILL", "Ryan Sclater", "Adam Schriemer"], "server": "Christian Sides", "point": "TWU"}, {"event": ["SERVICE_ACE", "TEAM"], "server": "Ryan Sclater", "point": "TWU"}, {"event": ["ATTACK_ERROR", "Kai Hesthammer"], "server": "Ryan Sclater", "point": "TWU"}, {"event": ["ATTACK_ERROR", "Kai Hesthammer", ["Scott Plocktis", "Pearson Eshenko"]], "server": "Ryan Sclater", "point": "TWU"}, ["TIMEOUT", "Timeout MacEwan."], {"event": ["ATTACK_ERROR", "Max Vriend"], "server": "Ryan Sclater", "point": "TWU"}, {"event": ["SERVICE_ACE", "TEAM"], "server": "Ryan Sclater", "point": "TWU"}, {"event": ["SERVICE_ACE", "Shane Kerrison"], "server": "Ryan Sclater", "point": "TWU"}, {"event": ["KILL", "Pearson Eshenko"], "server": "Ryan Sclater", "point": "TWU"}, {"event": ["KILL", "Max Vriend", "Matthew Mohler"], "server": "Ryan Sclater", "point": "MACEWAN"}, {"event": ["SERVICE_ACE", "TEAM"], "server": "Max Vriend", "point": "MACEWAN"}, {"event": ["KILL", "Ryan Sclater", "Adam Schriemer"], "server": "Max Vriend", "point": "TWU"}, {"event": ["KILL", "Shane Kerrison", "Matthew Mohler"], "server": "Pearson Eshenko", "point": "MACEWAN"}, {"event": ["KILL", "Eric Loeppky", "Adam Schriemer"], "server": "Kai Hesthammer", "point": "TWU"}, {"event": ["SERVICE_ERROR"], "server": "Scott Plocktis", "point": "MACEWAN"}, {"event": ["KILL", "Ryan Sclater", "Adam Schriemer"], "server": "Kornel Kowalewski", "point": "TWU"}, {"event": ["SERVICE_ERROR"], "server": "Eric Loeppky", "point": "MACEWAN"}, {"event": ["ATTACK_ERROR", "Max Vriend", ["Aaron Boettcher", "Ryan Sclater"]], "server": "Matthew Mohler", "point": "TWU"}, {"event": ["KILL", "Max Vriend", "Matthew Mohler"], "server": "Aaron Boettcher", "point": "MACEWAN"}, {"event": ["KILL", "Kai Hesthammer", "Matthew Mohler"], "server": "Shane Kerrison", "point": "MACEWAN"}, {"event": ["KILL", "Eric Loeppky", "Adam Schriemer"], "server": "Shane Kerrison", "point": "TWU"}, {"event": ["ATTACK_ERROR", "Kai Hesthammer"], "server": "Adam Schriemer", "point": "TWU"}, {"event": ["KILL", "Eric Loeppky", "Adam Schriemer"], "server": "Adam Schriemer", "point": "TWU"}, ["TIMEOUT", "Timeout (Media)."], {"event": ["KILL", "Ryan Sclater", "Adam Schriemer"], "server": "Adam Schriemer", "point": "TWU"}, {"event": ["KILL", "Eric Loeppky", "Adam Schriemer"], "server": "Adam Schriemer", "point": "TWU"}, ["TIMEOUT", "Timeout MacEwan."], {"event": ["KILL", "Max Vriend", "Matthew Mohler"], "server": "Adam Schriemer", "point": "MACEWAN"}, {"event": ["ATTACK_ERROR", "Ryan Sclater"], "server": "Christian Sides", "point": "MACEWAN"}, {"event": ["KILL", "Ryan Sclater", "Adam Schriemer"], "server": "Christian Sides", "point": "TWU"}, {"event": ["ATTACK_ERROR", "Max Vriend"], "server": "Ryan Sclater", "point": "TWU"}, ["TIMEOUT", "Timeout Trinity Western."], {"event": ["KILL", "Pearson Eshenko", "Adam Schriemer"], "server": "Ryan Sclater", "point": "TWU"}, {"event": ["SERVICE_ERROR"], "server": "Ryan Sclater", "point": "MACEWAN"}, {"event": ["KILL", "Pearson Eshenko", "Adam Schriemer"], "server": "Max Vriend", "point": "TWU"}, ["SUB", "TWU subs: Jordan Koslowsky."], {"event": ["KILL", "Kai Hesthammer", "Matthew Mohler"], "server": "Jordan Koslowsky", "point": "MACEWAN"}, {"event": ["KILL", "Aaron Boettcher", "Adam Schriemer"], "server": "Kai Hesthammer", "point": "TWU"}, {"event": ["KILL", "Shane Kerrison", "Matthew Mohler"], "server": "Scott Plocktis", "point": "MACEWAN"}, {"event": ["KILL", "Aaron Boettcher", "Adam Schriemer"], "server": "Kornel Kowalewski", "point": "TWU"}, {"event": ["KILL", "Shane Kerrison", "Matthew Mohler"], "server": "Eric Loeppky", "point": "MACEWAN"}, {"event": ["KILL", "Aaron Boettcher", "Adam Schriemer"], "server": "Matthew Mohler", "point": "TWU"}], "starters": {"TWU": ["Pearson Eshenko", "Aaron Boettcher", "Adam Schriemer", "Eric Loeppky", "Scott Plocktis", "Ryan Sclater", "Mark Antoniuk"], "MACEWAN": ["Matthew Mohler", "Kai Hesthammer", "Shane Kerrison", "Max Vriend", "Christian Sides", "Kornel Kowalewski", "Kirk Testawich"]}}, "3": {"events": [{"event": ["KILL", "Christian Sides", "Kai Hesthammer"], "server": "Eric Loeppky", "point": "MACEWAN"}, {"event": ["KILL", "Jordan Peters", "Matthew Mohler"], "server": "Kai Hesthammer", "point": "MACEWAN"}, {"event": ["KILL", "Ryan Sclater", "Adam Schriemer"], "server": "Kai Hesthammer", "point": "TWU"}, {"event": ["ATTACK_ERROR", "Jordan Peters", ["Aaron Boettcher", "Adam Schriemer"]], "server": "Leigh Goossen", "point": "TWU"}, {"event": ["KILL", "Shane Kerrison", "Matthew Mohler"], "server": "Leigh Goossen", "point": "MACEWAN"}, {"event": ["KILL", "Ryan Sclater", "Adam Schriemer"], "server": "Max Vriend", "point": "TWU"}, {"event": ["KILL", "Kornel Kowalewski", "Matthew Mohler"], "server": "Adam Schriemer", "point": "MACEWAN"}, {"event": ["KILL", "Ryan Sclater", "Adam Schriemer"], "server": "Shane Kerrison", "point": "TWU"}, {"event": ["SERVICE_ERROR"], "server": "Ryan Sclater", "point": "MACEWAN"}, {"event": ["KILL", "Max Vriend", "Matthew Mohler"], "server": "Jordan Peters", "point": "MACEWAN"}, {"event": ["ATTACK_ERROR", "Kai Hesthammer", ["Aaron Boettcher", "Scott Plocktis"]], "server": "Jordan Peters", "point": "TWU"}, {"event": ["SERVICE_ERROR"], "server": "Aaron Boettcher", "point": "MACEWAN"}, {"event": ["KILL", "Ryan Sclater", "Adam Schriemer"], "server": "Kornel Kowalewski", "point": "TWU"}, {"event": ["KILL", "Leigh Goossen", "Leigh Goossen"], "server": "Scott Plocktis", "point": "TWU"}, {"event": ["KILL", "Eric Loeppky", "Adam Schriemer"], "server": "Scott Plocktis", "point": "TWU"}, ["TIMEOUT", "Timeout Trinity Western."], {"event": ["KILL", "Scott Plocktis", "Adam Schriemer"], "server": "Scott Plocktis", "point": "TWU"}, {"event": ["SERVICE_ERROR"], "server": "Scott Plocktis", "point": "MACEWAN"}, {"event": ["KILL", "Eric Loeppky", "Adam Schriemer"], "server": "Matthew Mohler", "point": "TWU"}, {"event": ["ATTACK_ERROR", "Ryan Sclater"], "server": "Eric Loeppky", "point": "MACEWAN"}, {"event": ["ATTACK_ERROR", "Ryan Sclater"], "server": "Kai Hesthammer", "point": "MACEWAN"}, {"event": ["KILL", "Eric Loeppky", "Adam Schriemer"], "server": "Kai Hesthammer", "point": "TWU"}, {"event": ["KILL", "Shane Kerrison", "Matthew Mohler"], "server": "Leigh Goossen", "point": "MACEWAN"}, {"event": ["KILL", "Scott Plocktis", "Adam Schriemer"], "server": "Max Vriend", "point": "TWU"}, {"event": ["ATTACK_ERROR", "Jordan Peters", ["Scott Plocktis"]], "server": "Adam Schriemer", "point": "TWU"}, {"event": ["SERVICE_ERROR"], "server": "Adam Schriemer", "point": "MACEWAN"}, {"event": ["KILL", "Eric Loeppky", "Adam Schriemer"], "server": "Shane Kerrison", "point": "TWU"}, {"event": ["KILL", "Jordan Peters", "Matthew Mohler"], "server": "Ryan Sclater", "point": "MACEWAN"}, {"event": ["KILL", "Aaron Boettcher", "Adam Schriemer"], "server": "Jordan Peters", "point": "TWU"}, {"event": ["ATTACK_ERROR", "Kai Hesthammer"], "server": "Aaron Boettcher", "point": "TWU"}, ["TIMEOUT", "Timeout (Media)."], {"event": ["SERVICE_ERROR"], "server": "Aaron Boettcher", "point": "MACEWAN"}, {"event": ["ATTACK_ERROR", "Eric Loeppky", ["Matthew Mohler", "Kai Hesthammer"]], "server": "Kornel Kowalewski", "point": "MACEWAN"}, {"event": ["KILL", "Eric Loeppky", "Adam Schriemer"], "server": "Kornel Kowalewski", "point": "TWU"}, {"event": ["KILL", "Kai Hesthammer"], "server": "Scott Plocktis", "point": "MACEWAN"}, {"event": ["SERVICE_ACE", "Adam Schriemer"], "server": "Matthew Mohler", "point": "MACEWAN"}, {"event": ["KILL", "Shane Kerrison", "Kirk Testawich"], "server": "Matthew Mohler", "point": "MACEWAN"}, {"event": ["ATTACK_ERROR", "Kai Hesthammer"], "server": "Matthew Mohler", "point": "TWU"}, {"event": ["KILL", "Ryan Sclater", "Adam Schriemer"], "server": "Cameron Slomp", "point": "TWU"}, ["TIMEOUT", "Timeout MacEwan."], {"event": ["KILL", "Shane Kerrison", "Matthew Mohler"], "server": "Eric Loeppky", "point": "MACEWAN"}, {"event": ["ATTACK_ERROR", "Shane Kerrison"], "server": "Kai Hesthammer", "point": "TWU"}, {"event": ["ATTACK_ERROR", "Aaron Boettcher"], "server": "Leigh Goossen", "point": "MACEWAN"}, {"event": ["ATTACK_ERROR", "Eric Loeppky"], "server": "Max Vriend", "point": "MACEWAN"}, ["TIMEOUT", "Timeout Trinity Western."], {"event": ["SERVICE_ERROR"], "server": "Max Vriend", "point": "TWU"}, {"event": ["KILL", "Aaron Boettcher", "Adam Schriemer"], "server": "Adam Schriemer", "point": "TWU"}, ["TIMEOUT", "Timeout MacEwan."], {"event": ["ATTACK_ERROR", "Shane Kerrison"], "server": "Adam Schriemer", "point": "TWU"}, {"event": ["KILL", "Kornel Kowalewski", "Matthew Mohler"], "server": "Adam Schriemer", "point": "MACEWAN"}, {"event": ["KILL", "Aaron Boettcher"], "server": "Shane Kerrison", "point": "TWU"}, {"event": ["KILL", "Eric Loeppky", "Scott Plocktis"], "server": "Ryan Sclater", "point": "TWU"}], "starters": {"MACEWAN": ["Matthew Mohler", "Kai Hesthammer", "Max Vriend", "Shane Kerrison", "Jordan Peters", "Kornel Kowalewski", "Kirk Testawich"], "TWU": ["Eric Loeppky", "Leigh Goossen", "Adam Schriemer", "Ryan Sclater", "Aaron Boettcher", "Scott Plocktis", "Carter Bergen"]}}}, "source": "canadawest.org", "teams": [["canadawest.org:team/afgkow4zpogyvpag", "MacEwan"], ["canadawest.org:team/dtjw1qxi3rsm18q9", "Trinity Western"]], "date": "2016-11-18", "id": "canadawest.org:game/20161118_146o"}
+{
+  "sets": {
+    "1": {
+      "events": [
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Aaron Boettcher",
+            [
+              "Christian Sides",
+              "Max Vriend"
+            ]
+          ],
+          "server": "Eric Loeppky",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Adam Schriemer",
+            "Mark Antoniuk"
+          ],
+          "server": "Shane Kerrison",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ],
+          "server": "Aaron Boettcher",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater",
+            [
+              "Max Vriend"
+            ]
+          ],
+          "server": "Aaron Boettcher",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Adam Schriemer",
+            "Ryan Sclater"
+          ],
+          "server": "Christian Sides",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Kornel Kowalewski",
+            "Matthew Mohler"
+          ],
+          "server": "Adam Schriemer",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Scott Plocktis",
+            "Adam Schriemer"
+          ],
+          "server": "Max Vriend",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Max Vriend",
+            "Matthew Mohler"
+          ],
+          "server": "Ryan Sclater",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Eric Loeppky"
+          ],
+          "server": "Kai Hesthammer",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Kornel Kowalewski",
+            "Matthew Mohler"
+          ],
+          "server": "Kai Hesthammer",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Kai Hesthammer",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ],
+          "server": "Pearson Eshenko",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Max Vriend",
+            "Matthew Mohler"
+          ],
+          "server": "Pearson Eshenko",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Kornel Kowalewski",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Scott Plocktis",
+          "point": "MACEWAN"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ],
+          "server": "Matthew Mohler",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Eric Loeppky",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Mark Antoniuk"
+          ],
+          "server": "Shane Kerrison",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Shane Kerrison",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Kai Hesthammer"
+          ],
+          "server": "Aaron Boettcher",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater"
+          ],
+          "server": "Aaron Boettcher",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Scott Plocktis"
+          ],
+          "server": "Christian Sides",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Christian Sides",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Shane Kerrison",
+            "Matthew Mohler"
+          ],
+          "server": "Adam Schriemer",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Max Vriend",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Scott Plocktis",
+            "Adam Schriemer"
+          ],
+          "server": "Ryan Sclater",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Ryan Sclater",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Kai Hesthammer",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Scott Plocktis"
+          ],
+          "server": "Pearson Eshenko",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ],
+          "server": "Pearson Eshenko",
+          "point": "TWU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout (Media)."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Kornel Kowalewski"
+          ],
+          "server": "Pearson Eshenko",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Scott Plocktis",
+            "Adam Schriemer"
+          ],
+          "server": "Kornel Kowalewski",
+          "point": "TWU"
+        },
+        [
+          "SUB",
+          "TWU subs: Carter Bergen."
+        ],
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Christian Sides",
+            [
+              "Aaron Boettcher",
+              "Eric Loeppky"
+            ]
+          ],
+          "server": "Carter Bergen",
+          "point": "TWU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout MacEwan."
+        ],
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Shane Kerrison",
+            [
+              "Adam Schriemer",
+              "Aaron Boettcher"
+            ]
+          ],
+          "server": "Carter Bergen",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Christian Sides",
+            "Matthew Mohler"
+          ],
+          "server": "Carter Bergen",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ],
+          "server": "Matthew Mohler",
+          "point": "TWU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ],
+          "server": "Eric Loeppky",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Eric Loeppky",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ],
+          "server": "Shane Kerrison",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Max Vriend",
+            "Matthew Mohler"
+          ],
+          "server": "Aaron Boettcher",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Ryan Sclater"
+          ],
+          "server": "Christian Sides",
+          "point": "TWU"
+        },
+        [
+          "SUB",
+          "TWU subs: Scott Plocktis."
+        ],
+        {
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Kai Hesthammer",
+            "Matthew Mohler"
+          ],
+          "server": "Adam Schriemer",
+          "point": "MACEWAN"
+        },
+        [
+          "SUB",
+          "MACEWAN subs: Joshua Peters."
+        ],
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater"
+          ],
+          "server": "Max Vriend",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "BAD_SET",
+            "Adam Schriemer"
+          ],
+          "server": "Max Vriend",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Pearson Eshenko",
+            [
+              "Kornel Kowalewski"
+            ]
+          ],
+          "server": "Max Vriend",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Max Vriend",
+          "point": "TWU"
+        }
+      ],
+      "starters": {
+        "MACEWAN": [
+          "Matthew Mohler",
+          "Shane Kerrison",
+          "Kornel Kowalewski",
+          "Kai Hesthammer",
+          "Christian Sides",
+          "Max Vriend",
+          "Kirk Testawich"
+        ],
+        "TWU": [
+          "Pearson Eshenko",
+          "Ryan Sclater",
+          "Scott Plocktis",
+          "Adam Schriemer",
+          "Aaron Boettcher",
+          "Eric Loeppky",
+          "Mark Antoniuk"
+        ]
+      }
+    },
+    "2": {
+      "events": [
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Max Vriend",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Scott Plocktis"
+          ],
+          "server": "Christian Sides",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ],
+          "server": "Christian Sides",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater",
+            [
+              "Max Vriend",
+              "Kornel Kowalewski"
+            ]
+          ],
+          "server": "Christian Sides",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater",
+            [
+              "Max Vriend",
+              "Kornel Kowalewski"
+            ]
+          ],
+          "server": "Christian Sides",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Christian Sides",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ],
+          "server": "Ryan Sclater",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Kai Hesthammer"
+          ],
+          "server": "Ryan Sclater",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Kai Hesthammer",
+            [
+              "Scott Plocktis",
+              "Pearson Eshenko"
+            ]
+          ],
+          "server": "Ryan Sclater",
+          "point": "TWU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout MacEwan."
+        ],
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Max Vriend"
+          ],
+          "server": "Ryan Sclater",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ],
+          "server": "Ryan Sclater",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Shane Kerrison"
+          ],
+          "server": "Ryan Sclater",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Pearson Eshenko"
+          ],
+          "server": "Ryan Sclater",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Max Vriend",
+            "Matthew Mohler"
+          ],
+          "server": "Ryan Sclater",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "TEAM"
+          ],
+          "server": "Max Vriend",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Max Vriend",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Shane Kerrison",
+            "Matthew Mohler"
+          ],
+          "server": "Pearson Eshenko",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ],
+          "server": "Kai Hesthammer",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Scott Plocktis",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Kornel Kowalewski",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Eric Loeppky",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Max Vriend",
+            [
+              "Aaron Boettcher",
+              "Ryan Sclater"
+            ]
+          ],
+          "server": "Matthew Mohler",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Max Vriend",
+            "Matthew Mohler"
+          ],
+          "server": "Aaron Boettcher",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Kai Hesthammer",
+            "Matthew Mohler"
+          ],
+          "server": "Shane Kerrison",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ],
+          "server": "Shane Kerrison",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Kai Hesthammer"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout (Media)."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout MacEwan."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Max Vriend",
+            "Matthew Mohler"
+          ],
+          "server": "Adam Schriemer",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater"
+          ],
+          "server": "Christian Sides",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Christian Sides",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Max Vriend"
+          ],
+          "server": "Ryan Sclater",
+          "point": "TWU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Pearson Eshenko",
+            "Adam Schriemer"
+          ],
+          "server": "Ryan Sclater",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Ryan Sclater",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Pearson Eshenko",
+            "Adam Schriemer"
+          ],
+          "server": "Max Vriend",
+          "point": "TWU"
+        },
+        [
+          "SUB",
+          "TWU subs: Jordan Koslowsky."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Kai Hesthammer",
+            "Matthew Mohler"
+          ],
+          "server": "Jordan Koslowsky",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ],
+          "server": "Kai Hesthammer",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Shane Kerrison",
+            "Matthew Mohler"
+          ],
+          "server": "Scott Plocktis",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ],
+          "server": "Kornel Kowalewski",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Shane Kerrison",
+            "Matthew Mohler"
+          ],
+          "server": "Eric Loeppky",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ],
+          "server": "Matthew Mohler",
+          "point": "TWU"
+        }
+      ],
+      "starters": {
+        "TWU": [
+          "Pearson Eshenko",
+          "Aaron Boettcher",
+          "Adam Schriemer",
+          "Eric Loeppky",
+          "Scott Plocktis",
+          "Ryan Sclater",
+          "Mark Antoniuk"
+        ],
+        "MACEWAN": [
+          "Matthew Mohler",
+          "Kai Hesthammer",
+          "Shane Kerrison",
+          "Max Vriend",
+          "Christian Sides",
+          "Kornel Kowalewski",
+          "Kirk Testawich"
+        ]
+      }
+    },
+    "3": {
+      "events": [
+        {
+          "event": [
+            "KILL",
+            "Christian Sides",
+            "Kai Hesthammer"
+          ],
+          "server": "Eric Loeppky",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Jordan Peters",
+            "Matthew Mohler"
+          ],
+          "server": "Kai Hesthammer",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Kai Hesthammer",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Jordan Peters",
+            [
+              "Aaron Boettcher",
+              "Adam Schriemer"
+            ]
+          ],
+          "server": "Leigh Goossen",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Shane Kerrison",
+            "Matthew Mohler"
+          ],
+          "server": "Leigh Goossen",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Max Vriend",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Kornel Kowalewski",
+            "Matthew Mohler"
+          ],
+          "server": "Adam Schriemer",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Shane Kerrison",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Ryan Sclater",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Max Vriend",
+            "Matthew Mohler"
+          ],
+          "server": "Jordan Peters",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Kai Hesthammer",
+            [
+              "Aaron Boettcher",
+              "Scott Plocktis"
+            ]
+          ],
+          "server": "Jordan Peters",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Aaron Boettcher",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Kornel Kowalewski",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Leigh Goossen",
+            "Leigh Goossen"
+          ],
+          "server": "Scott Plocktis",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ],
+          "server": "Scott Plocktis",
+          "point": "TWU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Scott Plocktis",
+            "Adam Schriemer"
+          ],
+          "server": "Scott Plocktis",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Scott Plocktis",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ],
+          "server": "Matthew Mohler",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater"
+          ],
+          "server": "Eric Loeppky",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Ryan Sclater"
+          ],
+          "server": "Kai Hesthammer",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ],
+          "server": "Kai Hesthammer",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Shane Kerrison",
+            "Matthew Mohler"
+          ],
+          "server": "Leigh Goossen",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Scott Plocktis",
+            "Adam Schriemer"
+          ],
+          "server": "Max Vriend",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Jordan Peters",
+            [
+              "Scott Plocktis"
+            ]
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Adam Schriemer",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ],
+          "server": "Shane Kerrison",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Jordan Peters",
+            "Matthew Mohler"
+          ],
+          "server": "Ryan Sclater",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ],
+          "server": "Jordan Peters",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Kai Hesthammer"
+          ],
+          "server": "Aaron Boettcher",
+          "point": "TWU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout (Media)."
+        ],
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Aaron Boettcher",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Eric Loeppky",
+            [
+              "Matthew Mohler",
+              "Kai Hesthammer"
+            ]
+          ],
+          "server": "Kornel Kowalewski",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Adam Schriemer"
+          ],
+          "server": "Kornel Kowalewski",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Kai Hesthammer"
+          ],
+          "server": "Scott Plocktis",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "SERVICE_ACE",
+            "Adam Schriemer"
+          ],
+          "server": "Matthew Mohler",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Shane Kerrison",
+            "Kirk Testawich"
+          ],
+          "server": "Matthew Mohler",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Kai Hesthammer"
+          ],
+          "server": "Matthew Mohler",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Ryan Sclater",
+            "Adam Schriemer"
+          ],
+          "server": "Cameron Slomp",
+          "point": "TWU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout MacEwan."
+        ],
+        {
+          "event": [
+            "KILL",
+            "Shane Kerrison",
+            "Matthew Mohler"
+          ],
+          "server": "Eric Loeppky",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Shane Kerrison"
+          ],
+          "server": "Kai Hesthammer",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Aaron Boettcher"
+          ],
+          "server": "Leigh Goossen",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Eric Loeppky"
+          ],
+          "server": "Max Vriend",
+          "point": "MACEWAN"
+        },
+        [
+          "TIMEOUT",
+          "Timeout Trinity Western."
+        ],
+        {
+          "event": [
+            "SERVICE_ERROR"
+          ],
+          "server": "Max Vriend",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Aaron Boettcher",
+            "Adam Schriemer"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        },
+        [
+          "TIMEOUT",
+          "Timeout MacEwan."
+        ],
+        {
+          "event": [
+            "ATTACK_ERROR",
+            "Shane Kerrison"
+          ],
+          "server": "Adam Schriemer",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Kornel Kowalewski",
+            "Matthew Mohler"
+          ],
+          "server": "Adam Schriemer",
+          "point": "MACEWAN"
+        },
+        {
+          "event": [
+            "KILL",
+            "Aaron Boettcher"
+          ],
+          "server": "Shane Kerrison",
+          "point": "TWU"
+        },
+        {
+          "event": [
+            "KILL",
+            "Eric Loeppky",
+            "Scott Plocktis"
+          ],
+          "server": "Ryan Sclater",
+          "point": "TWU"
+        }
+      ],
+      "starters": {
+        "MACEWAN": [
+          "Matthew Mohler",
+          "Kai Hesthammer",
+          "Max Vriend",
+          "Shane Kerrison",
+          "Jordan Peters",
+          "Kornel Kowalewski",
+          "Kirk Testawich"
+        ],
+        "TWU": [
+          "Eric Loeppky",
+          "Leigh Goossen",
+          "Adam Schriemer",
+          "Ryan Sclater",
+          "Aaron Boettcher",
+          "Scott Plocktis",
+          "Carter Bergen"
+        ]
+      }
+    }
+  },
+  "source": "canadawest.org",
+  "teams": [
+    [
+      "canadawest.org:team/afgkow4zpogyvpag",
+      "MacEwan"
+    ],
+    [
+      "canadawest.org:team/dtjw1qxi3rsm18q9",
+      "Trinity Western"
+    ]
+  ],
+  "date": "2016-11-18",
+  "id": "canadawest.org:game/20161118_146o"
+}

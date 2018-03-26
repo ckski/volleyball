@@ -666,6 +666,8 @@ def main():
 				base_id = parse_qs(r.query)['id'][0]
 				player_id = web_host + ":player/" + base_id
 
+				# TODO: add player number !
+
 				ta_stat = int(node.parent.parent('td')[5].string)
 				digs = int(node.parent.parent('td')[11].string)
 
@@ -704,10 +706,38 @@ def main():
 
 	init()
 
+	canadawest_games = [
+		# "20161028_9sk3",
+		"20161029_u4om",
+		"20161104_xwo6",
+		"20161105_wy5c",
+		"20161118_146o",
+		"20161119_s2n8",
+		"20161125_2zth",
+		"20161126_fn7z",
+		"20161202_ols6",
+		"20161203_109e",
+		"20170106_osv4",
+		"20170107_i6ao",
+		"20170113_c8x5",
+		"20170114_kj1t",
+		"20170120_gq4t",
+		"20170121_pnkm",
+		"20170127_74or",
+		"20170128_oy4e",
+		"20170203_chcs",
+		"20170204_h4kp",
+		"20170217_73f1",
+		"20170218_psc7",
+		"20170224_ya31",
+		"20170225_0gcc"]
 
+	for game_id in canadawest_games:
+		boxscore = fetch_box_score('http://canadawest.org/sports/mvball/2016-17/boxscores/' + game_id + '.xml')
+		save_box_score(boxscore)
 
-	box_score = fetch_box_score('http://canadawest.org/sports/mvball/2016-17/boxscores/20161028_9sk3.xml')
-	save_box_score(box_score)
+	# box_score = fetch_box_score('http://canadawest.org/sports/mvball/2016-17/boxscores/20161028_9sk3.xml')
+	# save_box_score(box_score)
 
 	# file = scraper_cache_directory + "2016-01-08 Stanford vs Ball St" + ".html"
 	# test = 'scraper_cache/2016-01-08 Stanford vs Ball St.html'

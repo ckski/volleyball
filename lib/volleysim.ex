@@ -50,8 +50,9 @@ defmodule Volleysim do
 
 
   # Configuration for the data cube
-  @dimension_order %{game_id: 10, set: 20, team: 30, player: 40, serve_streak: 60}
+  @dimension_order %{game: 10, set: 20, team: 30, player: 40, score_gap: 50, serve_streak: 60}
 
+  @boxscore_dir "game_data/canadawest.org/boxscore/"
 
   def simulate_game() do
     # simulate set, test win condition
@@ -79,22 +80,101 @@ defmodule Volleysim do
 
   def rotate(list), do: tl(list) ++ [hd(list)]
 
-
-  def process_file(pbp_file, bscore_file) do
-    process_play_by_play(File.read!(pbp_file), File.read!(bscore_file))
+  def load_cache_file(cache_file) do
+    start_time = :erlang.monotonic_time(1)
+    result = File.read!(cache_file) |> :erlang.binary_to_term
+    IO.puts("Loading cache file took #{:erlang.monotonic_time(1) - start_time} seconds")
+    result
   end
 
-  def process_play_by_play(pbp_binary, bscore_binary) do
+  def batch_job do
+    files = [
+      "2016-10-28 Trinity Western vs Regina.json",
+      "2016-10-29 Trinity Western vs Regina.json",
+      "2016-11-04 Calgary vs Trinity Western.json",
+      "2016-11-05 Calgary vs Trinity Western.json",
+      "2016-11-18 MacEwan vs Trinity Western.json",
+      "2016-11-19 MacEwan vs Trinity Western.json",
+      "2016-11-25 Trinity Western vs UBC.json",
+      "2016-11-26 UBC vs Trinity Western.json",
+      "2016-12-02 Trinity Western vs Mount Royal.json",
+      "2016-12-03 Trinity Western vs Mount Royal.json",
+      "2017-01-06 Saskatchewan vs Trinity Western.json",
+      "2017-01-07 Saskatchewan vs Trinity Western.json",
+      "2017-01-13 Thompson Rivers vs Trinity Western.json",
+      "2017-01-14 Thompson Rivers vs Trinity Western.json",
+      "2017-01-20 Trinity Western vs UBC Okanagan.json",
+      "2017-01-21 Trinity Western vs UBC Okanagan.json",
+      "2017-01-27 Trinity Western vs Alberta.json",
+      "2017-01-28 Trinity Western vs Alberta.json",
+      "2017-02-03 Brandon vs Trinity Western.json",
+      "2017-02-04 Brandon vs Trinity Western.json",
+      "2017-02-17 Trinity Western vs Winnipeg.json",
+      "2017-02-18 Trinity Western vs Winnipeg.json",
+      "2017-02-24 Manitoba vs Trinity Western.json",
+      "2017-02-25 Manitoba vs Trinity Western.json"
+    ]
+
+    cache_obj = case File.read("cached_facts") do
+      {:ok, bin} -> :erlang.binary_to_term(bin)
+      {:error, :enoent} -> %{games: [], data: %{}}
+    end
+
+    cache_obj = Enum.reduce files, cache_obj, fn file, acc ->
+      process_file_series("game_data/canadawest.org/Trinity Western 2016-17/" <> file, acc)
+    end
+
+    File.write!("cached_facts", :erlang.term_to_binary(cache_obj))
+    :ok
+  end
+
+  def process_file_series(pbp_file, cache_obj) do
+    {:ok, game_id, facts} = process_play_by_play(File.read!(pbp_file))
+
+    unless game_id in cache_obj[:games] do
+      cache_obj = update_in(cache_obj[:games], &([game_id | &1]))
+      |> update_in([:data], &Map.merge(&1, facts))
+    end
+
+    cache_obj
+  end
+
+
+  def process_file(pbp_file, cache_file) do
+    cache_obj = case File.read(cache_file) do
+      {:ok, bin} -> :erlang.binary_to_term(bin)
+      {:error, :enoent} -> %{games: [], data: %{}}
+    end
+    {:ok, game_id, facts} = process_play_by_play(File.read!(pbp_file))
+
+    unless game_id in cache_obj[:games] do
+      cache_obj = update_in(cache_obj[:games], &([game_id | &1]))
+      |> update_in([:data], &Map.merge(&1, facts))
+
+      IO.puts("Game #{game_id} written to cache")
+
+      File.write!(cache_file, :erlang.term_to_binary(cache_obj))
+    end
+
+    :ok
+  end
+
+  def process_play_by_play(pbp_binary) do
     root = Poison.decode!(pbp_binary)
     # IO.inspect root
+    game_id = root["id"]
+    date = root["date"] |> Date.from_iso8601!
+    [_, base_id] = Regex.run(~r/\/(.*?)$/, game_id)
+
+    IO.puts("process_play_by_play game #{base_id}, #{to_string(date)}")
+
+    bscore_binary = File.read!(@boxscore_dir <> base_id <> ".json")
 
     boxscore = Poison.decode!(bscore_binary)
 
-    date = root["date"] |> Date.from_iso8601!
     season = if date.month < 7, do: {date.year - 1, date.year}, else: {date.year, date.year + 1}
 
 
-    game_id = root["id"]
     [team_1, team_2] = root["teams"]
     [team_1_id, team_1_name] = team_1
     [team_2_id, team_2_name] = team_2
@@ -111,12 +191,11 @@ defmodule Volleysim do
     players = Enum.into t1_players ++ t2_players, %{}
     
     sets = Map.keys root["sets"]
-    sets = Enum.map sets, fn key ->
-      set_i = String.to_integer(key)
-      {set_i, process_set(set_i, root["sets"][key], root["teams"], players)}
+    facts_fine_grain = Enum.reduce sets, %{}, fn key, acc ->
+      Map.merge acc, process_set(game_id, String.to_integer(key), root["sets"][key], root["teams"], players)
     end
 
-    facts_fine_grain = Enum.flat_map sets, &elem(&1, 1)
+    # facts_fine_grain = Enum.flat_map(sets, &elem(&1, 1)) |> Enum.into(%{})
 
     # IO.puts("boxscore for ta per set: #{inspect(boxscore["ta_per_set"])}")
 
@@ -132,113 +211,76 @@ defmodule Volleysim do
     team_sum_per_set = Enum.reduce [team_1_name, team_2_name], team_sum_per_set, fn team, acc ->
       team_abbr = abbreviate_name(team)
       Enum.reduce Enum.with_index(boxscore["ta_per_set"][team], 1), acc, fn {ta_stat, set_i}, acc -> 
-        insert_fact acc, [set: set_i, team: team_abbr], %{kill_attempt: ta_stat}
+        insert_fact acc, [game: game_id, set: set_i, team: team_abbr], %{kill_attempt: ta_stat}
       end
     end
 
+    # IO.inspect team_sum_per_set
 
-    # old_team_sums = Enum.map sets, fn {set_i, point_facts_for_set} ->
-    #   team_1_name_abbr = abbreviate_name(team_1_name)
-    #   point_facts_for_set = put_in point_facts_for_set, [Access.key([set: set_i, team: team_1_name_abbr], %{}), :kill_attempt], get_kill_attempt_for_set.(set_i, team_1_name)
-      
-    #   team_2_name_abbr = abbreviate_name(team_2_name)
-    #   point_facts_for_set = put_in point_facts_for_set, [Access.key([set: set_i, team: team_2_name_abbr], %{}), :kill_attempt], get_kill_attempt_for_set.(set_i, team_2_name)
+    # IO.puts("--------------------------")
 
-    #   Enum.reduce point_facts_for_set, %{}, fn {[{:set, _set_i}, {:team, team} | _], player_stats}, acc ->
-    #     update_in acc, [Access.key([set: set_i, team: team], %{})], fn team_stats -> 
-    #       join_stats(team_stats, player_stats)
-    #       # Enum.reduce player_stats, team_stats, fn {stat, val}, acc ->
-    #       #   update_in acc, [Access.key(stat, 0)], fn prev -> prev + val end
-    #       # end
-    #     end
-    #   end
-    # end
-
-    IO.inspect team_sum_per_set
-
-    IO.puts("--------------------------")
-
-    IO.puts("rollup [:team, :player]")
+    # IO.puts("rollup [:team, :player]")
     player_game_sums = rollup(facts_fine_grain, [:team, :player])
 
-    IO.inspect(player_game_sums)
+    # IO.inspect(player_game_sums)
 
-
-    # old_player_game_sums = Enum.reduce sets, %{}, fn {_, point_facts_for_set}, acc ->
-    #   Enum.reduce point_facts_for_set, acc, fn {[{:set, set_i}, {:team, team}, {:player, player} | _], player_stats}, acc ->
-    #     update_in acc, [Access.key([{:team, team}, {:player, player}], %{})], fn stats -> 
-    #       join_stats(stats, player_stats)
-    #     end
-    #   end
-    # end
-
-    # IO.puts("$$$$ match?? #{player_game_sums == old_player_game_sums}")
 
     # Insert extra stats from the box score
     player_game_sums = Enum.reduce Map.keys(boxscore["teams"]), player_game_sums, fn team, acc ->
       Enum.reduce boxscore["teams"][team], acc, fn [_player_id, player_name, %{"TA" => ta, "DIGS" => digs}], acc ->
-        insert_fact acc, [team: abbreviate_name(team), player: player_name], %{kill_attempt: ta, digs: digs}
+        insert_fact acc, [game: game_id, team: abbreviate_name(team), player: player_name], %{kill_attempt: ta, digs: digs}
       end
     end
-    # extra_stats_for_game = Enum.flat_map(Map.keys(boxscore["teams"]), fn team ->
-    #   Enum.map boxscore["teams"][team], fn [_player_id, player_name, %{"TA" => ta, "DIGS" => digs}] ->
-    #     {[{:team, abbreviate_name(team)}, {:player, player_name}], %{kill_attempt: ta, digs: digs}}
-    #   end
-    # end)
-
-    
 
     # IO.puts("ta_stats: #{inspect(ta_stats)}")
-    IO.puts("----------------------------------------------")
+    # IO.puts("----------------------------------------------")
 
-    IO.inspect player_game_sums
-
-    # player_game_sums = Enum.reduce extra_stats_for_game ++ facts_fine_grain, %{}, fn 
-    #     {[{:set, set_i}, {:team, team}, {:player, player} | _], player_stats}, acc ->
-    #       update_in acc, [Access.key([{:team, team}, {:player, player}], %{})], fn stats -> 
-    #         join_stats(stats, player_stats)
-    #         # join_stats(stats, player_stats) |> Map.update :sets_played, [set_i], &Enum.uniq([set_i | &1])
-    #       end
-
-    #   {[{:team, team}, {:player, player} | _], player_stats}, acc ->
-    #     update_in acc, [Access.key([{:team, team}, {:player, player}], %{})], fn stats -> 
-    #       join_stats(stats, player_stats)
-    #     end
-    # end
-
-    IO.puts("--------------------------------------------")
-    
+    # IO.inspect player_game_sums
 
 
-    # team_game_sums = Enum.reduce player_game_sums, %{}, fn {dims, measures}, acc ->
-    #   measures = Map.drop(measures, [:sets_played]) # Sets played is only relevant to player granularity.
-    #   update_in acc, [Access.key([team: dims[:team]], %{})], fn stats -> join_stats(stats, measures) end
-    # end
+    # IO.puts("--------------------------------------------")
 
     team_game_sums = rollup(player_game_sums, [:team], drop_measures: [:sets_played])
 
-    IO.puts("Rollup [:team]")
+    # IO.puts("Rollup [:team]")
     IO.inspect(team_game_sums)
 
 
-    IO.puts("--------------------------------------------")
+    # IO.puts("--------------------------------------------")
 
-    IO.inspect(player_game_sums, limit: :infinity)
-    IO.puts("--------------------------------------------")
+    # IO.inspect(player_game_sums, limit: :infinity)
+    # IO.puts("--------------------------------------------")
 
 
-    facts_fine_grain ++ Map.values(player_game_sums)
+    # facts_fine_grain ++ Map.values(player_game_sums)
+    all_facts = facts_fine_grain |> join_facts(team_game_sums) |> join_facts(player_game_sums)
+
+    all_facts = insert_fact(all_facts, [game: game_id, team: abbreviate_name(team_1_name)], %{games: 1})
+    |> insert_fact([game: game_id, team: abbreviate_name(team_2_name)], %{games: 1})
+
+    {:ok, game_id, all_facts}
   end
 
   def abbreviate_name(name) do
     case name do
       "Trinity Western" -> "TWU"
       "Regina" -> "REG"
+      "Calgary" -> "CGY"
+      "MacEwan" -> "MACEWAN"
+      "UBC" -> "UBC"
+      "Mount Royal" -> "MRU"
+      "Saskatchewan" -> "SASK"
+      "Thompson Rivers" -> "TRUMVB"
+      "UBC Okanagan" -> "UBCO"
+      "Alberta" -> "AB"
+      "Brandon" -> "BRNM"
+      "Winnipeg" -> "WPGM"
+      "Manitoba" -> "MAN"
       _ -> throw("unknown name abbrv: #{name}")
     end
   end
 
-  def process_set(set_i, set, teams, players) do
+  def process_set(game_id, set_i, set, teams, players) do
     starters = set["starters"]
     events = set["events"]
 
@@ -246,6 +288,8 @@ defmodule Volleysim do
 
 
     lookup_player_team = fn player ->
+      if players[player] == nil, do: throw("Missing player: #{player} from: #{inspect(players)}")
+
       {team_abbr, _, _, _} = players[player]
       team_abbr
     end
@@ -254,6 +298,8 @@ defmodule Volleysim do
     # stat => measure
     insert_set_fact = fn facts, dims, stat, val ->
       dims = if dims[:team] == nil, do: put_in(dims[:team], lookup_player_team.(dims[:player])), else: dims
+      dims = put_in dims[:set], set_i
+      dims = put_in dims[:game], game_id
       insert_fact facts, dims, %{stat => val}
     end
 
@@ -266,7 +312,7 @@ defmodule Volleysim do
 
     facts = Enum.reduce starters, facts, fn {team_abbr, players}, acc ->
       Enum.reduce players, acc, fn player, acc ->
-        insert_set_fact.(acc, [set: set_i, team: team_abbr, player: player], :sets_played, [set_i])
+        insert_set_fact.(acc, [team: team_abbr, player: player], :sets_played, [set_i])
       end
     end
 
@@ -295,10 +341,38 @@ defmodule Volleysim do
       end
     end
 
+    get_score_gap = fn state, team ->
+      case state[:score_stream] do
+        nil -> 0    # Score at beginning is 0-0
+
+        {_team, {l, r}, _streak} when team == left and l-r > 5 -> 2
+        {_team, {l, r}, _streak} when team == left and l-r > 0 -> 1
+        {_team, {l, r}, _streak} when team == left and l-r == 0 -> 0
+        {_team, {l, r}, _streak} when team == left and l-r < -5 -> -2
+        {_team, {l, r}, _streak} when team == left and l-r < 0 -> -1
+
+        {_team, {l, r}, _streak} when team == right and r-l > 5 -> 2
+        {_team, {l, r}, _streak} when team == right and r-l > 0 -> 1
+        {_team, {l, r}, _streak} when team == right and r-l == 0 -> 0
+        {_team, {l, r}, _streak} when team == right and r-l < -5 -> -2
+        {_team, {l, r}, _streak} when team == right and r-l < 0 -> -1
+      end
+    end
+
     {_state, point_facts} = Enum.reduce events, {%{}, facts}, fn
+      # TODO: handle points/serves first, if points = 25/15, give set win to team.
+
       %{"event" => ["KILL", by | _], "point" => p, "server" => s}, {state, fact_acc} ->
-        fact_acc = insert_set_fact.(fact_acc, [set: set_i, team: p, player: by], :kill, +1)
-        |> insert_set_fact.([set: set_i, team: nil, player: s], :total_serves, +1)
+
+        serving_team = lookup_player_team.(s)
+        serve_streak = case state[:last_server] do
+          {^s, i} -> i
+          _ -> 0
+        end
+
+        fact_acc = insert_set_fact.(fact_acc, [team: p, player: by, score_gap: get_score_gap.(state, p)], :kill, +1)
+        |> insert_set_fact.([team: serving_team, player: s, score_gap: get_score_gap.(state, serving_team), serve_streak: serve_streak], :total_serves, +1)
+        |> insert_set_fact.([team: p], :points, +1)
 
         state = update_last_server.(state, s) |> update_streaming_score.(p)
         {state, fact_acc}
@@ -310,12 +384,13 @@ defmodule Volleysim do
           _ -> 0
         end
 
-        fact_acc = insert_set_fact.(fact_acc, [set: set_i, team: p, player: s, serve_streak: serve_streak], :service_ace, +1)
-        |> insert_set_fact.([set: set_i, team: p, player: s], :total_serves, +1)
-         
+        fact_acc = insert_set_fact.(fact_acc, [team: p, player: s, score_gap: get_score_gap.(state, p), serve_streak: serve_streak], :service_ace, +1)
+        |> insert_set_fact.([team: p, player: s, score_gap: get_score_gap.(state, p), serve_streak: serve_streak], :total_serves, +1)
+        |> insert_set_fact.([team: p], :points, +1)
+
         fact_acc = case data do
-          ["TEAM"] -> insert_set_fact.(fact_acc, [set: set_i, team: not_team.(p)], :reception_error, +1)
-          [player] -> insert_set_fact.(fact_acc, [set: set_i, team: not_team.(p), player: hd(data)], :reception_error, +1)
+          ["TEAM"] -> insert_set_fact.(fact_acc, [team: not_team.(p), score_gap: get_score_gap.(state, not_team.(p))], :reception_error, +1)
+          [player] -> insert_set_fact.(fact_acc, [team: not_team.(p), player: hd(data), score_gap: get_score_gap.(state, not_team.(p))], :reception_error, +1)
           _ -> fact_acc
         end
 
@@ -324,8 +399,16 @@ defmodule Volleysim do
         
 
       %{"event" => ["ATTACK_ERROR", by | _], "point" => p, "server" => s}, {state, fact_acc} ->
-        fact_acc = insert_set_fact.(fact_acc, [set: set_i, team: not_team.(p), player: by], :attack_error, +1)
-        |> insert_set_fact.([set: set_i, team: nil, player: s], :total_serves, +1)
+        serving_team = lookup_player_team.(s)
+
+        serve_streak = case state[:last_server] do
+          {^s, i} -> i
+          _ -> 0
+        end
+
+        fact_acc = insert_set_fact.(fact_acc, [team: not_team.(p), player: by, score_gap: get_score_gap.(state, not_team.(p))], :attack_error, +1)
+        |> insert_set_fact.([team: serving_team, player: s, score_gap: get_score_gap.(state, serving_team), serve_streak: serve_streak], :total_serves, +1)
+        |> insert_set_fact.([team: p], :points, +1)
 
         state = update_last_server.(state, s)
         {state, fact_acc}
@@ -336,16 +419,22 @@ defmodule Volleysim do
           _ -> 0
         end
 
-        fact_acc = insert_set_fact.(fact_acc, [set: set_i, team: not_team.(p), player: s, serve_streak: serve_streak], :service_error, +1)
-        |> insert_set_fact.([set: set_i, team: nil, player: s], :total_serves, +1)
+        serving_team = lookup_player_team.(s)
+
+        fact_acc = insert_set_fact.(fact_acc, [team: not_team.(p), player: s, score_gap: get_score_gap.(state, not_team.(p)), serve_streak: serve_streak], :service_error, +1)
+        |> insert_set_fact.([team: serving_team, player: s, score_gap: get_score_gap.(state, serving_team), serve_streak: serve_streak], :total_serves, +1)
+        |> insert_set_fact.([team: p], :points, +1)
 
         state = update_last_server.(state, s) |> update_streaming_score.(p)
         {state, fact_acc}
 
       ["SUB", data], {state, fact_acc} ->
         # TODO: different cases for different data sources (ncaa versus canadawest)
-        [_, team, player] = Regex.run(~r/^(.*?) subs: (.*?)\.$/, data)
-        fact_acc = insert_set_fact.(fact_acc, [set: set_i, team: team, player: player], :sets_played, [set_i])
+        [_, team, player] = Regex.run(~r/^(.*?) subs: (.*?)\.$/, data)  # TODO: fix for ; where two players specified
+
+        fact_acc = insert_set_fact.(fact_acc, [team: team, player: player], :sets_played, [set_i])
+        |> insert_set_fact.([team: team, score_gap: get_score_gap.(state, team)], :subs, +1)
+
         {state, fact_acc}  # TODO: maybe update state?
 
       _, acc -> acc
@@ -354,8 +443,7 @@ defmodule Volleysim do
     point_facts
   end
 
-
-  def join_stats(acc_map, map_1) do
+  def join_facts(acc_map, map_1) do
     Map.merge acc_map, map_1, fn 
       :sets_played, v1, v2 -> Enum.uniq(v1 ++ v2)
       _k, v1, v2 -> v1 + v2 
@@ -363,9 +451,10 @@ defmodule Volleysim do
   end
 
   # facts :: %{}, dims :: [atom()], measures :: %{atom() => term()}
-  def insert_fact(facts, dims, measures) do
-    dims = Enum.sort_by dims, fn {dim, _} -> @dimension_order[dim] end
-    update_in facts, [Access.key(dims, %{})], fn stats -> join_stats(stats, measures) end
+  def insert_fact(facts, dims, measures, opts \\ []) do
+    # measures = if count > 0, do: Map.put(measures, :count, count), else: measures
+    dims = if opts[:keep_dim_order], do: dims, else: Enum.sort_by(dims, fn {dim, _} -> @dimension_order[dim] end)
+    update_in facts, [Access.key(dims, %{})], fn stats -> join_facts(stats, measures) end
   end
 
   def rollup(facts, dims, opts \\ []) do
@@ -374,8 +463,20 @@ defmodule Volleysim do
     Enum.reduce facts, %{}, fn {fact_dims, measures}, acc ->
       measures = if drop_measures, do: Map.drop(measures, drop_measures), else: measures
       dim_key = Enum.map dims, &({&1, fact_dims[&1]})
-      insert_fact acc, dim_key, measures
-      # update_in acc, [Access.key(dim_key, %{})], fn stats -> join_stats(stats, measures) end
+
+      if !opts[:keep_nil] and Enum.any?(dim_key, &(elem(&1, 1) == nil)) do
+        acc  # Ignore if the dimension is missing from the fact.
+      else
+        insert_fact acc, dim_key, measures, keep_dim_order: true
+      end
+      # update_in acc, [Access.key(dim_key, %{})], fn stats -> join_facts(stats, measures) end
+    end
+  end
+
+  def filter_facts(facts, dim_filters, measure_filters \\ []) do
+    Enum.filter facts, fn {fact_dims, measures} ->
+      Enum.all?(dim_filters, fn {dim, fun} -> fun.(fact_dims[dim]) end) and
+      Enum.all?(measure_filters, fn {measure, fun} -> fun.(measures[measure]) end)
     end
   end
 

@@ -1,0 +1,25 @@
+2016-10-28 Trinity Western vs Regina.json
+2016-10-29 Trinity Western vs Regina.json
+2016-11-04 Calgary vs Trinity Western.json
+2016-11-05 Calgary vs Trinity Western.json
+2016-11-18 MacEwan vs Trinity Western.json
+2016-11-19 MacEwan vs Trinity Western.json
+2016-11-25 Trinity Western vs UBC.json
+2016-11-26 UBC vs Trinity Western.json
+2016-12-02 Trinity Western vs Mount Royal.json
+2016-12-03 Trinity Western vs Mount Royal.json
+2017-01-06 Saskatchewan vs Trinity Western.json
+2017-01-07 Saskatchewan vs Trinity Western.json
+2017-01-13 Thompson Rivers vs Trinity Western.json
+2017-01-14 Thompson Rivers vs Trinity Western.json
+2017-01-20 Trinity Western vs UBC Okanagan.json
+2017-01-21 Trinity Western vs UBC Okanagan.json
+2017-01-27 Trinity Western vs Alberta.json
+2017-01-28 Trinity Western vs Alberta.json
+2017-02-03 Brandon vs Trinity Western.json
+2017-02-04 Brandon vs Trinity Western.json
+2017-02-17 Trinity Western vs Winnipeg.json
+2017-02-18 Trinity Western vs Winnipeg.json
+2017-02-24 Manitoba vs Trinity Western.json
+2017-02-25 Manitoba vs Trinity Western.json
+files.txt
