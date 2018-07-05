@@ -25,7 +25,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "build-css": "node-sass --include-path scss src/scss/custom.scss public/css/main.css",
-    "watch-css": "nodemon --ignore './node-modules/*' -e scss -x \"npm run build-css\""
+    "watch-css": "nodemon -e scss --exec npm run build-css"
   },
   "devDependencies": {
     "bootstrap-sass": "^3.3.7",
