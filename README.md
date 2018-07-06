@@ -25,3 +25,13 @@ $ npm install
 $ npm start
 
 ```
+
+
+# Run the webserver
+
+$ cd volleyvisapp
+$ npm run build
+$ cd ..
+$ iex -S mix run
+
+Go to localhost/volleyvisapp
