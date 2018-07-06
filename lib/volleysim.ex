@@ -75,31 +75,6 @@ defmodule Volleysim do
 
   @boxscore_dir "game_data/canadawest.org/boxscore/"
 
-  def simulate_game() do
-    # simulate set, test win condition
-  end
-
-
-  def simulate_set() do
-    # simulate round, test_win condition
-    # apply rotation, repeat
-  end
-
-
-  def simulate_round() do
-
-      rotation = [1, 2, 3, 4, 5, 6]
-
-      # Teams are :home | :visiting
-      # do_action(state, :serve, :home)
-
-      # calc_probability(), 
-
-      # serve -> ace | error | ..
-
-  end
-
-  def rotate(list), do: tl(list) ++ [hd(list)]
 
   def load_cache_file(cache_file) do
     start_time = :erlang.monotonic_time(1)
