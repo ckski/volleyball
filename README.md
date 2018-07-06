@@ -17,7 +17,7 @@ $ git clone https://github.com/ckski/volleyball/
 
 # Install the dependencies with npm
 
-$ cd volleyvisapp
+$ cd volleyball/volleyvisapp
 $ npm install
 
 # Start the app
