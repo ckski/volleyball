@@ -87,6 +87,20 @@ class App extends Component {
             <h2 id="test">Volleyball Visualization<br></br><small>Welcome to our volleyball visualization application. Select some options to get started</small></h2>
           </div>
           <form>
+            <div className="panel panel-default">
+              <div className="panel-header">
+                <h3 className="card-title">Data Source</h3>
+              </div>
+              <div className="panel-body">
+                <div className="col-xs-6">
+                  <select className="selectpicker form-control">
+                    <option value={null}>Season...</option>
+                    <option value="2017-2018">2017-2018</option>
+                    <option value="2016-2017">2016-2017</option>
+                  </select>
+                </div>
+              </div>
+            </div>
             <div className="row">
               <div className="col-xs-6">
                 <div className="form-group">
@@ -98,16 +112,19 @@ class App extends Component {
                 </div>
               </div>
               <div className="col-xs-6">
-                <select className="form-group" className="selectpicker form-control">
+                <select className="selectpicker form-control">
                   <option value={null}>Metric</option>
                   <option value="kills">Kills</option>
                   <option value="serves">Serves</option>
                   <option value="blocks">Blocks</option>
                 </select>
               </div>
+
+            </div>
+            <div className="row">
               <div className="col-xs-6">
-                <br></br>
-                <select className="form-group" className="selectpicker form-control">
+
+                <select className="selectpicker form-control">
                   <option value={null}>Dimension</option>
                   <option value="match">Match</option>
                   <option value="set">Set</option>
@@ -115,7 +132,6 @@ class App extends Component {
                   <option value="player">Player</option>
                 </select>
               </div>
-
             </div>
           </form>
           <div>
