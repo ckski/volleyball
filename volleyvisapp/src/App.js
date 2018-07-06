@@ -4,18 +4,21 @@ import './App.css';
 // import chartjs from 'react-chartjs';
 
 // Import statements for all supported graph types
-import {Bar, Line} from 'react-chartjs-2';
+import {Bar, Line, Radar, Doughnut, Polar} from 'react-chartjs-2';
 
 // Set up the chart Data and Configuration
 let chartData = {
-  labels : ["TestOne", "TestTwo", "TestThree"],
+  labels : ["TestOne", "TestTwo", "TestThree", "TestFour", "TestFive", "TestSix"],
   datasets: [{
     label: '# of kills',
-    data: [12,19,3,5,6,3],
+    data: [4,2,3,5,6,3],
     backgroundColor: [
-      'rgba(255, 40, 40, 0.8)',
-      'rgba(40, 255, 40, 0.8)',
-      'rgba(40, 40, 255, 0.8)'
+      '#989FCE',
+      '#347FC4',
+      '#272838',
+      '#F2FDFF',
+      '#9AD4D6',
+      '#DBCBD8'
     ],
     borderColor: [
       'rgba(0, 0, 0, 1)',
@@ -67,6 +70,7 @@ class App extends Component {
 
     this.getChosenChart = this.getChosenChart.bind(this);
     this.renderSelects = this.renderSelects.bind(this);
+    this.getGraphWindow = this.getGraphWindow.bind(this);
 
     this.renderSelects(dataSourceObjExample);
 
@@ -74,7 +78,8 @@ class App extends Component {
 
     // Set default graph to empty div
     this.state = {
-      graph_to_render: <div></div>
+      graph_to_render: <div></div>,
+      showing_graph: false
     }
   }
 
@@ -96,6 +101,29 @@ class App extends Component {
     return selects;
   }
 
+  getGraphWindow(showing){
+    if(showing){
+      return <div className="">
+        <div className="col-xs-10">
+          {this.state.graph_to_render}
+        </div>
+        <div className="col-xs-2">
+          <div className="graph-option">
+            <input className="form-check-input" id="start_at_0" type="checkbox"></input>
+            <label htmlFor="start_at_0">Start at 0</label>
+          </div>
+          <div className="graph-option">
+            <input className="form-check-input" id="hide_scale" type="checkbox" ></input>
+            <label htmlFor="show_scale">Show scale</label>
+          </div>
+        </div>
+      </div>;
+    }
+    else{
+      return ;
+    }
+  }
+
 
   // Conditionally render the chart segment based on selectpicker
 
@@ -107,7 +135,8 @@ class App extends Component {
       console.log('bar detected');
       let bar = <Bar options={chartOptions} data={chartData}></Bar>;
       this.setState({
-        graph_to_render: bar
+        graph_to_render: bar,
+        showing_graph: true
       });
 
       console.log(this.state.graph_to_render);
@@ -115,12 +144,35 @@ class App extends Component {
     else if(chosenGraph === "line"){
       let line = <Line options={chartOptions} data={chartData}></Line>;
       this.setState({
-        graph_to_render: line
+        graph_to_render: line,
+        showing_graph:true
+      });
+    }
+    else if(chosenGraph === "radar"){
+      let line = <Radar options={chartOptions} data={chartData}></Radar>;
+      this.setState({
+        graph_to_render: line,
+        showing_graph: true
+      });
+    }
+    else if(chosenGraph === "doughnut"){
+      let line = <Doughnut options={chartOptions} data={chartData}></Doughnut>;
+      this.setState({
+        graph_to_render: line,
+        showing_graph: true
+      });
+    }
+    else if(chosenGraph === "polar"){
+      let line = <Polar options={chartOptions} data={chartData}></Polar>;
+      this.setState({
+        graph_to_render: line,
+        showing_graph: true
       });
     }
     else{
       this.setState({
-        graph_to_render: <div></div>
+        graph_to_render: <div></div>,
+        showing_graph: false
       });
     }
   }
@@ -157,6 +209,9 @@ class App extends Component {
                         <option value={null}>Graph Type...</option>
                         <option value="bar">Bar Graph</option>
                         <option value="line">Line Graph</option>
+                        <option value="radar">Radar Graph</option>
+                        <option value="doughnut">Doughnut Graph</option>
+                        <option value="polar">Polar Area Graph</option>
                       </select>
                     </div>
                   </div>
@@ -186,9 +241,7 @@ class App extends Component {
             </div>
 
           </form>
-          <div>
-            {this.state.graph_to_render}
-          </div>
+          {this.getGraphWindow(this.state.showing_graph)}
         </div>
       </div>
     );
