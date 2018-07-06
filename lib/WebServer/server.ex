@@ -32,8 +32,9 @@ defmodule WebServer.Server do
         {"/tables/:table_id", __MODULE__.TablesEndpoint, %{}},
         {"/tables", __MODULE__.TablesEndpoint, %{}},
         {"/tables/:table_id/sensors", __MODULE__.SensorsEndpoint, %{}},
-        {"/", :cowboy_static, {:priv_file, :volleysim, "assets/index.html"}},
-        {"/[...]", :cowboy_static, {:priv_dir, :volleysim, "assets"}}
+        {"/volleyvisapp", :cowboy_static, {:file, "volleyvisapp/build/index.html"}},
+        {"/css/[...]", :cowboy_static, {:dir, "volleyvisapp/build/css"}},
+        {"/volleyvisapp/[...]", :cowboy_static, {:dir, "volleyvisapp/build"}}
       ]},
     ])
 
