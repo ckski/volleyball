@@ -1,7 +1,5 @@
 # Volleyball Visualization (we need a good name)
 
----
-
 This app aims to streamline the collection, querying and visualization of volleyball match data.
 
 ---
@@ -27,4 +25,3 @@ $ npm install
 $ npm start
 
 ```
-

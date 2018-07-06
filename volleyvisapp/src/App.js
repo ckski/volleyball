@@ -43,7 +43,7 @@ class App extends Component {
 
     // Set default graph to empty div
     this.state = {
-      graph_to_render: <div>Unchanged</div>
+      graph_to_render: <div></div>
     }
   }
 
