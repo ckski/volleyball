@@ -4,7 +4,7 @@ This app aims to streamline the collection, querying and visualization of volley
 
 ---
 
-## Starting the web app
+## Starting the web app for development
 
 Dependencies: `nodejs, npm`
 
@@ -26,12 +26,21 @@ $ npm start
 
 ```
 
+Dependencies 
 
+`elixir^1.5` -> See [the elixir documentation](https://elixir-lang.org/install.html) for your distribution
+
+## Starting the elixir cowboy web server (built)
+
+```bash
 # Run the webserver
 
 $ cd volleyvisapp
-$ npm run build
+$ npm run install && npm run build
 $ cd ..
+$ mix deps.get
 $ iex -S mix run
 
-Go to localhost/volleyvisapp
+```
+
+Go to localhost/volleyvisapp in a web browser. (default port: `80`)
