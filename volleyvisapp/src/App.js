@@ -105,6 +105,17 @@ class App extends Component {
                   <option value="blocks">Blocks</option>
                 </select>
               </div>
+              <div className="col-xs-6">
+                <br></br>
+                <select className="form-group" className="selectpicker form-control">
+                  <option value={null}>Dimension</option>
+                  <option value="match">Match</option>
+                  <option value="set">Set</option>
+                  <option value="team">Team</option>
+                  <option value="player">Player</option>
+                </select>
+              </div>
+
             </div>
           </form>
           <div>
