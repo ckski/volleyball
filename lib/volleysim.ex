@@ -9,7 +9,10 @@ defmodule Volleysim do
   # Volleysim.rollup(facts, [:team])
 
 
-
+  # Measures:
+ #  [:digs, :games, :total_serves, :sets_played, :reception_error, :subs,
+ # :attack_error, :service_error, :service_ace, :kill, :kill_attempt, :points,
+ # :first_serve, :point_list]
 
   # Data cleaning notes:
 
@@ -753,6 +756,11 @@ defmodule Volleysim do
   def join_facts(acc_map, map_1) do
     Map.merge acc_map, map_1, fn 
       :sets_played, v1, v2 -> Enum.uniq(v1 ++ v2)
+      :played_against, v1, v2 -> Enum.uniq(v1 ++ v2)
+
+      :first_serve, v1, v2 -> (List.wrap(v1) ++ List.wrap(v2))
+      :point_list, _, _ -> nil      # TODO: handling adding which set it belongs too
+
       _k, v1, v2 -> v1 + v2 
     end
   end
@@ -803,6 +811,24 @@ defmodule Volleysim do
     end) 
     |> Enum.reverse
     |> Enum.map fn {a, b} -> {b, a} end
+  end
+
+  def facts_to_json_ready(facts, dim_order, measure_order) do
+    # %{ [dim, dim] => [measure, measure] }  => [[dim, dim, measure, measure], ..]
+    Enum.flat_map Map.to_list(facts), fn {dims, msrs} ->
+      dims = Enum.map(dim_order, &(dims[&1]))
+      msrs = Enum.map(measure_order, &(msrs[&1]))
+
+      if Enum.any?(dims, fn dim -> is_binary(dim) and (String.contains?(dim, ",") or String.contains?(dim, "(")) end) do   # Filter out bad player names
+        []
+      else
+        if Enum.any?(msrs) do
+          [dims ++ msrs]
+        else
+          []   # Don't return any fact if all the measures are nil.
+        end
+      end
+    end
   end
 
 end

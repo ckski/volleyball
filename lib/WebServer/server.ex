@@ -6,9 +6,13 @@ defmodule WebServer.Server do
   @port 80
   @sensor_data_table_name :sensor_data
 
+  @data_src_table_name :data_sources
+  @data_sources_folder "priv/data"
+  @data_sources_info @data_sources_folder <> "/info.json"
+
   # @game_tables %{table_1: [:sensor_1]}
 
-  defstruct tables: %{}
+  defstruct tables: %{}, data_sources_info: nil
 
   defmodule SensorData do
     defstruct id: 0, timestamp: 0, value: 0
@@ -23,7 +27,11 @@ defmodule WebServer.Server do
   end
 
   def init(args) do
-    :ets.new(@sensor_data_table_name, [:duplicate_bag , :named_table, :public])
+    # :ets.new(@sensor_data_table_name, [:duplicate_bag , :named_table, :public])
+
+    :ets.new(@data_src_table_name, [:named_table, :public])
+
+    data_src_map = load_data_sources()
 
     Logger.info("Web server started. Listening on port #{inspect @port}")
     dispatch = :cowboy_router.compile([
@@ -32,6 +40,22 @@ defmodule WebServer.Server do
         {"/tables/:table_id", __MODULE__.TablesEndpoint, %{}},
         {"/tables", __MODULE__.TablesEndpoint, %{}},
         {"/tables/:table_id/sensors", __MODULE__.SensorsEndpoint, %{}},
+
+        {"/api/data/sources", __MODULE__.DataSourcesEndpoint, %{map: data_src_map}},
+        {"/api/data/sources/:source_id", __MODULE__.DataSourcesEndpoint, %{map: data_src_map}},
+        {"/api/data/sources/:source_id/rollup", __MODULE__.DataSourcesEndpoint, %{map: data_src_map, rollup: true}},
+
+        # {"/api/data/sources/"} => [ {"title": "hiearchy title", "id": "id", "children": {"title": "title", "id": "id"}} ]
+        # {"/api/data/sources/:source_id"} => { info, "dimensions": [{"dim title", "id"} ], "measures": [] }
+        # {"/api/data/sources/:source_id/rollup?dims=[id1,id2,id3]"} => [ [ dim val, dim val, dim val, measures.. ], [   ]  ]
+
+        # {"api/test/:source_id/rollup", __MODULE__}
+
+        # {"api/test/:source_id/rollup", }  => [  [], [], [] ]
+
+        # {"/api/data/seasons "}  => 
+        # {"/api/data/seasons/:season_id "}
+
         {"/volleyvisapp", :cowboy_static, {:file, "volleyvisapp/build/index.html"}},
         {"/css/[...]", :cowboy_static, {:dir, "volleyvisapp/build/css"}},
         {"/volleyvisapp/[...]", :cowboy_static, {:dir, "volleyvisapp/build"}}
@@ -39,165 +63,106 @@ defmodule WebServer.Server do
     ])
 
     {:ok, _} = :cowboy.start_clear(:volleysim, [port: @port], %{:env => %{:dispatch => dispatch}})  # TODO: pass in port?
-    {:ok, %__MODULE__{}}
+    {:ok, %__MODULE__{data_sources_info: data_src_map}}
+  end
+
+
+  def load_data_sources do
+    info = File.read!(@data_sources_info) |> Poison.decode!()
+    Enum.reduce info, %{}, fn data_src, acc ->
+      Logger.info("Loading data source: #{inspect data_src["id"]}")
+      path = Path.join([@data_sources_folder, data_src["dir"], data_src["facts_file"]])
+
+      if File.exists?(path) do
+        data = path |> File.read! |> :erlang.binary_to_term
+        :ets.insert(@data_src_table_name, {data_src["id"], data})
+        Logger.info("Successfully loaded data source: #{inspect data_src["id"]}")
+        Map.put(acc, data_src["id"], data_src)
+      else
+        Logger.warn("Missing file #{inspect(path)}")
+        acc
+      end
+    end
   end
 
   defmodule Health do
     def init(req, state) do
-      Logger.info("Got request: #{inspect req}")
+      # Logger.info("Got request: #{inspect req}, state: #{inspect(state)}")
       req = :cowboy_req.reply(200, %{"content-type" => "application/json"}, "{\"status\": \"up\"}", req)
           # req = :cowboy_req.reply(204, %{}, "", req)
       {:ok, req, state}
     end
   end
 
-  defmodule TablesEndpoint do
-    alias GameoverServer.Server
-
-    @tables [{"t1", "Small pool table"}]
-
-    def init(req, state) do
-      table_id = :cowboy_req.binding(:table_id, req)
-
-      req = if table_id == :undefined do
-
-        tables = Enum.reduce @tables, [], fn({id, name}, acc) ->
-          status = Server.get_table_status(id)
-          %{id: id, name: name, status: %{latest_activity: status.latest_activity}}
-        end
-
-        response = Poison.encode!(tables)
-        :cowboy_req.reply(200, %{"content-type" => "application/json", "Access-Control-Allow-Origin" => "*"}, response, req)
-      else
-        if req.method != "GET" do
-          :cowboy_req.reply(405, %{"content-type" => "text/plain", "Access-Control-Allow-Origin" => "*"}, "Only GET supported", req)
-        else
-
-          Logger.info("Got request: #{inspect req}, binding: #{inspect(table_id)}")
-
-          table_status = Server.get_table_status(table_id)
-          if table_status == nil do
-            :cowboy_req.reply(404, %{"content-type" => "text/plain", "Access-Control-Allow-Origin" => "*"}, "table #{inspect(table_id)} does not exist", req)
-          else
-            response = Poison.encode!(%{id: table_id, latest_activity: table_status.latest_activity})
-            :cowboy_req.reply(200, %{"content-type" => "application/json", "Access-Control-Allow-Origin" => "*"}, response, req)
-          end
-        end
-      end
-      req = 
-      {:ok, req, state}
-    end
-  end
-
-  defmodule SensorsEndpoint do
-    alias GameoverServer.Server
-
-    @tables ["t1"]
-    # @auth_secret Application.get_env(:gameover_server, :sensor_auth_secret)
+  defmodule DataSourcesEndpoint do
+    @data_src_table_name :data_sources
+    @dimension_atoms [:game, :set, :team, :player, :score_gap, :serve_streak]
+    @dim_string_to_atom Map.new(Enum.map(@dimension_atoms, &({Atom.to_string(&1), &1})))
 
     def init(req, state) do
-      table_id = req.bindings[:table_id]
-
-      # Logger.debug("sensors post request: #{inspect req}")
-
-      # auth_token = req.headers["authorization"]
-      req = cond do
-        # not req.header
-        # auth_token != "auth_token #{@auth_secret}" ->
-        #   :cowboy_req.reply(401, %{"content-type" => "text/plain"}, "this endpoint requires authentication", req)
-        not table_id in @tables ->
-          :cowboy_req.reply(404, %{"content-type" => "text/plain", "Access-Control-Allow-Origin" => "*"}, "table #{inspect(table_id)} does not exist", req)
-
-        req.method == "GET" ->
-          data = Server.sensor_data_fetch_all(table_id)
-          response = Poison.encode!(data)
-          :cowboy_req.reply(200, %{"content-type" => "application/json", "Access-Control-Allow-Origin" => "*"}, response, req)
-
-        req.method != "POST" ->
-          :cowboy_req.reply(405, %{"content-type" => "text/plain", "Access-Control-Allow-Origin" => "*"}, "only POST supported", req)
-
-        req.host != "localhost" ->
-          :cowboy_req.reply(403, %{"content-type" => "text/plain", "Access-Control-Allow-Origin" => "*"}, "must be called from localhost", req)
-        
-        req.has_body == false ->
-          :cowboy_req.reply(400, %{"content-type" => "text/plain", "Access-Control-Allow-Origin" => "*"}, "body missing", req)
-
-        true ->
-          {:ok, data, req} = :cowboy_req.read_body(req)
-          case Poison.decode(data) do
-            {:error, {:invalid, _, _}} ->
-              :cowboy_req.reply(400, %{"content-type" => "text/plain", "Access-Control-Allow-Origin" => "*"}, "invalid JSON body", req)
-            
-            {:ok, data} ->
-              if not Map.has_key?(data, "data") or not is_list(data["data"]) do
-                :cowboy_req.reply(400, %{"content-type" => "text/plain", "Access-Control-Allow-Origin" => "*"}, "invalid body, missing data property with array value", req)
-              else
-                Server.post_sensor_data(table_id, data["timestamp"], data["data"])
-                Logger.info("putting sensor for data: #{inspect(data)}")
-                :cowboy_req.reply(204, req)
-              end
-          end
-      end
-      {:ok, req, state}
+      {:cowboy_rest, req, state}
     end
-  end
 
+    def resource_exists(req, state = %{map: src_map}) do
+      case :cowboy_req.binding(:source_id, req) do
+        :undefined -> 
+          {true, req, Map.put(state, :resource, :all)}
 
-  def post_sensor_data(table_id, timestamp \\ nil, data) do
-    timestamp = timestamp || :erlang.monotonic_time(1)
-    GenServer.cast(__MODULE__, {:post_sensor_data, table_id, timestamp, data})
-  end
-
-  def get_table_status(table_id) do
-    GenServer.call(__MODULE__, {:get_table_status, table_id})
-  end
-
-  def handle_call({:get_table_status, table_id}, _from, state) do
-    sensor_data = sensor_data_fetch_latest(table_id)
-    # available = sensor_data.timestamp < :erlang.monotonic_time(1) - 60 * 3
-    latest_activity = sensor_data.timestamp
-
-    table_status = %TableStatus{latest_activity: latest_activity}
-
-    {:reply, table_status, state}
-  end
-
-  def handle_cast({:post_sensor_data, table_id, timestamp, data}, state) do
-    Logger.info("post_sensor_data, #{inspect(data)}")
-    sensor_data_insert(table_id, timestamp, data)
-    {:noreply, state}
-  end
-
-  # Sensor data table functions
-
-  defp sensor_data_insert(table_id, timestamp, data) when is_list(data) do
-    Enum.reduce data, 0, fn(val, id) ->
-      if val > 0 do
-        data = %SensorData{id: id, timestamp: timestamp, value: val}
-        :ets.insert(@sensor_data_table_name, {{table_id, :all}, data})
-        :ets.delete(@sensor_data_table_name, {table_id, :latest})
-        :ets.insert(@sensor_data_table_name, {{table_id, :latest}, data})
-      end
-      id + 1
-    end
-  end
-
-  defp sensor_data_fetch_latest(table_id) do
-    case :ets.lookup(@sensor_data_table_name, {table_id, :latest}) do
-      [] -> %SensorData{}
-      [{_, %SensorData{} = data}] -> data
-    end
-  end
-
-  def sensor_data_fetch_all(table_id) do
-    max_data_items = 1000
-    {new, _} = Enum.reduce_while :ets.lookup(@sensor_data_table_name, {table_id, :all}), {[], max_data_items}, fn({_, data}, {new, count}) ->
-      if count > 0 do
-        {:cont, {[data | new], count - 1}}
-      else
-        {:halt, {new, count}}
+        res ->
+          {Map.has_key?(src_map, res), req, Map.put(state, :resource, res)}
       end
     end
-    new
+
+    def malformed_request(req, state = %{rollup: true}) do
+      case :cowboy_req.match_qs([{:dims, [], ""}], req) do
+        %{dims: true} -> 
+          {true, req, state}
+
+        %{dims: dims} ->
+          {String.match?(dims, ~r/[^A-Za-z0-9,]/), req, state}
+
+        _ ->
+          {true, req, state}
+      end
+    end
+
+    def malformed_request(req, state), do: {false, req, state}
+
+    def to_json(req, state = %{resource: :all, map: src_map}) do
+      body = Poison.encode!(Map.keys(src_map))
+      {body, req, state}
+    end
+
+    def to_json(req, state = %{resource: resource, map: src_map, rollup: true}) do
+      src_id = :cowboy_req.binding(:source_id, req)
+      [{_, data}] = :ets.lookup(@data_src_table_name, src_id)
+      facts = data[:data]
+      
+      rollup_dims = :cowboy_req.match_qs([{:dims, [], ""}], req)[:dims] 
+      |> String.split(",", trim: true)
+      |> Enum.map(&(@dim_string_to_atom[&1]))
+
+      measures = [:total_serves, :service_ace, :service_error, :reception_error, :kill_attempt, 
+                  :attack_error, :kill, :points, :subs]  # TODO: add digs, it seems to be missing from data too.
+
+      data = Volleysim.rollup(facts, rollup_dims) |> Volleysim.facts_to_json_ready(rollup_dims, measures)
+
+      body = %{dims: rollup_dims, measures: measures, data: data} |> Poison.encode!
+      {body, req, state}
+    end
+
+    def to_json(req, state = %{resource: resource, map: src_map}) do
+      ret_keys = ["title", "measures", "dimensions", "id"]
+
+      body = src_map[resource] |> Map.take(ret_keys) |> Poison.encode!
+      {body, req, state}
+    end
+
+    def content_types_provided(req, state) do
+      provided = [{{"application", "json", :*}, :to_json}]
+      {provided, req, state}
+    end
+
   end
+
 end
