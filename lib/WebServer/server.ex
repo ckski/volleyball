@@ -129,7 +129,8 @@ defmodule WebServer.Server do
     def malformed_request(req, state), do: {false, req, state}
 
     def to_json(req, state = %{resource: :all, map: src_map}) do
-      body = Poison.encode!(Map.keys(src_map))
+      # [{"title": "title", "id": "id"}]
+      body = Enum.map(src_map, fn {key, val} -> %{"id": key, "title": val["title"]} end) |> Poison.encode!
       {body, req, state}
     end
 
