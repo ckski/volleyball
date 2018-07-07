@@ -1,0 +1,10 @@
+[
+	{
+		"id": "canwest2016",
+		"title": "Canada West 2016-17",
+		"dir": "canada-west-2016_17",
+		"facts_file": "facts.bin",
+		"dimensions": ["game", "set", "team", "player", "score_gap", "serve_streak"],
+		"measures": ["total_serves","service_ace","service_error","reception_error","kill_attempt","attack_error","kill","points","subs"]
+	}
+]
