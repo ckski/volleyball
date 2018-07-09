@@ -96,7 +96,7 @@ class App extends Component {
   dataSourceFromURL(url){
     axios.get(url)
       .then(res => {
-        console.log(res.JSON());
+        console.log(res.data);
         return res;
       });
 
