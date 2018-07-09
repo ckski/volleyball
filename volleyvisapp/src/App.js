@@ -96,7 +96,15 @@ class App extends Component {
   dataSourceFromURL(url){
     axios.get(url)
       .then(res => {
-        console.log(res.data);
+
+        for(let val in res.data){
+          console.log(res.data[val]);
+          let keys = Object.keys(res.data[val]);
+          for(let key in keys){
+            console.log(res.data[val][keys[key]]);
+          }
+        }
+
         return res;
       });
 
