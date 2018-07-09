@@ -100,6 +100,7 @@ defmodule WebServer.Server do
     @dim_string_to_atom Map.new(Enum.map(@dimension_atoms, &({Atom.to_string(&1), &1})))
 
     def init(req, state) do
+      req = :cowboy_req.set_resp_header("Access-Control-Allow-Origin", "*", req)
       {:cowboy_rest, req, state}
     end
 
