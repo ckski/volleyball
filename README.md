@@ -36,10 +36,10 @@ Dependencies
 # Run the webserver
 
 $ cd volleyvisapp
-$ npm run install && npm run build
+$ sudo npm install && npm run build
 $ cd ..
-$ mix deps.get
-$ iex -S mix run
+$ sudo mix deps.get
+$ sudo iex -S mix run
 
 ```
 
