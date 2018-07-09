@@ -1,10 +1,14 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import axios from 'axios';
 // import chartjs from 'react-chartjs';
 
 // Import statements for all supported graph types
 import {Bar, Line, Radar, Doughnut, Polar} from 'react-chartjs-2';
+
+
+const _URL = "http://localhost:80/api/data/sources/";
 
 // Set up the chart Data and Configuration
 let chartData = {
@@ -39,25 +43,11 @@ let chartOptions = {
 };
 
 // This is just a placeholder, will be generated with get requests in the future
-let dataSourceObjExample = {
+let dataSourceObj = {
   Season: [
     ["2017-2018", "2017-2018"],
     ["2016-2017", "2016-2017"],
     ["2015-2016", "2015-2016"]
-  ],
-  Team: [
-    ["tru", "Thompson Rivers University"],
-    ["ubc", "Universit of British Columbia"],
-    ["uofa", "University of Alberta"]
-  ],
-  Matchup: [
-    ["tru", "Thompson Rivers University"],
-    ["ubc", "Universit of British Columbia"],
-    ["uofa", "University of Alberta"]
-  ],
-  Match: [
-    ["2017-02-05", "2017-02-05"],
-    ["2017-02-06", "2017-02-06"]
   ]
 };
 
@@ -71,8 +61,10 @@ class App extends Component {
     this.getChosenChart = this.getChosenChart.bind(this);
     this.renderSelects = this.renderSelects.bind(this);
     this.getGraphWindow = this.getGraphWindow.bind(this);
+    this.dataSourceFromURL = this.dataSourceFromURL.bind(this);
 
-    this.renderSelects(dataSourceObjExample);
+    this.dataSourceFromURL(_URL);
+    this.renderSelects(dataSourceObj);
 
 
 
@@ -99,6 +91,15 @@ class App extends Component {
       selects.push(<div key={key} className="col-xs-6"><label>{key}</label><select className='selectpicker form-control'>{opts}</select></div>);
     }
     return selects;
+  }
+
+  dataSourceFromURL(url){
+    axios.get(url)
+      .then(res => {
+        console.log(res.JSON());
+        return res;
+      });
+
   }
 
   getGraphWindow(showing){
@@ -194,7 +195,7 @@ class App extends Component {
                 <h3 className="card-title">Data Source</h3>
               </div>
               <div className="panel-body">
-                {this.renderSelects(dataSourceObjExample)}
+                {this.renderSelects(dataSourceObj)}
               </div>
             </div>
             <div className="panel panel-default">
