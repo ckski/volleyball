@@ -22,7 +22,12 @@ let chartData = {
       '#272838',
       '#F2FDFF',
       '#9AD4D6',
-      '#DBCBD8'
+      '#DBCBD8',
+      '#989FCE',
+      '#347FC4',
+      '#272838',
+      '#F2FDFF',
+      '#9AD4D6'
     ],
     borderColor: [
       'rgba(0, 0, 0, 1)',
@@ -58,6 +63,8 @@ class App extends Component {
     this.dataSourceFromURL = this.dataSourceFromURL.bind(this);
     this.updateSourceSelection = this.updateSourceSelection.bind(this);
     this.getRawFromURL = this.getRawFromURL.bind(this);
+    this.getFinalData = this.getFinalData.bind(this);
+    this.generateQueryURL = this.generateQueryURL.bind(this);
 
 
     // Set default graph to empty div
@@ -77,35 +84,29 @@ class App extends Component {
   }
 
   updateSourceSelection(key){
+    let sourceSelect = document.getElementById(key);
+    let selectValue = sourceSelect.options[sourceSelect.selectedIndex].value;
     if(key !== 'unselected' && key !== "Measure" && key !== "Dimension"){
-      console.log(key);
-      let sourceSelect = document.getElementById(key);
-      let selectValue = sourceSelect.options[sourceSelect.selectedIndex].value;
-      console.log(selectValue);
+
+
       let sourceSelectedURL = this.state.baseURL + selectValue;
       this.setState({
         sourceSelectedURL: sourceSelectedURL
       });
-      console.log(sourceSelectedURL);
 
 
-      // Populate the measures state
-      this.getRawFromURL(sourceSelectedURL,
-       (returnData) => {
-         console.log(returnData.measures);
-         let returnable = [];
-         for(let measure in returnData.measures){
-           returnable.push([returnData.measures[measure], returnData.measures[measure]]);
-         }
-         this.setState({
-           measures: {Measure: returnable}
-         });
-       });
-
+    }
+    if(key === 'Source'){
+      let sourceSelectedURL = this.state.baseURL + selectValue;
+      this.setState({
+        sourceSelectedURL: sourceSelectedURL
+      });
+      document.getElementById('dimensions').classList.remove('hidden');
+      console.log("Source changed, repopulate dimensions");
       // Populate the dimensions state
       this.getRawFromURL(sourceSelectedURL,
        (returnData) => {
-         console.log(returnData.dimensions);
+
          let returnable = [];
          for(let dimension in returnData.dimensions){
            returnable.push([returnData.dimensions[dimension], returnData.dimensions[dimension]]);
@@ -114,16 +115,35 @@ class App extends Component {
            dimensions: {Dimension: returnable}
          });
        });
-    }
-    if(key === 'Source'){
-      document.getElementById('dimensions').classList.remove('hidden');
-      console.log("USER PICKED A SOURCE!!!");
+
     }
     if(key === 'Dimension'){
+
+      // Once Dimensions have been decided use the url that contains the rollup parameters!
+
+      let sourceSelectedURL = this.generateQueryURL() ;
+
       document.getElementById('measures').classList.remove('hidden');
+      console.log("Dimension changed, repopulate measures");
+      // Populate the measures state
+      this.getRawFromURL(sourceSelectedURL,
+       (returnData) => {
+
+         let returnable = [];
+         for(let measure in returnData.measures){
+           returnable.push([returnData.measures[measure], returnData.measures[measure]]);
+
+         }
+         this.setState({
+           measures: {Measure: returnable}
+         });
+
+       });
+
     }
     if(key === 'Measure'){
       document.getElementById('graphs').classList.remove('hidden');
+      console.log("Measure changed");
     }
   }
 
@@ -147,10 +167,8 @@ class App extends Component {
       let opts = [];
       opts.push(<option key="dummy" value='unselected'>Select...</option>)
       for(let i = 0; i < keyLength; i++){
-        console.log(optObject[key][i]);
         opts.push(<option key={optObject[key][i][0]} value={optObject[key][i][0]}>{optObject[key][i][1]}</option>);
       }
-      console.log(key);
       if(!multipleSelect){
         selects.push(<div key={key} className="col-xs-12"><label>{key}</label><select size={keyLength} id={key} onChange={() => this.updateSourceSelection(key)} className='selectpicker sourcePicker form-control'>{opts}</select></div>);
       }
@@ -166,11 +184,9 @@ class App extends Component {
       .then(res => {
         let returnData = [];
         for(let val in res.data){
-          console.log(res.data[val]);
           let keys = Object.keys(res.data[val]);
           returnData.push([res.data[val].id, res.data[val].title]);
         }
-        console.log(returnData);
         _callback(returnData);
       });
 
@@ -200,73 +216,185 @@ class App extends Component {
   }
 
 
+  generateQueryURL(){
+    // Start with dimensions
+    let dimensionsSelector = document.getElementById('Dimension');
+    let dimensionArray = [];
+    for(let i = 0; i < dimensionsSelector.length; i++){
+      let opt = dimensionsSelector.options[i];
+      if(opt.selected){
+        dimensionArray.push(opt.value);
+      }
+    }
+
+    // Create a url from the dimensions
+
+    let finalQueryURL = this.state.sourceSelectedURL + "/rollup?dims=";
+
+    for(let dimension in dimensionArray){
+      console.log(dimensionArray[dimension]);
+      finalQueryURL += dimensionArray[dimension];
+      if(dimension == 0 && dimensionArray.length > 1){
+        finalQueryURL += ",";
+      }
+    }
+    return finalQueryURL;
+  }
+
+  getFinalData(_callback){
+    // Get data from params and roll up
+
+    let finalQueryURL = this.generateQueryURL();
+
+
+    // Now get the measures
+    let measuresSelector = document.getElementById('Measure');
+    let measureArray = [];
+    for(let i = 0; i < measuresSelector.length; i++){
+      let opt = measuresSelector.options[i];
+      if(opt.selected){
+        measureArray.push(opt.value);
+      }
+    }
+
+    // Get the raw data from the generated URL and process
+
+
+    console.log("hello?");
+    let newChartData = {
+      labels : [],
+      datasets: [{
+        label: '',
+        data: [],
+        backgroundColor: [
+          '#989FCE',
+          '#347FC4',
+          '#272838',
+          '#F2FDFF',
+          '#9AD4D6',
+          '#DBCBD8',
+          '#989FCE',
+          '#347FC4',
+          '#272838',
+          '#F2FDFF',
+          '#9AD4D6'
+        ],
+        borderColor: [
+          'rgba(0, 0, 0, 1)',
+          'rgba(0, 0, 0, 1)',
+          'rgba(0, 0, 0, 1)'
+        ],
+        borderWidth: 1
+      }]
+    };
+
+    this.getRawFromURL(finalQueryURL,
+      (returnData) => {
+        console.log(returnData);
+        let allMeasures = returnData.measures;
+        let allData = returnData.data;
+        console.log(allData.toString());
+        for(let i = 0; i < allMeasures.length; i++){
+          for(let x = 0; x < measureArray.length; x++){
+            console.log(x);
+            if(allMeasures[i] === measureArray[x]){
+              // for(let dataObject in allData){
+              let dataLength = allData.length;
+              // chartData.labels.push(allMeasures[i]);
+              console.log(allMeasures[i]);
+              let currentDataSet= {
+                 label: allMeasures[i],
+                 data: []
+               };
+              for(let z = 0; z < dataLength; z++){
+
+                // Someone needs to explain to me why this second index is a STRING?!
+                console.log(allData[z][i+1]);
+                newChartData.labels.push(allData[z][0]);
+                currentDataSet.data[z] = allData[z][i+1];
+
+                console.log(currentDataSet.data);
+              }
+              // let currentDataSet = {
+              //   label: measureArray[x],
+              //   data:
+              //
+              // };
+              newChartData.datasets.push(currentDataSet);
+            }
+          }
+        }
+    });
+    console.log(chartData);
+    _callback(newChartData);
+
+
+
+  }
+
+
   // Conditionally render the chart segment based on selectpicker
 
   getChosenChart() {
-    let chosenGraphPicker = document.getElementById('graph_picker');
-    let chosenGraph = chosenGraphPicker.options[chosenGraphPicker.selectedIndex].value;
+    this.getFinalData((newChartData) => {
+      let chosenGraphPicker = document.getElementById('graph_picker');
+      let chosenGraph = chosenGraphPicker.options[chosenGraphPicker.selectedIndex].value;
 
-    // Get data from params and roll up
 
-    
+      this.setState({
+        pickedChartType: true
+      });
+      if(chosenGraph === "bar"){
+        console.log(newChartData);
+        let bar = <Bar options={chartOptions} data={newChartData}></Bar>;
+          this.setState({
+            graph_to_render: bar,
+            showing_graph: true
+          });
 
-    this.getRawFromURL(this.)
+        }
+        else if(chosenGraph === "line"){
+          let line = <Line options={chartOptions} data={newChartData}></Line>;
+            this.setState({
+              graph_to_render: line,
+              showing_graph:true
+            });
+          }
+          else if(chosenGraph === "radar"){
+            let line = <Radar options={chartOptions} data={chartData}></Radar>;
+              this.setState({
+                graph_to_render: line,
+                showing_graph: true
+              });
+            }
+            else if(chosenGraph === "doughnut"){
+              let line = <Doughnut options={chartOptions} data={chartData}></Doughnut>;
+                this.setState({
+                  graph_to_render: line,
+                  showing_graph: true
+                });
+              }
+              else if(chosenGraph === "polar"){
+                let line = <Polar options={chartOptions} data={chartData}></Polar>;
+                  this.setState({
+                    graph_to_render: line,
+                    showing_graph: true
+                  });
+                }
+                else{
+                  this.setState({
+                    graph_to_render: <div></div>,
+                    showing_graph: false
+                  });
+                }
 
-    console.log(chosenGraph);
-    this.setState({
-      pickedChartType: true
     });
-    if(chosenGraph === "bar"){
-      console.log('bar detected');
-      let bar = <Bar options={chartOptions} data={chartData}></Bar>;
-      this.setState({
-        graph_to_render: bar,
-        showing_graph: true
-      });
-
-      console.log(this.state.graph_to_render);
-    }
-    else if(chosenGraph === "line"){
-      let line = <Line options={chartOptions} data={chartData}></Line>;
-      this.setState({
-        graph_to_render: line,
-        showing_graph:true
-      });
-    }
-    else if(chosenGraph === "radar"){
-      let line = <Radar options={chartOptions} data={chartData}></Radar>;
-      this.setState({
-        graph_to_render: line,
-        showing_graph: true
-      });
-    }
-    else if(chosenGraph === "doughnut"){
-      let line = <Doughnut options={chartOptions} data={chartData}></Doughnut>;
-      this.setState({
-        graph_to_render: line,
-        showing_graph: true
-      });
-    }
-    else if(chosenGraph === "polar"){
-      let line = <Polar options={chartOptions} data={chartData}></Polar>;
-      this.setState({
-        graph_to_render: line,
-        showing_graph: true
-      });
-    }
-    else{
-      this.setState({
-        graph_to_render: <div></div>,
-        showing_graph: false
-      });
-    }
   }
 
 
 
   componentDidMount(){
     this.dataSourceFromURL(this.state.baseURL, (source_object_data) => {
-      console.log(source_object_data);
       let _source = {Source: source_object_data};
       this.setState({
         _source_object: _source
