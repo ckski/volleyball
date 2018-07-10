@@ -1,3 +1,6 @@
+// TODO: - Think about removing sourceSelectedURL from app state, might be useless
+
+
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
@@ -6,9 +9,6 @@ import axios from 'axios';
 
 // Import statements for all supported graph types
 import {Bar, Line, Radar, Doughnut, Polar} from 'react-chartjs-2';
-
-
-const _URL = "http://localhost:80/api/data/sources/";
 
 // Set up the chart Data and Configuration
 let chartData = {
@@ -43,13 +43,7 @@ let chartOptions = {
 };
 
 // This is just a placeholder, will be generated with get requests in the future
-let dataSourceObj = {
-  Season: [
-    ["2017-2018", "2017-2018"],
-    ["2016-2017", "2016-2017"],
-    ["2015-2016", "2015-2016"]
-  ]
-};
+
 
 
 
@@ -62,50 +56,122 @@ class App extends Component {
     this.renderSelects = this.renderSelects.bind(this);
     this.getGraphWindow = this.getGraphWindow.bind(this);
     this.dataSourceFromURL = this.dataSourceFromURL.bind(this);
-
-    this.dataSourceFromURL(_URL);
-    this.renderSelects(dataSourceObj);
-
+    this.updateSourceSelection = this.updateSourceSelection.bind(this);
+    this.getRawFromURL = this.getRawFromURL.bind(this);
 
 
     // Set default graph to empty div
     this.state = {
       graph_to_render: <div></div>,
-      showing_graph: false
+      showing_graph: false,
+      _source_object: {},
+      measures: {Measure: [["kills", "kills"],["service_ace", "service_ace"],["attempts", "attempts"]]},
+      dimensions: {Dimension: [["team", "team"], ["player", "player"], ["match", "match"]]},
+      baseURL: "http://localhost:80/api/data/sources/",
+      sourceSelectedURL: "",
+      pickedSource: false,
+      pickedDimension: false,
+      pickedMeasure: false,
+      pickedChartType: false
     }
+  }
+
+  updateSourceSelection(key){
+    if(key !== 'unselected' && key !== "Measure" && key !== "Dimension"){
+      console.log(key);
+      let sourceSelect = document.getElementById(key);
+      let selectValue = sourceSelect.options[sourceSelect.selectedIndex].value;
+      console.log(selectValue);
+      let sourceSelectedURL = this.state.baseURL + selectValue;
+      this.setState({
+        sourceSelectedURL: sourceSelectedURL
+      });
+      console.log(sourceSelectedURL);
+
+
+      // Populate the measures state
+      this.getRawFromURL(sourceSelectedURL,
+       (returnData) => {
+         console.log(returnData.measures);
+         let returnable = [];
+         for(let measure in returnData.measures){
+           returnable.push([returnData.measures[measure], returnData.measures[measure]]);
+         }
+         this.setState({
+           measures: {Measure: returnable}
+         });
+       });
+
+      // Populate the dimensions state
+      this.getRawFromURL(sourceSelectedURL,
+       (returnData) => {
+         console.log(returnData.dimensions);
+         let returnable = [];
+         for(let dimension in returnData.dimensions){
+           returnable.push([returnData.dimensions[dimension], returnData.dimensions[dimension]]);
+         }
+         this.setState({
+           dimensions: {Dimension: returnable}
+         });
+       });
+    }
+    if(key === 'Source'){
+      document.getElementById('dimensions').classList.remove('hidden');
+      console.log("USER PICKED A SOURCE!!!");
+    }
+    if(key === 'Dimension'){
+      document.getElementById('measures').classList.remove('hidden');
+    }
+    if(key === 'Measure'){
+      document.getElementById('graphs').classList.remove('hidden');
+    }
+  }
+
+  getRawFromURL(url, _callback){
+    axios.get(url)
+      .then(res => {
+        let returnData = [];
+        returnData = res.data;
+        _callback(returnData);
+      }).catch((err) => {
+        console.log(err);
+      });
   }
 
   // Render select elements from object
 
-  renderSelects(optObject){
+  renderSelects(optObject, multipleSelect){
     let selects = [];
     for(let key in optObject){
       let keyLength = optObject[key].length;
       let opts = [];
-      opts.push(<option key="dummy" value={null}>Select...</option>)
+      opts.push(<option key="dummy" value='unselected'>Select...</option>)
       for(let i = 0; i < keyLength; i++){
         console.log(optObject[key][i]);
         opts.push(<option key={optObject[key][i][0]} value={optObject[key][i][0]}>{optObject[key][i][1]}</option>);
       }
-
-      selects.push(<div key={key} className="col-xs-6"><label>{key}</label><select className='selectpicker form-control'>{opts}</select></div>);
+      console.log(key);
+      if(!multipleSelect){
+        selects.push(<div key={key} className="col-xs-12"><label>{key}</label><select size={keyLength} id={key} onChange={() => this.updateSourceSelection(key)} className='selectpicker sourcePicker form-control'>{opts}</select></div>);
+      }
+      else {
+        selects.push(<div key={key} className="col-xs-12"><label>{key}</label><select size={keyLength + 1} id={key} onChange={() => this.updateSourceSelection(key)} className='selectpicker sourcePicker form-control' multiple>{opts}</select></div>);
+      }
     }
     return selects;
   }
 
-  dataSourceFromURL(url){
+  dataSourceFromURL(url, _callback){
     axios.get(url)
       .then(res => {
-
+        let returnData = [];
         for(let val in res.data){
           console.log(res.data[val]);
           let keys = Object.keys(res.data[val]);
-          for(let key in keys){
-            console.log(res.data[val][keys[key]]);
-          }
+          returnData.push([res.data[val].id, res.data[val].title]);
         }
-
-        return res;
+        console.log(returnData);
+        _callback(returnData);
       });
 
   }
@@ -139,7 +205,17 @@ class App extends Component {
   getChosenChart() {
     let chosenGraphPicker = document.getElementById('graph_picker');
     let chosenGraph = chosenGraphPicker.options[chosenGraphPicker.selectedIndex].value;
+
+    // Get data from params and roll up
+
+    
+
+    this.getRawFromURL(this.)
+
     console.log(chosenGraph);
+    this.setState({
+      pickedChartType: true
+    });
     if(chosenGraph === "bar"){
       console.log('bar detected');
       let bar = <Bar options={chartOptions} data={chartData}></Bar>;
@@ -186,6 +262,18 @@ class App extends Component {
     }
   }
 
+
+
+  componentDidMount(){
+    this.dataSourceFromURL(this.state.baseURL, (source_object_data) => {
+      console.log(source_object_data);
+      let _source = {Source: source_object_data};
+      this.setState({
+        _source_object: _source
+      });
+    });
+  }
+
   render() {
     return (
       <div className="App">
@@ -203,7 +291,7 @@ class App extends Component {
                 <h3 className="card-title">Data Source</h3>
               </div>
               <div className="panel-body">
-                {this.renderSelects(dataSourceObj)}
+                {this.renderSelects(this.state._source_object, false)}
               </div>
             </div>
             <div className="panel panel-default">
@@ -211,38 +299,24 @@ class App extends Component {
                 <h3 className="card-title">Data Representation</h3>
               </div>
               <div className="panel-body">
-                <div className="row">
-                  <div className="col-xs-6">
-                    <div className="form-group">
-                      <select onChange={this.getChosenChart} id="graph_picker" className="selectpicker form-control">
-                        <option value={null}>Graph Type...</option>
-                        <option value="bar">Bar Graph</option>
-                        <option value="line">Line Graph</option>
-                        <option value="radar">Radar Graph</option>
-                        <option value="doughnut">Doughnut Graph</option>
-                        <option value="polar">Polar Area Graph</option>
-                      </select>
-                    </div>
-                  </div>
-                  <div className="col-xs-6">
-                    <select className="selectpicker form-control">
-                      <option value={null}>Metric</option>
-                      <option value="kills">Kills</option>
-                      <option value="serves">Serves</option>
-                      <option value="blocks">Blocks</option>
-                    </select>
-                  </div>
-
+                <div id="dimensions" className="row hidden">
+                  {this.renderSelects(this.state.dimensions, true)}
                 </div>
-                <div className="row">
-                  <div className="col-xs-6">
-
-                    <select className="selectpicker form-control">
-                      <option value={null}>Dimension</option>
-                      <option value="match">Match</option>
-                      <option value="set">Set</option>
-                      <option value="team">Team</option>
-                      <option value="player">Player</option>
+                <hr></hr>
+                <div id="measures" className="row hidden">
+                  {this.renderSelects(this.state.measures, true)}
+                </div>
+                <hr></hr>
+                <div id="graphs" className="row hidden">
+                  <div className="col-xs-12">
+                    <label htmlFor="graph_picker">Graph Type</label>
+                    <select id="graph_picker" onChange={this.getChosenChart} className="selectpicker form-control">
+                      <option id="unselected" value="unselected">Select...</option>
+                      <option id="bar" value="bar">Bar</option>
+                      <option id="line" value="line">Line</option>
+                      <option id="radar" value="radar">Radar</option>
+                      <option id="doughnut" value="doughnut">Doughnut</option>
+                      <option id="polar" value="polar">Polar</option>
                     </select>
                   </div>
                 </div>
