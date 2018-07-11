@@ -39,10 +39,19 @@ let chartData = {
 };
 let chartOptions = {
   legend: {
-    display: true
+    display: false,
+    labels: {
+      text: "Hello"
+    }
   }
+  // ,
   // scales: {
   //   yAxes: [{
+  //     ticks: {
+  //       beginAtZero: true
+  //     }
+  //   }],
+  //   xAxes: [{
   //     ticks: {
   //       beginAtZero: true
   //     }
@@ -79,6 +88,7 @@ class App extends Component {
       measures: {Measure: [["kills", "kills"],["service_ace", "service_ace"],["attempts", "attempts"]]},
       dimensions: {Dimension: [["team", "team"], ["player", "player"], ["match", "match"]]},
       baseURL: "http://localhost:80/api/data/sources/",
+      _legend: [] ,
       sourceSelectedURL: "",
       pickedSource: false,
       pickedDimension: false,
@@ -198,19 +208,35 @@ class App extends Component {
 
   getGraphWindow(showing){
     if(showing){
-      return <div className="">
-        <div className="col-xs-10">
-          <button onClick={this.getChosenChart} className="btn btn-primary btn-md">Regenerate</button>
-          {this.state.graph_to_render}
-        </div>
-        <div className="col-xs-2">
-          <div className="graph-option">
-            <input className="form-check-input" id="start_at_0" type="checkbox"></input>
-            <label htmlFor="start_at_0">Start at 0</label>
+      return <div className="panel panel-default">
+        <div className="panel-body">
+          <div id="legend" className="col-xs-10">
+            <div className="row">
+              {this.state._legend}
+            </div>
           </div>
-          <div className="graph-option">
-            <input className="form-check-input" id="hide_scale" type="checkbox" ></input>
-            <label htmlFor="show_scale">Show scale</label>
+          <div className="col-xs-10">
+            {this.state.graph_to_render}
+          </div>
+          <div className="col-xs-2">
+            <div className="row">
+              <button onClick={this.getChosenChart} className="btn btn-primary btn-md">Regenerate</button>
+            </div>
+            <hr></hr>
+            <div className="row text-left">
+              <input id="start_at_zero" type="checkbox" value="start_at_zero"></input>
+              <label htmlFor="start_at_zero">Start at zero</label>
+            </div>
+            <div className="row text-left">
+              <input id="show_scale" type="checkbox" value="show_scale"></input>
+              <label htmlFor="show_scale">Show scale</label>
+            </div>
+            <div className="row text-left">
+              <input id="show_legend" type="checkbox" value="show_legend"></input>
+              <label htmlFor="show_legend">Show legend</label>
+            </div>
+
+
           </div>
         </div>
       </div>;
@@ -298,7 +324,18 @@ class App extends Component {
           }
         }
 
-
+        let currentLegend = [];
+        for(let dataset in newChartData.datasets){
+          let legendStyle = {
+            color: newChartData.datasets[dataset].backgroundColor[0],
+            display: "inline",
+            padding: "10px"
+          };
+          currentLegend.push(<h3 style={legendStyle}>{newChartData.datasets[dataset].label}</h3>);
+        }
+        this.setState({
+          _legend: currentLegend
+        })
 
         console.log(newChartData);
         _callback(newChartData);
@@ -331,7 +368,6 @@ class App extends Component {
             graph_to_render: bar,
             showing_graph: true
           });
-
         }
         else if(chosenGraph === "line"){
           let line = <Line options={chartOptions} data={newChartData}></Line>;
