@@ -38,13 +38,16 @@ let chartData = {
   }]
 };
 let chartOptions = {
-  scales: {
-    yAxes: [{
-      ticks: {
-        beginAtZero: true
-      }
-    }]
+  legend: {
+    display: false
   }
+  // scales: {
+  //   yAxes: [{
+  //     ticks: {
+  //       beginAtZero: true
+  //     }
+  //   }]
+  // }
 };
 
 // This is just a placeholder, will be generated with get requests in the future
@@ -197,6 +200,7 @@ class App extends Component {
     if(showing){
       return <div className="">
         <div className="col-xs-10">
+          <button onClick={this.getChosenChart} className="btn btn-primary btn-md">Regenerate</button>
           {this.state.graph_to_render}
         </div>
         <div className="col-xs-2">
@@ -265,6 +269,8 @@ class App extends Component {
         };
         let allMeasures = returnData.measures;
         let allData = returnData.data;
+        let firstRun = true;
+        newChartData.labels = [];
         for(let i = 0; i < allMeasures.length; i++){
           for(let x = 0; x < measureArray.length; x++){
             if(allMeasures[i] === measureArray[x]){
@@ -276,7 +282,7 @@ class App extends Component {
                };
               for(let z = 0; z < dataLength; z++){
 
-                newChartData.labels.push(allData[z][0]);
+                newChartData.labels[z] = (allData[z][0]);
                 currentDataSet.data.push(allData[z][i+1]);
                 currentDataSet.backgroundColor.push(this.generateColorCode());
               }
@@ -288,7 +294,7 @@ class App extends Component {
         }
 
 
-
+        console.log(newChartData);
         _callback(newChartData);
     });
   }
@@ -309,14 +315,11 @@ class App extends Component {
     this.getFinalData((newChartData) => {
       let chosenGraphPicker = document.getElementById('graph_picker');
       let chosenGraph = chosenGraphPicker.options[chosenGraphPicker.selectedIndex].value;
-      console.log(chartData);
-      console.log(newChartData);
 
       this.setState({
         pickedChartType: true
       });
       if(chosenGraph === "bar"){
-        console.log(newChartData);
         let bar = <Bar options={chartOptions} data={newChartData}></Bar>;
           this.setState({
             graph_to_render: bar,
@@ -404,6 +407,7 @@ class App extends Component {
                 <hr></hr>
                 <div id="measures" className="row hidden">
                   {this.renderSelects(this.state.measures, true)}
+
                 </div>
                 <hr></hr>
                 <div id="graphs" className="row hidden">
@@ -423,6 +427,7 @@ class App extends Component {
             </div>
 
           </form>
+
           {this.getGraphWindow(this.state.showing_graph)}
         </div>
       </div>
