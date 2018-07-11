@@ -39,7 +39,7 @@ let chartData = {
 };
 let chartOptions = {
   legend: {
-    display: false
+    display: true
   }
   // scales: {
   //   yAxes: [{
@@ -248,6 +248,8 @@ class App extends Component {
 
   getFinalData(_callback){
 
+    let bgColors = [];
+
     // Get data from params and roll up
     let finalQueryURL = this.generateQueryURL();
 
@@ -256,10 +258,14 @@ class App extends Component {
     let measureArray = [];
     for(let i = 0; i < measuresSelector.length; i++){
       let opt = measuresSelector.options[i];
+
       if(opt.selected){
+        bgColors.push(this.generateColorCode());
         measureArray.push(opt.value);
       }
     }
+
+
 
     let newChartData = this.getRawFromURL(finalQueryURL,
       (returnData) => {
@@ -269,11 +275,11 @@ class App extends Component {
         };
         let allMeasures = returnData.measures;
         let allData = returnData.data;
-        let firstRun = true;
         newChartData.labels = [];
         for(let i = 0; i < allMeasures.length; i++){
           for(let x = 0; x < measureArray.length; x++){
             if(allMeasures[i] === measureArray[x]){
+              let measureColor = this.generateColorCode();
               let dataLength = allData.length;
               let currentDataSet= {
                  label: allMeasures[i],
@@ -281,17 +287,17 @@ class App extends Component {
                  backgroundColor: []
                };
               for(let z = 0; z < dataLength; z++){
-
                 newChartData.labels[z] = (allData[z][0]);
                 currentDataSet.data.push(allData[z][i+1]);
-                currentDataSet.backgroundColor.push(this.generateColorCode());
-              }
+                currentDataSet.backgroundColor.push(measureColor);
 
+              }
               newChartData.datasets.push(currentDataSet);
 
             }
           }
         }
+
 
 
         console.log(newChartData);
