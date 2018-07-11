@@ -5816,3 +5816,7 @@ button.close {
 
 .graph-option {
   display: block; }
+
+.underlined {
+  border-bottom: 2px solid black;
+  margin-bottom: 20px; }

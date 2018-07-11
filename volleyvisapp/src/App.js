@@ -211,30 +211,33 @@ class App extends Component {
       return <div className="panel panel-default">
         <div className="panel-body">
           <div id="legend" className="col-xs-10">
-            <div className="row">
+            <div className="underlined">
               {this.state._legend}
+              <hr></hr>
             </div>
           </div>
-          <div className="col-xs-10">
-            {this.state.graph_to_render}
+          <div className="row">
+            <div className="col-xs-10">
+              {this.state.graph_to_render}
+            </div>
+            <div className="col-xs-2">
+              <div className="row">
+                <button onClick={this.getChosenChart} className="btn btn-primary btn-md">Regenerate</button>
+              </div>
+              <hr></hr>
+              <div className="row text-left">
+                <input id="start_at_zero" type="checkbox" value="start_at_zero"></input>
+                <label htmlFor="start_at_zero">Start at zero</label>
+              </div>
+              <div className="row text-left">
+                <input id="show_scale" type="checkbox" value="show_scale"></input>
+                <label htmlFor="show_scale">Show scale</label>
+              </div>
+              <div className="row text-left">
+                <input id="show_legend" type="checkbox" value="show_legend"></input>
+                <label htmlFor="show_legend">Show legend</label>
+              </div>
           </div>
-          <div className="col-xs-2">
-            <div className="row">
-              <button onClick={this.getChosenChart} className="btn btn-primary btn-md">Regenerate</button>
-            </div>
-            <hr></hr>
-            <div className="row text-left">
-              <input id="start_at_zero" type="checkbox" value="start_at_zero"></input>
-              <label htmlFor="start_at_zero">Start at zero</label>
-            </div>
-            <div className="row text-left">
-              <input id="show_scale" type="checkbox" value="show_scale"></input>
-              <label htmlFor="show_scale">Show scale</label>
-            </div>
-            <div className="row text-left">
-              <input id="show_legend" type="checkbox" value="show_legend"></input>
-              <label htmlFor="show_legend">Show legend</label>
-            </div>
 
 
           </div>
@@ -443,16 +446,16 @@ class App extends Component {
                 <h3 className="card-title">Data Representation</h3>
               </div>
               <div className="panel-body">
-                <div id="dimensions" className="row hidden">
-                  {this.renderSelects(this.state.dimensions, true)}
+                <div className="row">
+                  <div id="dimensions" className="col-xs-6 hidden">
+                    {this.renderSelects(this.state.dimensions, true)}
+                  </div>
+                  <div id="measures" className="col-xs-6 hidden">
+                    {this.renderSelects(this.state.measures, true)}
+                  </div>
                 </div>
                 <hr></hr>
-                <div id="measures" className="row hidden">
-                  {this.renderSelects(this.state.measures, true)}
-
-                </div>
-                <hr></hr>
-                <div id="graphs" className="row hidden">
+                <div id="graphs" className="hidden">
                   <div className="col-xs-12">
                     <label htmlFor="graph_picker">Graph Type</label>
                     <select id="graph_picker" onChange={this.getChosenChart} className="selectpicker form-control">
