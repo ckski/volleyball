@@ -152,7 +152,7 @@ class App extends Component {
       .then(res => {
         let returnData = [];
         returnData = res.data;
-        _callback(returnData);
+        return _callback(returnData);
       }).catch((err) => {
         console.log(err);
       });
@@ -242,10 +242,9 @@ class App extends Component {
   }
 
   getFinalData(_callback){
+
     // Get data from params and roll up
-
     let finalQueryURL = this.generateQueryURL();
-
 
     // Now get the measures
     let measuresSelector = document.getElementById('Measure');
@@ -257,79 +256,35 @@ class App extends Component {
       }
     }
 
-    // Get the raw data from the generated URL and process
-
-
-    console.log("hello?");
-    let newChartData = {
-      labels : [],
-      datasets: [{
-        label: '',
-        data: [],
-        backgroundColor: [
-          '#989FCE',
-          '#347FC4',
-          '#272838',
-          '#F2FDFF',
-          '#9AD4D6',
-          '#DBCBD8',
-          '#989FCE',
-          '#347FC4',
-          '#272838',
-          '#F2FDFF',
-          '#9AD4D6'
-        ],
-        borderColor: [
-          'rgba(0, 0, 0, 1)',
-          'rgba(0, 0, 0, 1)',
-          'rgba(0, 0, 0, 1)'
-        ],
-        borderWidth: 1
-      }]
-    };
-
-    this.getRawFromURL(finalQueryURL,
+    let newChartData = this.getRawFromURL(finalQueryURL,
       (returnData) => {
-        console.log(returnData);
+        let newChartData = {
+          labels : [],
+          datasets: []
+        };
         let allMeasures = returnData.measures;
         let allData = returnData.data;
-        console.log(allData.toString());
         for(let i = 0; i < allMeasures.length; i++){
           for(let x = 0; x < measureArray.length; x++){
-            console.log(x);
             if(allMeasures[i] === measureArray[x]){
-              // for(let dataObject in allData){
               let dataLength = allData.length;
-              // chartData.labels.push(allMeasures[i]);
-              console.log(allMeasures[i]);
               let currentDataSet= {
                  label: allMeasures[i],
                  data: []
                };
               for(let z = 0; z < dataLength; z++){
 
-                // Someone needs to explain to me why this second index is a STRING?!
-                console.log(allData[z][i+1]);
                 newChartData.labels.push(allData[z][0]);
-                currentDataSet.data[z] = allData[z][i+1];
+                currentDataSet.data.push(allData[z][i+1]);
 
-                console.log(currentDataSet.data);
               }
-              // let currentDataSet = {
-              //   label: measureArray[x],
-              //   data:
-              //
-              // };
               newChartData.datasets.push(currentDataSet);
+
+              _callback(newChartData);
             }
           }
         }
     });
-    console.log(chartData);
-    _callback(newChartData);
-
-
-
   }
 
 
@@ -339,7 +294,8 @@ class App extends Component {
     this.getFinalData((newChartData) => {
       let chosenGraphPicker = document.getElementById('graph_picker');
       let chosenGraph = chosenGraphPicker.options[chosenGraphPicker.selectedIndex].value;
-
+      console.log(chartData);
+      console.log(newChartData);
 
       this.setState({
         pickedChartType: true
@@ -360,36 +316,36 @@ class App extends Component {
               showing_graph:true
             });
           }
-          else if(chosenGraph === "radar"){
-            let line = <Radar options={chartOptions} data={chartData}></Radar>;
-              this.setState({
-                graph_to_render: line,
-                showing_graph: true
-              });
-            }
-            else if(chosenGraph === "doughnut"){
-              let line = <Doughnut options={chartOptions} data={chartData}></Doughnut>;
-                this.setState({
-                  graph_to_render: line,
-                  showing_graph: true
-                });
-              }
-              else if(chosenGraph === "polar"){
-                let line = <Polar options={chartOptions} data={chartData}></Polar>;
-                  this.setState({
-                    graph_to_render: line,
-                    showing_graph: true
-                  });
-                }
-                else{
-                  this.setState({
-                    graph_to_render: <div></div>,
-                    showing_graph: false
-                  });
-                }
+        else if(chosenGraph === "radar"){
+          let line = <Radar options={chartOptions} data={newChartData}></Radar>;
+            this.setState({
+              graph_to_render: line,
+              showing_graph: true
+            });
+          }
+        else if(chosenGraph === "doughnut"){
+          let line = <Doughnut options={chartOptions} data={newChartData}></Doughnut>;
+            this.setState({
+              graph_to_render: line,
+              showing_graph: true
+            });
+          }
+        else if(chosenGraph === "polar"){
+          let line = <Polar options={chartOptions} data={newChartData}></Polar>;
+            this.setState({
+              graph_to_render: line,
+              showing_graph: true
+            });
+          }
+        else{
+          this.setState({
+            graph_to_render: <div></div>,
+            showing_graph: false
+          });
+        }
 
-    });
-  }
+      });
+    }
 
 
 
