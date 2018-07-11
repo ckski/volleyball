@@ -65,6 +65,7 @@ class App extends Component {
     this.getRawFromURL = this.getRawFromURL.bind(this);
     this.getFinalData = this.getFinalData.bind(this);
     this.generateQueryURL = this.generateQueryURL.bind(this);
+    this.generateColorCode = this.generateColorCode.bind(this);
 
 
     // Set default graph to empty div
@@ -270,21 +271,35 @@ class App extends Component {
               let dataLength = allData.length;
               let currentDataSet= {
                  label: allMeasures[i],
-                 data: []
+                 data: [],
+                 backgroundColor: []
                };
               for(let z = 0; z < dataLength; z++){
 
                 newChartData.labels.push(allData[z][0]);
                 currentDataSet.data.push(allData[z][i+1]);
-
+                currentDataSet.backgroundColor.push(this.generateColorCode());
               }
+
               newChartData.datasets.push(currentDataSet);
 
-              _callback(newChartData);
             }
           }
         }
+
+
+
+        _callback(newChartData);
     });
+  }
+
+  generateColorCode(){
+    let letters = '0123456789ABCDEF';
+    let color = '#';
+    for(let i = 0; i < 6; i++){
+      color += letters[Math.floor(Math.random() * 16)];
+    }
+    return color;
   }
 
 
