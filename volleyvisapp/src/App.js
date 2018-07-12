@@ -237,6 +237,14 @@ class App extends Component {
                 <input id="show_legend" type="checkbox" value="show_legend"></input>
                 <label htmlFor="show_legend">Show legend</label>
               </div>
+              <div className="row text-left">
+                <input id="sort_by_rank" type="checkbox" value="sort_by_rank"></input>
+                <label htmlFor="sort_by_rank">Sort by rank</label>
+              </div>
+              <div className="row text-left">
+                <input id="sort_by_value" type="checkbox" value="sort_by_value"></input>
+                <label htmlFor="sort_by_value">Sort by value</label>
+              </div>
           </div>
 
 
@@ -346,10 +354,10 @@ class App extends Component {
   }
 
   generateColorCode(){
-    let letters = '0123456789ABCDEF';
+    let letters = '0123456789';
     let color = '#';
     for(let i = 0; i < 6; i++){
-      color += letters[Math.floor(Math.random() * 16)];
+      color += letters[Math.floor(Math.random() * 10)];
     }
     return color;
   }
