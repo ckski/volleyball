@@ -10,33 +10,22 @@ import axios from 'axios';
 // Import statements for all supported graph types
 import {Bar, Line, Radar, Doughnut, Polar} from 'react-chartjs-2';
 
+
+// Pretty names for metrics
+
+let metrics = {total_serves : "Total Serves",
+               service_ace : "Service Ace",
+               service_error : "Service Error",
+               reception_error : "Reception Error",
+               kill_attempt : "Kill Attempt",
+               attack_error : "Attack Error",
+               kills : "Kills",
+               points : "Points",
+               subs : "Subs"};
+
+
 // Set up the chart Data and Configuration
-let chartData = {
-  labels : ["TestOne", "TestTwo", "TestThree", "TestFour", "TestFive", "TestSix"],
-  datasets: [{
-    label: '# of kills',
-    data: [4,2,3,5,6,3],
-    backgroundColor: [
-      '#989FCE',
-      '#347FC4',
-      '#272838',
-      '#F2FDFF',
-      '#9AD4D6',
-      '#DBCBD8',
-      '#989FCE',
-      '#347FC4',
-      '#272838',
-      '#F2FDFF',
-      '#9AD4D6'
-    ],
-    borderColor: [
-      'rgba(0, 0, 0, 1)',
-      'rgba(0, 0, 0, 1)',
-      'rgba(0, 0, 0, 1)'
-    ],
-    borderWidth: 1
-  }]
-};
+let chartData = {};
 let chartOptions = {
   legend: {
     display: false,
@@ -342,7 +331,19 @@ class App extends Component {
             display: "inline",
             padding: "10px"
           };
-          currentLegend.push(<h3 style={legendStyle}>{newChartData.datasets[dataset].label}</h3>);
+          let boxStyle = {
+            backgroundColor: newChartData.datasets[dataset].backgroundColor[0],
+            width: "30px",
+            height: "20px",
+            display: "inline-block",
+            paddingLeft: "10px"
+          }
+          console.log(metrics[newChartData.datasets[dataset].label]);
+          currentLegend.push(
+              <h3 style={legendStyle}>{metrics[newChartData.datasets[dataset].label]}
+                -<div style={boxStyle}></div>
+              </h3>
+            );
         }
         this.setState({
           _legend: currentLegend
