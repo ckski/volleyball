@@ -33,19 +33,7 @@ let chartOptions = {
       text: "Hello"
     }
   }
-  // ,
-  // scales: {
-  //   yAxes: [{
-  //     ticks: {
-  //       beginAtZero: true
-  //     }
-  //   }],
-  //   xAxes: [{
-  //     ticks: {
-  //       beginAtZero: true
-  //     }
-  //   }]
-  // }
+
 };
 
 // This is just a placeholder, will be generated with get requests in the future
@@ -200,7 +188,7 @@ class App extends Component {
       return <div className="panel panel-default">
         <div className="panel-body">
           <div id="legend" className="col-xs-10">
-            <div className="underlined">
+            <div className="">
               {this.state._legend}
               <hr></hr>
             </div>
@@ -382,6 +370,16 @@ class App extends Component {
           });
         }
         else if(chosenGraph === "line"){
+          for(var data in newChartData.datasets){
+            newChartData.datasets[data].borderColor = "";
+            console.log(newChartData.datasets[data]);
+            for(var color in newChartData.datasets[data].backgroundColor){
+              console.log(newChartData.datasets[data].backgroundColor[color]);
+              newChartData.datasets[data].borderColor = newChartData.datasets[data].backgroundColor[color];
+            }
+            newChartData.datasets[data].backgroundColor = ["#ffffff00"];
+          }
+
           let line = <Line options={chartOptions} data={newChartData}></Line>;
             this.setState({
               graph_to_render: line,
@@ -389,6 +387,15 @@ class App extends Component {
             });
           }
         else if(chosenGraph === "radar"){
+          for(var data in newChartData.datasets){
+            newChartData.datasets[data].borderColor = "";
+            console.log(newChartData.datasets[data]);
+            for(var color in newChartData.datasets[data].backgroundColor){
+              console.log(newChartData.datasets[data].backgroundColor[color]);
+              newChartData.datasets[data].borderColor = newChartData.datasets[data].backgroundColor[color];
+            }
+            newChartData.datasets[data].backgroundColor = ["#ffffff00"];
+          }
           let line = <Radar options={chartOptions} data={newChartData}></Radar>;
             this.setState({
               graph_to_render: line,
