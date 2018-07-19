@@ -289,7 +289,7 @@ class App extends Component {
     let newChartData = this.getRawFromURL(finalQueryURL,
       (returnData) => {
         this.setState({
-          finalRawData: JSON.stringify(returnData, null, "\n")
+          finalRawData: JSON.stringify(returnData)
         })
         let newChartData = {
           labels : [],
@@ -506,7 +506,9 @@ class App extends Component {
           {this.getGraphWindow(this.state.showing_graph)}
           <hr></hr>
           <div id="jsonBlock">
-            <code>{this.state.finalRawData}</code>
+            <pre>
+              <code>{this.state.finalRawData}</code>
+            </pre>
           </div>
         </div>
       </div>
