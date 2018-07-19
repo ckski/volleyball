@@ -19,7 +19,7 @@ let metrics = {total_serves : "Total Serves",
                reception_error : "Reception Error",
                kill_attempt : "Kill Attempt",
                attack_error : "Attack Error",
-               kills : "Kills",
+               kill : "Kills",
                points : "Points",
                subs : "Subs"};
 
@@ -343,10 +343,10 @@ class App extends Component {
   }
 
   generateColorCode(){
-    let letters = '0123456789';
+    let letters = '0123456789ABCDEF';
     let color = '#';
     for(let i = 0; i < 6; i++){
-      color += letters[Math.floor(Math.random() * 10)];
+      color += letters[Math.floor(Math.random() * 16)];
     }
     return color;
   }
@@ -429,6 +429,7 @@ class App extends Component {
 
 
   componentDidMount(){
+    document.title = "Volleyball Visualization";
     this.dataSourceFromURL(this.state.baseURL, (source_object_data) => {
       let _source = {Source: source_object_data};
       this.setState({
