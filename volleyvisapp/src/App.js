@@ -70,7 +70,8 @@ class App extends Component {
       pickedSource: false,
       pickedDimension: false,
       pickedMeasure: false,
-      pickedChartType: false
+      pickedChartType: false,
+      finalRawData: ""
     }
   }
 
@@ -257,6 +258,10 @@ class App extends Component {
         finalQueryURL += ",";
       }
     }
+    console.log("Endpoint Query URL: " + finalQueryURL);
+    this.setState({
+      enpoint_url: finalQueryURL
+    })
     return finalQueryURL;
   }
 
@@ -283,6 +288,9 @@ class App extends Component {
 
     let newChartData = this.getRawFromURL(finalQueryURL,
       (returnData) => {
+        this.setState({
+          finalRawData: JSON.stringify(returnData, null, "\n")
+        })
         let newChartData = {
           labels : [],
           datasets: []
@@ -362,6 +370,7 @@ class App extends Component {
       this.setState({
         pickedChartType: true
       });
+
       if(chosenGraph === "bar"){
         let bar = <Bar options={chartOptions} data={newChartData}></Bar>;
           this.setState({
@@ -370,9 +379,11 @@ class App extends Component {
           });
         }
         else if(chosenGraph === "line"){
+
           for(var data in newChartData.datasets){
             newChartData.datasets[data].borderColor = "";
             console.log(newChartData.datasets[data]);
+
             for(var color in newChartData.datasets[data].backgroundColor){
               console.log(newChartData.datasets[data].backgroundColor[color]);
               newChartData.datasets[data].borderColor = newChartData.datasets[data].backgroundColor[color];
@@ -387,9 +398,11 @@ class App extends Component {
             });
           }
         else if(chosenGraph === "radar"){
+
           for(var data in newChartData.datasets){
             newChartData.datasets[data].borderColor = "";
             console.log(newChartData.datasets[data]);
+
             for(var color in newChartData.datasets[data].backgroundColor){
               console.log(newChartData.datasets[data].backgroundColor[color]);
               newChartData.datasets[data].borderColor = newChartData.datasets[data].backgroundColor[color];
@@ -491,6 +504,10 @@ class App extends Component {
           </form>
 
           {this.getGraphWindow(this.state.showing_graph)}
+          <hr></hr>
+          <div id="jsonBlock">
+            <code>{this.state.finalRawData}</code>
+          </div>
         </div>
       </div>
     );
