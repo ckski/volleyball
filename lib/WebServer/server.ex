@@ -19,7 +19,7 @@ defmodule WebServer.Server do
   end
 
   defmodule TableStatus do
-    defstruct latest_activity: nil 
+    defstruct latest_activity: nil
   end
 
   def start_link(args, _opts) do
@@ -53,7 +53,7 @@ defmodule WebServer.Server do
 
         # {"api/test/:source_id/rollup", }  => [  [], [], [] ]
 
-        # {"/api/data/seasons "}  => 
+        # {"/api/data/seasons "}  =>
         # {"/api/data/seasons/:season_id "}
 
         {"/volleyvisapp", :cowboy_static, {:file, "volleyvisapp/build/index.html"}},
@@ -106,7 +106,7 @@ defmodule WebServer.Server do
 
     def resource_exists(req, state = %{map: src_map}) do
       case :cowboy_req.binding(:source_id, req) do
-        :undefined -> 
+        :undefined ->
           {true, req, Map.put(state, :resource, :all)}
 
         res ->
@@ -116,11 +116,11 @@ defmodule WebServer.Server do
 
     def malformed_request(req, state = %{rollup: true}) do
       case :cowboy_req.match_qs([{:dims, [], ""}], req) do
-        %{dims: true} -> 
+        %{dims: true} ->
           {true, req, state}
 
         %{dims: dims} ->
-          {String.match?(dims, ~r/[^A-Za-z0-9,]/), req, state}
+          {String.match?(dims, ~r/[^A-Za-z0-9_,]/), req, state}
 
         _ ->
           {true, req, state}
@@ -139,12 +139,12 @@ defmodule WebServer.Server do
       src_id = :cowboy_req.binding(:source_id, req)
       [{_, data}] = :ets.lookup(@data_src_table_name, src_id)
       facts = data[:data]
-      
-      rollup_dims = :cowboy_req.match_qs([{:dims, [], ""}], req)[:dims] 
+
+      rollup_dims = :cowboy_req.match_qs([{:dims, [], ""}], req)[:dims]
       |> String.split(",", trim: true)
       |> Enum.map(&(@dim_string_to_atom[&1]))
 
-      measures = [:total_serves, :service_ace, :service_error, :reception_error, :kill_attempt, 
+      measures = [:total_serves, :service_ace, :service_error, :reception_error, :kill_attempt,
                   :attack_error, :kill, :points, :subs]  # TODO: add digs, it seems to be missing from data too.
 
       data = Volleysim.rollup(facts, rollup_dims) |> Volleysim.facts_to_json_ready(rollup_dims, measures)

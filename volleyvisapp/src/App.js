@@ -251,13 +251,9 @@ class App extends Component {
 
     let finalQueryURL = this.state.sourceSelectedURL + "/rollup?dims=";
 
-    for(let dimension in dimensionArray){
-      console.log(dimensionArray[dimension]);
-      finalQueryURL += dimensionArray[dimension];
-      if(dimension == 0 && dimensionArray.length > 1){
-        finalQueryURL += ",";
-      }
-    }
+    finalQueryURL += dimensionArray.join(',');
+
+
     console.log("Endpoint Query URL: " + finalQueryURL);
     this.setState({
       enpoint_url: finalQueryURL

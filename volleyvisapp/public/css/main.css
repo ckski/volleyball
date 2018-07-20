@@ -5820,3 +5820,12 @@ button.close {
 .underlined {
   border-bottom: 2px solid black;
   margin-bottom: 20px; }
+
+#jsonBlock {
+  white-space: pre; }
+
+.jumbotron {
+  background-color: #003E51 !important;
+  color: white; }
+  .jumbotron small {
+    color: white; }
